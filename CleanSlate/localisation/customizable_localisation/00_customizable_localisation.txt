@@ -6651,7 +6651,7 @@ defined_text = {
 		trigger = { society_member_of = the_cold_ones }
 	}
 	text = {
-		localisation_key = String_seiðr
+		localisation_key = String_seidhr
 		trigger = { society_member_of = the_trollcrafters }
 	}
 	text = {
@@ -6857,14 +6857,14 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = String_seiðkona
+		localisation_key = String_seidhkona
 		trigger = {
 			is_female = yes
 			society_member_of = the_trollcrafters
 		}
 	}
 	text = {
-		localisation_key = String_seiðmaðr
+		localisation_key = String_seidhmadr
 		trigger = {
 			is_female = no
 			society_member_of = the_trollcrafters
@@ -6943,14 +6943,14 @@ defined_text = {
 		}
 	}
 	text = {
-		localisation_key = String_seiðkonur
+		localisation_key = String_seidhkonur
 		trigger = {
 			is_female = yes
 			society_member_of = the_trollcrafters
 		}
 	}
 	text = {
-		localisation_key = String_seiðmenn
+		localisation_key = String_seidhmenn
 		trigger = {
 			is_female = no
 			society_member_of = the_trollcrafters
@@ -19022,7 +19022,7 @@ defined_text = {
 	}
 	text = {
 		trigger = { culture = norse }
-		localisation_key = random_mythological_creature_jörmungandr
+		localisation_key = random_mythological_creature_jormungandr
 	}
 	text = {
 		trigger = { culture = norse }

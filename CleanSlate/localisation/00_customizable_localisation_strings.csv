@@ -217,7 +217,7 @@ String_black_magic;black magic;x
 String_sihr;sihr;x
 String_Qliphoth;Qlipoth;x
 String_koldovstvo;koldovstvo;x
-String_seiðr;seiðr;x
+String_seidhr;seiðr;x
 String_dark_tantras;dark tantras;x
 String_sorcery;Sorcery;x
 String_vodoun_sorcery;Witchcraft;x
@@ -251,8 +251,8 @@ String_maenad;Maenad;x
 String_degenerate;Bacchant;x
 String_koldunya;koldunya;x
 String_koldun;koldun;x
-String_seiðkona;seiðkona;x
-String_seiðmaðr;seiðmaðr;x
+String_seidhkona;seiðkona;x
+String_seidhmadr;seiðmaðr;x
 string_black_shaman;black shaman;x
 String_dark_tantrik;dark tantrik;x
 
@@ -265,8 +265,8 @@ String_maenades;Maenades;x
 String_degenerates;Bacchantes;x
 String_koldunyas;koldunyas;x
 String_kolduns;kolduns;x
-String_seiðkonur;seiðkonur;x
-String_seiðmenn;seiðmenn;x
+String_seidhkonur;seiðkonur;x
+String_seidhmenn;seiðmenn;x
 string_black_shamans;black shamans;x
 String_dark_tantriks;dark tantriks;x
 
@@ -1883,7 +1883,7 @@ random_mythological_creature_gorgon;Gorgon;x
 random_mythological_creature_griffin;Griffin;x
 random_mythological_creature_harpy;Harpy;x
 random_mythological_creature_hydra;Hydra;x
-random_mythological_creature_jörmungandr;Jörmungandr;x
+random_mythological_creature_jormungandr;Jörmungandr;x
 random_mythological_creature_kraken;Kraken;x
 random_mythological_creature_manticore;Manticore;x
 random_mythological_creature_nidhogg;Nidhogg;x
