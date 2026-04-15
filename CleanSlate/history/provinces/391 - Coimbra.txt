@@ -1,0 +1,30 @@
+# 391 - Coimbra
+title = c_coimbra
+terrain = plains
+
+# Initial setup
+culture = suebi
+religion = catholic
+
+max_settlements = 4
+b_coimbra = castle
+b_aveiro = city
+b_viseu = temple
+# b_pedondo
+# b_cantanhede
+# b_condeixa
+# b_montereal
+# b_penela
+
+# History
+867.1.1 = {
+	b_coimbra = ca_town_1
+	b_coimbra = ca_keep_1
+	b_coimbra = ca_stable_1
+	b_coimbra = ca_militia_barracks_1
+	b_coimbra = ca_wall_1
+	b_coimbra = ca_wall_2
+}
+
+931.1.1 = { culture = portuguese }
+1133.1.1 = { trade_post = b_spinola }

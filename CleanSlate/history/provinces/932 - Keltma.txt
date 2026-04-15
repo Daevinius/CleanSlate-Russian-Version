@@ -1,0 +1,18 @@
+# 932 - Keltma
+title = c_keltma
+terrain = arctic
+
+# Initial setup
+culture = komi
+religion = finnish_pagan
+
+max_settlements = 1
+b_keltma = tribal
+# b_nem
+# b_smolyanka
+# b_kerchomya
+# b_yugyd_yag
+# b_kadamskoye
+# b_okos
+
+# History

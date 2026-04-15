@@ -1,0 +1,22 @@
+# 759 - Lomza
+title = c_lomza
+terrain = plains
+
+# Initial setup
+culture = polish
+religion = slavic_pagan
+
+max_settlements = 4
+b_lomza = tribal
+# b_ostroleka
+# b_wizna
+# b_kolno
+# b_swieck
+# b_nur
+# b_radzilow
+
+# History
+987.1.1 = {
+	religion = catholic
+	b_lomza = castle
+}

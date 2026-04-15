@@ -1,0 +1,24 @@
+# 608 - Semender
+title = c_semender
+terrain = steppe
+
+# Initial setup
+culture = alan
+religion = tengri_pagan
+
+max_settlements = 4
+b_kumukh = tribal
+# b_semender
+# b_khattibaku
+# b_khannalkala
+# b_urtseki
+# b_burgaikala
+# b_tarki
+
+# History
+865.1.1 = {
+	religion = sunni
+	b_kumukh = castle
+	b_semender = temple
+	b_khattibaku = city
+}

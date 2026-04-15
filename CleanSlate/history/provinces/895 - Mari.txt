@@ -1,0 +1,19 @@
+# 895 - Mari
+title = c_mari
+terrain = forest
+
+# Initial setup
+culture = mordvin
+religion = finnish_pagan
+
+max_settlements = 3
+b_yoshkarola = tribal
+b_lopatino = temple
+# b_volzhsk
+# b_tsikma
+# b_provoi
+# b_kilemary
+# b_mariturek
+# b_morki
+
+# History

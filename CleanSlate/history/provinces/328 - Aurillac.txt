@@ -1,0 +1,18 @@
+# 328 - Aurillac
+title = c_aurillac
+terrain = hills
+
+# Initial setup
+religion = catholic
+culture = occitan
+
+max_settlements = 4
+b_aurillac = castle
+b_carlat = temple
+b_murat = city
+# b_saint-flour
+# b_la_tour
+# b_issoire
+# b_mauriac
+
+# History

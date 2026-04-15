@@ -1,0 +1,21 @@
+# 383 - Astorga
+title = c_astorga
+terrain = mountain
+
+# Initial setup
+culture = suebi
+religion = catholic
+
+max_settlements = 4
+b_ponferrada = castle
+b_bembibre = city
+b_astorga = temple
+# b_ribadelago
+# b_cacabelos
+# b_camponaraya
+# b_fabero
+# b_toreno
+
+# History
+930.1.1 = { culture = visigothic }
+1000.1.1 = { culture = castilian }

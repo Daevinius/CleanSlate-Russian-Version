@@ -1,0 +1,22 @@
+# 942 - Ural
+title = c_ural
+terrain = arctic
+
+# Initial setup
+culture = komi
+religion = finnish_pagan
+
+max_settlements = 2
+b_ural = tribal
+# b_ustkatav
+# b_asha
+# b_chebarkul
+# b_kaslinsky
+# b_kyshtym
+# b_satka
+
+# History
+1227.1.1 = {
+	culture = mongol
+	religion = tengri_pagan
+}

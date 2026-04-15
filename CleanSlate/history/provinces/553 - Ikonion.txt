@@ -1,0 +1,27 @@
+# 553 - Ikonion
+title = c_ikonion
+terrain = desert
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 5
+b_ikonion = castle
+b_gaspadale = city
+b_lisdra = temple
+# b_isauria
+# b_laranda
+# b_terpe
+# b_amblada
+# b_sauatra
+
+# History
+720.1.1 = { religion = iconoclast }
+855.1.1 = { religion = orthodox }
+
+1091.8.26 = {
+	culture = turkish
+	religion = sunni
+	b_terpe = castle
+}

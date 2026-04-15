@@ -1,0 +1,27 @@
+# 701 - Spis
+title = c_spis
+terrain = hills
+
+# Initial setup
+culture = croatian # White Croats
+religion = slavic_pagan
+
+max_settlements = 4
+b_saris = tribal
+# b_bartfa
+# b_kisszeben
+# b_eperjes
+# b_scyuidnyk
+# b_giralth
+# b_hethars
+# b_lemesany
+
+# History
+900.1.1 = { religion = catholic }
+950.1.1 = { culture = slovien }
+
+1000.1.1 = {
+	b_saris = castle
+	b_eperjes = city
+	b_kisszeben = temple
+}

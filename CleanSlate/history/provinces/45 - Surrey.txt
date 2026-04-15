@@ -1,0 +1,20 @@
+# 45 - Surrey
+title = c_surrey
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 4
+b_lambeth = castle
+b_southwark = temple
+b_woking = city
+# b_farnham
+# b_guildford
+# b_chertsey
+# b_croydon
+# b_waverley
+
+# History
+1100.11.11 = { culture = english }

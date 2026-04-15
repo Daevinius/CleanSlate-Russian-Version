@@ -1,0 +1,30 @@
+# 776 - Zemgale
+title = c_zemgale
+terrain = plains
+
+# Initial setup
+culture = latgalian
+religion = baltic_pagan
+
+max_settlements = 5
+b_mezotne = tribal
+# b_tervete
+# b_dobele
+# b_jelgawa
+# b_sparnene
+# b_dobe
+# b_rakte
+
+# History
+1199.1.1 = {
+	religion = catholic
+	b_mezotne = castle
+	b_mezotne = ca_keep_1
+	b_mezotne = ca_militia_barracks_1
+	b_mezotne = ca_wall_1
+	b_mezotne = ca_wall_q_1
+	b_tervete = temple
+	b_tervete = tp_barracks_1
+	b_dobele = city
+	b_dobele = ct_barracks_1
+}

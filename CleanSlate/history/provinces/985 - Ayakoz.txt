@@ -1,0 +1,20 @@
+# 985 - Ayakoz
+title = c_ayakoz
+terrain = steppe
+
+# Initial setup
+culture = kirghiz
+religion = tengri_pagan
+
+max_settlements = 2
+b_ayagoz = tribal
+# b_urzhar
+# b_akzhar
+# b_taskesken
+# b_ushbik
+# b_manzhar			# Fictional
+# b_ayzhar			# Fictional
+
+# History
+1227.1.1 = { culture = mongol }
+1313.1.1 = { religion = sunni }

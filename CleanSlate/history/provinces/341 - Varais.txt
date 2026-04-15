@@ -1,0 +1,19 @@
+# 341 - Varais
+title = c_varais
+terrain = forest
+
+# Initial setup
+culture = frankish
+religion = catholic
+
+max_settlements = 5
+b_morteau = castle
+b_besancon = city
+b_bellevaux = temple
+# b_marchaux
+# b_pontarlier
+# b_arlay
+# b_maiche
+
+# History
+790.1.1 = { culture = french }

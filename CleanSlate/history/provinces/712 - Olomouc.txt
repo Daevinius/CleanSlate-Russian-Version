@@ -1,0 +1,35 @@
+# 712 - Olomouc
+title = c_olomouc
+terrain = hills
+
+# Initial setup
+culture = slovien
+religion = slavic_pagan
+
+max_settlements = 5
+b_olomouc = tribal
+b_velehrad = temple
+# b_hradiste
+# b_svaty_kopecek
+# b_prerov
+# b_vyskov
+# b_unicov
+# b_zabreh
+
+# History
+853.1.1 = {
+	religion = catholic
+	b_olomouc = castle
+	b_hradiste = city
+}
+
+# Bohemian conquest of Moravia
+955.1.1 = {
+	remove_settlement = b_velehrad
+	b_svaty_kopecek = temple
+	b_prerov = castle
+}
+
+1055.1.1 = {
+	culture = bohemian
+}

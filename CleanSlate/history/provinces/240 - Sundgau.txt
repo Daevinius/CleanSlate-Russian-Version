@@ -1,0 +1,20 @@
+# 240 - Sundgau
+title = c_sundgau
+terrain = forest
+
+# Initial setup
+culture = frankish
+religion = catholic
+
+max_settlements = 4
+b_ferette = castle
+b_murbach = temple
+b_kolmar = city
+# b_ensisheim
+# b_mulhouse
+# b_landser
+# b_thann
+# b_altkirch
+
+# History
+790.1.1 = { culture = german }

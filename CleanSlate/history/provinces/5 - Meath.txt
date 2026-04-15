@@ -1,0 +1,24 @@
+# 5 - Meath
+title = c_meath
+terrain = plains
+
+# Initial setup
+culture = irish
+religion = catholic
+
+max_settlements = 4
+b_tara_meath = tribal
+# b_forradh
+# b_knowth
+# b_raith_laoghaire
+# b_raith_na_seanadh
+# b_saint_patricks
+# b_ciannachta
+# b_raith_na_riogh
+
+# History
+1000.1.1 = {
+	b_forradh = castle
+	b_tara_meath = city
+	capital = b_forradh
+}

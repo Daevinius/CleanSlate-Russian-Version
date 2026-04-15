@@ -1,0 +1,21 @@
+# 463 - Orvieto
+title = c_orvieto
+terrain = plains
+
+# Initial setup
+culture = italian
+religion = catholic
+
+max_settlements = 4
+b_orvieto = castle
+b_amelia = city
+b_narni = temple
+# b_alviano
+# b_montecastrilli
+# b_otricoli
+# b_baschi
+# b_ciconia
+
+# History
+1106.1.1 = { trade_post = b_dappiano }
+1285.1.1 = { trade_post = b_doria }

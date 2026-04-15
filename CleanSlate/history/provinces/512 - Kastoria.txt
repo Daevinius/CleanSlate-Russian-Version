@@ -1,0 +1,18 @@
+# 512 - Kastoria
+title = c_kastoria
+terrain = hills
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 3
+b_kastoria = castle
+b_chlerinon = city
+# b_kailara
+# b_argos_orestikon
+# b_orestis
+# b_eordaia
+# b_mesopotamia_kastoria
+
+# History

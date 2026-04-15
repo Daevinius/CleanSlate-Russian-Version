@@ -1,0 +1,19 @@
+# 899 - Kargopol
+title = c_kargopol
+terrain = forest
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 3
+b_kargopol = tribal
+# b_kazakovo
+# b_lacha
+# b_pesok
+# b_lyaga
+# b_voloshka
+# b_ivanovo_kargopol
+
+# History
+1150.1.1 = { religion = orthodox }

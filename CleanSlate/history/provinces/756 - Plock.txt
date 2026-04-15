@@ -1,0 +1,23 @@
+# 756 - Plock
+title = c_plock
+terrain = plains
+
+# Initial setup
+culture = polish
+religion = slavic_pagan
+
+max_settlements = 5
+b_plock = tribal
+b_wyszogrod = temple
+# b_plonsk
+# b_zacroczym
+# b_ciechanow
+# b_rozan
+# b_szrensk
+
+# History
+987.1.1 = {
+	religion = catholic
+	b_plock = castle
+	b_plonsk = city
+}

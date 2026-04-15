@@ -1,0 +1,30 @@
+# 816 - Pereyaslavl Zalessky
+title = c_pereyaslavl_zalessky
+terrain = forest
+
+# Initial setup
+culture = meshchera
+religion = finnish_pagan
+
+max_settlements = 3
+b_pereyaslavlzalessky = tribal	# 1152
+# b_sergiyevposad				# 14th
+# b_aleksandrov					# 14th
+# b_strunino					# 1492
+# b_karabanovo					# 1630
+# b_kupanskoye
+# b_khmelniki
+
+# History
+988.1.1 = {
+	religion = orthodox
+}
+
+1152.1.1 = {
+	b_pereyaslavlzalessky = castle
+	b_sergiyevposad = temple # added earlier than historically for balance
+}
+
+1200.1.1 = {
+	culture = russian
+}

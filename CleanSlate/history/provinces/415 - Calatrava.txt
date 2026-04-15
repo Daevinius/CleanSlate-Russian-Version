@@ -1,0 +1,36 @@
+# 415 - Calatrava
+title = c_calatrava
+terrain = hills
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 4
+b_calatrava = castle
+b_caracuel = temple
+b_villareal = city
+# b_alcazardesanjuan
+# b_alarcos
+# b_medellin
+# b_almadeo
+# b_almodovardelcampo
+
+# History
+812.1.1 = { religion = sunni }
+934.1.1 = { culture = andalusian }
+
+1162.1.1 = {
+	culture = castilian
+	religion = catholic
+}
+
+1210.1.1 = {
+	culture = andalusian
+	religion = sunni
+}
+
+1227.1.1 = {
+	culture = castilian
+	religion = catholic
+}

@@ -1,0 +1,9 @@
+755.1.1 = {
+	holder = 247692
+	liege = e_tibet
+}
+
+841.1.1 = {
+	holder = 0
+	liege = 0
+}

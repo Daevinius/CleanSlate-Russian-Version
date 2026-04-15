@@ -1,0 +1,27 @@
+# 389 - Bragança
+title = c_braganca
+terrain = hills
+
+# Initial setup
+culture = suebi
+religion = catholic
+
+max_settlements = 4
+b_braganza = castle
+b_vilareal = city
+b_chaves = temple
+# b_torredemoncorvo
+# b_mogadouro
+# b_castelomelhor
+# b_castelorodrigo
+# b_azinhoso
+
+# History
+926.1.1 = {
+	culture = portuguese
+}
+
+1066.1.1 = {
+	b_braganza = ca_wall_1
+	b_braganza = ca_wall_2
+}

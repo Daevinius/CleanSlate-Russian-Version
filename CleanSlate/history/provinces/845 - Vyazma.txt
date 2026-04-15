@@ -1,0 +1,25 @@
+# 845 - Vyazma
+title = c_vyazma
+terrain = forest
+
+# Initial setup
+culture = ilmenian
+religion = slavic_pagan
+
+max_settlements = 3
+b_vyazma = tribal	# 1230
+# b_yelnya			# 1150
+# b_dorogobyzh
+# b_ignatkovo
+# b_tesnoye
+# b_safonovo
+# b_mokhnatka
+
+# History
+867.1.1 = { culture = russian }
+988.1.1 = { religion = orthodox }
+
+1150.1.1 = {
+	b_vyazma = castle
+	b_yelnya = city
+}

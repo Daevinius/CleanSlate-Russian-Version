@@ -1,0 +1,20 @@
+## 665 - Târgoviste
+title = c_targoviste
+terrain = plains
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 3
+b_targoviste = castle
+b_tabla_butii = city
+# b_snagov
+# b_bucov
+# b_ramnicu_sarat
+# b_buzau
+# b_valeni
+
+# History
+892.1.1 = { culture = vlach }
+900.1.1 = { religion = orthodox }

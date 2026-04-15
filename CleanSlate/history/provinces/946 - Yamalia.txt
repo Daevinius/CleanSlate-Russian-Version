@@ -1,0 +1,19 @@
+# 946 - Yamalia
+title = c_yamalia
+terrain = arctic
+
+# Initial setup
+culture = khanty
+religion = finnish_pagan
+
+max_settlements = 2
+b_polnovatvozh = tribal
+# b_obdorsk
+# b_lapytnangk
+# b_ituyakha
+# b_urengoi
+# b_nazym
+# b_baygul
+# b_kaek
+
+# History

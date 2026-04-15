@@ -1,0 +1,21 @@
+# 526 - Astibus
+title = c_astibus
+terrain = hills
+
+# Initial setup
+culture = serbian
+religion = orthodox
+
+max_settlements = 3
+b_astibus = castle
+b_veles = city
+# b_skopje
+# b_zegligovo
+# b_presevo
+# b_dukena
+# b_stobi
+
+# History
+865.1.1 = { culture = bulgarian }
+950.1.1 = { religion = bogomilist }
+1050.1.1 = { religion = orthodox }

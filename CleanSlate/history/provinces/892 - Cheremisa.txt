@@ -1,0 +1,18 @@
+# 892 - Cheremisa
+title = c_cheremisa
+terrain = plains
+
+# Initial setup
+culture = mordvin
+religion = finnish_pagan
+
+max_settlements = 4
+b_simbirsk = tribal
+# b_kanadey
+# b_stanichnaya
+# b_melekess
+# b_butyrskaya
+# b_vybornaya
+# b_barysh
+
+# History

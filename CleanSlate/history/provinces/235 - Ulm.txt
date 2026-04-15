@@ -1,0 +1,19 @@
+# 235 - Ulm
+title = c_ulm
+terrain = hills
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 4
+b_teck = castle
+b_ulm = city
+b_zwiefalten = temple
+# b_biberach
+# b_memmingen
+# b_isny
+# b_goppingen
+# b_erbach
+
+# History

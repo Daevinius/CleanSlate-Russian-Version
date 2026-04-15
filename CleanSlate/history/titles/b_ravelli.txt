@@ -1,0 +1,24 @@
+20.1.1 = {
+	active = no
+}
+
+756.1.1 = {
+	active = yes
+	holding_dynasty = 1022323 # Ravelli
+	holder = 145905
+	liege = d_amalfi
+}
+
+796.1.1 = {
+	holder = 145906
+}
+
+813.1.1 = {
+	holder = 145907
+}
+
+839.1.1 = {
+	active = no
+	holder = 0
+	liege = 0
+}

@@ -1,0 +1,18 @@
+# 912 - Kanin
+title = c_kanin
+terrain = arctic
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 1
+b_kanin = tribal
+# b_kiya_kanin
+# b_shoyna
+# b_ozero
+# b_chizha
+# b_mesna
+# b_chesha
+
+# History

@@ -1,0 +1,19 @@
+# 600 - Egrisi
+title = c_egrisi
+terrain = hills
+
+# Initial setup
+culture = georgian
+religion = orthodox
+
+max_settlements = 4
+b_mokvi = castle
+b_egrisi = city
+b_khobi = temple
+# b_buchlus
+# b_phasis
+# b_bedia
+# b_nesos
+
+# History
+1269.1.1 = { trade_post = b_spinola }

@@ -1,0 +1,24 @@
+# 703 - Zvolen
+title = c_zvolen
+terrain = mountain
+
+# Initial setup
+culture = slovien
+religion = slavic_pagan
+
+max_settlements = 4
+b_arvavara = tribal
+b_liptovskymikulas = temple
+# b_nameszto
+# b_zolyom
+# b_trsztena
+# b_turdossin
+# b_nemetlipcse
+# b_rozsahegy
+
+# History
+900.1.1 = {
+	religion = catholic
+	b_arvavara = castle
+	b_rozsahegy = city
+}

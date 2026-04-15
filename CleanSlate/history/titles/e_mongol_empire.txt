@@ -1,0 +1,24 @@
+20.1.1 = {
+	active = no
+	historical_nomad = yes
+}
+
+1066.1.1 = {
+	law = agnatic_succession
+	law = succ_ultimogeniture
+}
+
+1162.1.1 = {
+	set_global_flag = temujin_born
+}
+
+1206.1.1 = {
+	active = yes
+	holder = 125501
+	set_global_flag = mongol_horde_united
+}
+
+1227.12.2 = {
+	active = no
+	holder = 0
+}

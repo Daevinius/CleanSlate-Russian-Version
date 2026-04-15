@@ -1,0 +1,21 @@
+# 475 - Benevento
+title = c_benevento
+terrain = hills
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 4
+b_benevento = castle
+b_ascoli = temple
+b_avellino = city
+# b_montemarono
+# b_frigento
+# b_trevico
+# b_conza
+# b_sanangelo
+
+# History
+1057.1.1 = { capital = b_ascoli }
+1147.1.1 = { culture = italian }

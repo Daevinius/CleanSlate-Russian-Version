@@ -1,0 +1,22 @@
+# 897 - Hlynov
+title = c_hlynov
+terrain = arctic
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 3
+b_hlynov = tribal
+# b_egra
+# b_glazkar
+# b_izkar
+# b_kambarka
+# b_mozjga
+# b_wotka
+
+# History
+1181.1.1 = {
+	culture = russian
+	religion = orthodox
+}

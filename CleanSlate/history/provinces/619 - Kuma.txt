@@ -1,0 +1,21 @@
+# 619 - Kuma
+title = c_kuma
+terrain = hills
+
+# Initial setup
+culture = alan
+religion = tengri_pagan
+
+max_settlements = 3
+b_kizlyar = tribal
+# b_kuliyurt
+# b_tereklimekteb
+# b_kizilyurt
+# b_gums
+# b_dylym
+# b_babayurt
+# b_arslanbek
+
+# History
+900.1.1 = { religion = orthodox }
+1313.1.1 = { religion = sunni }

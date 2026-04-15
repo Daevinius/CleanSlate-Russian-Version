@@ -1,0 +1,66 @@
+20.1.1 = {
+	active = no
+}
+
+1050.1.1 = {
+	active = yes
+	holding_dynasty = 13016 # Grimaldi
+	holder = 73700
+	liege = d_genoa
+}
+
+1105.1.1 = {
+	holder = 73701 # Ottone Canella (Grimaldi)
+}
+
+1143.1.1 = {
+	holder = 73703 # Bellamunto Canella (Grimaldi)
+}
+
+1162.1.1 = {
+	holder = 213042 # Grimaldo Canella (Grimaldi)
+}
+
+1185.1.1 = {
+	holder = 213043 # Oberto Grimaldi
+}
+
+1232.1.1 = {
+	holder = 73707 # Grimaldo
+}
+
+1257.1.1 = {
+	holder = 73735 # Oberto
+}
+
+1258.1.1 = {
+	holder = 73727 # Luca
+}
+
+1271.1.1 = {
+	holder = 73734 # Bovarello
+}
+
+1285.1.1 = {
+	holder = 73736 # Francesco
+}
+
+1309.1.1 = {
+	holder = 73729 # Gaspare
+}
+
+1318.7.27 = {
+	active = no
+	holder = 0
+	liege = 0
+}
+
+# 1331.1.1 = {
+# 	holder = 73730
+# }
+
+1334.1.1 = {
+	active = yes
+	holder = 73730 # Antonio
+	liege = d_genoa
+}

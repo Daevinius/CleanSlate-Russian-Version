@@ -1,0 +1,32 @@
+# 54 - Warwick
+title = c_warwick
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 4
+b_tamworth = castle
+b_warwick = castle
+b_lichfield = temple
+b_stafford = city
+# b_coventry
+# b_kenilworth
+# b_tutbury
+# b_dudley
+
+# History
+874.1.1 = { # Danish sacking
+	capital = b_warwick
+	remove_settlement = b_tamworth
+}
+
+1075.8.28 = { # Council of London moves bishopric from Lichfield
+	remove_settlement = b_lichfield
+	b_coventry = temple
+}
+
+1100.11.11 = {
+	culture = english
+}

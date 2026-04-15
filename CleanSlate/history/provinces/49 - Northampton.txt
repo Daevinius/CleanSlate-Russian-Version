@@ -1,0 +1,21 @@
+# 49 - Northampton
+title = c_northampton
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 4
+b_northampton = castle
+b_cambridge = city
+b_crowland = temple
+# b_peterborough
+# b_huntingdon
+# b_ramsey
+# b_kettering
+# b_rockingham
+
+# History
+1100.11.11 = { culture = english }
+1187.1.1 = { b_huntingdon = castle }

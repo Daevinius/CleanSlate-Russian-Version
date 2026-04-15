@@ -1,0 +1,29 @@
+# 659 - Suceava
+title = c_suceava
+terrain = mountain
+
+# Initial setup
+culture = volhynian
+religion = slavic_pagan
+
+max_settlements = 5
+b_suceava = tribal
+# b_radauti
+# b_bogdana
+# b_baia
+# b_moldovita
+# b_siret
+# b_putna
+
+# History
+867.1.1 = {
+	culture = russian
+	b_suceava = castle
+	b_radauti = city
+	b_bogdana = temple
+	b_baia = castle
+}
+
+988.1.1 = {
+	religion = orthodox
+}

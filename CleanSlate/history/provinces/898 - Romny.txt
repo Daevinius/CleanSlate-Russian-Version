@@ -1,0 +1,19 @@
+# 898 - Romny
+title = c_romny
+terrain = forest
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 2
+b_vozhega = tribal
+# b_ugol
+# b_marinskaya
+# b_yuchka
+# b_bykovskaya
+# b_kholuy
+# b_vysokaya
+
+# History
+1150.1.1 = { religion = orthodox }

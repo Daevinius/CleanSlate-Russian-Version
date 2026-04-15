@@ -1,0 +1,216 @@
+# pledge_crusade_trigger
+# unpledge_crusade_trigger
+# defender_pledge_crusade_trigger
+# defender_unpledge_crusade_trigger
+
+# contribute_to_crusade_pot_trigger
+# select_crusade_receiver_stance_trigger
+
+# not_fellow_crusader_trigger
+# in_alternate_crusade_trigger
+# fourth_crusade_trigger
+
+
+# Referenced by the "Join Crusade" button in the Crusade view for Crusades using the new Crusade system
+pledge_crusade_trigger = {
+	is_incapable = no
+
+	custom_tooltip = {
+		text = recent_crusade_unpledge_TT
+		NOT = { has_character_modifier = recently_unpledged_to_crusade_cooldown }
+	}
+
+	custom_tooltip = {
+		text = crusade_no_antipope_TT
+
+		rightful_religious_head_scope = {
+			controls_religion = yes
+		}
+	}
+
+	rightful_religious_head_scope = {
+		NOT = { war_with = ROOT }
+	}
+
+	custom_tooltip = {
+		text = pledge_crusade_alternate_crusades
+		in_alternate_crusade_trigger = no
+	}
+}
+
+# Referenced by the "Leave Crusade" button in the Crusade view for Crusades using the new Crusade system
+unpledge_crusade_trigger = {
+	trigger_if = {
+		limit = {
+			has_character_flag = forced_to_crusade
+			fourth_crusade_trigger = no
+		}
+
+		custom_tooltip = {
+			text = forced_to_crusade_TT
+			always = no
+		}
+	}
+
+	trigger_if = {
+		limit = {
+			NOT = { has_character_flag = forced_to_crusade }
+			fourth_crusade_trigger = no
+		}
+
+		custom_tooltip = {
+			text = unpledge_crusade_trigger_TT
+
+			NOT = {
+				any_war = { using_cb = new_crusade }
+			}
+		}
+	}
+
+	trigger_if = {
+		limit = {
+			NOT = {
+				any_war = { using_cb = new_crusade }
+			}
+
+			NOT = { has_character_flag = forced_to_crusade }
+			fourth_crusade_trigger = no
+		}
+		custom_tooltip = {
+			text = recent_crusade_pledge_TT
+
+			NOT = { has_character_modifier = recently_pledged_to_crusade_cooldown }
+		}
+	}
+}
+
+# Referenced by the "Join Crusade" button in the Crusade defender view for Crusades using the new Crusade system
+defender_pledge_crusade_trigger = {
+	custom_tooltip = {
+		text = defense_pledge_crusade_target_TT_2
+
+		OR = {
+			catholic = {
+				crusade_target_char = {
+					is_within_diplo_range = ROOT
+				}
+			}
+
+			fraticelli = {
+				crusade_target_char = {
+					is_within_diplo_range = ROOT
+				}
+			}
+		}
+	}
+
+	custom_tooltip = {
+		text = defense_pledge_crusade_target_TT
+
+		NOR = {
+			catholic = {
+				crusade_target_char = {
+					character = ROOT
+				}
+			}
+
+			fraticelli = {
+				crusade_target_char = {
+					character = ROOT
+				}
+			}
+		}
+	}
+}
+
+# Referenced by the "Leave Crusade" button in the Crusade defender view for Crusades using the new Crusade system
+defender_unpledge_crusade_trigger = {
+
+}
+
+contribute_to_crusade_pot_trigger = {
+
+}
+
+# Referenced by the "Select Receiver Stance" button in the Crusade view for Crusades using the new Crusade system
+select_crusade_receiver_stance_trigger = {
+	has_pledged_crusade_participation = yes
+}
+
+not_fellow_crusader_trigger = {
+	trigger_if = {
+		limit = {
+			ROOT = {
+				uses_new_crusade = yes
+				religion = FROM
+
+				OR = {
+					controls_religion = yes
+					has_pledged_crusade_participation = yes
+				}
+
+				OR = {
+					religion_scope = { is_preparing_crusade = yes }
+					any_war = { using_cb = new_crusade }
+				}
+			}
+
+			FROM = {
+				OR = {
+					controls_religion = yes
+					has_pledged_crusade_participation = yes
+				}
+			}
+		}
+
+		custom_tooltip = {
+			text = crusade_invalidate_other_wars_TT
+			always = no
+		}
+	}
+}
+
+in_alternate_crusade_trigger = {
+	OR = {
+		any_war = {
+			OR = {
+				using_cb = northern_crusade_war
+				using_cb = shepherds_crusade_invasion
+			}
+		}
+
+		trigger_if = {
+			limit = { has_global_flag = northern_crusades_active }
+
+			OR = {
+				has_landed_title = d_teutonic_order
+				has_landed_title = k_teutonic_state
+			}
+		}
+
+		trigger_if = {
+			limit = { has_global_flag = active_reconquista }
+
+			OR = {
+				has_character_flag = currently_reconquering_iberia
+				has_character_flag = reconquista_sponsor
+				has_character_flag = promised_reconquista_ally
+			}
+		}
+
+		in_reconquista_war_trigger = yes
+	}
+}
+
+fourth_crusade_trigger = {
+	crusade_target_title = {
+		title = k_thrace
+	}
+
+	has_global_flag = 4th_crusade_official
+
+	crusade_target_char = {
+		has_landed_title = e_byzantium
+		religion_group = ROOT
+	}
+}

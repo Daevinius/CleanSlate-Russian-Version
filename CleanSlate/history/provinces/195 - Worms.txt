@@ -1,0 +1,18 @@
+# 195 - Worms
+title = c_worms
+terrain = plains
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 5
+b_kaiserslautern = castle
+b_worms = temple
+b_hagenau = city
+b_stahleck = castle
+# b_trifels
+# b_speyer
+# b_zweibrucken
+
+# History

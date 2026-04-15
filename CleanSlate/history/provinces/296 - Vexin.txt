@@ -1,0 +1,20 @@
+# 296 - Vexin
+title = c_vexin
+terrain = plains
+
+# Initial setup
+culture = frankish
+religion = catholic
+
+max_settlements = 4
+b_larocheguyon = castle
+b_pontoise = city
+b_abbayedemortemer = temple
+# b_mantes
+# b_harcourt
+# b_andely
+# b_ivry
+
+# History
+790.1.1 = { culture = french }
+1197.1.1 = { b_andely = city }

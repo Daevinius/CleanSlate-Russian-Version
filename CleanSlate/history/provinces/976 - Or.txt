@@ -1,0 +1,20 @@
+# 976 - Or
+title = c_or
+terrain = steppe
+
+# Initial setup
+culture = cuman
+religion = tengri_pagan
+
+max_settlements = 2
+b_or = tribal
+# b_orsk_or
+# b_istemis
+# b_maytobe
+# b_stepnoe
+# b_aschelisay
+# b_mamyt
+
+# History
+1227.1.1 = { culture = mongol }
+1313.1.1 = { religion = sunni }

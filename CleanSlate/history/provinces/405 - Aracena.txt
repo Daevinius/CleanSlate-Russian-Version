@@ -1,0 +1,32 @@
+# 405 - Aracena
+title = c_aracena
+terrain = plains
+
+# Initial setup
+culture = visigothic
+religion = sunni
+
+max_settlements = 4
+b_aracena = castle
+b_almonasterlareal = city
+b_italica = temple
+# b_calanas
+# b_cortegana
+# b_facanias
+# b_alajar
+# b_galaroza
+
+# History
+929.1.1 = {
+	culture = andalusian
+	religion = sunni
+}
+
+1246.1.1 = {
+	culture = portuguese
+	religion = catholic
+}
+
+1255.1.1 = {
+	culture = castilian
+}

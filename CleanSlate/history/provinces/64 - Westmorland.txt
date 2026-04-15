@@ -1,0 +1,32 @@
+# 64 - Westmorland
+title = c_westmorland
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 3
+b_appleby = castle
+b_lowther = city
+b_cartmel = temple
+# b_kendal
+# b_kirkby
+# b_brough
+# b_shap
+# b_brougham
+
+# History
+900.1.1 = {
+	culture = norse
+	religion = norse_pagan
+}
+
+1000.1.1 = {
+	culture = anglo_saxon
+	religion = catholic
+}
+
+1100.11.11 = {
+	culture = english
+}

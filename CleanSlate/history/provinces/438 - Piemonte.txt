@@ -1,0 +1,19 @@
+# 438 - Piemonte
+title = c_piemonte
+terrain = mountain
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 5
+b_novara = castle
+b_torino = city
+b_settimo = temple
+# b_auriate
+# b_ferrero
+# b_messarano
+# b_crevacuore
+
+# History
+829.1.1 = { culture = italian }

@@ -1,0 +1,38 @@
+# 562 - Lykia
+title = c_lykia
+terrain = mountain
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 4
+b_halikarnassos = castle
+b_telmissos = city
+b_myra = temple
+# b_kibyra
+# b_patara
+# b_mylasa
+# b_limyra
+# b_phaselis
+
+build_wonder = wonder_mausoleum_halicarnassus
+set_wonder_stage = 4
+build_wonder_upgrade = upgrade_quadriga_statue
+
+# History
+1175.1.1 = {
+	trade_post = b_morosini
+}
+
+# Exact destruction date unknown, probably between 1200-1300, probably by earthquake
+1200.1.1 = {
+	set_wonder_stage = 2
+	destroy_wonder_upgrade = upgrade_quadriga_statue
+	set_wonder_damaged = yes
+}
+
+1328.1.1 = {
+	culture = turkish
+	religion = sunni
+}

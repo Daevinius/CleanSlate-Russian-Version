@@ -1,0 +1,19 @@
+# 670 - Targu Jiu
+title = c_targu_jiu
+terrain = plains
+
+# Initial setup
+culture = vlach
+religion = slavic_pagan
+
+max_settlements = 3
+b_targu_jiu = castle
+b_bistrita = city
+b_baia_de_arama = castle
+# b_polovragi
+# b_visina
+# b_tismana
+# b_vulcan
+
+# History
+870.1.1 = { religion = orthodox }

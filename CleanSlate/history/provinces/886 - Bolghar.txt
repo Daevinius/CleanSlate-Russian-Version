@@ -1,0 +1,20 @@
+# 886 - Bolghar
+title = c_bolghar
+terrain = steppe
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 4
+b_bulgar = tribal
+# b_suar
+# b_balimer
+# b_arbuga
+# b_tawille
+# b_tetyushi
+# b_koshki
+# b_iq
+
+# History
+923.1.1 = { religion = sunni }

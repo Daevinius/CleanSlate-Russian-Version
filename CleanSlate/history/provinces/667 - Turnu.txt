@@ -1,0 +1,20 @@
+# 667 - Turnu
+title = c_turnu
+terrain = plains
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 4
+b_turnu = castle
+b_giurgiu = city
+# b_comana
+# b_zimnicea
+# b_bucuresti
+# b_rosiorriidevede
+# b_glavacioc
+
+# History
+892.1.1 = { culture = vlach }
+900.1.1 = {	religion = orthodox }

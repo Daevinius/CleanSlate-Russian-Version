@@ -1,0 +1,20 @@
+# 962 - Buqtirma
+title = c_buqtirma
+terrain = steppe
+
+# Initial setup
+culture = kirghiz
+religion = tengri_pagan
+
+max_settlements = 2
+b_buqtirma = tribal
+# b_akku
+# b_shamshi
+# b_kazantay
+# b_zhanatan
+# b_koyanbay
+# b_shoktal
+
+# History
+1227.1.1 = { culture = mongol }
+1313.1.1 = { religion = sunni }

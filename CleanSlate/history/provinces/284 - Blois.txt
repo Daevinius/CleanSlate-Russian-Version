@@ -1,0 +1,20 @@
+# 284 - Blois
+title = c_blois
+terrain = plains
+
+# Initial setup
+culture = frankish
+religion = catholic
+
+max_settlements = 4
+b_blois = castle
+b_staignan = temple
+b_beaugency = city
+# b_chaumontsurloire
+# b_stgeorgesdubois
+# b_montrichard
+# b_fougeressurbievre
+# b_romorantin
+
+# History
+790.1.1 = { culture = french }

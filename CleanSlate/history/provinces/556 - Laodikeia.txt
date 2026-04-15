@@ -1,0 +1,26 @@
+# 556 - Laodikeia
+title = c_laodikeia
+terrain = mountain
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 4
+b_laodikeia = castle
+b_flaviupolis = city
+b_rhoas = temple
+# b_hieropolis
+# b_kona
+# b_gordes
+# b_chonai
+
+# History
+# 740.1.1 = { religion = iconoclast }
+# 843.1.1 = { religion = orthodox }
+1187.1.1 = { b_kona = castle }
+
+1390.1.1 = {
+	culture = turkish
+	religion = sunni
+}

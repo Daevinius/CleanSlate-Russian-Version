@@ -1,0 +1,29 @@
+# 700 - Bereg
+title = c_bereg
+terrain = mountain
+
+# Initial setup
+culture = croatian # White Croats
+religion = slavic_pagan
+
+max_settlements = 3
+b_beregszasz = tribal
+# b_perecseny
+# b_munkacs
+# b_ungvar
+# b_ilosva
+# b_szolyva
+# b_szobranc
+# b_kapos
+
+# History
+950.1.1 = {
+	culture = hungarian
+	religion = catholic
+}
+
+1000.1.1 = {
+	b_beregszasz = castle
+	b_munkacs = city
+	b_perecseny = temple
+}

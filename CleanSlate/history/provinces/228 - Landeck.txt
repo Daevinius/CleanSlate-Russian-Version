@@ -1,0 +1,19 @@
+# 228 - Landeck
+title = c_landeck
+terrain = mountain
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 4
+b_landeck = castle
+b_bregenz = city
+b_stanton = temple
+# b_imst
+# b_sterzing
+# b_ried
+# b_dornbirn
+# b_nenzing
+
+# History

@@ -1,0 +1,21 @@
+# 364 - Lleida
+title = c_lleida
+terrain = hills
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 4
+b_lleida = castle
+b_cervera = city
+b_solsona = temple
+# b_agramunt
+# b_tarrega
+# b_balaguer
+# b_borgesblanques
+# b_verdu
+
+# History
+952.1.1 = { culture = catalan }
+1164.1.1 = { religion = catholic }

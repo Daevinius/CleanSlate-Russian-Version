@@ -1,0 +1,28 @@
+# 723 - Zerbst
+title = c_zerbst
+terrain = hills
+
+# Initial setup
+culture = pomeranian
+religion = slavic_pagan
+
+max_settlements = 5
+b_zerbst = tribal
+# b_dessau
+# b_lindau_zeist
+# b_walter-nienburg
+# b_dornburg_zeist
+# b_coswig
+# b_wittenberg_zeist
+
+# History
+800.1.1 = {
+	b_zerbst = castle
+	b_dessau = city
+	b_lindau_zeist = temple
+}
+
+1100.1.1 = {
+	culture = german
+	religion = catholic
+}

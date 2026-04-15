@@ -1,0 +1,29 @@
+# 877 - Belz
+title = c_belz
+terrain = plains
+
+# Initial setup
+culture = volhynian
+religion = slavic_pagan
+
+max_settlements = 3
+b_belz = tribal
+# b_horodlo
+# b_lopatyn
+# b_sokal
+# b_grabowiec
+# b_mycow
+# b_tchernogrov
+
+# History
+867.1.1 = {
+	culture = russian
+}
+
+989.1.1 = {
+	religion = orthodox
+	b_belz = castle
+}
+
+1035.1.1 = { b_horodlo = city }
+1214.1.1 = { b_lopatyn = temple }

@@ -1,0 +1,20 @@
+# 1488 - Al Bichri
+title = c_al_bichri
+terrain = plains
+
+# Initial setup
+culture = levantine
+religion = nestorian
+
+max_settlements = 3
+b_bichri = castle
+b_deiralzur = city
+b_osrhoene = temple
+# b_abukamal
+# b_shamiyya
+# b_mayadin
+# b_sirhi
+# b_mhaymidah
+
+# History
+1000.1.1 = { religion = sunni }

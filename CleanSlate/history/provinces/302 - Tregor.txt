@@ -1,0 +1,18 @@
+# 302 - Tregor
+title = c_tregor
+terrain = plains
+
+# Initial setup
+culture = breton
+religion = catholic
+
+max_settlements = 3
+b_guingamp = castle
+b_treguier = temple
+# b_plougonven
+# b_plourivo
+# b_lannion
+# b_pedernec
+# b_locquirec
+
+# History

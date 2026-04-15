@@ -1,0 +1,31 @@
+# 379 - Salamanca
+title = c_salamanca
+terrain = hills
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 4
+b_salamanca = castle
+b_salbejar = city
+b_ciudadrodrigo = temple
+# b_bracamonte
+# b_albadetormes
+# b_terradillos
+# b_carbajosadelasagrada
+# b_lumbrales
+
+# History
+867.1.1 = {
+	b_salamanca = ca_town_1
+	b_salamanca = ca_keep_1
+	b_salamanca = ca_stable_1
+	b_salamanca = ca_militia_barracks_1
+	b_salamanca = ca_wall_1
+	b_salamanca = ca_wall_2
+}
+
+955.1.1 = {
+	culture = castilian
+}

@@ -1,0 +1,34 @@
+# 431 - Torres
+title = c_torres
+terrain = mountain
+
+# Initial setup
+culture = sardinian
+religion = orthodox
+
+max_settlements = 4
+b_portotorres = castle
+b_sassari = city
+b_ardara = temple
+# b_ottana
+# b_oschiri
+# b_bosa
+# b_alghero
+# b_valledoria
+
+# History
+1015.1.1 = { # Porto Torres abandoned due to Saracen raids
+	b_ardara = castle
+	capital = b_ardara
+	remove_settlement = b_portotorres
+}
+
+1050.1.1 = {
+	b_ardara = temple
+	b_sassari = castle
+	b_valledoria = city
+	capital = b_sassari
+}
+
+1054.1.1 = { religion = catholic }
+1066.1.1 = { trade_post = b_doria }

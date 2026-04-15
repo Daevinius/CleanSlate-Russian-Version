@@ -1,0 +1,32 @@
+# 63 - Cumberland
+title = c_cumberland
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 3
+b_burgh = castle
+b_carlisle = temple
+b_penrith = city
+# b_gilsland
+# b_egremont
+# b_papcastlet
+# b_cockermouth
+# b_dacre
+
+# History
+900.1.1 = {
+	culture = norse
+	religion = norse_pagan
+}
+
+1000.1.1 = {
+	culture = anglo_saxon
+	religion = catholic
+}
+
+1100.11.11 = {
+	culture = english
+}

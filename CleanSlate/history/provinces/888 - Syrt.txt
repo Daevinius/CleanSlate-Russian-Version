@@ -1,0 +1,19 @@
+# 888 - Syrt
+title = c_syrt
+terrain = steppe
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 4
+b_samara = tribal
+# b_kinel
+# b_syzran
+# b_tashia
+# b_sarbay
+# b_osinki
+# b_shungut
+
+# History
+923.1.1 = { religion = sunni }

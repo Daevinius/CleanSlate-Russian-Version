@@ -1,0 +1,31 @@
+# 393 - Almada
+title = c_almada
+terrain = plains
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 4
+b_palmela = castle
+b_almada = city
+# b_setubal
+# b_sesimbra
+# b_alcochete
+# b_pegoes
+# b_montijo
+
+# History
+939.1.1 = {
+	culture = andalusian
+	religion = sunni
+}
+
+1116.1.1 = {
+	trade_post = b_spinola
+}
+
+1163.1.1 = {
+	culture = portuguese
+	religion = catholic
+}

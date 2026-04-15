@@ -1,0 +1,19 @@
+# 669 - Craiova
+title = c_craiova
+terrain = plains
+
+# Initial setup
+culture = vlach
+religion = slavic_pagan
+
+max_settlements = 3
+b_craiova = castle
+b_corabia = city
+b_caracal = city
+# b_calafat
+# b_slatina
+# b_resita
+# b_hotarani
+
+# History
+870.1.1 = { religion = orthodox }

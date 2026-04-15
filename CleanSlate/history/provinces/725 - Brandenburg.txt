@@ -1,0 +1,31 @@
+# 725 - Brandenburg
+title = c_brandenburg
+terrain = plains
+
+# Initial setup
+culture = pomeranian
+religion = slavic_pagan
+
+max_settlements = 5
+b_brandenburg = tribal
+b_belzig = temple
+# b_berlin
+# b_juterborg
+# b_ruppin
+# b_oranienburg
+# b_muncheberg
+
+# History
+800.1.1 = {
+	b_brandenburg = castle
+	b_juterborg = city
+}
+
+1187.1.1 = {
+	b_oranienburg = castle
+}
+
+1200.1.1 = {
+	culture = german
+	religion = catholic
+}

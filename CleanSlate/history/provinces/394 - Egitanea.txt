@@ -1,0 +1,31 @@
+# 394 - Egitanea
+title = c_egitanea
+terrain = plains
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 4
+b_rodao = castle
+b_idanha = city
+# b_covilha
+# b_castelobranco
+# b_alcains
+# b_penha
+# b_belver
+
+# History
+944.1.1 = {
+	culture = andalusian
+	religion = sunni
+}
+
+1163.1.1 = {
+	culture = portuguese
+	religion = catholic
+}
+
+1214.1.1 = {
+	b_castelobranco = castle
+}

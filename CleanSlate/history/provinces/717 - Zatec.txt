@@ -1,0 +1,24 @@
+# 717 - Zatec
+title = c_zatec
+terrain = plains
+
+# Initial setup
+culture = bohemian
+religion = slavic_pagan
+
+max_settlements = 4
+b_zatec = tribal
+# b_osek
+# b_louny
+# b_bilina
+# b_kadan
+# b_teplice
+# b_chomutov
+
+# History
+883.1.1 = {
+	religion = catholic
+	b_zatec = castle
+	b_osek = temple
+	b_louny = city
+}

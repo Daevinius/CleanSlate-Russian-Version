@@ -1,0 +1,21 @@
+# 631 - Aqtobe
+title = c_aqtobe
+terrain = steppe
+
+# Initial setup
+culture = cuman
+religion = tengri_pagan
+
+max_settlements = 2
+b_aqtobe = tribal
+# b_burta
+# b_sibiryak
+# b_kunsay
+# b_zharlysay
+# b_shilikta
+# b_aulkutyrtas
+
+# History
+1060.1.1 = { culture = turkish }
+1100.1.1 = { religion = sunni }
+1218.1.1 = { culture = mongol }

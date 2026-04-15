@@ -1,0 +1,20 @@
+# 454 - Modena
+title = c_modena
+terrain = mountain
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 5
+b_modena = castle
+b_carpi = city
+b_reggionellemila = temple
+# b_mirandola
+# b_novellara
+# b_sabbioneta
+# b_sassuolo
+# b_bomporto
+
+# History
+886.1.1 = { culture = italian }

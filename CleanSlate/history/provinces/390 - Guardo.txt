@@ -1,0 +1,26 @@
+# 390 - Guardo
+title = c_guardo
+terrain = hills
+
+# Initial setup
+culture = suebi
+religion = catholic
+
+max_settlements = 4
+b_guarda = castle
+b_lamego = temple
+# b_trancoso
+# b_sabugal
+# b_pinhel
+# b_almeida
+# b_acores
+
+# History
+931.1.1 = {
+	culture = portuguese
+}
+
+1066.1.1 = {
+	b_guarda = ca_wall_1
+	b_guarda = ca_wall_2
+}

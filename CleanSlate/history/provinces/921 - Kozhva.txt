@@ -1,0 +1,18 @@
+# 921 - Kozhva
+title = c_kozhva
+terrain = forest
+
+# Initial setup
+culture = komi
+religion = finnish_pagan
+
+max_settlements = 1
+b_kozhva = tribal
+# b_berozovka
+# b_iz_yayu
+# b_puteyets
+# b_byzovaya
+# b_ozornyy
+# b_chikshino
+
+# History

@@ -1,0 +1,18 @@
+# 999 - Kuznetsk
+title = c_kuznetsk
+terrain = plains
+
+# Initial setup
+culture = kirghiz
+religion = tengri_pagan
+
+max_settlements = 2
+b_kuznetsk = tribal
+# b_mutnyy_kuznetsk
+# b_chernoye_kuznetsk
+# b_sarala_kuznetsk
+# b_medvezhka_kuznetsk
+# b_naryk
+# b_belogorsk
+
+# History

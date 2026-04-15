@@ -1,0 +1,20 @@
+# 255 - Kleve
+title = c_kleve
+terrain = plains
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 4
+b_kleve = castle
+b_goch = city
+b_rees = temple
+# b_anholt
+# b_xanten
+# b_wesel
+# b_emmerich
+# b_isselburg
+
+# History
+1187.1.1 = { b_wesel = city }

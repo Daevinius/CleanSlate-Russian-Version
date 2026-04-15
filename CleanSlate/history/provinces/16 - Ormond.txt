@@ -1,0 +1,23 @@
+# 16 - Ormond
+title = c_ormond
+terrain = plains
+
+# Initial setup
+culture = irish
+religion = catholic
+
+max_settlements = 4
+b_waterford = tribal
+b_cashel = temple
+# b_cahir
+# b_clonmel
+# b_lismore
+# b_roscrea
+# b_nenagh
+# b_fethard
+
+# History
+1000.1.1 = {
+	b_waterford = castle
+	b_nenagh = city
+}

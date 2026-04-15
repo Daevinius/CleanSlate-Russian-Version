@@ -1,0 +1,32 @@
+# 896 - Galich Mersky
+title = c_galich_mersky
+terrain = forest
+
+# Initial setup
+culture = mordvin
+religion = finnish_pagan
+
+max_settlements = 4
+b_galichmersky = tribal
+# b_levkovo
+# b_gradmersky
+# b_buy
+# b_chistyebory
+# b_susanino
+# b_kadyy
+# b_isaevo
+
+# History
+1000.1.1 = {
+	b_levkovo = temple
+}
+
+1087.1.2 = {
+	religion = orthodox
+	culture = russian
+}
+
+1200.1.1 = {
+	b_galichmersky = castle
+	b_gradmersky = city
+}

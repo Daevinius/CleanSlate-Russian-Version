@@ -1,0 +1,27 @@
+# 372 - Nájera
+title = c_najera
+terrain = forest
+
+# Initial setup
+culture = basque
+religion = catholic
+
+max_settlements = 4
+b_najera = castle
+b_logrone = city
+b_calahorra = temple
+# b_haro
+# b_arnedo
+# b_alfara
+# b_zizurmayor
+# b_santodomingodelacalzada
+
+# History
+867.1.1 = {
+	b_najera = ca_town_1
+	b_najera = ca_keep_1
+	b_najera = ca_stable_1
+	b_najera = ca_militia_barracks_1
+	b_najera = ca_wall_1
+	b_najera = ca_wall_2
+}

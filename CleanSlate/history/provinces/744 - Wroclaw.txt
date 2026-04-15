@@ -1,0 +1,27 @@
+# 744 - Wroclaw
+title = c_wroclaw
+terrain = plains
+
+# Initial setup
+culture = polish
+religion = slavic_pagan
+
+max_settlements = 5
+b_wroclaw = tribal
+b_brzeg = temple
+# b_legnica
+# b_boleslawiec
+# b_olesnica
+# b_niemcza
+# b_henrykow
+
+# History
+990.1.1 = {
+	religion = catholic
+	b_wroclaw = castle
+	b_legnica = city
+}
+
+1250.1.1 = {
+	culture = german
+}

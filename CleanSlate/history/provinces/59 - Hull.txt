@@ -1,0 +1,30 @@
+# 59 - Hull
+title = c_hull
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 4
+b_stamford_bridge = castle
+b_beverley = temple
+b_wyke = city
+# b_hull
+# b_guildhall
+# b_bridlington
+# b_hornsea
+
+# History
+866.1.1 = {
+	culture = norse
+	religion = norse_pagan
+}
+
+954.1.1 = {
+	culture = anglo_saxon
+	religion = catholic
+}
+
+1100.11.11 = { culture = english }
+1330.1.1 = { b_hull = castle }

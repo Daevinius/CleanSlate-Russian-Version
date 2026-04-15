@@ -1,0 +1,21 @@
+# 231 - Zurichgau
+title = c_zurichgau
+terrain = hills
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 4
+b_winterthur = castle
+b_zurich = city
+b_kappel = temple
+# b_swiss_baden
+# b_aarau
+# b_kyburg
+# b_toggenburg
+# b_zug
+# b_rapperswil
+
+# History
+1291.7.15 = { capital = b_zurich }

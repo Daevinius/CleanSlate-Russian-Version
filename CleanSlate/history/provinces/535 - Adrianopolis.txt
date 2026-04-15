@@ -1,0 +1,26 @@
+# 535 - Adrianopolis
+title = c_adrianopolis
+terrain = plains
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 4
+b_adrianopolis = castle
+b_skalothe = city
+b_didymoteichon = temple
+# b_berat
+# b_kypsela
+# b_demotika
+# b_orestias
+
+# History
+1337.1.1 = {
+	b_kypsela = castle
+}
+
+1382.1.1 = {
+	culture = turkish
+	religion = sunni
+}

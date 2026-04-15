@@ -1,0 +1,24 @@
+# 754 - Kujawy
+title = c_kujawy
+terrain = plains
+
+# Initial setup
+culture = polish
+religion = slavic_pagan
+
+max_settlements = 5
+b_bygdoszcz = tribal
+# b_leczyca
+# b_kruszwica
+# b_brzesckujawskie
+# b_klodawa
+# b_nieszawa
+# b_inowroclaw
+
+# History
+969.1.1 = {
+	religion = catholic
+	b_bygdoszcz = castle
+	b_leczyca = city
+	b_kruszwica = temple
+}

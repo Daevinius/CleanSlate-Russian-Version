@@ -1,0 +1,21 @@
+# 524 - Vidin
+title = c_vidin
+terrain = forest
+
+# Initial setup
+culture = vlach
+religion = slavic_pagan
+
+max_settlements = 4
+b_vidin = castle
+b_viseslav = temple
+b_kula = city
+# b_srvljig
+# b_pirot
+# b_bolvan
+# b_kucevo
+# b_zajecar
+
+# History
+870.1.1 = { religion = orthodox }
+892.1.1 = { culture = bulgarian }

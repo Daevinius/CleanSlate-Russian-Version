@@ -1,0 +1,21 @@
+# 621 - Saray
+title = c_saray
+terrain = steppe
+
+# Initial setup
+culture = khazar
+religion = tengri_pagan
+
+max_settlements = 6
+b_akhtuba = tribal
+# b_saray
+# b_tsaganaman
+# b_uspenka
+# b_pokrovka
+# b_dzhelga
+# b_bataevka
+# b_chernyyar
+
+# History
+1100.1.1 = { religion = sunni }
+1227.1.1 = { culture = mongol } # Mongol invasion

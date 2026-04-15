@@ -1,0 +1,19 @@
+# 944 - Khantia
+title = c_khantia
+terrain = arctic
+
+# Initial setup
+culture = khanty
+religion = finnish_pagan
+
+max_settlements = 2
+b_chanty = tribal
+# b_beloyarskiy
+# b_igrim
+# b_berezovo
+# b_pnobe
+# b_nyagyn
+# b_djinesh
+# b_sherkala
+
+# History

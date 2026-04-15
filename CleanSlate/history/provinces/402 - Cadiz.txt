@@ -1,0 +1,26 @@
+# 402 - Cadiz
+title = c_cadiz
+terrain = plains
+
+# Initial setup
+culture = visigothic
+religion = sunni
+
+max_settlements = 5
+b_cadiz = castle
+b_jerez = temple
+b_medinasidonia = city
+b_arcos = castle
+# b_sanjosedelvalle
+# b_sanlucadebarrameda
+# b_sanfernando
+# b_alcaladelosgazules
+
+# History
+934.1.1 = { culture = andalusian }
+1153.1.1 = { trade_post = b_fieschi }
+
+1279.1.1 = {
+	culture = castilian
+	religion = catholic
+}

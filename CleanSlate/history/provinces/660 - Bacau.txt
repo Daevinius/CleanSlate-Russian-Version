@@ -1,0 +1,28 @@
+# 660 - Bacau
+title = c_bacau
+terrain = mountain
+
+# Initial setup
+culture = volhynian
+religion = slavic_pagan
+
+max_settlements = 3
+b_bacau = tribal
+# b_targu_neamnt
+# b_neamnt
+# b_targu_trotus
+# b_bodesti
+# b_tazlau
+# b_bistrita_bacau
+
+# History
+867.1.1 = {
+	culture = russian
+	b_bacau = castle
+	b_targu_neamnt = city
+	b_neamnt = temple
+}
+
+988.1.1 = {
+	religion = orthodox
+}

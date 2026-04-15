@@ -1,0 +1,18 @@
+# 957 - Bolshoy Yugan
+title = c_bolshoy_yugan
+terrain = arctic
+
+# Initial setup
+culture = khanty
+religion = finnish_pagan
+
+max_settlements = 2
+b_bolshoy = tribal
+# b_lempino
+# b_banyy
+# b_tundrino
+# b_sytomino
+# b_singapay
+# b_yugan
+
+# History

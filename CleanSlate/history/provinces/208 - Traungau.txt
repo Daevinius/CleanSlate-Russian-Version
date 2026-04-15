@@ -1,0 +1,19 @@
+# 208 - Traungau
+title = c_traungau
+terrain = forest
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 3
+b_enisiburg = castle
+b_linz = city
+# b_wels
+# b_eferding
+# b_gmunden
+# b_hallstatt
+# b_pons_veckelahe
+# b_ebensee
+
+# History

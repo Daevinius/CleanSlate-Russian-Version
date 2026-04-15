@@ -1,0 +1,20 @@
+# 620 - Manych
+title = c_manych
+terrain = steppe
+
+# Initial setup
+culture = alan
+religion = tengri_pagan
+
+max_settlements = 2
+b_mozdok = tribal
+# b_makhmudmekteb
+# b_nartkala
+# b_malgobekbalka
+# b_kunay
+# b_karabulak
+# b_makhach
+
+# History
+900.1.1 = { religion = orthodox }
+1313.1.1 = { religion = sunni }

@@ -1,0 +1,27 @@
+# 588 - Melitene
+title = c_melitene
+terrain = mountain
+
+# Initial setup
+culture = armenian
+religion = orthodox
+
+max_settlements = 4
+b_melitene = castle
+b_arca = temple
+b_samosata = city
+# b_corduene
+# b_seneqerim
+# b_arguvan
+# b_kigi
+# b_yedisu
+
+# History
+1121.1.1 = {
+	culture = kurdish
+	religion = sunni
+}
+
+1200.1.1 = {
+	culture = turkish
+}

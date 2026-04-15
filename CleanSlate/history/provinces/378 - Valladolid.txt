@@ -1,0 +1,31 @@
+# 378 - Valladolid
+title = c_valladolid
+terrain = hills
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 4
+b_valladolid = castle
+b_tordesillas = city
+b_segovia = temple
+# b_medinadelcampo
+# b_simancas
+# b_penafiel
+# b_iscar
+# b_avila
+
+# History
+867.1.1 = {
+	b_valladolid = ca_town_1
+	b_valladolid = ca_keep_1
+	b_valladolid = ca_stable_1
+	b_valladolid = ca_militia_barracks_1
+	b_valladolid = ca_wall_1
+	b_valladolid = ca_wall_2
+}
+
+950.1.1 = {
+	culture = castilian
+}

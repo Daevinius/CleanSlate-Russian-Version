@@ -1,0 +1,19 @@
+# 604 - Kakheti
+title = c_kakheti
+terrain = plains
+
+# Initial setup
+culture = georgian
+religion = orthodox
+
+max_settlements = 4
+b_zedazaden = castle
+b_telavi = city
+b_davidgareja = temple
+# b_sighnaghi
+# b_dzveligalavani
+# b_bochorma
+# b_gremi
+# b_bodbe
+
+# History

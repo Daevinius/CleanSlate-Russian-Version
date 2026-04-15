@@ -1,0 +1,20 @@
+# 410 - Toledo
+title = c_toledo
+terrain = plains
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 5
+b_toledo = castle
+b_madrid = city
+b_talavera = temple
+b_illescas = castle
+# b_orgaz
+# b_tolemora
+# b_consuegra
+# b_fuensalida
+
+# History
+955.1.1 = { culture = castilian }

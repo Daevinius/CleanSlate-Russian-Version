@@ -1,0 +1,29 @@
+# 499 - Thessalia
+title = c_thessalia
+terrain = plains
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 4
+b_larissa = castle
+b_neopetra = city
+b_volos = temple
+# b_damasis
+# b_kastri
+# b_pharsalos
+# b_trikkala
+# b_stagi
+
+# History
+# 4th crusade, kingdom of Thessaloniki
+1205.1.1 = {
+	remove_settlement = b_neopetra
+}
+
+# Conquest by the Ottomans
+1430.1.1 = {
+	culture = turkish
+	religion = sunni
+}

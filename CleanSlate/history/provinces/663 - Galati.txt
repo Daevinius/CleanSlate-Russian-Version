@@ -1,0 +1,20 @@
+# 663 - Galati
+title = c_galati
+terrain = marsh
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 4
+b_galaz = castle
+b_falciu = city
+b_husi = temple	# Slavic Pagan Holy site
+# b_oancea
+# b_beresti
+# b_targu_bujor
+# b_murgeni
+
+# History
+892.1.1 = { culture = vlach }
+900.1.1 = { religion = orthodox }

@@ -1,0 +1,28 @@
+# 395 - Évora
+title = c_evora
+terrain = forest
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 4
+b_evora = castle
+b_portalegre = city
+b_avis = temple
+# b_marvao
+# b_castelodevide
+# b_crato
+# b_monforte
+# b_ouguela
+
+# History
+939.1.1 = {
+	culture = andalusian
+	religion = sunni
+}
+
+1163.1.1 = {
+	culture = portuguese
+	religion = catholic
+}

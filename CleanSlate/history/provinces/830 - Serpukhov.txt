@@ -1,0 +1,31 @@
+# 830 - Serpukhov
+title = c_serpukhov
+terrain = plains
+
+# Initial setup
+culture = meshchera
+religion = finnish_pagan
+
+max_settlements = 2
+b_serpukhov = tribal	# 14th
+# b_dugna				# 1689
+# b_bogucharovo
+# b_novogurovsky
+# b_zaokskiy
+# b_nenashevo
+# b_kolyupanovo
+
+# History
+867.1.1 = {
+	culture = russian
+	religion = slavic_pagan
+}
+
+988.1.1 = {
+	religion = orthodox
+}
+
+1200.1.1 = {
+	b_serpukhov = castle
+	b_dugna = city
+}

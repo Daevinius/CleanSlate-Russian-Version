@@ -1,0 +1,24 @@
+# 753 - Sieradz
+title = c_sieradz
+terrain = hills
+
+# Initial setup
+culture = polish
+religion = slavic_pagan
+
+max_settlements = 4
+b_sieradz = tribal
+# b_piotrkow
+# b_przedborz
+# b_szadek
+# b_radomsko
+# b_turek
+# b_rozprza
+
+# History
+969.1.1 = {
+	religion = catholic
+	b_sieradz = castle
+	b_piotrkow = temple
+	b_przedborz = city
+}

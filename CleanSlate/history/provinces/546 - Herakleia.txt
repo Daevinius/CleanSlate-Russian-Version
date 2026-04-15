@@ -1,0 +1,26 @@
+# 546 - Herakleia
+title = c_herakleia
+terrain = mountain
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 3
+b_herakleia = castle
+b_flaviopolis = city
+# b_polis
+# b_zephyropoli
+# b_amastrine
+# b_calpe
+# b_mariandyni
+
+# History
+# 750.1.1 = { religion = iconoclast }
+# 843.1.1 = { religion = orthodox }
+1209.1.1 = { trade_post = b_spinola }
+
+1325.1.1 = {
+	culture = turkish
+	religion = sunni
+}

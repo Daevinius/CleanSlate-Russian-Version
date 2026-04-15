@@ -1,0 +1,27 @@
+# 593 - Vaspurakan
+title = c_vaspurakan
+terrain = mountain
+
+# Initial setup
+culture = armenian
+religion = miaphysite
+
+max_settlements = 4
+b_haykaberd = castle
+b_van = city
+b_surbkhach = temple
+# b_vostan
+# b_varagavank
+# b_aghtamar
+# b_bakear
+# b_hadamakert
+
+# History
+1091.8.26 = {
+	culture = kurdish
+	religion = sunni
+}
+
+1187.1.1 = {
+	b_vostan = castle
+}

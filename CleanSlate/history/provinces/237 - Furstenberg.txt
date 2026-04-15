@@ -1,0 +1,19 @@
+# 237 - Fürstenberg
+title = c_furstenberg
+terrain = hills
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 4
+b_furstenberg = castle
+b_hirsau = temple
+b_zollern = castle
+# b_villingen
+# b_baar
+# b_haslach
+# b_wolfach
+# b_donaueschingen
+
+# History

@@ -1,0 +1,23 @@
+# 606 - Derbent
+title = c_derbent
+terrain = mountain
+
+# Initial setup
+culture = armenian
+religion = miaphysite
+
+max_settlements = 4
+b_derbent = castle
+b_narinkala = city
+b_juma = temple
+# b_chikkulkan
+# b_kuli
+# b_tayus
+# b_humraj
+# b_datuna
+
+# History
+1259.1.1 = {
+	culture = persian
+	religion = shiite
+}

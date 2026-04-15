@@ -1,0 +1,19 @@
+# 229 - Chur
+title = c_chur
+terrain = mountain
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 3
+b_chur = temple
+b_davos = city
+b_glurns = castle
+# b_churwalden
+# b_maienfeld
+# b_illanz
+# b_thusis
+# b_zuoz
+
+# History

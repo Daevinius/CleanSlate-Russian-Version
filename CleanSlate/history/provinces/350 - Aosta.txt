@@ -1,0 +1,22 @@
+# 350 - Aosta
+title = c_aosta
+terrain = mountain
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 4
+b_fenis = castle
+b_aosta = city
+b_st_jacqueme = temple
+# b_st_ours
+# b_aostachatillon
+# b_st_pierre
+# b_chatel_argent
+# b_arnad
+
+# History
+760.1.1 = { capital = b_aosta }
+829.1.1 = { culture = italian }
+1230.1.1 = { capital = b_fenis }

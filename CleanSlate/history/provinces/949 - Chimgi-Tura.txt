@@ -1,0 +1,21 @@
+# 949 - Chimgi-Tura
+title = c_chimgi-tura
+terrain = steppe
+
+# Initial setup
+culture = cuman
+religion = tengri_pagan
+
+max_settlements = 3
+b_tyumen = tribal
+# b_qashliq
+# b_tobolsk
+# b_tugulym
+# b_novtap
+# b_sumkino
+# b_nizhtavda
+# b_borovskiy
+
+# History
+1227.1.1 = { culture = mongol }
+1313.1.1 = { religion = sunni }

@@ -1,0 +1,20 @@
+# 471 - Chieti
+title = c_chieti
+terrain = mountain
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 4
+b_crecchio = castle
+b_chieti = city
+b_san_salvo = temple
+# b_vasto
+# b_lanciano
+# b_termoli
+# b_atessa
+
+# History
+849.1.1 = { culture = italian }
+1090.1.1 = { trade_post = b_dandolo }

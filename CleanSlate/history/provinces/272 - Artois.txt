@@ -1,0 +1,20 @@
+# 272 - Artois
+title = c_artois
+terrain = plains
+
+# Initial setup
+culture = frankish
+religion = catholic
+
+max_settlements = 5
+b_bethune = castle
+b_arras = city
+b_terwaan = temple
+# b_lens
+# b_lille
+# b_bouvines
+# b_beaumetz
+# b_bapaume
+
+# History
+790.1.1 = { culture = french }

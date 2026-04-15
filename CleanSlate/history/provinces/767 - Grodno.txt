@@ -1,0 +1,28 @@
+# 767 - Grodno
+title = c_grodno
+terrain = plains
+
+# Initial setup
+culture = lithuanian
+religion = baltic_pagan
+
+max_settlements = 4
+b_jacwiez = tribal
+# b_novogrudok
+# b_grodno
+# b_iuje
+# b_skidziel
+# b_mir
+# b_niasvizh
+# b_zirmuny
+
+# History
+1150.1.1 = {
+	b_jacwiez = castle
+	b_grodno = city
+	b_novogrudok = temple
+}
+
+1223.1.1 = {
+	b_niasvizh = castle
+}

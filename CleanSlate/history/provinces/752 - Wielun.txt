@@ -1,0 +1,22 @@
+# 752 - Wielun
+title = c_wielun
+terrain = plains
+
+# Initial setup
+culture = polish
+religion = slavic_pagan
+
+max_settlements = 2
+b_wielun = tribal
+# b_grabow
+# b_ostrzeszow
+# b_wierzchlas
+# b_osjakow
+# b_ostrowek
+# b_czarnozyly
+
+# History
+969.1.1 = {
+	religion = catholic
+	b_wielun = castle
+}

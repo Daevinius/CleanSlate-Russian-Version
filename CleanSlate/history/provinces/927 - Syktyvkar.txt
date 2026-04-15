@@ -1,0 +1,18 @@
+# 927 - Syktyvkar
+title = c_syktyvkar
+terrain = forest
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 2
+b_syktyvkar = tribal
+# b_sysola
+# b_vyl_gort
+# b_pazhga
+# b_choy
+# b_koyty
+# b_zelenets
+
+# History

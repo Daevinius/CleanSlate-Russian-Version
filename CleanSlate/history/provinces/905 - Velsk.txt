@@ -1,0 +1,18 @@
+# 905 - Velsk
+title = c_velsk
+terrain = arctic
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 2
+b_velsk = tribal
+# b_vaga_velsk
+# b_vel_velsk
+# b_kuloy_velsk
+# b_shunema
+# b_pezhma
+# b_shilovskaya
+
+# History

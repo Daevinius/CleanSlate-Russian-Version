@@ -1,0 +1,25 @@
+# 865 - Vozviahel
+title = c_vozviahel
+terrain = plains
+
+# Initial setup
+culture = volhynian
+religion = slavic_pagan
+
+max_settlements = 3
+b_vozvyahel = tribal	# 1257, now "Novohrad-Volynsky"
+# b_korets				# 1150
+# b_horodnytsia			# 1390
+# b_berdytchiv			# 1430
+# b_baranivka			# 1566
+# b_yemilchyne			# 1580
+# b_hrud				# late and small
+
+# History
+867.1.1 = { culture = russian }
+988.1.1 = { religion = orthodox }
+
+1150.1.1 = {
+	b_vozvyahel = castle
+	b_korets = city
+}

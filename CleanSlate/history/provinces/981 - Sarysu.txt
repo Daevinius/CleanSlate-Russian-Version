@@ -1,0 +1,25 @@
+# 981 - Sarysu
+title = c_sarysu
+terrain = steppe
+
+# Initial setup
+culture = pecheneg
+religion = manichaean
+
+max_settlements = 2
+b_sarysu_kazakh = tribal
+# b_aktam
+# b_zhaiylma
+# b_zhanatas
+# b_kumkent
+# b_saudakent
+# b_zhuldyz
+
+# History
+800.1.1 = {
+	culture = cuman
+	religion = tengri_pagan
+}
+
+1227.1.1 = { culture = mongol }
+1313.1.1 = { religion = sunni }

@@ -1,0 +1,21 @@
+# 442 - Milano
+title = c_milano
+terrain = plains
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 6
+b_lodi = castle
+b_milano = city
+b_monza = temple
+b_maggiore = castle
+# b_vigevano
+# b_legnano
+# b_chiavenna
+# b_mendrisio
+
+# History
+869.1.1 = { culture = italian }
+1240.1.1 = { b_chiavenna = castle }

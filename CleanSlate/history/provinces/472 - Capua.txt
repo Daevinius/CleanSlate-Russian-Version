@@ -1,0 +1,22 @@
+# 472 - Capua
+title = c_capua
+terrain = plains
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 5
+b_teano = castle
+b_capua = city
+b_aquino = temple
+b_gaeta = city
+# b_montecassino
+# b_caserta
+# b_calvi
+# b_acerra
+
+# History
+1066.1.1 = { trade_post = b_alliata }
+1107.1.1 = { culture = italian }
+1285.1.1 = { trade_post = b_spinola }

@@ -1,0 +1,23 @@
+# 766 - Sudovia
+title = c_sudovia
+terrain = plains
+
+# Initial setup
+culture = lithuanian
+religion = baltic_pagan
+
+max_settlements = 3
+b_merkine = tribal
+# b_rudamina
+# b_liskiava
+# b_hrodna
+# b_suvalkai
+# b_augustavas
+# b_seiniai
+
+# History
+1187.1.1 = {
+	b_merkine = castle
+	b_rudamina = city
+	b_liskiava = castle
+}

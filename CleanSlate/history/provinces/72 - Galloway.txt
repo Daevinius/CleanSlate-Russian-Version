@@ -1,0 +1,21 @@
+# 72 - Galloway
+title = c_galloway
+terrain = hills
+
+# Initial setup
+culture = welsh
+religion = catholic
+
+max_settlements = 3
+b_dunragit = tribal
+b_whithorn = temple
+# b_dumfries
+# b_dunrod
+# b_kirkcudbright
+# b_glenluce
+# b_wigtown
+# b_threave
+
+# History
+1000.1.1 = { b_dunragit = castle }
+1054.1.1 = { culture = scottish }

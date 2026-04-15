@@ -1,0 +1,34 @@
+# 61 - York
+title = c_york
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 5
+b_york = castle
+b_st_peters = temple
+b_richmond = castle
+b_scarborough = city
+# b_middlesbrough
+# b_whitby
+# b_thirsk
+
+# History
+866.1.1 = {
+	culture = norse
+	religion = norse_pagan
+	b_york = ca_shipyard_1
+	b_st_peters = tp_shipyard_1
+	b_richmond = ca_shipyard_1
+}
+
+954.1.1 = {
+	culture = anglo_saxon
+	religion = catholic
+}
+
+1100.11.11 = {
+	culture = english
+}

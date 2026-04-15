@@ -1,0 +1,33 @@
+# 733 - Wolgast
+title = c_wolgast
+terrain = plains
+
+# Initial setup
+culture = pomeranian
+religion = slavic_pagan
+
+max_settlements = 4
+b_wolgast = tribal
+# b_usedom
+# b_anklam
+# b_ueckermunde
+# b_zinnowitz
+# b_zussow
+# b_kemnitz
+# b_eggesin
+
+# History
+800.1.1 = {
+	b_wolgast = castle
+	b_wolgast = ca_keep_1
+	b_wolgast = ca_militia_barracks_1
+	b_wolgast = ca_wall_1
+	b_wolgast = ca_wall_q_1
+	b_usedom = city
+	b_usedom = ct_barracks_1
+	b_anklam = temple
+	b_anklam = tp_barracks_1
+}
+
+1168.1.1 = { religion = catholic } # Christianity only arrived with the Danish king Valdemar I
+1290.1.1 = { trade_post = b_bardewik }

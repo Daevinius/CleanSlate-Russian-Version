@@ -1,0 +1,37 @@
+# 595 - Lori
+title = c_lori
+terrain = mountain
+
+# Initial setup
+culture = georgian
+religion = orthodox
+
+max_settlements = 3
+b_lori_berd = castle
+b_dzegh = city
+# b_dmanis
+# b_agarak
+# b_hovk
+# b_sanahin
+# b_erkan
+
+# History
+867.1.1 = {
+	culture = armenian
+	religion = miaphysite
+}
+
+1084.1.1 = {
+	culture = kurdish
+	religion = sunni
+}
+
+1219.1.1 = {
+	culture = armenian
+	religion = miaphysite
+}
+
+1320.1.1 = {
+	culture = kurdish
+	religion = sunni
+}

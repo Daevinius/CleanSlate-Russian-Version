@@ -1,0 +1,26 @@
+# 680 - Split
+title = c_split
+terrain = plains
+
+# Initial setup
+culture = dalmatian
+religion = catholic
+
+max_settlements = 4
+b_trogir = castle
+b_split = city
+b_hvar = temple
+# b_solin
+# b_klis
+# b_makarska
+# b_sinj
+
+# History
+769.1.1 = {
+	capital = b_split
+}
+
+1066.1.1 = {
+	culture = croatian
+	trade_post = b_dandolo
+}

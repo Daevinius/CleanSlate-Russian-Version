@@ -1,0 +1,22 @@
+# 928 - Viled
+title = c_viled
+terrain = forest
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 1
+b_bolshaya = tribal
+# b_soyga
+# b_urdoma
+# b_sorovo
+# b_litvino
+# b_lena_bolshaya
+# b_tyva
+
+# History
+1207.1.1 = {
+	culture = russian
+	religion = orthodox
+}

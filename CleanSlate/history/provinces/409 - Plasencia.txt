@@ -1,0 +1,28 @@
+# 409 - Plasencia
+title = c_plasencia
+terrain = plains
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 4
+b_plasencia = castle
+b_hervas = city
+b_jaraiz = temple
+# b_lazarza
+# b_montehermoso
+# b_ventadelmoral
+# b_jarandilla
+# b_talayuela
+
+# History
+943.1.1 = {
+	culture = andalusian
+	religion = sunni
+}
+
+1240.1.1 = {
+	culture = castilian
+	religion = catholic
+}

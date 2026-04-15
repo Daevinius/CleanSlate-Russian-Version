@@ -1,0 +1,20 @@
+# 525 - Naissos
+title = c_naissos
+terrain = hills
+
+# Initial setup
+culture = vlach
+religion = orthodox
+
+max_settlements = 4
+b_koprijan = castle
+b_kumanovo = city
+b_nish = temple
+# b_brdo
+# b_vranje
+# b_lesnovo
+# b_kambelevac
+# b_knjazevac
+
+# History
+892.1.1 = { culture = serbian }

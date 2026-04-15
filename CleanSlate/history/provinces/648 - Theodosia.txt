@@ -1,0 +1,39 @@
+# 648 - Theodosia
+title = c_theodosia
+terrain = steppe
+
+# Initial setup
+culture = crimean_gothic
+religion = orthodox
+
+max_settlements = 5
+b_theodosia = tribal
+# b_soldaia
+# b_kimmerikon
+# b_caffa
+# b_caulita
+# b_olyva
+# b_lusta
+# b_funan
+
+# History
+1050.1.1 = {
+	b_theodosia = castle
+	b_soldaia = city
+	b_kimmerikon = temple
+}
+
+1168.1.1 = {
+	trade_post = b_grimaldi
+}
+
+# 4th Crusade: Under Venetian or Genovese rule
+1204.5.16 = {
+	b_caffa = city
+	b_soldaia = castle
+	capital = b_caffa
+	remove_settlement = b_theodosia
+}
+
+1230.1.1 = { remove_settlement = b_kimmerikon } # Conquered by the Mongols
+1337.1.1 = { b_caulita = castle }

@@ -1,0 +1,20 @@
+# 564 - Limisol
+title = c_limisol
+terrain = plains
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 4
+b_limmassol = castle
+b_paphos = city
+b_arsinoe = temple
+# b_kolossi
+# b_morphou
+# b_agridi
+# b_dieudamour
+# b_khirokitia
+
+# History
+1141.1.1 = { trade_post = b_faliero }

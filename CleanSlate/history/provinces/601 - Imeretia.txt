@@ -1,0 +1,19 @@
+# 601 - Imeretia
+title = c_imeretia
+terrain = hills
+
+# Initial setup
+culture = georgian
+religion = orthodox
+
+max_settlements = 4
+b_geguti = castle
+b_kutaisi = city
+b_bagrati = temple
+# b_tsikhegoji
+# b_khoni
+# b_ghelati
+# b_lentekhi
+# b_motsameta
+
+# History

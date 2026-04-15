@@ -1,0 +1,21 @@
+# 790 - Gdov
+title = c_gdov
+terrain = hills
+
+# Initial setup
+culture = ilmenian
+religion = slavic_pagan
+
+max_settlements = 2
+b_gdov = tribal
+# b_mda
+# b_vyazki
+# b_kolydukha
+# b_plyussa
+# b_strizhki
+# b_zakhodsy
+
+# History
+867.1.1 = { culture = russian }
+988.1.1 = { religion = orthodox }
+1200.1.1 = { b_gdov = castle }

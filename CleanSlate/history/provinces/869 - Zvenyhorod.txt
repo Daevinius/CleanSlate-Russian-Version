@@ -1,0 +1,32 @@
+# 869 - Zvenyhorod
+title = c_zvenyhorod
+terrain = hills
+
+# Initial setup
+culture = volhynian
+religion = slavic_pagan
+
+max_settlements = 4
+b_zvenyhorod = tribal
+# b_lvov
+# b_butsk
+# b_sambir
+# b_udech
+# b_horodok
+# b_rogozhyn
+
+# History
+867.1.1 = {
+	culture = russian
+}
+
+988.1.1 = {
+	religion = orthodox
+	b_zvenyhorod = castle
+	b_lvov = city
+	b_butsk = temple
+}
+
+1187.1.1 = {
+	b_sambir = castle
+}

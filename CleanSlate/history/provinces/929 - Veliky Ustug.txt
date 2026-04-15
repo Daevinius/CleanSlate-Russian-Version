@@ -1,0 +1,23 @@
+# 929 - Veliky Ustyug
+title = c_veliky_ustug
+terrain = arctic
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 2
+b_velikyustug = tribal
+# b_gleden
+# b_krasavino
+# b_luza
+# b_pinyug
+# b_podosinovets
+# b_maromitsa
+# b_oparino
+
+# History
+1207.1.1 = {
+	culture = russian
+	religion = orthodox
+}

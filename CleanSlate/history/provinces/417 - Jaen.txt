@@ -1,0 +1,26 @@
+# 417 - Jaen
+title = c_jaen
+terrain = plains
+
+# Initial setup
+culture = visigothic
+religion = sunni
+
+max_settlements = 4
+b_jaen = castle
+b_andujar = city
+b_huescar = temple
+# b_quesada
+# b_segura
+# b_tiscar
+# b_baeza
+
+# History
+929.1.1 = {
+	culture = andalusian
+}
+
+1251.1.1 = {
+	culture = castilian
+	religion = catholic
+}

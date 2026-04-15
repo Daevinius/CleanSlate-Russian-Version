@@ -1,0 +1,22 @@
+# 640 - Sharukan
+title = c_sharukan
+terrain = steppe
+
+# Initial setup
+culture = hungarian
+religion = tengri_pagan
+
+max_settlements = 5
+b_kharka = tribal
+# b_sumy
+# b_challykala
+# b_khorysdan
+# b_izyum
+# b_balakliia
+# b_kupyansk
+# b_lyubotin
+
+# History
+833.1.1 = { culture = khazar }
+1227.1.1 = { religion = sunni }
+1238.1.1 = { culture = mongol }

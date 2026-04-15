@@ -1,0 +1,22 @@
+# 582 - Trapezous
+title = c_trapezous
+terrain = plains
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 5
+b_trapezous = castle
+b_koralla = city
+b_rizaion = temple
+# b_paiperta
+# b_rizini
+# b_alucra
+# b_kelkit
+# b_dereli
+
+# History
+1187.1.1 = { b_paiperta = castle }
+1245.1.1 = { trade_post = b_spinola }
+1337.1.1 = { b_rizaion = temple }

@@ -1,0 +1,21 @@
+# 275 - Amiens
+title = c_amiens
+terrain = plains
+
+# Initial setup
+culture = frankish
+religion = catholic
+
+max_settlements = 5
+b_peronne = castle
+b_amiens = city
+b_noyon = temple
+# b_corbie
+# b_montdidier
+# b_breteuil
+# b_nesle
+# b_soissons
+
+# History
+790.1.1 = { culture = french }
+1337.1.1 = { b_soissons = city }

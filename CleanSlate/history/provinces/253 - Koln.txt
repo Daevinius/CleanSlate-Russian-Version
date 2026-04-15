@@ -1,0 +1,18 @@
+# 253 - Köln
+title = c_koln
+terrain = plains
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 5
+b_koln = temple
+b_dietz = city
+b_mark = castle
+b_brauweiler = temple
+# b_bonn
+# b_saffenburg
+# b_hochstaden
+
+# History

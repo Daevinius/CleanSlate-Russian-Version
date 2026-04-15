@@ -1,0 +1,20 @@
+# 443 - Como
+title = c_como
+terrain = plains
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 4
+b_albizzate = castle
+b_como = city
+b_varese = temple
+# b_besnate
+# b_valtellina
+# b_sottoceneri
+# b_lecco
+
+# History
+869.1.1 = { culture = italian }
+1066.1.1 = { capital = b_como }

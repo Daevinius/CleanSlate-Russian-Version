@@ -1,0 +1,48 @@
+20.1.1 = {
+	active = no
+}
+
+839.1.1 = {
+	active = yes
+	holding_dynasty = 9591 # Polkarios
+	holder = 6881 # Marinos
+	liege = d_amalfi
+}
+
+870.1.1 = {
+	holder = 168399
+}
+
+879.9.1 = {
+	holder = 168402
+}
+
+915.1.1 = {
+	holder = 168403
+}
+
+945.1.1 = {
+	holder = 168404
+}
+
+970.1.1 = {
+	holder = 168405
+}
+
+990.1.1 = {
+	holder = 168406
+}
+
+1025.1.1 = {
+	holder = 168407
+}
+
+# 1060.1.1 = {
+# 	holder = 168408
+# }
+
+1060.1.1 = {
+	active = no
+	holder = 0
+	liege = 0
+}

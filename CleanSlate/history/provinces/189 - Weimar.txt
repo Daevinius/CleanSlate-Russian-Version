@@ -1,0 +1,19 @@
+# 189 - Weimar
+title = c_weimar
+terrain = farmlands
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 4
+b_weimar = castle
+b_jena = city
+b_gera = temple
+# b_walkenried
+# b_nordhausen
+# b_memelsen
+# b_gotha
+# b_apoldoa
+
+# History

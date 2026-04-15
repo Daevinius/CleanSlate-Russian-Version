@@ -1,0 +1,26 @@
+# 396 - Mértola
+title = c_mertola
+terrain = plains
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 4
+b_mertola = castle
+b_monsaraz = temple
+b_beja = city
+# b_serpa
+# b_noudal
+# b_mourao
+# b_portel
+# b_moura
+
+# History
+811.1.1 = { religion = sunni }
+939.1.1 = { culture = andalusian }
+
+1253.1.1 = {
+	culture = portuguese
+	religion = catholic
+}

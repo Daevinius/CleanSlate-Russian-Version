@@ -1,0 +1,35 @@
+# 187 - Werben
+title = c_werben
+terrain = plains
+
+# Initial setup
+culture = saxon
+religion = norse_pagan
+
+max_settlements = 4
+b_stendal = tribal
+# b_werben
+# b_halberstedt
+# b_walbeck
+# b_luchow
+# b_salzwedel
+# b_osterburg
+# b_tangermunde
+
+# History
+800.1.1 = {
+	culture = pomeranian
+	religion = slavic_pagan
+	b_stendal = castle
+	b_walbeck = city
+	b_halberstedt = temple
+}
+
+1125.1.1 = {
+	culture = german
+	religion = catholic
+}
+
+1181.1.1 = {
+	b_salzwedel = castle
+}

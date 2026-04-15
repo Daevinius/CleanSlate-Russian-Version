@@ -1,0 +1,23 @@
+# 453 - Bologna
+title = c_bologna
+terrain = plains
+
+# Initial setup
+culture = italian
+religion = catholic
+
+max_settlements = 5
+b_bentivoglio = castle
+b_bologna = city
+b_forli = temple
+# b_faenza
+# b_imola
+# b_budno
+# b_castelguelfo
+# b_bagnacavallo
+
+# History
+1139.1.1 = {
+	capital = b_bologna
+	b_imola = city
+}

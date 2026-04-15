@@ -1,0 +1,21 @@
+# 614 - Kuban
+title = c_kuban
+terrain = steppe
+
+# Initial setup
+culture = khazar
+religion = tengri_pagan
+
+max_settlements = 3
+b_khumar = tribal
+# b_kuban
+# b_psekups
+# b_khutor
+# b_podkumok
+# b_coparia
+# b_kirpili
+# b_beshtau
+
+# History
+1227.1.1 = { religion = sunni }
+1238.1.1 = { culture = mongol }

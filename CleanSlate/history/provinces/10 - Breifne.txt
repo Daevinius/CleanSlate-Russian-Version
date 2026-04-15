@@ -1,0 +1,23 @@
+# 10 - Breifne
+title = c_breifne
+terrain = plains
+
+# Initial setup
+culture = irish
+religion = catholic
+
+max_settlements = 3
+b_dromahair = tribal
+b_kells = temple
+# b_kilmore
+# b_cavan
+# b_longford
+# b_ardagh
+# b_leitrim
+# b_drumcliffe
+
+# History
+1000.1.1 = {
+	b_dromahair = castle
+	b_cavan = city
+}

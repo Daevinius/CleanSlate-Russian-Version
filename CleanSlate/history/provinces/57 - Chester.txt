@@ -1,0 +1,20 @@
+# 57 - Chester
+title = c_chester
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 4
+b_chester = castle
+b_halton = temple
+b_macclesfield = city
+# b_malpas
+# b_northwich
+# b_beeston
+# b_sandbach
+# b_nantwich
+
+# History
+1100.11.11 = { culture = english }

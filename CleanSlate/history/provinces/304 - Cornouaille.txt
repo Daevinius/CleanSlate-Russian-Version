@@ -1,0 +1,18 @@
+# 304 - Cornouaille
+title = c_cornouaille
+terrain = plains
+
+# Initial setup
+culture = breton
+religion = catholic
+
+max_settlements = 4
+b_quimper = castle
+b_quimperle = city
+b_landevennec = temple
+# b_lezergue
+# b_concarneau
+# b_chateaulin
+# b_douarnenez
+
+# History

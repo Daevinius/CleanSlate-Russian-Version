@@ -1,0 +1,32 @@
+# 726 - Havelberg
+title = c_havelberg
+terrain = plains
+
+# Initial setup
+culture = pomeranian
+religion = slavic_pagan
+
+max_settlements = 3
+b_lenzen = tribal
+# b_havelberg
+# b_wittstock
+# b_plattenburg
+# b_wilsnack
+# b_jerichow
+# b_schonhausen
+
+# History
+800.1.1 = {
+	b_lenzen = castle
+	b_wittstock = city
+	b_havelberg = temple
+}
+
+983.1.1 = {
+	capital = b_havelberg
+}
+
+1200.1.1 = {
+	culture = german
+	religion = catholic
+}

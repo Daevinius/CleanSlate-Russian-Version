@@ -1,0 +1,19 @@
+# 440 - Monferrato
+title = c_monferrato
+terrain = plains
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 5
+b_monferrato = castle
+b_asti = city
+b_casale = temple
+# b_acqui
+# b_tortona
+# b_alba
+# b_canelli
+
+# History
+982.1.1 = { culture = italian }

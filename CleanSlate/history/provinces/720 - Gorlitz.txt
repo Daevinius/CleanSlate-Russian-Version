@@ -1,0 +1,28 @@
+# 720 - Gorlitz
+title = c_gorlitz
+terrain = hills
+
+# Initial setup
+culture = pomeranian
+religion = slavic_pagan
+
+max_settlements = 3
+b_gorlitz = tribal
+# b_bautzen
+# b_herrhut
+# b_spremberg
+# b_ylustiaberg
+# b_priebus
+# b_bischolow
+
+# History
+800.1.1 = {
+	b_gorlitz = castle
+	b_bautzen = city
+}
+
+1200.1.1 = {
+	culture = german
+	religion = catholic
+	b_herrhut = temple
+}

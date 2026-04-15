@@ -1,0 +1,19 @@
+# 528 - Serdica
+title = c_serdica
+terrain = mountain
+
+# Initial setup
+culture = bulgarian
+religion = orthodox
+
+max_settlements = 4
+b_serdica = castle
+b_velbazhd = city
+b_rila = temple
+# b_etropole
+# b_pernik
+# b_breznik
+# b_pravets
+# b_samundzhievo
+
+# History

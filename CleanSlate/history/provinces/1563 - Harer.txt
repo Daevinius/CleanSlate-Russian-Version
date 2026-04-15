@@ -1,0 +1,19 @@
+# 1563 - Harer
+title = c_harer
+terrain = mountain
+
+# Initial setup
+culture = ethiopian
+religion = sunni
+
+max_settlements = 4
+b_dakkar = castle
+b_harar = temple
+b_alemaya = city
+# b_diridawa
+# b_kurfachele
+# b_kombolcha
+# b_babile
+
+# History
+1187.1.1 = { b_diridawa = castle }

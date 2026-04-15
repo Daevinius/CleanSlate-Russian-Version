@@ -1,0 +1,18 @@
+# 902 - Bjarmia
+title = c_bjarmia
+terrain = arctic
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 2
+b_okladnikowa = tribal
+# b_okulovsky
+# b_kusnezowa
+# b_kamenka_bj
+# b_lampozhnya
+# b_intsy
+# b_kepino
+
+# History

@@ -1,0 +1,42 @@
+# 95 - Vestfold
+title = c_vestfold
+terrain = hills
+
+# Initial setup
+culture = norse
+religion = norse_pagan
+
+max_settlements = 5
+b_skiringssal = tribal
+# b_kaupang
+# b_uvdal
+# b_nore
+# b_tonsberg
+# b_arendall
+# b_re
+# b_horten
+
+# History
+867.1.1 = {
+	b_skiringssal = tb_shipyard_1
+}
+
+1000.1.1 = {
+	b_skiringssal = castle
+	b_skiringssal = ca_shipyard_1
+	b_kaupang = city
+	b_kaupang = ct_port_1
+	b_kaupang = ct_marketplace_1
+	b_uvdal = temple
+	b_uvdal = tp_town_1
+	b_uvdal = tp_shipyard_1
+}
+
+1066.1.1 = {
+	culture = norwegian
+	religion = catholic
+}
+
+1274.1.1 = {
+	trade_post = b_warendorp
+}

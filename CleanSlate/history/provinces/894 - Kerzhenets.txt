@@ -1,0 +1,18 @@
+# 894 - Kerzhenets
+title = c_kerzhenets
+terrain = hills
+
+# Initial setup
+culture = mordvin
+religion = finnish_pagan
+
+max_settlements = 4
+b_yarcalli = tribal
+# b_zay
+# b_cistay
+# b_aznaqay
+# b_bua
+# b_bawli
+# b_cherm
+
+# History

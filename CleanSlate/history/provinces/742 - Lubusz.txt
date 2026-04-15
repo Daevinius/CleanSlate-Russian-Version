@@ -1,0 +1,27 @@
+# 742 - Lubusz
+title = c_lubusz
+terrain = plains
+
+# Initial setup
+culture = polish
+religion = slavic_pagan
+
+max_settlements = 3
+b_lubusz = tribal
+# b_mysliborz
+# b_kostrzyn
+# b_cedynia
+# b_pryzyce
+# b_sulecin
+# b_sulecia
+# b_nadodra
+
+# History
+800.1.1 = { b_lubusz = castle }
+900.1.1 = { b_lubusz = tribal }
+
+990.1.1 = {
+	religion = catholic
+	b_lubusz = castle
+	b_kostrzyn = city
+}

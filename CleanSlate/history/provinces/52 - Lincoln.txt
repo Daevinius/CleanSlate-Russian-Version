@@ -1,0 +1,20 @@
+# 52 - Lincoln
+title = c_lincoln
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 5
+b_gainsborough = castle
+b_lincoln = temple
+b_boston = city
+# b_spalding
+# b_stamford
+# b_grantham
+# b_louth
+# b_bardney
+
+# History
+1100.11.11 = { culture = english }

@@ -1,0 +1,33 @@
+# 821 - Mozhaysk
+title = c_mozhaysk
+terrain = plains
+
+# Initial setup
+culture = meshchera
+religion = finnish_pagan
+
+max_settlements = 3
+b_volgamozhaysk = tribal
+# b_shakhunya
+# b_yaransk
+# b_vakhtan
+# b_varnavino
+# b_kiknur
+# b_tonshaevo
+# b_uren
+
+# History
+867.1.1 = {
+	culture = russian
+	religion = slavic_pagan
+}
+
+988.1.1 = {
+	religion = orthodox
+	b_shakhunya = temple
+}
+
+1150.1.1 = {
+	b_volgamozhaysk = castle
+	b_yaransk = city
+}

@@ -1,0 +1,18 @@
+# 914 - Zavarot
+title = c_zavarot
+terrain = arctic
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 1
+b_zavarot = tribal
+# b_andeg
+# b_kuya
+# b_makarovo
+# b_oksino
+# b_pylemets
+# b_khongurey
+
+# History

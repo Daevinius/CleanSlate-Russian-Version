@@ -1,0 +1,24 @@
+# 748 - Sacz
+title = c_sacz
+terrain = hills
+
+# Initial setup
+culture = polish
+religion = slavic_pagan
+
+max_settlements = 4
+b_nowysacz = tribal
+b_szczyrzycz = temple
+# b_gorlice
+# b_tarnow
+# b_pilzno
+# b_mielec
+# b_biecz
+
+# History
+999.7.1 = {
+	religion = catholic
+	b_nowysacz = castle
+	b_gorlice = city
+	capital = b_szczyrzycz
+}

@@ -1,0 +1,18 @@
+# 959 - Narim
+title = c_narim
+terrain = arctic
+
+# Initial setup
+culture = khanty
+religion = finnish_pagan
+
+max_settlements = 2
+b_narim = tribal
+# b_kolta
+# b_yag
+# b_askiz
+# b_aziz			# Fictional
+# b_aruz			# Fictional
+# b_uros			# Fictional
+
+# History

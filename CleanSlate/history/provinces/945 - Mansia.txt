@@ -1,0 +1,19 @@
+# 945 - Mansia
+title = c_mansia
+terrain = arctic
+
+# Initial setup
+culture = khanty
+religion = finnish_pagan
+
+max_settlements = 2
+b_mansiysk = tribal
+# b_yabin
+# b_yalbak
+# b_pytyakh
+# b_nefteyugansk
+# b_mamontovo
+# b_poykovskiy
+# b_samza
+
+# History

@@ -1,0 +1,19 @@
+# 882 - Kremenchuk
+title = c_kremenchuk
+terrain = steppe
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 2
+b_volgakremenchuk = tribal
+# b_sharan
+# b_mamadich
+# b_albay
+# b_katmysh
+# b_shumbut
+# b_otarka
+
+# History
+923.1.1 = { religion = sunni }

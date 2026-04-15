@@ -1,0 +1,22 @@
+# 941 - Thisageta
+title = c_thisageta
+terrain = hills
+
+# Initial setup
+culture = komi
+religion = finnish_pagan
+
+max_settlements = 1
+b_thisageta = tribal
+# b_chudova
+# b_sarany
+# b_vizhay
+# b_pashiya
+# b_skal_nyy
+# b_promysla
+
+# History
+1227.1.1 = {
+	culture = mongol
+	religion = tengri_pagan
+}

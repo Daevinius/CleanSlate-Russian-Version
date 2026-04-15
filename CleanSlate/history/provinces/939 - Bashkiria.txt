@@ -1,0 +1,20 @@
+# 939 - Bashkiria
+title = c_bashkiria
+terrain = plains
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 4
+b_ufa = tribal
+# b_belebey
+# b_chishmy
+# b_bajmaq
+# b_isembaj
+# b_beloret
+# b_meleus
+# b_sterlitamak
+
+# History
+923.1.1 = { religion = sunni }

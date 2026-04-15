@@ -1,0 +1,24 @@
+# 607 - Balanjar
+title = c_balanjar
+terrain = mountain
+
+# Initial setup
+culture = alan
+religion = tengri_pagan
+
+max_settlements = 3
+b_balanjar = tribal
+# b_shali
+# b_argun
+# b_vedeno
+# b_shatoy
+# b_karata
+# b_kiri
+
+# History
+865.1.1 = {
+	religion = sunni
+	b_shali = castle
+	b_balanjar = castle
+	b_argun = temple
+}

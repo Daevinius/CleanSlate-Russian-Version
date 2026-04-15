@@ -1,0 +1,28 @@
+# 704 - Gemer
+title = c_gemer
+terrain = hills
+
+# Initial setup
+culture = slovien
+religion = slavic_pagan
+
+max_settlements = 4
+b_gomor = tribal
+# b_losonc
+# b_dobsina
+# b_rozsnyo
+# b_balassagyarmat
+# b_jolsva
+# b_nagyroce
+# b_nyustya
+
+# History
+853.1.1 = {
+	religion = catholic
+}
+
+950.1.1 = {
+	b_gomor = castle
+	b_dobsina = city
+	b_losonc = temple
+}

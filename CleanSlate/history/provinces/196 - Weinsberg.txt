@@ -1,0 +1,18 @@
+# 196 - Weinsberg
+title = c_weinsberg
+terrain = plains
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 4
+b_weinsberg = castle
+b_rottenburg = city
+b_uffenheim = city
+# b_weikersheim
+# b_hohlach
+# b_ochsenfurt
+# b_weilerburg
+
+# History

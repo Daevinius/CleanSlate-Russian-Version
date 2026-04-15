@@ -1,0 +1,35 @@
+# 721 - Meissen
+title = c_meissen
+terrain = forest
+
+# Initial setup
+culture = pomeranian
+religion = slavic_pagan
+
+max_settlements = 5
+b_dresden = tribal
+# b_meissen
+# b_dohna
+# b_belgern				# Called Altenburg
+# b_strehla
+# b_rabenau
+# b_wettin
+# b_radeburg
+
+# History
+800.1.1 = {
+	b_dresden = castle
+	b_dohna = city
+	b_meissen = temple
+	b_belgern = castle
+}
+
+1066.1.1 = {
+	culture = german
+	religion = catholic
+}
+
+# Silver mines of Freiberg founded in 1186 (not listed)
+1186.1.1 = {
+	b_radeburg = city
+}

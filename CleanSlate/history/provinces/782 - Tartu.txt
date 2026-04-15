@@ -1,0 +1,35 @@
+# 782 - Tartu
+title = c_tartu
+terrain = forest
+
+# Initial setup
+culture = estonian
+religion = finnish_pagan
+
+max_settlements = 4
+b_fellin = tribal
+# b_tartu
+# b_jarva
+# b_odenpah
+# b_lais
+# b_vastseliina
+# b_kirrumpa
+# b_vanakastre
+
+# History
+1202.1.1 = {
+	b_tartu = temple
+	capital = b_tartu
+}
+
+1224.1.1 = {
+	religion = catholic
+	b_tartu = tp_barracks_1
+	b_fellin = castle
+	b_fellin = ca_keep_1
+	b_fellin = ca_militia_barracks_1
+	b_fellin = ca_wall_1
+	b_fellin = ca_wall_q_1
+	b_jarva = city
+	b_jarva = ct_barracks_1
+}

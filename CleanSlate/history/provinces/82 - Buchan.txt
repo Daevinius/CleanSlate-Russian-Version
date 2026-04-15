@@ -1,0 +1,27 @@
+# 82 - Buchan
+title = c_buchan
+terrain = hills
+
+# Initial setup
+culture = pictish
+religion = catholic
+
+max_settlements = 4
+b_ellon = tribal
+b_st_machar = temple
+# b_aberdeen
+# b_banff
+# b_deer
+# b_kintore
+# b_inverurie
+# b_fyvie
+
+# History
+848.1.1 = {
+	culture = scottish
+}
+
+1000.1.1 = {
+	b_ellon = castle
+	b_aberdeen = city
+}

@@ -1,0 +1,24 @@
+20.1.1 = {
+	active = no
+}
+
+740.1.1 = {
+	active = yes
+	holding_dynasty = 1022326 # Monegario
+	holder = 145916
+	liege = d_venice
+}
+
+772.1.1 = {
+	holder = 145917
+}
+
+801.1.1 = {
+	holder = 145918
+}
+
+811.1.1 = {
+	active = no
+	holder = 0
+	liege = 0
+}

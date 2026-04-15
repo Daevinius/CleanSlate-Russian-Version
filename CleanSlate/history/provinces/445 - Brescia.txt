@@ -1,0 +1,27 @@
+# 445 - Brescia
+title = c_brescia
+terrain = mountain
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 4
+b_bergamo = castle
+b_brescia = city
+b_peschiera = temple
+# b_treviglio
+# b_salo
+# b_lumezzane
+# b_montichiari
+# b_castiglione
+
+# History
+829.1.1 = { culture = italian }
+# 1115.7.24 = { capital = b_brescia }
+1173.1.1 = { capital = b_brescia }
+1220.1.1 = { capital = b_bergamo }
+1281.1.1 = { capital = b_brescia }
+1298.1.1 = { capital = b_bergamo }
+1313.1.1 = { capital = b_brescia }
+1319.1.1 = { capital = b_bergamo }

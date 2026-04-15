@@ -1,0 +1,24 @@
+# 716 - Plzen
+title = c_plzen
+terrain = forest
+
+# Initial setup
+culture = bohemian
+religion = slavic_pagan
+
+max_settlements = 4
+b_plzen = tribal
+# b_plasy
+# b_stribo
+# b_klatovy
+# b_kladruby
+# b_primda
+# b_domazlice
+
+# History
+883.1.1 = {
+	religion = catholic
+	b_plzen = castle
+	b_plasy = temple
+	b_stribo = city
+}

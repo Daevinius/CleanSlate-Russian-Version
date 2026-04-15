@@ -1,0 +1,19 @@
+# 466 - Spoleto
+title = c_spoleto
+terrain = mountain
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 4
+b_spoleto = castle
+b_foligno = city
+b_terni = temple
+# b_nursia
+# b_todi
+# b_valva
+# b_cascia
+
+# History
+849.1.1 = { culture = italian }

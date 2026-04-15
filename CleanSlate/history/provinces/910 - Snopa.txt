@@ -1,0 +1,18 @@
+# 910 - Snopa
+title = c_snopa
+terrain = arctic
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 1
+b_verkhmgla = tribal
+# b_yazhma
+# b_sukhanikha
+# b_arkhipovo
+# b_vizhas
+# b_tarasova
+# b_kiya
+
+# History

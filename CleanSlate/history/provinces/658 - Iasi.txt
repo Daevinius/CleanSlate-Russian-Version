@@ -1,0 +1,29 @@
+# 658 - Iasi
+title = c_iasi
+terrain = plains
+
+# Initial setup
+culture = volhynian
+religion = slavic_pagan
+
+max_settlements = 5
+b_iasi = tribal
+# b_harlau
+# b_hotin
+# b_cernauti
+# b_dorohoi
+# b_varzaresti
+# b_ungheni
+
+# History
+867.1.1 = {
+	culture = russian
+	b_iasi = castle
+	b_harlau = city
+	b_hotin = temple
+	b_cernauti = castle
+}
+
+988.1.1 = {
+	religion = orthodox
+}

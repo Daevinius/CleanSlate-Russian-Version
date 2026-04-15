@@ -1,0 +1,22 @@
+# 943 - Vishera
+title = c_vishera
+terrain = arctic
+
+# Initial setup
+culture = komi
+religion = finnish_pagan
+
+max_settlements = 1
+b_vishera = tribal
+# b_akchim
+# b_yazva
+# b_vels
+# b_moyva
+# b_lypiya
+# b_niols
+
+# History
+1227.1.1 = {
+	culture = mongol
+	religion = tengri_pagan
+}

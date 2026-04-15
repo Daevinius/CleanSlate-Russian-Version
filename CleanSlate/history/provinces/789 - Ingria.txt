@@ -1,0 +1,28 @@
+# 789 - Ingria
+title = c_ingria
+terrain = forest
+
+# Initial setup
+culture = estonian
+religion = finnish_pagan
+
+max_settlements = 2
+b_noteborg = tribal
+# b_nyen
+# b_kingisepp
+# b_jogopera
+# b_ivanovskaya
+# b_nosok
+# b_liivtsula
+# b_khotchino
+
+# History
+1150.1.1 = {
+	religion = orthodox
+	b_noteborg = castle
+	b_ivanovskaya = castle # Swedish fortress
+}
+
+1313.1.1 = {
+	trade_post = b_wittenborg
+}

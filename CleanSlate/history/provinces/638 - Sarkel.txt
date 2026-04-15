@@ -1,0 +1,22 @@
+# 638 - Sarkel
+title = c_sarkel
+terrain = steppe
+
+# Initial setup
+culture = khazar
+religion = tengri_pagan
+
+max_settlements = 4
+b_sarkel = tribal
+# b_kazarki
+# b_belayavezha
+# b_semikarakorsk
+# b_ustdonetskiy
+# b_kotelnikovo
+# b_tsimlyanskoye
+# b_nizhchir
+
+# History
+1060.1.1 = { culture = cuman }
+1227.1.1 = { religion = sunni }
+1238.1.1 = { culture = mongol }

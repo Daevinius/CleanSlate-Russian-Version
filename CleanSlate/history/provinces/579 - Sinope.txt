@@ -1,0 +1,22 @@
+# 579 - Sinope
+title = c_sinope
+terrain = plains
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 4
+b_talaura = castle
+b_sinope = city
+b_themiscyra = temple
+# b_carusus
+# b_laodicea_sinope
+# b_halys_sinope
+# b_andrapa
+
+# History
+# 740.1.1 = { religion = iconoclasm }
+# 843.1.1 = { religion = orthodox }
+1222.1.1 = { trade_post = b_spinola }
+# 1337.1.1 = { b_talaura = castle }

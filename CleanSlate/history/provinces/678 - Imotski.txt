@@ -1,0 +1,27 @@
+# 678 - Imotski
+title = c_imotski
+terrain = hills
+
+# Initial setup
+culture = croatian
+religion = slavic_pagan
+
+max_settlements = 3
+b_topana = tribal
+# b_imotski
+# b_grude
+# b_blagaj
+# b_posusje
+# b_duvno
+# b_livno
+
+# History
+800.1.1 = {
+	religion = orthodox
+	b_topana = castle
+	b_imotski = city
+}
+
+1000.1.1 = {
+	culture = bosnian
+}

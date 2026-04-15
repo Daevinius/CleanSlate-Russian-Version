@@ -1,0 +1,19 @@
+# 458 - Arezzo
+title = c_arezzo
+terrain = mountain
+
+# Initial setup
+culture = italian
+religion = catholic
+
+max_settlements = 4
+b_lucignano = temple
+b_montevarchi = castle
+b_arezzo = city
+# b_sansepolcro
+# b_castiglione_arezzo
+# b_cortona
+# b_civitella_del_vescovo
+
+# History
+1098.1.1 = { capital = b_arezzo }

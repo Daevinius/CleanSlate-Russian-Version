@@ -1,0 +1,51 @@
+# 715 - South Bohemia
+title = c_south_bohemia
+terrain = hills
+
+# Initial setup
+culture = bohemian
+religion = slavic_pagan
+
+max_settlements = 5
+b_prachen = tribal
+# b_doudleby
+# b_chynov
+# b_hohenfurth
+# b_rosenberg
+# b_budejovice
+# b_pisek
+# b_krumlov
+# b_goldenkron
+
+# History
+883.1.1 = {
+	religion = catholic
+}
+
+900.1.1 = {
+	b_prachen = castle
+	b_doudleby = city
+	b_hohenfurth = temple
+}
+
+# Changing structure of power
+1243.1.1 = {
+	b_pisek = castle
+	capital = b_pisek
+	remove_settlement = b_prachen
+}
+
+1250.1.1 = {
+	b_rosenberg = castle
+}
+
+# German colonists invited
+# Elvain: quoted out cultural change. Colonists were invited, but only to cities, the country remained mainly Czech/Bohemian
+# 1259.1.1 = {
+#	culture = german
+# }
+
+1265.1.1 = {
+	b_budejovice = city
+	remove_settlement = b_doudleby
+}

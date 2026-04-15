@@ -1,0 +1,28 @@
+# 745 - Upper Silesia
+title = c_upper_silesia
+terrain = forest
+
+# Initial setup
+culture = polish
+religion = slavic_pagan
+
+max_settlements = 5
+b_opole = tribal
+# b_lubliniec
+# b_kozle
+# b_strzelce
+# b_rybnik
+# b_siewerz
+# b_raciborz
+
+# History
+990.1.1 = {
+	religion = catholic
+	b_opole = castle
+	b_lubliniec = temple
+	b_kozle = city
+}
+
+1250.1.1 = {
+	culture = german # German Settlers
+}

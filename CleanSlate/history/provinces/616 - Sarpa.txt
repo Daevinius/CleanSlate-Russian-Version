@@ -1,0 +1,21 @@
+# 616 - Sarpa
+title = c_sarpa
+terrain = steppe
+
+# Initial setup
+culture = khazar
+religion = tengri_pagan
+
+max_settlements = 3
+b_elst = tribal
+# b_bachanta
+# b_ikburul
+# b_karatchaplak
+# b_yashkul
+# b_ketchenery
+# b_yashalta
+# b_ysaganaman
+
+# History
+1227.1.1 = { religion = sunni }
+1238.1.1 = { culture = mongol }

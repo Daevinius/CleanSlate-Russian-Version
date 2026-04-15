@@ -1,0 +1,33 @@
+# 416 - Cordoba
+title = c_cordoba
+terrain = plains
+
+# Initial setup
+culture = visigothic
+religion = sunni
+
+max_settlements = 6
+b_alcolea = castle
+b_cordoba = temple
+b_lucena = city
+b_cabra = temple
+b_belalcazar = castle
+# b_martos
+# b_canetedelastorres
+
+# History
+
+929.1.1 = { culture = andalusian }
+1031.1.1 = { capital = b_lucena }
+1070.1.1 = { capital = b_alcolea }
+
+1236.1.1 = {
+	b_cordoba = castle
+	capital = b_belalcazar
+	remove_settlement = b_alcolea
+}
+
+1251.1.1 = {
+	culture = castilian
+	religion = catholic
+}

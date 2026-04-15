@@ -1,0 +1,27 @@
+# 576 - Paphlagonia
+title = c_paphlagonia
+terrain = mountain
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 4
+b_safranbolu = castle
+b_anastasiopolis = city
+b_gangra = temple
+# b_cabira
+# b_bolu
+# b_zaliscus
+# b_leontopolis
+
+# History
+# 730.1.1 = { religion = iconoclasm }
+# 850.1.1 = { religion = orthodox }
+1187.1.1 = { b_safranbolu = castle } # The Seljuks take over Anatolia
+
+# Fourth Crusade
+1204.5.16 = {
+	culture = turkish
+	religion = sunni
+}

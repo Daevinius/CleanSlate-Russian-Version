@@ -1,0 +1,19 @@
+# 199 - Bamberg
+title = c_bamberg
+terrain = forest
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 4
+b_babenberg = castle
+b_bamberg = temple
+b_roth = city
+# b_ansbach
+# b_cadolzburg
+# b_colmberg
+# b_crailsheim
+
+# History
+1337.1.1 = { b_ansbach = castle }

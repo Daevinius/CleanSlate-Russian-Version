@@ -1,0 +1,20 @@
+# 455 - Parma
+title = c_parma
+terrain = mountain
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 5
+b_parma = castle
+b_guastalla = temple
+b_laspezia = city
+# b_massa
+# b_fornovo
+# b_fidenza
+# b_fontanellato
+# b_noceto
+
+# History
+849.1.1 = { culture = italian }

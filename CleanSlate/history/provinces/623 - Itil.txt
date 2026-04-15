@@ -1,0 +1,21 @@
+# 623 - Itil
+title = c_itil
+terrain = steppe
+
+# Initial setup
+culture = khazar
+religion = tengri_pagan
+
+max_settlements = 5
+b_itil = tribal
+b_xacitarxan = temple
+# b_khaganbaligh
+# b_kamyzyak
+# b_kharabali
+# b_alga
+# b_tumak
+
+# History
+808.1.1 = { religion = jewish }
+1089.1.1 = { religion = sunni }
+1227.1.1 = { culture = mongol }

@@ -1,0 +1,20 @@
+# 437 - Saluzzo
+title = c_saluzzo
+terrain = mountain
+
+# Initial setup
+culture = lombard
+religion = catholic
+
+max_settlements = 3
+b_saluzzo = castle
+b_cuneo = city
+b_pinerolo = temple
+# b_savigliano
+# b_busca
+# b_paesana
+# b_verzuolo
+# b_caraglio
+
+# History
+829.1.1 = { culture = italian }

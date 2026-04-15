@@ -1,0 +1,30 @@
+# 375 - Burgos
+title = c_burgos
+terrain = hills
+
+# Initial setup
+culture = visigothic
+religion = catholic
+
+max_settlements = 5
+b_castrobarte = castle
+b_burgos = city
+b_silos = temple
+# b_aguilardecampo
+# b_mirandadeebro
+# b_arandadeduero
+# b_carrion
+
+# History
+867.1.1 = {
+	b_castrobarte = ca_town_1
+	b_castrobarte = ca_keep_1
+	b_castrobarte = ca_stable_1
+	b_castrobarte = ca_militia_barracks_1
+	b_castrobarte = ca_wall_1
+	b_castrobarte = ca_wall_2
+}
+
+945.1.1 = {
+	culture = castilian
+}

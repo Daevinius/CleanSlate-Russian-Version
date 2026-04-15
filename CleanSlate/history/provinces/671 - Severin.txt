@@ -1,0 +1,19 @@
+# 671 - Severin
+title = c_severin
+terrain = plains
+
+# Initial setup
+culture = vlach
+religion = slavic_pagan
+
+max_settlements = 4
+b_severin = castle
+b_mehadia = city
+b_orsova = temple
+# b_drobeta
+# b_caransebes
+# b_gradet
+# b_vodita
+
+# History
+870.1.1 = { religion = orthodox }

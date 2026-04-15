@@ -1,0 +1,28 @@
+# 804 - Rostov
+title = c_rostov
+terrain = plains
+
+# Initial setup
+culture = mordvin
+religion = finnish_pagan
+
+max_settlements = 4
+b_sarskoyegorodishche = tribal		# 800
+# b_rostov							# 862
+# b_spasoyakovlevsky				# 14th
+# b_lvy
+# b_yepikharka
+# b_rezanka
+# b_kondakovo
+
+# History
+988.1.1 = {
+	culture = russian
+	religion = orthodox
+	b_sarskoyegorodishche = castle
+	b_rostov = city
+}
+
+1150.1.1 = {
+	b_spasoyakovlevsky = temple
+}

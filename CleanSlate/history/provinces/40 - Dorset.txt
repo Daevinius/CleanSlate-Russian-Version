@@ -1,0 +1,21 @@
+# 40 - Dorset
+title = c_dorset
+terrain = farmlands
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 5
+b_wareham = castle
+b_sherborne = temple
+b_dorchester = city
+# b_corfe
+# b_shaftesbury
+# b_lyme
+# b_weymouth
+# b_wimborne
+
+# History
+1100.11.11 = { culture = english }
+1187.1.1 = { b_corfe = castle }

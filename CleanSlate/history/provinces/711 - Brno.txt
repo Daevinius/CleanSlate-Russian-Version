@@ -1,0 +1,44 @@
+# 711 - Brno
+title = c_brno
+terrain = forest
+
+# Initial setup
+culture = slovien
+religion = slavic_pagan
+
+max_settlements = 4
+b_veligrad = tribal
+b_rajhrad = temple
+# b_brno
+# b_mikulcice
+# b_zdar
+# b_svitavy
+# b_pernstejn
+# b_hodonin
+# b_boskovice
+
+# History
+800.1.1 = {
+	b_veligrad = castle
+	b_mikulcice = city
+}
+
+842.1.1 = {
+	religion = catholic
+}
+
+# Magyar destruction of Great Moravia
+907.1.1 = {
+	b_brno = castle
+	capital = b_brno
+	remove_settlement = b_veligrad
+	remove_settlement = b_mikulcice
+}
+
+1030.1.1 = { b_hodonin = city }
+1103.1.1 = { culture = bohemian }
+
+1252.1.1 = {
+	b_zdar = temple
+	remove_settlement = b_rajhrad
+}

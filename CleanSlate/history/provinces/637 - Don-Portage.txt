@@ -1,0 +1,23 @@
+# 637 - Don-Portage
+title = c_don-portage
+terrain = steppe
+
+# Initial setup
+culture = khazar
+religion = tengri_pagan
+
+max_settlements = 3
+b_kalach = tribal
+# b_illovlya
+# b_ryumino
+# b_loq
+# b_illevka
+# b_donskoy
+# b_tary
+# b_ozerki
+
+# History
+826.1.1 = { culture = pecheneg }
+1060.1.1 = { culture = cuman }
+1227.1.1 = { religion = sunni }
+1238.1.1 = { culture = mongol }

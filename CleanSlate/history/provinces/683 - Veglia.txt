@@ -1,0 +1,34 @@
+# 683 - Veglia
+title = c_veglia
+terrain = plains
+
+# Initial setup
+culture = dalmatian
+religion = catholic
+
+max_settlements = 4
+b_veglia = tribal
+# b_krk
+# b_kraljevica
+# b_frankopan
+# b_bakar
+# b_crikvenica
+# b_cres
+# b_vrbovsko
+
+# History
+769.1.1 = {
+	b_frankopan = castle
+	b_veglia = city
+	b_krk = temple
+	capital = b_veglia
+}
+
+1000.1.1 = {
+	culture = croatian
+	capital = b_frankopan
+}
+
+1146.1.1 = {
+	trade_post = b_contarini
+}

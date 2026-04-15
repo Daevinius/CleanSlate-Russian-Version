@@ -1,0 +1,18 @@
+# 242 - Saarbrucken
+title = c_saarbrucken
+terrain = plains
+
+# Initial setup
+culture = german
+religion = catholic
+
+max_settlements = 3
+b_saarbrucken = castle
+b_merkingen = city
+b_st_arnual = temple
+# b_fechingen
+# b_eschringen
+# b_malstatt
+# b_dudweiler
+
+# History

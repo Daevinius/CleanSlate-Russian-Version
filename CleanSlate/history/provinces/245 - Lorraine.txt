@@ -1,0 +1,21 @@
+# 245 - Lorraine
+title = c_lorraine
+terrain = forest
+
+# Initial setup
+culture = frankish
+religion = catholic
+
+max_settlements = 5
+b_nancy = castle
+b_sarrebourg = city
+b_toul = temple
+# b_epinal
+# b_luneville
+# b_charpeigne
+# b_mortagnedevosges
+# b_saintavoid
+
+# History
+790.1.1 = { culture = german }
+1187.1.1 = { b_luneville = castle }

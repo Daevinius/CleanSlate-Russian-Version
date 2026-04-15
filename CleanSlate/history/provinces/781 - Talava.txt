@@ -1,0 +1,31 @@
+# 781 - Talava
+title = c_talava
+terrain = forest
+
+# Initial setup
+culture = latgalian
+religion = baltic_pagan
+
+max_settlements = 3
+b_satekle = tribal
+# b_metsene
+# b_trikata
+# b_gulbene
+# b_aluksne
+# b_imera
+# b_vijciems
+
+# History
+1202.1.1 = {
+	b_satekle = castle
+	b_satekle = ca_keep_1
+	b_satekle = ca_militia_barracks_1
+	b_satekle = ca_wall_1
+	b_satekle = ca_wall_q_1
+	b_metsene = temple
+	b_metsene = tp_barracks_1
+}
+
+1290.1.1 = {
+	religion = catholic
+}

@@ -1,0 +1,28 @@
+# 870 - Terebovl
+title = c_terebovl
+terrain = plains
+
+# Initial setup
+culture = volhynian
+religion = slavic_pagan
+
+max_settlements = 3
+b_terebovl = tribal
+# b_mykulyn
+# b_onut
+# b_kuchelemyn
+# b_bakota
+# b_moklekov
+# b_dolyna
+
+# History
+867.1.1 = {
+	culture = russian
+}
+
+988.1.1 = {
+	religion = orthodox
+	b_terebovl = castle
+	b_mykulyn = city
+	b_onut = temple
+}

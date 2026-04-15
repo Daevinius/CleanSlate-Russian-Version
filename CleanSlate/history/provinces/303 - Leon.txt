@@ -1,0 +1,18 @@
+# 303 - Léon
+title = c_french_leon
+terrain = plains
+
+# Initial setup
+culture = breton
+religion = catholic
+
+max_settlements = 3
+b_st_pol_de_leon = castle
+b_brest = city
+# b_morlaix
+# b_roscoff
+# b_landerneau
+# b_plouescat
+# b_breles
+
+# History

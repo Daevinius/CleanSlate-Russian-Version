@@ -1,0 +1,20 @@
+# 996 - Western Sayan
+title = c_western_sayan
+terrain = mountain
+
+# Initial setup
+culture = uyghur
+religion = tengri_pagan
+
+max_settlements = 3
+b_muztau = tribal
+# b_zyryan
+# b_oskemen
+# b_urunkhayka
+# b_kurchum
+# b_uryl
+# b_khokh_khot			# Fictional
+
+# History
+1227.1.1 = { culture = mongol }
+1313.1.1 = { religion = sunni }

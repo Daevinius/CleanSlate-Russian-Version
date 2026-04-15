@@ -1,0 +1,29 @@
+# 74 - Clydesdale
+title = c_clydesdale
+terrain = plains
+
+# Initial setup
+culture = welsh
+religion = catholic
+
+max_settlements = 4
+b_dumbarton = tribal
+b_st_kentigern = temple
+# b_renfrew
+# b_glasgow
+# b_lanark
+# b_cadzow
+# b_bothwell
+# b_lesmahagow
+
+1000.1.1 = {
+	b_dumbarton = castle
+	b_glasgow = city
+}
+
+1054.1.1 = {
+	culture = scottish
+	b_lanark = castle
+	capital = b_lanark
+	remove_settlement = b_dumbarton
+}

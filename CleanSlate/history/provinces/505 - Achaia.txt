@@ -1,0 +1,21 @@
+# 505 - Achaia
+title = c_achaia
+terrain = mountain
+
+# Initial setup
+culture = greek
+religion = orthodox
+
+max_settlements = 3
+b_patras = castle
+b_andravida = city
+# b_pyrgos
+# b_kalavryta
+# b_akova
+# b_chalandritza
+# b_karditza
+# b_geraki
+
+# History
+1099.1.1 = { trade_post = b_morosini }
+1205.1.1 = { b_kalavryta = castle }

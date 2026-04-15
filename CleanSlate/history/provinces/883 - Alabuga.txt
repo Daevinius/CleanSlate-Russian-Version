@@ -1,0 +1,19 @@
+# 883 - Alabuga
+title = c_alabuga
+terrain = steppe
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 3
+b_alabuga = tribal
+# b_sarapul
+# b_siva
+# b_bima
+# b_lyali
+# b_agryz
+# b_mozhga
+
+# History
+923.1.1 = { religion = sunni }

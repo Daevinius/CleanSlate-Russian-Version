@@ -1,0 +1,23 @@
+# 769 - Nalsia
+title = c_nalsia
+terrain = plains
+
+# Initial setup
+culture = lithuanian
+religion = baltic_pagan
+
+max_settlements = 3
+b_kernave = tribal
+# b_utena
+# b_svencionys
+# b_nemencine
+# b_ukmerge
+# b_anyksciai
+# b_nerisia
+
+# History
+1200.1.1 = {
+	b_kernave = castle
+	b_utena = temple
+	b_svencionys = city
+}

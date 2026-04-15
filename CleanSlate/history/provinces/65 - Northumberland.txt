@@ -1,0 +1,20 @@
+# 65 - Northumberland
+title = c_northumberland
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 4
+b_bamburgh = castle
+b_st_aidans = temple
+b_newcastle = city
+# b_morpeth
+# b_hexham
+# b_alnwick
+# b_mitford
+
+# History
+1100.11.11 = { culture = english }
+1309.1.1 = { b_alnwick = castle }

@@ -1,0 +1,19 @@
+# 900 - Onega
+title = c_onega
+terrain = forest
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 2
+b_shenkursk = tribal
+# b_solovetsky
+# b_konosha
+# b_nyandoma
+# b_plesetsk
+# b_samoded
+# b_obozerskiy
+
+# History
+1150.1.1 = { religion = orthodox }

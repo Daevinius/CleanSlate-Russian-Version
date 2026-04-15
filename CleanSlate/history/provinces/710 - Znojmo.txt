@@ -1,0 +1,46 @@
+# 710 - Znojmo
+title = c_znojmo
+terrain = hills
+
+# Initial setup
+culture = slovien
+religion = slavic_pagan
+
+max_settlements = 4
+b_znojmo = tribal
+b_trebic = temple
+# b_mikulov
+# b_pohansko
+# b_jihlava
+# b_bitov
+# b_vranov
+# b_telc
+# b_louka
+# b_eibenshitz
+
+# History
+831.1.1 = {
+	religion = catholic
+}
+
+900.1.1 = {
+	b_znojmo = castle
+	b_mikulov = city
+	b_trebic = temple
+	b_pohansko = castle
+}
+
+907.1.1 = { remove_settlement = b_pohansko } # Magyar destruction of Great Moravia
+1101.1.1 = { culture = bohemian }
+1160.1.1 = { culture = german } # German colonization of southern parts
+
+# Shift of power in the area
+1197.1.1 = {
+	b_eibenshitz = castle
+	capital = b_eibenshitz
+	remove_settlement = b_znojmo
+}
+
+1277.1.1 = {
+	b_trebic = city
+}

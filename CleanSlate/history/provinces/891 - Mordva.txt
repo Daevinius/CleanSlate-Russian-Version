@@ -1,0 +1,19 @@
+# 891 - Mordva
+title = c_mordva
+terrain = steppe
+
+# Initial setup
+culture = mordvin
+religion = finnish_pagan
+
+max_settlements = 4
+b_saransk = tribal
+# b_insar
+# b_temnikow
+# b_ardatovo
+# b_krasnoslobodsk
+# b_yalga
+# b_penza
+# b_yavas
+
+# History

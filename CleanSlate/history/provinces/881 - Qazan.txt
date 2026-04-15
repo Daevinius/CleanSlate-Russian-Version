@@ -1,0 +1,21 @@
+# 881 - Qazan
+title = c_qazan
+terrain = steppe
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 4
+b_qazan = tribal
+# b_osa
+# b_chastye
+# b_usttuntor
+# b_krmayak
+# b_pal
+# b_uymuzh
+# b_belyaevka
+# b_pakli
+
+# History
+923.1.1 = { religion = sunni }

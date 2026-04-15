@@ -1,0 +1,30 @@
+# 991 - Dünkheger
+title = c_dunkheger
+terrain = plains
+
+# Initial setup
+culture = uyghur
+religion = manichaean
+
+max_settlements = 3
+b_dunkheger = tribal
+# b_dunkheger
+# b_hou_pulei
+# b_yulishi
+# b_mori
+# b_hengling			# Fictional
+# b_dawuqiao			# Fictional
+# b_majiajie			# Fictional
+
+# History
+900.1.1 = {
+	religion = buddhist
+}
+
+1227.1.1 = {
+	culture = mongol
+	religion = tengri_pagan
+}
+
+1279.1.1 = { b_dunkheger = castle }
+1280.1.1 = { b_hou_pulei = temple } # establishment of military colony

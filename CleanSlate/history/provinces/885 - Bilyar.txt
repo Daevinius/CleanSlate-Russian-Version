@@ -1,0 +1,20 @@
+# 885 - Bilyar
+title = c_bilyar
+terrain = steppe
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 3
+b_bilyar = tribal
+# b_tukhchin
+# b_cukataw
+# b_urussu
+# b_bogulma
+# b_bryakhimov
+# b_nurlat
+# b_dzhalil
+
+# History
+923.1.1 = { religion = sunni }

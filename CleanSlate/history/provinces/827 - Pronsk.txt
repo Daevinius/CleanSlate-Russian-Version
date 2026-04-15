@@ -1,0 +1,32 @@
+# 827 - Pronsk
+title = c_pronsk
+terrain = plains
+
+# Initial setup
+culture = mordvin
+religion = finnish_pagan
+
+max_settlements = 4
+b_pronsk = tribal					# 1186
+# b_skopin							# 12th
+# b_likharevskoye_gorodishch		# 12th
+# b_mikhaylov						# 1551
+# b_pavelets
+# b_oktyabrsky
+# b_gryaznoye
+
+# History
+867.1.1 = {
+	culture = russian
+	religion = slavic_pagan
+}
+
+988.1.1 = {
+	religion = orthodox
+}
+
+1186.1.1 = {
+	b_pronsk = castle
+	b_skopin = temple
+	b_likharevskoye_gorodishch = city
+}

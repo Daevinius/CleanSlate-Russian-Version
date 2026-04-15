@@ -1,0 +1,22 @@
+# 259 - Friesland
+title = c_friesland
+terrain = farmlands
+
+# Initial setup
+culture = frisian
+religion = catholic
+
+max_settlements = 5
+b_groningen = castle
+b_stavoren = city
+b_dokkum = temple
+# b_leeuwarden
+# b_bolsward
+# b_franeker
+# b_assen
+# b_harlingen
+
+# History
+790.1.1 = { culture = dutch }
+1227.1.1 = { capital = b_dokkum }
+1297.1.1 = { trade_post = b_warendorp }

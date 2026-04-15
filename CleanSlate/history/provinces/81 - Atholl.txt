@@ -1,0 +1,28 @@
+# 81 - Atholl
+title = c_atholl
+terrain = hills
+
+# Initial setup
+culture = pictish
+religion = catholic
+
+max_settlements = 3
+b_blair_atholl = tribal
+b_fortingall = temple
+# b_glen_dochart
+# b_pitlochry
+# b_grandtully
+# b_rannoch
+# b_strathardle
+# b_struan
+# b_anthrachs
+
+# History
+848.1.1 = {
+	culture = scottish
+}
+
+1000.1.1 = {
+	b_blair_atholl = castle
+	b_pitlochry = city
+}

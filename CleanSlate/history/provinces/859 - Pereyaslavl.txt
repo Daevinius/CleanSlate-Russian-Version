@@ -1,0 +1,27 @@
+# 859 - Pereyaslavl
+title = c_pereyaslavl
+terrain = hills
+
+# Initial setup
+culture = severian
+religion = slavic_pagan
+
+max_settlements = 4
+b_pereyaslavl = tribal	# 907
+# b_boryspil			# 1015
+# b_kozelets			# 1098
+# b_baryshivka			# 1125
+# b_yahotyn				# 1552
+# b_velyka_dymerka		# 1552
+# b_berezan				# 1616
+
+# History
+833.1.1 = { culture = russian }
+988.1.1 = { religion = orthodox }
+
+1150.1.1 = {
+	b_pereyaslavl = castle
+	b_boryspil = temple
+	b_kozelets = city
+	b_baryshivka = castle
+}

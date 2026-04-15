@@ -1,0 +1,20 @@
+# 666 - Calarasi
+title = c_calarasi
+terrain = plains
+
+# Initial setup
+culture = bolghar
+religion = tengri_pagan
+
+max_settlements = 3
+b_calarasi = castle
+b_coconi = city
+# b_cornatei
+# b_floci
+# b_oltenita
+# b_slobozia
+# b_fetesti
+
+# History
+892.1.1 = { culture = vlach }
+900.1.1 = { religion = orthodox }

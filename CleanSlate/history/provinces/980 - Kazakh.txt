@@ -1,0 +1,25 @@
+# 980 - Kazakh
+title = c_kazakh
+terrain = steppe
+
+# Initial setup
+culture = pecheneg
+religion = manichaean
+
+max_settlements = 2
+b_zhezdi = tribal
+# b_zhairem
+# b_zhezkazgan
+# b_karsakpay
+# b_jezkazgan
+# b_kengir
+# b_zhezgir			# Fictional
+
+# History
+800.1.1 = {
+	culture = cuman
+	religion = tengri_pagan
+}
+
+1227.1.1 = { culture = mongol }
+1313.1.1 = { religion = sunni }

@@ -1,0 +1,13 @@
+850.1.1 = {
+	holder = 258105
+	liege = k_mongolia
+	historical_nomad = yes
+}
+
+893.6.7 = {
+	holder = 0
+}
+
+936.1.1 = {
+	holder = 261085
+}

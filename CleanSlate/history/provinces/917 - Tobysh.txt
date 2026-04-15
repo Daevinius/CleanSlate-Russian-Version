@@ -1,0 +1,18 @@
+# 917 - Tobysh
+title = c_tobysh
+terrain = arctic
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 1
+b_tobysh = tribal
+# b_sula_tobysh
+# b_shchelino
+# b_medvezhka
+# b_kotkino
+# b_labozhskoye
+# b_velikovisochnoye
+
+# History

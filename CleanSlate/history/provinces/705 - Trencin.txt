@@ -1,0 +1,28 @@
+# 705 - Trencín
+title = c_trencin
+terrain = mountain
+
+# Initial setup
+culture = slovien
+religion = slavic_pagan
+
+max_settlements = 4
+b_trencsen = tribal
+# b_zilina
+# b_turoc
+# b_ban
+# b_illava
+# b_povazskabystrica
+# b_congsberg
+# b_puho
+
+# History
+842.1.1 = {
+	religion = catholic
+}
+
+900.1.1 = {
+	b_trencsen = castle
+	b_zilina = city
+	b_turoc = temple
+}

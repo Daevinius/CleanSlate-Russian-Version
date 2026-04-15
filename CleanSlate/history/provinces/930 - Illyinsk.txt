@@ -1,0 +1,19 @@
+# 930 - Illyinsk
+title = c_illyinsk
+terrain = arctic
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 3
+b_kungur = tribal
+# b_kordon
+# b_suksun
+# b_kukushtan
+# b_gari
+# b_lek
+# b_ergach
+# b_posad
+
+# History

@@ -1,0 +1,22 @@
+# 46 - Middlesex
+title = c_middlesex
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 6
+b_westminster = castle
+b_london = city
+b_st_pauls = temple
+b_tottenham = castle
+# b_fulham
+# b_staines
+# b_harrow
+# b_chelsea
+
+# History
+1100.11.11 = { culture = english }
+1187.1.1 = { b_fulham = castle }
+1290.1.1 = { trade_post = b_vorrade }

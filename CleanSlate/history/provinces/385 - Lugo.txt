@@ -1,0 +1,19 @@
+# 385 - Lugo
+title = c_lugo
+terrain = plains
+
+# Initial setup
+culture = suebi
+religion = catholic
+
+max_settlements = 4
+b_lugo = castle
+b_orense = city
+# b_ribadeo
+# b_navilubio
+# b_mino
+# b_burgas_orense
+# b_sil
+
+# History
+931.1.1 = { culture = portuguese }

@@ -1,0 +1,20 @@
+# 950 - Tobol
+title = c_tobol
+terrain = steppe
+
+# Initial setup
+culture = cuman
+religion = tengri_pagan
+
+max_settlements = 3
+b_tobol = tribal
+b_isilkul = temple
+# b_kalachinsk
+# b_tyukalinsk
+# b_cherlak
+# b_sargatka
+# b_krasnyyar
+
+# History
+1060.1.1 = { culture = turkish }
+1218.1.1 = { culture = mongol }

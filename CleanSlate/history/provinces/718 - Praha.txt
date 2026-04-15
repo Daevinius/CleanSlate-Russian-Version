@@ -1,0 +1,35 @@
+# 718 - Prague
+title = c_praha
+terrain = plains
+
+# Initial setup
+culture = bohemian
+religion = slavic_pagan
+
+max_settlements = 7
+b_praha = tribal
+# b_brevnov
+# b_kuttenberg
+# b_vysehrad
+# b_kourim
+# b_kolin
+# b_stare_mesto
+# b_zbraslav
+# b_sazava
+
+# History
+800.1.1 = {
+	b_praha = castle
+	b_stare_mesto = city
+	b_brevnov = temple
+	b_vysehrad = castle
+}
+
+883.1.1 = { religion = catholic }
+1009.1.1 = { b_sazava = temple }
+1261.1.1 = { b_kolin = city }
+
+1291.1.1 = {
+	b_zbraslav = temple
+	remove_settlement = b_sazava
+}

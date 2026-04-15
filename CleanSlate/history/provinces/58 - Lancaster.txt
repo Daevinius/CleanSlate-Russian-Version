@@ -1,0 +1,20 @@
+# 58 - Lancaster
+title = c_lancaster
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 4
+b_lancaster = castle
+b_preston = city
+b_furness = temple
+# b_salford
+# b_sawley
+# b_gisburn
+# b_clitheroe
+
+# History
+1100.11.11 = { culture = english }
+1305.1.1 = { b_clitheroe = castle }

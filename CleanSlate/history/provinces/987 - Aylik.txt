@@ -1,0 +1,20 @@
+# 987 - Aylik
+title = c_aylik
+terrain = plains
+
+# Initial setup
+culture = kirghiz
+religion = tengri_pagan
+
+max_settlements = 2
+b_aylik = tribal
+# b_karamay
+# b_baijiantan
+# b_urho
+# b_kuytun
+# b_usu
+# b_shawan
+
+# History
+1227.1.1 = { culture = mongol }
+1313.1.1 = { religion = sunni }

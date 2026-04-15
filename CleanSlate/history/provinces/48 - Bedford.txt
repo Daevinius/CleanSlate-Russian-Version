@@ -1,0 +1,32 @@
+# 48 - Bedford
+title = c_bedford
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 4
+b_bedford = castle
+b_hertford = city
+b_st_albans = temple
+# b_berkhamsted
+# b_luton
+# b_dunstable
+# b_watford
+# b_ashridge
+
+# History
+867.1.1 = {
+	b_bedford = ca_keep_1
+	b_bedford = ca_training_grounds_1
+	b_bedford = ca_stable_1
+	b_bedford = ca_wall_1
+	b_bedford = ca_wall_2
+	b_bedford = ca_militia_barracks_1
+	b_bedford = ca_barracks_1
+}
+
+1100.11.11 = {
+	culture = english
+}

@@ -1,0 +1,25 @@
+# 684 - Zagreb
+title = c_zagreb
+terrain = forest
+
+# Initial setup
+culture = croatian
+religion = slavic_pagan
+
+max_settlements = 4
+b_zagreb = tribal
+# b_sisak
+# b_karlovac
+# b_cetin
+# b_zrin
+# b_dreznik
+# b_stenicnjak
+# b_ozalj
+
+# History
+800.1.1 = {
+	religion = catholic
+	b_zagreb = castle
+	b_karlovac = city
+	b_sisak = temple
+}

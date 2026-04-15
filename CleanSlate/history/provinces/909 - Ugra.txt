@@ -1,0 +1,19 @@
+# 909 - Ugra
+title = c_ugra
+terrain = arctic
+
+# Initial setup
+culture = nenets
+religion = finnish_pagan
+
+max_settlements = 1
+b_ukhta = tribal
+# b_sosnogorsk
+# b_yarega
+# b_vodnyy
+# b_nizhodes
+# b_vuktyl
+# b_kadzherom
+# b_voyvozh
+
+# History

@@ -1,0 +1,21 @@
+# 73 - Carrick
+title = c_carrick
+terrain = hills
+
+# Initial setup
+culture = welsh
+religion = catholic
+
+max_settlements = 3
+b_turnberry = tribal
+b_crossraguel = temple
+# b_dunure
+# b_maybole
+# b_loch_doon
+# b_ballantrae
+# b_culzean
+# b_greenan
+
+# History
+1000.1.1 = { b_turnberry = castle }
+1054.1.1 = { culture = scottish }

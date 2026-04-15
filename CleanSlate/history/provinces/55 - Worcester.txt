@@ -1,0 +1,21 @@
+# 55 - Worcester
+title = c_worcester
+terrain = plains
+
+# Initial setup
+culture = anglo_saxon
+religion = catholic
+
+max_settlements = 4
+b_evesham = castle
+b_worcester = temple
+b_droitwich = city
+# b_kidderminster
+# b_pershore
+# b_malvern
+# b_bromsgrove
+# b_laughern
+
+# History
+962.1.1 = { capital = b_worcester }
+1100.11.11 = { culture = english }

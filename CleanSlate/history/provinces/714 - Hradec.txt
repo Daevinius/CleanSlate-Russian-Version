@@ -1,0 +1,28 @@
+# 714 - Hradec
+title = c_hradec
+terrain = hills
+
+# Initial setup
+culture = bohemian
+religion = slavic_pagan
+
+max_settlements = 5
+b_hradeckralove = tribal
+# b_kladsko
+# b_zleby
+# b_chrudim
+# b_caslav
+# b_jaromer
+# b_litomysl
+
+# History
+883.1.1 = {
+	religion = catholic
+	b_hradeckralove = castle
+	b_caslav = city
+	b_zleby = temple
+}
+
+1081.1.1 = {
+	b_kladsko = castle
+}
