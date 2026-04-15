@@ -1,26 +1,26 @@
-bear_group;Bear;ours;Bär;;osuno;;;;;;;;;x
-bear;Bear;ours;Bär;;Oso;;;;;;;;;x
+bear_group;Bear;x
+bear;Bear;x
 
-cat_group;Cat;chat;Katze;;Gato;;;;;;;;;x
-cat;Cat;Chat;Katze;;Gato;;;;;;;;;x
+cat_group;Cat;x
+cat;Cat;x
 
-dog_group;Canidae;canidé;Hund;;canidae;;;;;;;;;x
-dog_culture;Dog;canine;Hund;;perro;;;;;;;;;x
+dog_group;Canidae;x
+dog_culture;Dog;x
 
-dragon_group;Drachidae;drachidae;Drache;;drachidae;;;;;;;;;x
-dragon_culture;Dragon;draconique;Drache;;dragón;;;;;;;;;x
+dragon_group;Drachidae;x
+dragon_culture;Dragon;x
 
-duck_group;Aves;oiseau;Vogel;;aves;;;;;;;;;x
-duck_culture;Duck;canarde;Ente;;pato;;;;;;;;;x
+duck_group;Aves;x
+duck_culture;Duck;x
 
-elephant_group;Proboscidea;proboscidea;;;Proboscídeos;;;;;;;;;x
-elephant_culture;Elephant;éléphantine;Elefant;;Elefante;;;;;;;;;x
+elephant_group;Proboscidea;x
+elephant_culture;Elephant;x
 
-hedgehog_group;Erinaceidae;érinacéidée;Erinaceidaeisch;;;;;;;;;;;x
-hedgehog_culture;Hedgehog;hérissonne;Igelisch;;Erizo;;;;;;;;;x
+hedgehog_group;Erinaceidae;x
+hedgehog_culture;Hedgehog;x
 
-horse_group;Horse;chevalin;Pferd;;Caballo;;;;;;;;;x
-horse;Horse;chevaline;Pferd;;Caballo;;;;;;;;;x
+horse_group;Horse;x
+horse;Horse;x
 
-panda_group;Ailuridae;ailuridéen;;;Ailúridos;;;;;;;;;x
-red_panda;Red Panda;pandaïenne;Roter Panda;;Panda rojo;;;;;;;;;x
+panda_group;Ailuridae;x
+red_panda;Red Panda;x
