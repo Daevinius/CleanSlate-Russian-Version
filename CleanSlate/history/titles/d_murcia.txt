@@ -135,7 +135,7 @@
 }
 
 1266.1.1 = {
-	holder = 457621 # Manuel Fernández de Villena
+	holder = 457621 # Manuel Fernandez de Villena
 	liege = k_castille
 	de_jure_liege = k_castille
 }

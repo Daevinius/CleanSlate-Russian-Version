@@ -1,4 +1,4 @@
-# 397 - Alcácer do Sal
+# 397 - Alcacer do Sal
 title = c_alcacer_do_sal
 terrain = plains
 

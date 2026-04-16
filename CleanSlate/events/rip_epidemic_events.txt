@@ -6,7 +6,7 @@
 ###########################################
 
 # Written by:
-# Markus Olsén
+# Markus Olsen
 # David Ballantyne
 # Milla Isaksson
 # Mathilda Bjarnehed

@@ -7,7 +7,7 @@
 }
 
 450.1.1 = {
-	holder = 83609 # Óengus
+	holder = 83609 # Oengus
 }
 
 489.1.1 = {
@@ -43,15 +43,15 @@
 }
 
 599.1.1 = {
-	holder = 83739 # Garbán
+	holder = 83739 # Garban
 }
 
 601.1.1 = {
-	holder = 83619 # Fíngen
+	holder = 83619 # Fingen
 }
 
 618.1.1 = {
-	holder = 83784 # Áed Bennán
+	holder = 83784 # Aed Bennan
 }
 
 619.1.1 = {
@@ -59,23 +59,23 @@
 }
 
 627.1.1 = {
-	holder = 83620 # Faílbe Fland
+	holder = 83620 # Failbe Fland
 }
 
 639.1.1 = {
-	holder = 83740 # Cúán
+	holder = 83740 # Cuan
 }
 
 641.1.1 = {
-	holder = 83621 # Máenach
+	holder = 83621 # Maenach
 }
 
 661.1.1 = {
-	holder = 83769 # Cathal Cú-Cen-Máthair
+	holder = 83769 # Cathal Cu-Cen-Mathair
 }
 
 665.1.1 = {
-	holder = 83628 # Colgú
+	holder = 83628 # Colgu
 }
 
 678.1.1 = {
@@ -91,7 +91,7 @@
 }
 
 712.1.1 = {
-	holder = 83747 # Eterscél
+	holder = 83747 # Eterscel
 }
 
 721.1.1 = {
@@ -103,19 +103,19 @@
 }
 
 769.1.1 = {
-	holder = 83789 # Máel-Dúin
+	holder = 83789 # Mael-Duin
 }
 
 786.1.1 = {
-	holder = 83746 # Ólchobar son of Dub-Indrecht
+	holder = 83746 # Olchobar son of Dub-Indrecht
 }
 
 805.1.1 = {
-	holder = 83773 # Artrí son of Cathal
+	holder = 83773 # Artri son of Cathal
 }
 
 807.1.1 = {
-	holder = 83655 # Tnúthgal
+	holder = 83655 # Tnuthgal
 }
 
 817.1.1 = {
@@ -127,31 +127,31 @@
 }
 
 847.1.1 = {
-	holder = 83793 # Ólchobar son of Cináed
+	holder = 83793 # Olchobar son of Cinaed
 }
 
 851.1.1 = {
-	holder = 83657 # Áilgenán
+	holder = 83657 # Ailgenan
 }
 
 853.1.1 = {
-	holder = 83658 # Máel-Gualae
+	holder = 83658 # Mael-Gualae
 }
 
 859.1.1 = {
-	holder = 83763 # Cenn-Fáelad
+	holder = 83763 # Cenn-Faelad
 }
 
 872.1.1 = {
-	holder = 83672 # Dúnchad son of Dub-dá-Bairenn
+	holder = 83672 # Dunchad son of Dub-da-Bairenn
 }
 
 888.1.1 = {
-	holder = 83659 # Dub-Lachtna son of Máel-Gualae
+	holder = 83659 # Dub-Lachtna son of Mael-Gualae
 }
 
 895.1.1 = {
-	holder = 83675 # Finguine Cenn nGécán son of Láegaire
+	holder = 83675 # Finguine Cenn nGecan son of Laegaire
 }
 
 902.1.1 = {
@@ -159,7 +159,7 @@
 }
 
 908.1.1 = {
-	holder = 83692 # Lorcán son Condlígan
+	holder = 83692 # Lorcan son Condligan
 }
 
 922.1.1 = {
@@ -167,19 +167,19 @@
 }
 
 944.1.1 = {
-	holder = 83666 # Cellachán Caisil son of Buadachán
+	holder = 83666 # Cellachan Caisil son of Buadachan
 }
 
 954.1.1 = {
-	holder = 83646 # Máel-Fathardaig
+	holder = 83646 # Mael-Fathardaig
 }
 
 957.1.1 = {
-	holder = 83733 # Dub-dá-Bairenn
+	holder = 83733 # Dub-da-Bairenn
 }
 
 959.1.1 = {
-	holder = 83662 # Fer-Gráid
+	holder = 83662 # Fer-Graid
 }
 
 961.1.1 = {
@@ -187,23 +187,23 @@
 }
 
 963.1.1 = {
-	holder = 166120 # Máel-Muad
+	holder = 166120 # Mael-Muad
 }
 
 970.7.1 = {
-	holder = 83332 # Mathgamain mac Cennétig
+	holder = 83332 # Mathgamain mac Cennetig
 }
 
 976.1.1 = {
-	holder = 166120 # Máel-Muad
+	holder = 166120 # Mael-Muad
 }
 
 978.7.1 = {
-	holder = 900 # Brian Bóruma mac Cennétig
+	holder = 900 # Brian Boruma mac Cennetig
 }
 
 1014.4.23 = {
-	holder = 83647 # Dœngal Hua Donnchada
+	holder = 83647 # Doengal Hua Donnchada
 }
 
 1024.7.1 = {

@@ -14,8 +14,6 @@ dragon_group = {
 
 		color = { 0.6 0.0 0.0 }
 
-		# Þ 222 þ 254 Ð 208 ð 240 æ
-
 		male_names = {
 			Apopis Ash
 			Bahamut Bantu Barney Benedict

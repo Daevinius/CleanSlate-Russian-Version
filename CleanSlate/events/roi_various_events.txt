@@ -4,7 +4,7 @@
 #                                         #
 ###########################################
 
-# Written by Tobias Bodlund & Henrik Fåhraeus
+# Written by Tobias Bodlund & Henrik Fahraeus
 
 namespace = RoI
 
@@ -1311,7 +1311,7 @@ character_event = {
 ###########################################
 # Reincarnation Events
 ###########################################
-# by Henrik Fåhraeus
+# by Henrik Fahraeus
 ###########################################
 
 # [on_birth] Child might be a reincarnation

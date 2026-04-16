@@ -2203,7 +2203,7 @@
 }
 
 204577 = {
-	name = "Mabel" #of Bellême
+	name = "Mabel" #of Belleme
 	female = yes
 	dynasty = 5072
 	martial = 5
@@ -4971,7 +4971,7 @@
 }
 
 6513 = {
-	name = "Cundo" #Condoha Vagéna d'Eu
+	name = "Cundo" #Condoha Vagena d'Eu
 	female = yes
 	dynasty = 752
 	religion = catholic
@@ -5463,7 +5463,7 @@
 }
 
 82053 = {
-	name = "Arnulf" # youngest son of earl of Shrewsbury, briefly earl of Holderness, who married daughter of Muirchertach Ó Briaín
+	name = "Arnulf" # youngest son of earl of Shrewsbury, briefly earl of Holderness, who married daughter of Muirchertach O Briain
 	dynasty = 751
 	religion = catholic
 	culture = norman
@@ -6437,7 +6437,7 @@
 }
 
 91198 = {
-	name = "Agnès" #Agnès de Mortain
+	name = "Agnès" #Agnes de Mortain
 	female = yes
 	dynasty = 101754 #Conteville
 	father = 150 #Robert, baron de Shrewsbury
@@ -8225,7 +8225,7 @@
 }
 
 252381 = {
-	name = "Bernard" #de Neufmarché
+	name = "Bernard" #de Neufmarche
 	dynasty = 105947
 	religion = catholic
 	culture = norman

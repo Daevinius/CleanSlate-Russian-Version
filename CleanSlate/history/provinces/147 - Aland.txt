@@ -1,4 +1,4 @@
-# 147 - Åland
+# 147 - Aland
 title = c_aland
 terrain = plains
 

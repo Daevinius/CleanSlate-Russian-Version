@@ -42,11 +42,11 @@
 }
 
 1224.1.1 = {
-	holder = 310008 # Peder ElevsÃ¸n
+	holder = 310008 # Peder Elevson
 }
 
 1246.1.1 = {
-	holder = 310009 # Peder UgotsÃ¸n
+	holder = 310009 # Peder Ugotson
 }
 
 1261.1.1 = {
@@ -62,7 +62,7 @@
 }
 
 1288.1.1 = {
-	holder = 310013 # Jens AssersÃ¸n
+	holder = 310013 # Jens Asserson
 }
 
 1306.1.1 = {

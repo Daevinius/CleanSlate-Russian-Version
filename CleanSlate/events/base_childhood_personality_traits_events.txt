@@ -8,7 +8,7 @@
 #
 #################################################
 #
-# Written by Sara Wendel-Örtqvist, Johan Andersson & Henrik Fåhraeus
+# Written by Sara Wendel-Ortqvist, Johan Andersson & Henrik Fahraeus
 #
 #################################################
 
@@ -21,7 +21,7 @@
 #
 ###################################
 #
-# Written by Sara Wendel-Örtqvist & Henrik Fåhraeus
+# Written by Sara Wendel-Ortqvist & Henrik Fahraeus
 # heavily revised by Johan Andersson
 #
 ###################################

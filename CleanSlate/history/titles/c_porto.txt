@@ -20,7 +20,7 @@
 }
 
 855.1.1 = {
-	holder = 70017 # Ordoño I de Cantabria
+	holder = 70017 # Ordono I de Cantabria
 	liege = k_asturias
 }
 
@@ -38,15 +38,15 @@
 }
 
 924.1.1 = {
-	holder = 70249 # Mendo I Betótez
+	holder = 70249 # Mendo I Betotez
 }
 
 950.7.24 = {
-	holder = 109620 # Gonçalo Mendes Betótez
+	holder = 109620 # Goncalo Mendes Betotez
 }
 
 997.1.1 = {
-	holder = 109622 # Mendo II Betótez
+	holder = 109622 # Mendo II Betotez
 }
 
 1008.10.11 = {
@@ -84,7 +84,7 @@
 }
 
 1112.5.22 = {
-	holder = 207661 # Teresa Alfónsez Jimena
+	holder = 207661 # Teresa Alfonsez Jimena
 }
 
 1128.6.24 = {

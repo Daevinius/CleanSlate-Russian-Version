@@ -149,18 +149,18 @@
 }
 
 1225.1.1 = {
-	holder = 73082 # Pedro Ponce de León I
+	holder = 73082 # Pedro Ponce de Leon I
 	liege = k_leon
 }
 
 1265.1.1 = {
-	holder = 73083 # Fernando Ponce de León
+	holder = 73083 # Fernando Ponce de Leon
 }
 
 1292.1.1 = {
-	holder = 73087 # Pedro Ponce de León II
+	holder = 73087 # Pedro Ponce de Leon II
 }
 
 1311.1.1 = {
-	holder = 73091 # Rodrigo Ponce de León
+	holder = 73091 # Rodrigo Ponce de Leon
 }

@@ -79,7 +79,7 @@
 }
 
 1261.1.1 = {
-	holder = 454041 # Margaret Longespée
+	holder = 454041 # Margaret Longespee
 }
 
 1310.1.1 = {

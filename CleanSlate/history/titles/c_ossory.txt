@@ -3,31 +3,31 @@
 }
 
 581.1.1 = {
-	holder = 166002 # Colmán mac Feradaig
+	holder = 166002 # Colman mac Feradaig
 }
 
 603.1.1 = {
-	holder = 166003 # Crundmaíl mac Colmán
+	holder = 166003 # Crundmail mac Colman
 }
 
 635.1.1 = {
-	holder = 166004 # Scannlan Mór mac Colmán
+	holder = 166004 # Scannlan Mor mac Colman
 }
 
 644.1.1 = {
-	holder = 166005 # Fáelán mac Crundmaíl
+	holder = 166005 # Faelan mac Crundmail
 }
 
 660.1.1 = {
-	holder = 166006 # Tuaim Snámha mac Crundmaíl
+	holder = 166006 # Tuaim Snamha mac Crundmail
 }
 
 678.1.1 = {
-	holder = 166010 # Fáelchar mac Forandla
+	holder = 166010 # Faelchar mac Forandla
 }
 
 693.1.1 = {
-	holder = 166011 # Cú Cherca mac Fáeláin
+	holder = 166011 # Cu Cherca mac Faelain
 }
 
 712.1.1 = {
@@ -35,11 +35,11 @@
 }
 
 717.1.1 = {
-	holder = 166013 # Ailill mac Fáeláin
+	holder = 166013 # Ailill mac Faelain
 }
 
 724.1.1 = {
-	holder = 166014 # Cellach mac Fáelchair
+	holder = 166014 # Cellach mac Faelchair
 }
 
 735.1.1 = {
@@ -51,19 +51,19 @@
 }
 
 761.1.1 = {
-	holder = 166017 # Tóim Snáma mac Flainn
+	holder = 166017 # Toim Snama mac Flainn
 }
 
 770.1.1 = {
-	holder = 166018 # Dúngal mac Cellaig
+	holder = 166018 # Dungal mac Cellaig
 }
 
 772.1.1 = {
-	holder = 166020 # Fáelán mac Forbasaig
+	holder = 166020 # Faelan mac Forbasaig
 }
 
 786.1.1 = {
-	holder = 166021 # Máel Dúin mac Cummascaig
+	holder = 166021 # Mael Duin mac Cummascaig
 }
 
 797.1.1 = {
@@ -71,15 +71,15 @@
 }
 
 802.1.1 = {
-	holder = 166023 # Dúngal mac Fergaile
+	holder = 166023 # Dungal mac Fergaile
 }
 
 842.1.1 = {
-	holder = 166024 # Cerball mac Dúnlainge
+	holder = 166024 # Cerball mac Dunlainge
 }
 
 888.1.1 = {
-	holder = 166025 # Riacan mac Dúnlainge
+	holder = 166025 # Riacan mac Dunlainge
 }
 
 894.1.1 = {
@@ -99,23 +99,23 @@
 }
 
 976.7.1 = {
-	holder = 83210 # Gilla-Pátraic son of Donnchad son of Cellach
+	holder = 83210 # Gilla-Patraic son of Donnchad son of Cellach
 }
 
 996.7.1 = {
-	holder = 83212 # Donnchad son of Gilla-Pátraic
+	holder = 83212 # Donnchad son of Gilla-Patraic
 }
 
 1039.7.1 = {
-	holder = 83211 # Muirchertach son of Gilla-Pátraic
+	holder = 83211 # Muirchertach son of Gilla-Patraic
 }
 
 1041.7.1 = {
-	holder = 83213 # Gilla-Pátraic son of Donnchad
+	holder = 83213 # Gilla-Patraic son of Donnchad
 }
 
 1055.7.1 = {
-	holder = 1020 # Domnall son of Gilla-Pátraic
+	holder = 1020 # Domnall son of Gilla-Patraic
 }
 
 1080.7.1 = {
@@ -123,7 +123,7 @@
 }
 
 1090.7.1 = {
-	holder = 83220 # Gilla-Pátraic Ruad
+	holder = 83220 # Gilla-Patraic Ruad
 }
 
 1103.7.1 = {
@@ -151,7 +151,7 @@
 }
 
 1126.7.1 = {
-	holder = 83215 # Gilla-Pátraic son of Domnall
+	holder = 83215 # Gilla-Patraic son of Domnall
 }
 
 1146.7.1 = {

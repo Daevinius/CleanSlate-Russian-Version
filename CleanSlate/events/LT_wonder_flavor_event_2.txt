@@ -6,7 +6,7 @@
 #										  #
 ###########################################
 
-# Written by Linnéa Thimrén
+# Written by Linnea Thimren
 
 namespace = LT
 

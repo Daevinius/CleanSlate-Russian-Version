@@ -1164,7 +1164,7 @@
 }
 
 108610 = {
-	name = "Ramiro" #AKA: Ramiro III 'el Niño'
+	name = "Ramiro" #AKA: Ramiro III 'el Nino'
 	dynasty = 436
 	religion = catholic
 	culture = castilian
@@ -2070,7 +2070,7 @@
 }
 
 208500 = {
-	name = "Fernando" #AKA: Fernando II de León
+	name = "Fernando" #AKA: Fernando II de Leon
 	dynasty = 681
 	martial = 7
 	diplomacy = 5
@@ -4910,7 +4910,7 @@
 }
 
 70075 = {
-	name = "Bermudo" #AKA: Bermudo III of León
+	name = "Bermudo" #AKA: Bermudo III of Leon
 	dynasty = 436
 	father = 108570
 	mother = 109624
@@ -5801,7 +5801,7 @@
 }
 
 70286 = {
-	name = "García" #AKA: García II
+	name = "García" #AKA: Garcia II
 	dynasty = 776
 	father = 107660
 	mother = 107689
@@ -19024,7 +19024,7 @@
 
 142309 = {
 	name = "Jimena"
-	#Ximena Ordoñez
+	#Ximena Ordonez
 	female = yes
 	religion = catholic
 	culture = castilian

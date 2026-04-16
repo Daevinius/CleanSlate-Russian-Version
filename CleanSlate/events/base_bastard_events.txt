@@ -7,7 +7,7 @@
 #
 #################################################
 #
-# Written by Sara Wendel-Örtqvist
+# Written by Sara Wendel-Ortqvist
 
 # Irresistable young wench
 character_event = {

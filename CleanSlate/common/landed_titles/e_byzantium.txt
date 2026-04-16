@@ -1635,7 +1635,7 @@ e_byzantium = {
 		color = { 150 40 60 }
 		color2 = { 255 255 20 }
 
-		capital = 511 # Épeiros
+		capital = 511 # Epeiros
 
 		# serbian = "Draugabitia"
 
@@ -1761,7 +1761,7 @@ e_byzantium = {
 			color = { 134 63 109 }
 			color2 = { 255 255 20 }
 
-			capital = 510 # Árta
+			capital = 510 # Arta
 
 			allow = {
 				can_create_duchy = yes

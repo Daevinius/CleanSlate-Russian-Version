@@ -1955,7 +1955,7 @@ character_event = {
 
 ### Sejdr Events
 
-# Völva Appears
+# Volva Appears
 character_event = {
 	id = TOG.3200
 	desc = EVTDESC_TOG_3200
@@ -2002,7 +2002,7 @@ character_event = {
 	}
 }
 
-# Young Völva Appears
+# Young Volva Appears
 character_event = {
 	id = TOG.3201
 	desc = EVTDESC_TOG_3201
@@ -2050,7 +2050,7 @@ character_event = {
 	}
 }
 
-# Old Völva Appears
+# Old Volva Appears
 character_event = {
 	id = TOG.3202
 	desc = EVTDESC_TOG_3202
@@ -2098,7 +2098,7 @@ character_event = {
 	}
 }
 
-# Völva Warns About Child - Setup
+# Volva Warns About Child - Setup
 character_event = {
 	id = TOG.3204
 
@@ -2126,7 +2126,7 @@ character_event = {
 	}
 }
 
-# Völva Warns About Child
+# Volva Warns About Child
 character_event = {
 	id = TOG.3205
 	desc = EVTDESC_TOG_3205 # TODO: This loc is the only thing preventing opening up the event chain to female rulers as well.
@@ -2248,7 +2248,7 @@ character_event = {
 
 			father = {
 				character_event = {
-					id = TOG.3252 # Völva wants an exorcism
+					id = TOG.3252 # Volva wants an exorcism
 					years = 4
 					random = 4380 # 12 years, i.e. before the child is an adult.
 				}
@@ -2576,7 +2576,7 @@ character_event = {
 	}
 }
 
-# Völva wants an exorcism
+# Volva wants an exorcism
 character_event = {
 	id = TOG.3252
 	desc = EVTDESC_TOG_3252
@@ -2686,7 +2686,7 @@ character_event = {
 			text = exorcism_begins
 
 			random_list = {
-				20 = { character_event = { id = TOG.3256 days = 3 } } # Völva dies
+				20 = { character_event = { id = TOG.3256 days = 3 } } # Volva dies
 				20 = { character_event = { id = TOG.3257 days = 3 } } # Child dies
 				40 = { character_event = { id = TOG.3258 days = 3 } } # Child is unharmed
 				20 = { character_event = { id = TOG.3259 days = 3 } } # Child is hurt
@@ -2695,7 +2695,7 @@ character_event = {
 	}
 }
 
-# Exorcism Completed - Völva Dies
+# Exorcism Completed - Volva Dies
 character_event = {
 	id = TOG.3256
 	desc = EVTDESC_TOG_3256

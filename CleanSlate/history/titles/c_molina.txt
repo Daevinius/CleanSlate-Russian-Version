@@ -137,12 +137,12 @@
 }
 
 1129.1.1 = {
-	holder = 207539 # Pedro González de Lara
+	holder = 207539 # Pedro Gonzalez de Lara
 	liege = k_castille
 }
 
 1130.10.16 = {
-	holder = 207541 # Manrique Pérez de Lara
+	holder = 207541 # Manrique Perez de Lara
 }
 
 1164.7.9 = {
@@ -150,25 +150,25 @@
 }
 
 1202.1.1 = {
-	holder = 207544 # Gonzalo Pérez de Lara
+	holder = 207544 # Gonzalo Perez de Lara
 }
 
 1238.4.6 = {
-	holder = 71427 # Mafalda González de lara
+	holder = 71427 # Mafalda Gonzalez de lara
 }
 
 1244.9.1 = {
-	holder = 457660 # Alfonso Alfónsez de Molina
+	holder = 457660 # Alfonso Alfonsez de Molina
 }
 
 1272.1.6 = {
-	holder = 71429 # Blanca Alfónsez de Molina
+	holder = 71429 # Blanca Alfonsez de Molina
 }
 
 1292.12.5 = {
-	holder = 457666 # María Alfónsez de Molina, Queen of Castille
+	holder = 457666 # Maria Alfonsez de Molina, Queen of Castille
 }
 
 1321.1.1 = {
-	holder = 457500 # Alfonso XI de Borgoña
+	holder = 457500 # Alfonso XI de Borgona
 }

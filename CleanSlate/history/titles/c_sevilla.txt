@@ -126,22 +126,22 @@
 }
 
 1248.1.1 = {
-	holder = 457620 # Fernando III de Borgoña
+	holder = 457620 # Fernando III de Borgona
 	liege = k_castille
 }
 
 1252.5.30 = {
-	holder = 457540 # Alfonso X de Borgoña
+	holder = 457540 # Alfonso X de Borgona
 }
 
 1284.4.4 = {
-	holder = 457530 # Sancho IV de Borgoña
+	holder = 457530 # Sancho IV de Borgona
 }
 
 1295.4.25 = {
-	holder = 457520 # Fernando IV de Borgoña
+	holder = 457520 # Fernando IV de Borgona
 }
 
 1312.9.7 = {
-	holder = 457500 # Alfonso XI de Borgoña
+	holder = 457500 # Alfonso XI de Borgona
 }

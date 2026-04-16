@@ -7,15 +7,15 @@
 }
 
 450.1.1 = {
-	holder = 83609 # Óengus son of Nad Froich
+	holder = 83609 # Oengus son of Nad Froich
 }
 
 492.1.1 = {
-	holder = 83611 # Feidelmid son of Óengus son of Nad Froich
+	holder = 83611 # Feidelmid son of Oengus son of Nad Froich
 }
 
 533.1.1 = {
-	holder = 83612 # Bressal son of Óengus son of Nad Froich
+	holder = 83612 # Bressal son of Oengus son of Nad Froich
 }
 
 544.1.1 = {
@@ -23,27 +23,27 @@
 }
 
 560.1.1 = {
-	holder = 83618 # Áed Dub son of Crimthann
+	holder = 83618 # Aed Dub son of Crimthann
 }
 
 600.1.1 = {
-	holder = 83619 # Fíngen son of Áed Dub
+	holder = 83619 # Fingen son of Aed Dub
 }
 
 619.1.1 = {
-	holder = 83620 # Faílbe Fland son of Áed Dub
+	holder = 83620 # Failbe Fland son of Aed Dub
 }
 
 639.1.1 = {
-	holder = 83621 # Máenach son of Fíngen
+	holder = 83621 # Maenach son of Fingen
 }
 
 662.1.1 = {
-	holder = 83628 # Colgú son of Faílbe Fland
+	holder = 83628 # Colgu son of Failbe Fland
 }
 
 678.1.1 = {
-	holder = 83626 # Tnúthgal son of Fogartach
+	holder = 83626 # Tnuthgal son of Fogartach
 }
 
 701.1.1 = {
@@ -51,7 +51,7 @@
 }
 
 713.1.1 = {
-	holder = 83631 # Dub-dá-Crích son of Colmán
+	holder = 83631 # Dub-da-Crich son of Colman
 }
 
 752.1.1 = {
@@ -59,7 +59,7 @@
 }
 
 795.1.1 = {
-	holder = 83655 # Tnúthgal son of Donngus
+	holder = 83655 # Tnuthgal son of Donngus
 }
 
 820.1.1 = {
@@ -67,49 +67,49 @@
 }
 
 847.1.1 = {
-	holder = 83657 # Áilgenán son of Donngal
+	holder = 83657 # Ailgenan son of Donngal
 }
 
 853.1.1 = {
-	holder = 83658 # Máel-Gualae son of Donngal
+	holder = 83658 # Mael-Gualae son of Donngal
 }
 
 859.1.1 = {
-	holder = 83672 # Dúnchad son of Dub-dá-Bairenn
+	holder = 83672 # Dunchad son of Dub-da-Bairenn
 }
 
 888.1.1 = {
-	holder = 83659 # Dub-Lachtna son of Máel-Gualae
+	holder = 83659 # Dub-Lachtna son of Mael-Gualae
 }
 
 895.1.1 = {
-	holder = 83675 # Finguine Cenn nGécán son of Láegaire
+	holder = 83675 # Finguine Cenn nGecan son of Laegaire
 }
 
 902.1.1 = {
-	holder = 83685 # Cormac son of Cuilennán
+	holder = 83685 # Cormac son of Cuilennan
 }
 
 908.1.1 = {
-	holder = 83692 # Lorcán son Condlígan
+	holder = 83692 # Lorcan son Condligan
 }
 
 922.1.1 = {
-	holder = 83666 # Cellachán Caisil son of Buadachán
+	holder = 83666 # Cellachan Caisil son of Buadachan
 	liege = d_munster
 }
 
 954.1.1 = {
-	holder = 83646 # Máel-Fathardaig son of Flann
+	holder = 83646 # Mael-Fathardaig son of Flann
 	liege = 0
 }
 
 957.1.1 = {
-	holder = 83662 # Fer-Gráid son of Clérech
+	holder = 83662 # Fer-Graid son of Clerech
 }
 
 961.1.1 = {
-	holder = 83667 # Donnchad son of Cellachán Caisil
+	holder = 83667 # Donnchad son of Cellachan Caisil
 }
 
 963.1.1 = {
@@ -129,7 +129,7 @@
 }
 
 1035.7.1 = {
-	holder = 83368 # Cú-Muman
+	holder = 83368 # Cu-Muman
 }
 
 1038.7.1 = {

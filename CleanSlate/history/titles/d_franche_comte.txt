@@ -13,7 +13,7 @@
 }
 
 1097.1.1 = {
-	holder = 205706 # Ã‰tienne I de Bourgogne
+	holder = 205706 # Etienne I de Bourgogne
 }
 
 1102.1.1 = {
@@ -21,12 +21,12 @@
 }
 
 1148.1.1 = {
-	holder = 205599 # BÃ©atrice I de Bourgogne
+	holder = 205599 # Beatrice I de Bourgogne
 }
 
 # House of Hohenstaufen
 1184.1.1 = {
-	holder = 212501 # FrÃ©dÃ©ric I Barberousse
+	holder = 212501 # Frederic I Barberousse
 }
 
 1190.6.2 = {
@@ -38,7 +38,7 @@
 }
 
 1205.1.1 = {
-	holder = 7652 # BÃ©atrice II de Bourgogne
+	holder = 7652 # Beatrice II de Bourgogne
 }
 
 1220.1.1 = {
@@ -51,11 +51,11 @@
 }
 
 1248.1.1 = {
-	holder = 7653 # AdÃ©laÃ¯de I de Bourgogne
+	holder = 7653 # Adelaide I de Bourgogne
 	liege = e_hre
 }
 
-# House of IvrÃ©e
+# House of Ivree
 1279.1.1 = {
 	holder = 455739 # Othon IV de Bourgogne
 }

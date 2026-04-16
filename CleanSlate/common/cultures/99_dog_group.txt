@@ -14,8 +14,6 @@ dog_group = {
 
 		color = { 0.4 0.3 0.0 }
 
-		# Þ 222 þ 254 Ð 208 ð 240 æ
-
 		male_names = {
 			Ajax Albert Alfonso Alistair Alwin Amundsen
 			Babe Bad Basil Benjamin Blake Blazer Bloomer Blossom Bodkin Bonzo Bosun Brantley Brigade Bubbler Bubbles Buckler Buddy Bustle Butcher

@@ -33,7 +33,7 @@
 	liege = k_sweden
 }
 
-## Lilliehöök ancestors
+## Lilliehook ancestors
 1200.1.1 = {
 	holder = 194247
 }

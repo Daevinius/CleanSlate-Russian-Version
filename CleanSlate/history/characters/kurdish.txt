@@ -80,7 +80,7 @@
 }
 
 41604 = {
-	name = "Šawur" #Ebû'l-Eswar
+	name = "Šawur" #Ebu'l-Eswar
 	# AKA: Abu'l-Asvar Shavur
 	dynasty = 1029029
 	martial = 3

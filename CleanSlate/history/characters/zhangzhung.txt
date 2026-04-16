@@ -35,7 +35,7 @@
 247002 = {
 	name = "Tisé"
 	female = yes
-	dynasty = 105810 #Ng¸lkhar
+	dynasty = 105810 #Ngulkhar
 	religion = bon_pagan
 	culture = zhangzhung
 	599.1.1 = {
@@ -424,7 +424,7 @@
 }
 
 252012 = {
-	name = "Shenchen Luga" #Organized native bön religion into the Eternal Bön school
+	name = "Shenchen Luga" #Organized native bon religion into the Eternal Bon school
 	dynasty = 105902 #Spa
 	religion = bon_pagan
 	culture = zhangzhung

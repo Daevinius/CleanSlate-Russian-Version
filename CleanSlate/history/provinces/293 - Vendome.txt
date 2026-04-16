@@ -1,4 +1,4 @@
-# 293 - Vendôme
+# 293 - Vendome
 title = c_vendome
 terrain = plains
 

@@ -1,4 +1,4 @@
-# 993 - Khüiten
+# 993 - Khuiten
 title = c_khuiten
 terrain = mountain
 

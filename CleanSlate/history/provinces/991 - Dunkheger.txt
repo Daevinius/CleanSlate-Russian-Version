@@ -1,4 +1,4 @@
-# 991 - Dünkheger
+# 991 - Dunkheger
 title = c_dunkheger
 terrain = plains
 

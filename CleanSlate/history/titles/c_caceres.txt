@@ -143,26 +143,26 @@
 }
 
 1229.4.23 = {
-	holder = 457650 # Alfonso X de Borgoña
+	holder = 457650 # Alfonso X de Borgona
 	liege = k_leon
 }
 
 1230.9.24 = {
-	holder = 457620 # Fernando III de Borgoña
+	holder = 457620 # Fernando III de Borgona
 }
 
 1252.5.30 = {
-	holder = 71486 # Luis Fernández de Borgoña
+	holder = 71486 # Luis Fernandez de Borgona
 }
 
 1279.4.20 = {
-	holder = 71488 # Luis Luisez de Borgoña
+	holder = 71488 # Luis Luisez de Borgona
 }
 
 1301.1.1 = {
-	holder = 458020 # Fernando Ponce de León
+	holder = 458020 # Fernando Ponce de Leon
 }
 
 1313.1.1 = {
-	holder = 458021 # Pedro Ponce de León
+	holder = 458021 # Pedro Ponce de Leon
 }

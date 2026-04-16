@@ -1,4 +1,4 @@
-# 1546 - Suhár
+# 1546 - Suhar
 title = c_suhar
 terrain = mountain
 

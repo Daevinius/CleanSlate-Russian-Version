@@ -1,4 +1,4 @@
-# 186 - Lüneburg
+# 186 - Luneburg
 title = c_luneburg
 terrain = hills
 

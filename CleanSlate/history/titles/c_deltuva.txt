@@ -48,11 +48,11 @@
 }
 
 1088.1.1 = {
-	holder = 82182 # Šventaragis son of Utenis
+	holder = 82182 # Sventaragis son of Utenis
 }
 
 1093.1.1 = {
-	holder = 82200 # Skirmantas son of Šventaragis
+	holder = 82200 # Skirmantas son of Sventaragis
 }
 
 1124.1.1 = {

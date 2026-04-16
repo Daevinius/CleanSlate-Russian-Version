@@ -14,8 +14,6 @@ hedgehog_group = {
 
 		color = { 0.2 0.3 1.0 }
 
-		# Þ 222 þ 254 Ð 208 ð 240 æ
-
 		male_names = {
 			August Aurion
 			Blaine

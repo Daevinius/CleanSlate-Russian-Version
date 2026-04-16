@@ -1,4 +1,4 @@
-# 140 - Hälsingland
+# 140 - Halsingland
 title = c_halsingland
 terrain = forest
 

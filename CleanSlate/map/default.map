@@ -96,24 +96,24 @@ major_rivers = {
 	1856 # Lough Mask
 
 	# Finland
-	1857 # Näsijärvi
+	1857 # Nasijarvi
 	1858 # Saimaa
 	1859 # Kallavesi
-	1860 # Oulujärvi
-	1861 # Päijänne
+	1860 # Oulujarvi
+	1861 # Paijanne
 
 	# Sweden
-	1862 # Mälaren
-	1863 # Vättern
-	1864 # Vänern
-	1865 # Hjälmaren
+	1862 # Malaren
+	1863 # Vattern
+	1864 # Vanern
+	1865 # Hjalmaren
 
 	# Baltic
 	1866 # Peipus
 
 	# Continental Europe
 	1867 # Bodensee
-	1868 # Lake Léman
+	1868 # Lake Leman
 
 	# Eurasian steppe
 	1869 # Aral Sea

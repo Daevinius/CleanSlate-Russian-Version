@@ -7,7 +7,7 @@
 #
 #########################################################
 
-# Written by Henrik Fåhraeus
+# Written by Henrik Fahraeus
 
 namespace = TOG
 

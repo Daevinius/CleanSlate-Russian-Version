@@ -1,7 +1,7 @@
 name = "Magyar Conquest of Hungary"
 
 casus_belli = {
-	actor = 159137 # Árpád
+	actor = 159137 # Arpad
 	recipient = 70382 # Boris I
 	casus_belli = tribal_invasion
 	landed_title = k_hungary

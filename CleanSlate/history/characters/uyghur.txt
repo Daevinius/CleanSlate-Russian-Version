@@ -1,7 +1,7 @@
 166323 = {
 	name = "Rabban Marcos"
 	religion = nestorian
-	culture = uyghur #Either Öngüd or Turkic Uyghur descent
+	culture = uyghur #Either Ongud or Turkic Uyghur descent
 	add_trait = scholarly_theologian
 	1245.1.1 = {
 		birth = yes
@@ -496,7 +496,7 @@
 
 217122 = {
 	name = "Gzi" #fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Uzumcu
 	religion = manichaean
 	culture = uyghur
 	819.7.12 = {
@@ -512,7 +512,7 @@
 
 217123 = {
 	name = "Uzluk" #fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Uzumcu
 	religion = buddhist
 	culture = uyghur
 	father = 217122
@@ -540,7 +540,7 @@
 
 217125 = {
 	name = "Bozçin" #fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Uzumcu
 	religion = buddhist
 	culture = uyghur
 	father = 217122
@@ -556,7 +556,7 @@
 
 217126 = {
 	name = "Sotan" #fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Uzumcu
 	religion = buddhist
 	culture = uyghur
 	father = 217122
@@ -573,7 +573,7 @@
 
 217186 = {
 	name = "Kozel" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Uzumcu
 	religion = buddhist
 	culture = uyghur
 	father = 217123
@@ -587,7 +587,7 @@
 
 217187 = {
 	name = "Kubasar" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Uzumcu
 	religion = buddhist
 	culture = uyghur
 	father = 217186
@@ -601,7 +601,7 @@
 
 217188 = {
 	name = "Asalup" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Uzumcu
 	religion = buddhist
 	culture = uyghur
 	father = 217187
@@ -615,7 +615,7 @@
 
 217189 = {
 	name = "Blush" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Uzumcu
 	religion = buddhist
 	culture = uyghur
 	father = 217188
@@ -629,7 +629,7 @@
 
 217190 = {
 	name = "Begluk" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Uzumcu
 	religion = buddhist
 	culture = uyghur
 	father = 217189
@@ -643,7 +643,7 @@
 
 217191 = {
 	name = "Ipek" # fictional
-	dynasty = 1051104 # Üzümcü
+	dynasty = 1051104 # Uzumcu
 	religion = buddhist
 	culture = uyghur
 	father = 217189
@@ -658,7 +658,7 @@
 
 217228 = {
 	name = "Törtogul" # fictional
-	dynasty = 1051121 # Müjde
+	dynasty = 1051121 # Mujde
 	religion = buddhist
 	culture = uyghur
 	1080.4.17 = {
@@ -671,7 +671,7 @@
 
 217229 = {
 	name = "Gzi" # fictional
-	dynasty = 1051121 # Müjde
+	dynasty = 1051121 # Mujde
 	religion = buddhist
 	culture = uyghur
 	father = 217228
@@ -685,7 +685,7 @@
 
 217230 = {
 	name = "Kotyan" # fictional
-	dynasty = 1051121 # Müjde
+	dynasty = 1051121 # Mujde
 	religion = buddhist
 	culture = uyghur
 	father = 217229
@@ -715,7 +715,7 @@
 
 217232 = {
 	name = "Ituk" # fictional
-	dynasty = 1051121 # Müjde
+	dynasty = 1051121 # Mujde
 	religion = buddhist
 	culture = uyghur
 	father = 217230
@@ -746,7 +746,7 @@
 
 217234 = {
 	name = "Barchuq"
-	dynasty = 1051121 # Müjde # fictional dynasty
+	dynasty = 1051121 # Mujde # fictional dynasty
 	religion = buddhist
 	culture = uyghur
 	father = 217232
@@ -764,7 +764,7 @@
 
 217235 = {
 	name = "Gunes" # fictional
-	dynasty = 1051121 # Müjde
+	dynasty = 1051121 # Mujde
 	religion = buddhist
 	culture = uyghur
 	father = 217232
@@ -779,7 +779,7 @@
 
 217244 = {
 	name = "Tömür" # fictional
-	dynasty = 1051121 # Müjde
+	dynasty = 1051121 # Mujde
 	religion = buddhist
 	culture = uyghur
 	father = 217234
@@ -794,7 +794,7 @@
 
 217245 = {
 	name = "Irge" # fictional
-	dynasty = 1051121 # Müjde
+	dynasty = 1051121 # Mujde
 	religion = buddhist
 	culture = uyghur
 	father = 217234

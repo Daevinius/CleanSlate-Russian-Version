@@ -18,7 +18,7 @@
 }
 
 1002.1.1 = {
-	holder = 274 # Guy I de Mâcon
+	holder = 274 # Guy I de Macon
 }
 
 1004.1.1 = {
@@ -30,7 +30,7 @@
 }
 
 1065.1.1 = {
-	holder = 288 # Guy II de Mâcon
+	holder = 288 # Guy II de Macon
 }
 
 1078.1.1 = {
@@ -50,23 +50,23 @@
 }
 
 1127.3.1 = {
-	holder = 205704 # Guillaume III de Mâcon
+	holder = 205704 # Guillaume III de Macon
 }
 
 1157.1.1 = {
-	holder = 205701 # Géraud I de Mâcon
+	holder = 205701 # Geraud I de Macon
 }
 
 1184.1.1 = {
-	holder = 205700 # Guillaume IV de Mâcon
+	holder = 205700 # Guillaume IV de Macon
 }
 
 1224.1.1 = {
-	holder = 205703 # Gérard II de Mâcon
+	holder = 205703 # Gerard II de Macon
 }
 
 1224.6.1 = {
-	holder = 91140 # Alix de Mâcon
+	holder = 91140 # Alix de Macon
 }
 
 1239.1.1 = {
@@ -80,11 +80,11 @@
 }
 
 1248.1.1 = {
-	holder = 7653 # Adélaïde I de Bourgogne
+	holder = 7653 # Adelaide I de Bourgogne
 	liege = e_hre
 }
 
-# House of Ivrée
+# House of Ivree
 1279.1.1 = {
 	holder = 455739 # Othon IV de Bourgogne
 }

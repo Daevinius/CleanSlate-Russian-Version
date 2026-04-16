@@ -1,4 +1,4 @@
-# 705 - Trencín
+# 705 - Trencin
 title = c_trencin
 terrain = mountain
 

@@ -24,12 +24,12 @@
 }
 
 867.1.1 = {
-	holder = 73869 # Alfonso Betótez
+	holder = 73869 # Alfonso Betotez
 	liege = k_asturias
 }
 
 895.1.1 = {
-	holder = 73870 # Gonzalo Alfonsez Betótez
+	holder = 73870 # Gonzalo Alfonsez Betotez
 }
 
 910.12.20 = {
@@ -37,7 +37,7 @@
 }
 
 929.1.1 = {
-	holder = 70242 # Pelayo Betótez
+	holder = 70242 # Pelayo Betotez
 }
 
 931.1.1 = {
@@ -45,19 +45,19 @@
 }
 
 959.1.1 = {
-	holder = 107680 # Fernán González de Lara
+	holder = 107680 # Fernan Gonzalez de Lara
 }
 
 970.6.1 = {
-	holder = 107670 # García Fernández de Lara
+	holder = 107670 # Garcia Fernandez de Lara
 }
 
 995.1.1 = {
-	holder = 107660 # Sancho García de Lara
+	holder = 107660 # Sancho Garcia de Lara
 }
 
 1017.2.5 = {
-	holder = 70286 # García Sánchez de Lara
+	holder = 70286 # Garcia Sanchez de Lara
 }
 
 1029.5.13 = {
@@ -77,35 +77,35 @@
 }
 
 1109.6.30 = {
-	holder = 207660 # Urraca Alfónsez Jimena
+	holder = 207660 # Urraca Alfonsez Jimena
 }
 
 1126.3.8 = {
-	holder = 207500 # Alfonso VII de Borgoña
+	holder = 207500 # Alfonso VII de Borgona
 }
 
 1157.8.21 = {
-	holder = 207520 # Sancho III de Borgoña
+	holder = 207520 # Sancho III de Borgona
 }
 
 1158.8.31 = {
-	holder = 207510 # Alfonso VIII de Borgoña
+	holder = 207510 # Alfonso VIII de Borgona
 }
 
 1214.10.8 = {
-	holder = 70230 # Enrique Alfónsez de Borgoña
+	holder = 70230 # Enrique Alfonsez de Borgona
 }
 
 1217.6.6 = {
-	holder = 457651 # Berenguela Alfónsez de Borgoña
+	holder = 457651 # Berenguela Alfonsez de Borgona
 }
 
 1217.8.31 = {
-	holder = 457660 # Alfonso Alfónsez de Borgoña
+	holder = 457660 # Alfonso Alfonsez de Borgona
 }
 
 1272.1.6 = {
-	holder = 457540 # Alfonso X de Borgoña
+	holder = 457540 # Alfonso X de Borgona
 }
 
 1284.4.4 = {

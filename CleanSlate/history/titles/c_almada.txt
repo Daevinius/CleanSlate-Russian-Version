@@ -143,50 +143,50 @@
 }
 
 1217.10.18 = {
-	holder = 142547 # Afonso Hermiges de Baião
+	holder = 142547 # Afonso Hermiges de Baiao
 	liege = k_portugal
 }
 
 1220.1.1 = {
-	holder = 142550 # Afonso Lopes de Baião
+	holder = 142550 # Afonso Lopes de Baiao
 }
 
 1261.1.1 = {
-	holder = 142551 # Fernão Lopes de Baião
+	holder = 142551 # Fernao Lopes de Baiao
 }
 
 1262.1.1 = {
-	holder = 142552 # Diogo Lopes de Baião
+	holder = 142552 # Diogo Lopes de Baiao
 }
 
 1263.1.1 = {
-	holder = 142561 # Pero Ponçe de Baião
+	holder = 142561 # Pero Ponce de Baiao
 }
 
 1272.1.1 = {
-	holder = 142572 # Afonso Rodrigues de Baião
+	holder = 142572 # Afonso Rodrigues de Baiao
 }
 
 1286.1.1 = {
-	holder = 142574 # Martim Afonses de Baião
+	holder = 142574 # Martim Afonses de Baiao
 }
 
 1306.1.1 = {
-	holder = 142575 # Rodrigo Afonses de Baião
+	holder = 142575 # Rodrigo Afonses de Baiao
 }
 
 1307.1.1 = {
-	holder = 142576 # Geraldo Afonses de Baião
+	holder = 142576 # Geraldo Afonses de Baiao
 }
 
 1308.1.1 = {
-	holder = 142584 # Guiomar Martimes de Baião
+	holder = 142584 # Guiomar Martimes de Baiao
 }
 
 1327.1.1 = {
-	holder = 142585 # Aldonça Martimes de Baião
+	holder = 142585 # Aldonca Martimes de Baiao
 }
 
 1328.1.1 = {
-	holder = 142586 # Mor Martimes de Baião
+	holder = 142586 # Mor Martimes de Baiao
 }

@@ -55,7 +55,7 @@
 }
 
 1103.1.1 = {
-	holder = 91215 # Hervé II
+	holder = 91215 # Herve II
 }
 
 1168.1.1 = {
@@ -67,19 +67,19 @@
 }
 
 1218.3.14 = {
-	holder = 91218 # Guyomar de Léon
+	holder = 91218 # Guyomar de Leon
 }
 
 1231.5.1 = {
-	holder = 91219 # Hervé III de Léon
+	holder = 91219 # Herve III de Leon
 }
 
 1265.1.1 = {
-	holder = 91220 # Hervé IV de Léon
+	holder = 91220 # Herve IV de Leon
 }
 
 1298.6.7 = {
-	holder = 455789 # Jean II buy the viscounty of Léon
+	holder = 455789 # Jean II buy the viscounty of Leon
 }
 
 1305.11.18 = {

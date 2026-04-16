@@ -1,4 +1,4 @@
-# 237 - Fürstenberg
+# 237 - Furstenberg
 title = c_furstenberg
 terrain = hills
 

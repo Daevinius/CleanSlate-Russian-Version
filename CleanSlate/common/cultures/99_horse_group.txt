@@ -14,8 +14,6 @@ horse_group = {
 
 		color = { 0.3 0.1 0.1 }
 
-		# Þ 222 þ 254 Ð 208 ð 240 æ
-
 		male_names = {
 			Alfonso Arod Artax Asfaloth
 			Barnaby Bayard Beauty "Bill the Pony" Blackjack Bojack Bolt Boxer Brag Brego Brunte Bucephalus Bumpkin Bäckahäst

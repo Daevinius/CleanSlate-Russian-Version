@@ -15,7 +15,7 @@
 }
 
 490.1.1 = {
-	holder = 83780 # Dauí Iarlaithe
+	holder = 83780 # Daui Iarlaithe
 }
 
 510.1.1 = {
@@ -27,15 +27,15 @@
 }
 
 570.1.1 = {
-	holder = 83784 # Áed Bennán
+	holder = 83784 # Aed Bennan
 }
 
 621.1.1 = {
-	holder = 252075 # çed Damm‡n
+	holder = 252075 # ced Damm‡n
 }
 
 633.1.1 = {
-	holder = 252076 # M‡el Dœin
+	holder = 252076 # M‡el Doein
 }
 
 661.1.1 = {
@@ -47,11 +47,11 @@
 }
 
 700.1.1 = {
-	holder = 252080 # Cœ D’naisc
+	holder = 252080 # Coe D’naisc
 }
 
 717.1.1 = {
-	holder = 83788 # çed
+	holder = 83788 # ced
 }
 
 734.1.1 = {
@@ -59,15 +59,15 @@
 }
 
 747.1.1 = {
-	holder = 83789 # Máel-Dúin
+	holder = 83789 # Mael-Duin
 }
 
 786.1.1 = {
-	holder = 252082 # Cœ Chongelt
+	holder = 252082 # Coe Chongelt
 }
 
 791.1.1 = {
-	holder = 252083 # çed All‡n
+	holder = 252083 # ced All‡n
 }
 
 803.1.1 = {
@@ -78,7 +78,7 @@
 	holder = 252084 # M‡el Cr—n
 }
 
-# unknown Lords of Locha LŽin
+# unknown Lords of Locha Lzin
 # Ua Cathail
 838.1.1 = {
 	holder = 252086
@@ -151,7 +151,7 @@
 	holder = 252118
 }
 
-# òa Donnchadha (O'Donoghues of the Glens)
+# oa Donnchadha (O'Donoghues of the Glens)
 1118.1.1 = {
 	holder = 252119
 }

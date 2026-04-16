@@ -55,7 +55,7 @@
 
 187001 = {
 	name = "Mojmír"
-	# AKA: Mojmír I Mojmírovci
+	# AKA: Mojmir I Mojmirovci
 	dynasty = 7508
 	religion = slavic_pagan
 	culture = slovien
@@ -73,7 +73,7 @@
 
 187002 = {
 	name = "Rostislav"
-	# AKA: Rostislav Mojmírovci
+	# AKA: Rostislav Mojmirovci
 	dynasty = 7508
 	religion = slavic_pagan
 	culture = slovien
@@ -91,7 +91,7 @@
 
 187003 = {
 	name = "Svatopluk"
-	# AKA: Svatopluk Mojmírovci
+	# AKA: Svatopluk Mojmirovci
 	dynasty = 7508
 	religion = catholic
 	culture = slovien
@@ -110,7 +110,7 @@
 # Nephew of Rostislav
 187004 = {
 	name = "Slavomír"
-	# AKA: Slavomír Mojmírovci
+	# AKA: Slavomir Mojmirovci
 	dynasty = 7508
 	religion = catholic
 	culture = slovien
@@ -138,7 +138,7 @@
 
 187006 = {
 	name = "Mojmír"
-	# AKA: Mojmír II Mojmírovci
+	# AKA: Mojmir II Mojmirovci
 	dynasty = 7508
 	religion = catholic
 	culture = slovien
@@ -154,7 +154,7 @@
 
 187007 = {
 	name = "Svatopluk"
-	# AKA: Svatopluk II Mojmírovci
+	# AKA: Svatopluk II Mojmirovci
 	dynasty = 7508
 	religion = catholic
 	culture = slovien
@@ -170,7 +170,7 @@
 
 187008 = {
 	name = "Predslav"
-	# AKA: Predslav Mojmírovci
+	# AKA: Predslav Mojmirovci
 	dynasty = 7508
 	religion = catholic
 	culture = slovien
@@ -633,7 +633,7 @@
 #Ancestors of Pribina
 273017 = {
 	name = "Drahoslav"
-	# fantasy father of Pribina Nitravský
+	# fantasy father of Pribina Nitravsky
 	dynasty = 7509
 	religion = slavic_pagan
 	culture = slovien

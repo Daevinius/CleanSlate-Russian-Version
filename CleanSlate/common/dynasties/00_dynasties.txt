@@ -6432,7 +6432,7 @@
 	used_for_random = no
 }
 
-927 = { # Is this the one that should be with æ? Oværgaard?
+927 = { # Is this the one that should be with ae? Ovaergaard?
 	name = "Overgaard"
 	culture = danish
 	religion = catholic
@@ -50457,7 +50457,7 @@
 }
 
 1069086 = {
-	name = "Tânmak"   # Sanhaja/Tagelmust rulers over Tadmekka's Zanâta Berbers
+	name = "Tânmak"   # Sanhaja/Tagelmust rulers over Tadmekka's Zanata Berbers
 	culture = berber
 	religion = ibadi
 }

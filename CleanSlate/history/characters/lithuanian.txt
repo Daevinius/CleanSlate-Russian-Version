@@ -1890,7 +1890,7 @@
 	dynasty = 9116
 	religion = baltic_pagan
 	culture = lithuanian
-	father = 82200 #Skirmkantas son of Šventaragis
+	father = 82200 #Skirmkantas son of Sventaragis
 	mother = 82202
 	1090.1.1 = {
 		birth = yes
@@ -1905,7 +1905,7 @@
 	dynasty = 9116
 	religion = baltic_pagan
 	culture = lithuanian
-	father = 82200 #Skirmkantas son of Šventaragis
+	father = 82200 #Skirmkantas son of Sventaragis
 	mother = 82202
 	1095.1.1 = {
 		birth = yes

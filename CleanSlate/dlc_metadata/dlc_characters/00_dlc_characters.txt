@@ -311,7 +311,7 @@ genghis_khan = {
 }
 
 khagan_ozbeg = {
-	id = 480000 # Özbeg Khan of Golden Horde
+	id = 480000 # Ozbeg Khan of Golden Horde
 	age = 55
 	name = ERA_CHAR_NAME_480000
 	title = e_golden_horde
@@ -431,7 +431,7 @@ satrap_vandad = {
 }
 
 bjorn_ironside = {
-	id = 163108 # Björn 'Ironside'
+	id = 163108 # Bjorn 'Ironside'
 	age = 46
 	name = ERA_CHAR_NAME_163108
 	title = d_uppland
@@ -442,14 +442,14 @@ bjorn_ironside = {
 	character = {
 		dna = gdadbjynnbx
 		properties = gj0ead000000000000
-		dynasty = 502 # af Munsö
+		dynasty = 502 # af Munso
 		religion = norse_pagan
 		culture = norse
 	}
 }
 
 arpad_almos = {
-	id = 159137 # Ýrpad Ýlmos
+	id = 159137 # Arpad Almos
 	age = 57
 	name = ERA_CHAR_NAME_159137
 	title = k_magyar
@@ -460,7 +460,7 @@ arpad_almos = {
 	character = {
 		dna = eegxbhtirbv
 		properties = fc00id000000000000
-		dynasty = 708 # Ýrpád
+		dynasty = 708 # Arpad
 		religion = tengri_pagan
 		culture = hungarian
 		government = nomadic_government
@@ -481,7 +481,7 @@ erik_the_heathen = {
 		properties = g00ajd000000000000
 		religion = norse_pagan
 		culture = swedish
-		dynasty = 502 # af Munsö
+		dynasty = 502 # af Munso
 		government = feudal_government
 	}
 }
@@ -668,14 +668,14 @@ sherab_tsultrim = {
 	character = {
 		dna = hvlrphnybna
 		properties = cj0ick000000000000
-		dynasty = 105802 # Khön
+		dynasty = 105802 # Khon
 		religion = buddhist
 		culture = bodpa
 	}
 }
 
 gudrod = {
-	id = 5788 # Gudrød of Søreyar
+	id = 5788 # Gudrod of Soreyar
 	age = 17
 	name = ERA_CHAR_NAME_5788
 	title = d_the_isles
@@ -887,7 +887,7 @@ baudouin = {
 }
 
 kara_khitai = {
-	id = 188912 # Kara-Khitai Yelü-Zhilugu
+	id = 188912 # Kara-Khitai Yelu-Zhilugu
 	age = 22
 	name = ERA_CHAR_NAME_188912
 	title = k_transoxiana
@@ -992,7 +992,7 @@ mayor_gunnar = {
 	character = {
 		dna = fmgzgkqogem
 		properties = 0ggdgd000000000000
-		dynasty = 9520 # Stråben
+		dynasty = 9520 # Straben
 		religion = catholic
 		culture = swedish
 	}
@@ -1067,7 +1067,7 @@ renaud = {
 		properties = eh0cbd000000000000
 		religion = catholic
 		culture = french
-		dynasty = 23113 # de Châtillon
+		dynasty = 23113 # de Chatillon
 		government = feudal_government
 	}
 }

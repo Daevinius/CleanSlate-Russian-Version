@@ -8535,7 +8535,7 @@ character_event = {
 
 #######################################
 # LIEGE INTERFERES IN VASSAL WARS
-# by Henrik Fåhraeus
+# by Henrik Fahraeus
 #######################################
 
 # Vassal is asked by Liege to stop war of aggression against another vassal

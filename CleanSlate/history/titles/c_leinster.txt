@@ -1,29 +1,29 @@
 430.1.1 = {
-	holder = 83160 # Énna Cennsalach
+	holder = 83160 # Enna Cennsalach
 }
 
 450.7.1 = {
-	holder = 83161 # Crimthann son of Énna Cennsalach
+	holder = 83161 # Crimthann son of Enna Cennsalach
 }
 
 483.7.1 = {
-	holder = 83173 # Nath Í son of Crimthann
+	holder = 83173 # Nath I son of Crimthann
 }
 
 512.7.1 = {
-	holder = 83173 # Óengus son of Feidlimid FIX
+	holder = 83173 # Oengus son of Feidlimid FIX
 }
 
 522.7.1 = {
-	holder = 83164 # Eógan Cáech
+	holder = 83164 # Eogan Caech
 }
 
 540.7.1 = {
-	holder = 83174 # Muiredach son of Óengus
+	holder = 83174 # Muiredach son of Oengus
 }
 
 544.7.1 = {
-	holder = 83180 # Fáelán son of Sílán
+	holder = 83180 # Faelan son of Silan
 }
 
 589.7.1 = {
@@ -35,23 +35,23 @@
 }
 
 608.7.1 = {
-	holder = 83166 # Rónán son of Colmán
+	holder = 83166 # Ronan son of Colman
 }
 
 624.7.1 = {
-	holder = 83167 # Crundmáel son of Rónán
+	holder = 83167 # Crundmael son of Ronan
 }
 
 644.7.1 = {
-	holder = 83182 # Élothach son of Fáelchú
+	holder = 83182 # Elothach son of Faelchu
 }
 
 728.7.1 = {
-	holder = 83171 # Áed Ua Cheinnselaig son of Colcú
+	holder = 83171 # Aed Ua Cheinnselaig son of Colcu
 }
 
 738.7.1 = {
-	holder = 217321 # Sechnusach au Cheinnselaig son of Colcú # assumed successor
+	holder = 217321 # Sechnusach au Cheinnselaig son of Colcu # assumed successor
 }
 
 747.4.1 = {
@@ -75,7 +75,7 @@
 }
 
 1003.1.1 = {
-	holder = 166101 # Máel Mórda mac Murchada
+	holder = 166101 # Mael Morda mac Murchada
 }
 
 1042.7.1 = {
@@ -91,11 +91,11 @@
 }
 
 1089.7.1 = {
-	holder = 923 # Énna son of Diarmait
+	holder = 923 # Enna son of Diarmait
 }
 
 1092.7.1 = {
-	holder = 83188 # Diarmait son of Énna
+	holder = 83188 # Diarmait son of Enna
 }
 
 1098.7.1 = {
@@ -103,11 +103,11 @@
 }
 
 1115.7.1 = {
-	holder = 83191 # Diarmait son of Énna
+	holder = 83191 # Diarmait son of Enna
 }
 
 1117.7.1 = {
-	holder = 83192 # Énna son of Donnchad
+	holder = 83192 # Enna son of Donnchad
 }
 
 1126.7.1 = {
@@ -127,7 +127,7 @@
 }
 
 1171.5.1 = {
-	holder = 214555 # Domnall Cáemánach
+	holder = 214555 # Domnall Caemanach
 }
 
 1175.7.1 = {
@@ -139,7 +139,7 @@
 }
 
 1193.7.1 = {
-	holder = 83195 # Domnall son of Domnall Cáemánach
+	holder = 83195 # Domnall son of Domnall Caemanach
 }
 
 1250.7.1 = {

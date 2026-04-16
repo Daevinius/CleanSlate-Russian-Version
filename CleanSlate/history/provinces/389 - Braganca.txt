@@ -1,4 +1,4 @@
-# 389 - Bragança
+# 389 - Braganca
 title = c_braganca
 terrain = hills
 

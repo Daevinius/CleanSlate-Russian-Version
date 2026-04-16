@@ -8,7 +8,7 @@
 # }
 
 # 730.1.1 = {
-# 	holder = 252136 # çed All‡n
+# 	holder = 252136 # ced All‡n
 # }
 
 # 739.1.1 = {
@@ -24,7 +24,7 @@
 # }
 
 # 792.1.1 = {
-# 	holder = 7275 # çed Oirdnide
+# 	holder = 7275 # ced Oirdnide
 # }
 
 # 819.1.1 = {
@@ -44,11 +44,11 @@
 # }
 
 # 846.1.1 = {
-# 	holder = 131501 # Máel Sechnaill
+# 	holder = 131501 # Mael Sechnaill
 # }
 
 # 860.11.22 = {
-# 	holder = 944 # Áed Findliath
+# 	holder = 944 # Aed Findliath
 # }
 
 # 879.1.1 = {
@@ -56,7 +56,7 @@
 # }
 
 # 916.5.25 = {
-# 	holder = 131511 # Niall Glúndub
+# 	holder = 131511 # Niall Glundub
 # }
 
 # 919.9.14 = {
@@ -76,7 +76,7 @@
 # }
 
 # 1002.1.1 = {
-# 	holder = 900 # Brian Bóruma mac Cennétig
+# 	holder = 900 # Brian Boruma mac Cennetig
 # }
 
 # 1014.4.23 = {
@@ -120,7 +120,7 @@
 # }
 
 # 1258.12.2 = {
-# 	holder = 83083 # Brian Ua NŽill
+# 	holder = 83083 # Brian Ua Nzill
 # }
 
 # 1260.5.26 = {

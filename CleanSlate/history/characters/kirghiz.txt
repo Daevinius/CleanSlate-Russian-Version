@@ -297,7 +297,7 @@
 
 217166 = {
 	name = "Könçek" # fictional
-	dynasty = 1051108 # Günaydin
+	dynasty = 1051108 # Gunaydin
 	religion = manichaean
 	culture = kirghiz
 	815.4.17 = {
@@ -326,7 +326,7 @@
 
 217168 = {
 	name = "Kuntuvdi" # fictional
-	dynasty = 1051108 # Günaydin
+	dynasty = 1051108 # Gunaydin
 	religion = manichaean
 	culture = kirghiz
 	father = 217166
@@ -341,7 +341,7 @@
 
 217169 = {
 	name = "Sevenç" # fictional
-	dynasty = 1051108 # Günaydin
+	dynasty = 1051108 # Gunaydin
 	religion = manichaean
 	culture = kirghiz
 	father = 217166
@@ -356,7 +356,7 @@
 
 217170 = {
 	name = "Usunbike" # fictional
-	dynasty = 1051108 # Günaydin
+	dynasty = 1051108 # Gunaydin
 	religion = manichaean
 	culture = kirghiz
 	father = 217166
@@ -372,7 +372,7 @@
 
 217171 = {
 	name = "Asep" # fictional
-	dynasty = 1051109 # Kiliçli
+	dynasty = 1051109 # Kilicli
 	religion = manichaean
 	culture = kirghiz
 	804.5.12 = {
@@ -401,7 +401,7 @@
 
 217173 = {
 	name = "Eldeçyuk" # fictional
-	dynasty = 1051109 # Kiliçli
+	dynasty = 1051109 # Kilicli
 	religion = manichaean
 	culture = kirghiz
 	father = 217171
@@ -416,7 +416,7 @@
 
 217174 = {
 	name = "Ayasun" # fictional
-	dynasty = 1051109 # Kiliçli
+	dynasty = 1051109 # Kilicli
 	religion = manichaean
 	culture = kirghiz
 	father = 217171
@@ -432,7 +432,7 @@
 
 217175 = {
 	name = "Umay" # fictional
-	dynasty = 1051109 # Kiliçli
+	dynasty = 1051109 # Kilicli
 	religion = manichaean
 	culture = kirghiz
 	female = yes

@@ -68,7 +68,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 1005 #Ualgarg mac Néill
+	father = 1005 #Ualgarg mac Neill
 	1046.1.1 = {
 		birth = yes
 	}
@@ -87,7 +87,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 1003 #Tigernán mac Ualgairg
+	father = 1003 #Tigernan mac Ualgairg
 	1065.1.1 = {
 		birth = yes
 	}
@@ -359,7 +359,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = amateurish_plotter
-	father = 900 #Brian Bóruma
+	father = 900 #Brian Boruma
 	mother = 166123 #Eachraidh
 	984.1.1 = {
 		birth = yes
@@ -410,7 +410,7 @@
 		birth = yes
 	}
 	845.1.1 = {
-		add_spouse = 131507 #Lann ingen mac Dúnlainge
+		add_spouse = 131507 #Lann ingen mac Dunlainge
 	}
 	862.11.22 = {
 		death = yes
@@ -430,7 +430,7 @@
 	add_trait = tough_soldier
 	add_trait = diligent
 	father = 131501
-	mother = 131507 #Lann ingen mac Dúnlainge
+	mother = 131507 #Lann ingen mac Dunlainge
 	847.1.2 = {
 		birth = yes
 	}
@@ -438,11 +438,11 @@
 		add_spouse = 165000 #Gormlaith ingen Conaing mac Flainn - fl. 870
 	}
 	877.1.1 = {
-		add_spouse = 165001 #Eithne ingen Áed Findliath
+		add_spouse = 165001 #Eithne ingen Aed Findliath
 	}
 	880.1.1 = {
-		remove_spouse = 165001 #Eithne ingen Áed Findliath - likely divorced
-		add_spouse = 165002 #Máel Muire ingen Cináeda mac Ailpín
+		remove_spouse = 165001 #Eithne ingen Aed Findliath - likely divorced
+		add_spouse = 165002 #Mael Muire ingen Cinaeda mac Ailpin
 	}
 	916.5.25 = {
 		death = yes
@@ -505,7 +505,7 @@
 
 131505 = {
 	name = "Máel Sechnaill"
-	# AKA: Mael Sechnaill mac Domnaill, Máel Sechnaill Mór
+	# AKA: Mael Sechnaill mac Domnaill, Mael Sechnaill Mor
 	dynasty = 199
 	martial = 6
 	diplomacy = 5
@@ -520,7 +520,7 @@
 		birth = yes
 	}
 	967.7.1 = {
-		dynasty = 9205 #Ua Maíl Sechlainn
+		dynasty = 9205 #Ua Mail Sechlainn
 	}
 	981.5.1 = {
 		add_spouse = 166102
@@ -558,7 +558,7 @@
 }
 
 131507 = {
-	name = "Lann" #Lann ingen mac Dúnlainge
+	name = "Lann" #Lann ingen mac Dunlainge
 	female = yes
 	dynasty = 1040001
 	martial = 5
@@ -589,7 +589,7 @@
 	culture = irish
 	add_trait = tough_soldier
 	father = 944
-	mother = 165002 #Máel Muire ingen Cináeda mac Ailpín.
+	mother = 165002 #Mael Muire ingen Cinaeda mac Ailpin.
 	869.1.2 = {
 		birth = yes
 	}
@@ -983,7 +983,7 @@
 	add_trait = kind
 	add_trait = clubfooted
 	add_trait = tough_soldier
-	father = 214021 #Máél-Sechlain mac Tigernan Móir Ua Ruairc
+	father = 214021 #Mael-Sechlain mac Tigernan Moir Ua Ruairc
 	1162.1.1 = {
 		birth = yes
 	}
@@ -1005,7 +1005,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 214022 #Tigearnan Mór Ua Ruairc
+	father = 214022 #Tigearnan Mor Ua Ruairc
 	mother = 83159
 	1134.1.1 = {
 		birth = yes
@@ -1016,7 +1016,7 @@
 }
 
 214022 = {
-	name = "Tigernán" #Tigernan Mór Ua Ruairc
+	name = "Tigernán" #Tigernan Mor Ua Ruairc
 	dynasty = 101675
 	martial = 8
 	diplomacy = 9
@@ -1085,7 +1085,7 @@
 	culture = irish
 	add_trait = just
 	add_trait = misguided_warrior
-	father = 214022 #Tigearnan Mór Ua Ruairc
+	father = 214022 #Tigearnan Mor Ua Ruairc
 	1142.1.1 = {
 		birth = yes
 	}
@@ -1184,7 +1184,7 @@
 }
 
 214500 = {
-	name = "Conchobar" #Conchobar Máenmaige mac Ruaidrí
+	name = "Conchobar" #Conchobar Maenmaige mac Ruaidri
 	dynasty = 201
 	martial = 8
 	diplomacy = 7
@@ -1197,7 +1197,7 @@
 	add_trait = brave
 	add_trait = clubfooted
 	add_trait = tough_soldier
-	father = 214510 #Ruaidrí mac Toirrdelbaig
+	father = 214510 #Ruaidri mac Toirrdelbaig
 	1148.1.1 = {
 		birth = yes
 	}
@@ -1216,7 +1216,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = skilled_tactician
-	father = 214510 #Ruaidrí mac Toirrdelbaig
+	father = 214510 #Ruaidri mac Toirrdelbaig
 	1154.1.1 = {
 		birth = yes
 	}
@@ -1237,7 +1237,7 @@
 	add_trait = slothful
 	add_trait = kind
 	add_trait = flamboyant_schemer
-	father = 214510 #Ruaidrí mac Toirrdelbaig
+	father = 214510 #Ruaidri mac Toirrdelbaig
 	1156.1.1 = {
 		birth = yes
 	}
@@ -1258,7 +1258,7 @@
 	add_trait = clubfooted
 	add_trait = inbred
 	add_trait = scholarly_theologian
-	father = 214510 #Ruaidrí mac Toirrdelbaig
+	father = 214510 #Ruaidri mac Toirrdelbaig
 	1155.1.1 = {
 		birth = yes
 	}
@@ -1278,7 +1278,7 @@
 	culture = irish
 	add_trait = patient
 	add_trait = tough_soldier
-	father = 214500 #Conchobar Máenmaige mac Ruaidrí
+	father = 214500 #Conchobar Maenmaige mac Ruaidri
 	1170.1.1 = {
 		birth = yes
 	}
@@ -1288,7 +1288,7 @@
 }
 
 214510 = {
-	name = "Ruaidrí" #Ruaidrí mac Toirrdelbaig
+	name = "Ruaidrí" #Ruaidri mac Toirrdelbaig
 	dynasty = 201
 	martial = 8
 	diplomacy = 7
@@ -1298,7 +1298,7 @@
 	culture = irish
 	add_trait = charitable
 	add_trait = dutiful_cleric
-	father = 214520 #Toirrdelbach mac Ruaidrí
+	father = 214520 #Toirrdelbach mac Ruaidri
 	1123.1.1 = {
 		birth = yes
 	}
@@ -1318,7 +1318,7 @@
 	culture = irish
 	add_trait = skilled_tactician
 	add_trait = lustful
-	father = 911 #Ruaidrí na Saide Buide
+	father = 911 #Ruaidri na Saide Buide
 	1088.1.1 = {
 		birth = yes
 	}
@@ -1435,7 +1435,7 @@
 }
 
 214580 = {
-	name = "Domnall" #AKA Domnall Mór
+	name = "Domnall" #AKA Domnall Mor
 	dynasty = 695
 	martial = 5
 	diplomacy = 5
@@ -1607,7 +1607,7 @@
 
 214600 = {
 	name = "Domnall"
-	# AKA: Domnal Mór na Corra
+	# AKA: Domnal Mor na Corra
 	dynasty = 197
 	martial = 8
 	diplomacy = 4
@@ -1626,7 +1626,7 @@
 }
 
 214601 = {
-	name = "Diarmait" #Diarmait Dúna Droignéin
+	name = "Diarmait" #Diarmait Duna Droignein
 	dynasty = 197
 	martial = 5
 	diplomacy = 6
@@ -1889,7 +1889,7 @@
 	add_trait = brave
 	add_trait = proud
 	add_trait = tough_soldier
-	father = 83341 #Tadg of Cáeluisce
+	father = 83341 #Tadg of Caeluisce
 	1250.1.1 = {
 		birth = yes
 	}
@@ -2087,7 +2087,7 @@
 }
 
 454163 = {
-	name = "Cathal" #Cathal in Toísech
+	name = "Cathal" #Cathal in Toisech
 	dynasty = 101675
 	martial = 5
 	diplomacy = 5
@@ -2129,7 +2129,7 @@
 }
 
 454165 = {
-	name = "Tigernán" #Tigernán Mór mac Ualgairg
+	name = "Tigernán" #Tigernan Mor mac Ualgairg
 	dynasty = 101675
 	martial = 7
 	diplomacy = 7
@@ -2316,7 +2316,7 @@
 
 6119 = {
 	name = "Máel-Sechlainn"
-	# AKA: Máel Sechlainn Bán
+	# AKA: Mael Sechlainn Ban
 	dynasty = 9205
 	martial = 5
 	diplomacy = 6
@@ -3214,7 +3214,7 @@
 }
 
 7260 = {
-	name = "Colmán" #Colmán Becc
+	name = "Colmán" #Colman Becc
 	dynasty = 199
 	religion = catholic
 	culture = irish
@@ -3552,7 +3552,7 @@
 	add_trait = hunchback
 	religion = catholic
 	culture = irish
-	father = 1005 #Ualgarg mac Néill
+	father = 1005 #Ualgarg mac Neill
 	1048.1.1 = {
 		birth = yes
 	}
@@ -3871,8 +3871,8 @@
 
 900 = {
 	name = "Brian"
-	# AKA: Brian Bóruma
-	dynasty = 100009 #Dál gCais
+	# AKA: Brian Boruma
+	dynasty = 100009 #Dal gCais
 	martial = 9
 	diplomacy = 5
 	intrigue = 7
@@ -3882,8 +3882,8 @@
 	add_trait = wroth
 	add_trait = brave
 	add_trait = dutiful_cleric
-	father = 83330 #Cennétig of Dál gCais
-	mother = 166063 #Bé Binn of Uí Briúin Seóla
+	father = 83330 #Cennetig of Dal gCais
+	mother = 166063 #Be Binn of Ui Briuin Seola
 	941.1.1 = {
 		birth = yes
 		create_bloodline = {
@@ -3945,7 +3945,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 900 #Brian Bóruma
+	father = 900 #Brian Boruma
 	mother = 166102 #Gormflaith
 	1000.1.1 = {
 		birth = yes
@@ -4008,7 +4008,7 @@
 	culture = irish
 	add_trait = diligent
 	add_trait = amateurish_plotter
-	father = 900 #Brian Bóruma
+	father = 900 #Brian Boruma
 	mother = 166123 #Eachraidh
 	985.1.1 = {
 		birth = yes
@@ -4106,7 +4106,7 @@
 }
 
 910 = {
-	name = "Áed" #Áed in Gaí Bernaig
+	name = "Áed" #Áed in Gai Bernaig
 	# AKA: aed
 	dynasty = 201
 	martial = 7
@@ -4130,7 +4130,7 @@
 }
 
 911 = {
-	name = "Ruaidrí" #Ruaidrí na Saide Buide
+	name = "Ruaidrí" #Ruaidri na Saide Buide
 	dynasty = 201
 	martial = 6
 	diplomacy = 8
@@ -4614,13 +4614,13 @@
 		add_spouse = 165016 #Gormlaith Rapach ingen Muiredach mac Eochada
 	}
 	862.12.10 = {
-		add_spouse = 131507 #Lann ingen mac Dúnlainge
+		add_spouse = 131507 #Lann ingen mac Dunlainge
 	}
 	866.12.2 = {
-		remove_spouse = 131507 #Lann ingen mac Dúnlainge
+		remove_spouse = 131507 #Lann ingen mac Dunlainge
 	}
 	867.1.1 = {
-		add_spouse = 165002 #Máel Muire ingen Cináeda mac Ailpín
+		add_spouse = 165002 #Mael Muire ingen Cinaeda mac Ailpin
 	}
 	879.1.1 = {
 		death = yes
@@ -5274,7 +5274,7 @@
 		birth = yes
 	}
 	920.1.1 = {
-		dynasty = 14112 #Ua Canannáin
+		dynasty = 14112 #Ua Canannain
 	}
 	957.7.1 = {
 		death = yes
@@ -6118,7 +6118,7 @@
 }
 
 83079 = {
-	name = "Áed" #Áed in Macáem Tóinlesc
+	name = "Áed" #Áed in Macaem Toinlesc
 	dynasty = 9202
 	martial = 7
 	diplomacy = 4
@@ -6138,7 +6138,7 @@
 }
 
 83080 = {
-	name = "Áed" #Áed Méith
+	name = "Áed" #Áed Meith
 	dynasty = 9202
 	martial = 7
 	diplomacy = 4
@@ -6179,7 +6179,7 @@
 }
 
 83082 = {
-	name = "Domnall" #Domnall ÓC
+	name = "Domnall" #Domnall OC
 	dynasty = 9202
 	martial = 5
 	diplomacy = 6
@@ -6198,7 +6198,7 @@
 }
 
 83083 = {
-	name = "Brian" #Brian Ua Néill high-king of Ireland
+	name = "Brian" #Brian Ua Neill high-king of Ireland
 	dynasty = 9202
 	martial = 4
 	diplomacy = 7
@@ -6295,7 +6295,7 @@
 }
 
 83088 = {
-	name = "Niall" #Niall Cúlánach
+	name = "Niall" #Niall Culanach
 	dynasty = 9202
 	martial = 5
 	diplomacy = 5
@@ -6313,7 +6313,7 @@
 }
 
 83089 = {
-	name = "Brian" #Brian Ua Néill
+	name = "Brian" #Brian Ua Neill
 	dynasty = 9202
 	martial = 3
 	diplomacy = 6
@@ -6604,7 +6604,7 @@
 }
 
 83105 = {
-	name = "Niall" #Niall Mór
+	name = "Niall" #Niall Mor
 	dynasty = 9202
 	martial = 6
 	diplomacy = 5
@@ -6658,7 +6658,7 @@
 }
 
 83108 = {
-	name = "Domnall" #Domnall son of Áed Mac Lochlainn
+	name = "Domnall" #Domnall son of Aed Mac Lochlainn
 	dynasty = 101712
 	martial = 6
 	diplomacy = 6
@@ -6714,7 +6714,7 @@
 }
 
 83111 = {
-	name = "Máel-Sechlainn" #Máel Sechlainn son of Muirchertach Mac Lochlainn
+	name = "Máel-Sechlainn" #Mael Sechlainn son of Muirchertach Mac Lochlainn
 	dynasty = 101712
 	martial = 5
 	diplomacy = 5
@@ -6752,7 +6752,7 @@
 }
 
 83113 = {
-	name = "Máel-Sechlainn" #Máel Sechlainn son of Muirchertach Mac Lochlainn
+	name = "Máel-Sechlainn" #Mael Sechlainn son of Muirchertach Mac Lochlainn
 	dynasty = 101712
 	martial = 5
 	diplomacy = 5
@@ -7116,7 +7116,7 @@
 		birth = yes
 	}
 	950.1.1 = {
-		dynasty = 9207 #Ua Maíl Ruanaid
+		dynasty = 9207 #Ua Mail Ruanaid
 	}
 	976.7.1 = {
 		death = yes
@@ -7242,7 +7242,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 6119 #Máel Sechlainn Bán
+	father = 6119 #Mael Sechlainn Ban
 	1065.1.2 = {
 		birth = yes
 	}
@@ -7458,7 +7458,7 @@
 	stewardship = 4
 	religion = catholic
 	culture = irish
-	father = 83149 #Máel-Sechlainn son of Domnall
+	father = 83149 #Mael-Sechlainn son of Domnall
 	1114.7.1 = {
 		birth = yes
 	}
@@ -7476,7 +7476,7 @@
 	stewardship = 3
 	religion = catholic
 	culture = irish
-	father = 83153 #Domnall Bregach son of Máel-Sechlainn
+	father = 83153 #Domnall Bregach son of Mael-Sechlainn
 	1143.1.1 = {
 		birth = yes
 	}
@@ -7559,7 +7559,7 @@
 }
 
 83160 = {
-	name = "Énna" #Énna Cennsalach king of Leinster founder of the Uí Cheinnselaig
+	name = "Énna" #Énna Cennsalach king of Leinster founder of the Ui Cheinnselaig
 	dynasty = 9208
 	martial = 7
 	diplomacy = 6
@@ -7630,7 +7630,7 @@
 }
 
 83164 = {
-	name = "Eógan" #Eógan Cáech King of Leinster
+	name = "Eógan" #Eogan Caech King of Leinster
 	dynasty = 9208
 	martial = 5
 	diplomacy = 5
@@ -7872,7 +7872,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83164 #Eógan Cáech
+	father = 83164 #Eogan Caech
 	507.1.1 = {
 		birth = yes
 	}
@@ -7890,7 +7890,7 @@
 	stewardship = 4
 	religion = catholic
 	culture = irish
-	father = 83164 #Eógan Cáech
+	father = 83164 #Eogan Caech
 	510.1.1 = {
 		birth = yes
 	}
@@ -8657,7 +8657,7 @@
 }
 
 83220 = {
-	name = "Gilla-Pátraic" #Gilla-Pátraic Ruad
+	name = "Gilla-Pátraic" #Gilla-Patraic Ruad
 	dynasty = 101677
 	martial = 2
 	diplomacy = 5
@@ -9001,7 +9001,7 @@
 		add_spouse = 83234
 	}
 	1171.1.1 = {
-		dynasty = 9209 #Mac Murchada-Cáemánach
+		dynasty = 9209 #Mac Murchada-Caemanach
 	}
 	1175.7.1 = {
 		death = yes
@@ -9030,7 +9030,7 @@
 83251 = {
 	name = "Carthach"
 	dynasty = 9225
-	father = 83668 #Sáerbrethach son of Donnchad
+	father = 83668 #Saerbrethach son of Donnchad
 	martial = 8
 	diplomacy = 5
 	intrigue = 4
@@ -9319,7 +9319,7 @@
 }
 
 83267 = {
-	name = "Cormac" #Cormac Óc Liathánach
+	name = "Cormac" #Cormac Oc Liathanach
 	dynasty = 197
 	martial = 4
 	diplomacy = 7
@@ -9391,7 +9391,7 @@
 }
 
 83271 = {
-	name = "Cormac" #Cormac Liathánach
+	name = "Cormac" #Cormac Liathanach
 	dynasty = 197
 	martial = 4
 	diplomacy = 7
@@ -9481,7 +9481,7 @@
 }
 
 83276 = {
-	name = "Domnall" #Domnall Máel Cairprech
+	name = "Domnall" #Domnall Mael Cairprech
 	dynasty = 197
 	martial = 4
 	diplomacy = 6
@@ -9589,7 +9589,7 @@
 }
 
 83282 = {
-	name = "Diarmait" #Diarmait Óc
+	name = "Diarmait" #Diarmait Oc
 	dynasty = 197
 	martial = 6
 	diplomacy = 5
@@ -9643,7 +9643,7 @@
 }
 
 83285 = {
-	name = "Domnall" #Domnall Óc
+	name = "Domnall" #Domnall Oc
 	dynasty = 197
 	martial = 7
 	diplomacy = 5
@@ -9679,7 +9679,7 @@
 }
 
 83287 = {
-	name = "Diarmait" #Diarmait Óc of Tralee
+	name = "Diarmait" #Diarmait Oc of Tralee
 	dynasty = 197
 	martial = 4
 	diplomacy = 4
@@ -9715,7 +9715,7 @@
 }
 
 83289 = {
-	name = "Domnall" #Domnall Óc
+	name = "Domnall" #Domnall Oc
 	dynasty = 197
 	martial = 7
 	diplomacy = 4
@@ -9941,7 +9941,7 @@
 }
 
 83334 = {
-	name = "Tadg" #Tadg Gláe
+	name = "Tadg" #Tadg Glae
 	dynasty = 695
 	martial = 6
 	diplomacy = 4
@@ -10068,7 +10068,7 @@
 }
 
 83341 = {
-	name = "Tadg" #Tadg of Cáeluisce
+	name = "Tadg" #Tadg of Caeluisce
 	dynasty = 695
 	martial = 7
 	diplomacy = 5
@@ -10158,7 +10158,7 @@
 }
 
 83346 = {
-	name = "Toirrdelbach" #Toirrdelbach Óc
+	name = "Toirrdelbach" #Toirrdelbach Oc
 	dynasty = 695
 	martial = 7
 	diplomacy = 5
@@ -10176,7 +10176,7 @@
 }
 
 83347 = {
-	name = "Diarmait" #Diarmait Cléirech
+	name = "Diarmait" #Diarmait Cleirech
 	dynasty = 695
 	martial = 7
 	diplomacy = 6
@@ -10212,7 +10212,7 @@
 }
 
 83349 = {
-	name = "Brian" #Brian Bán
+	name = "Brian" #Brian Ban
 	dynasty = 695
 	martial = 8
 	diplomacy = 5
@@ -10238,7 +10238,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 83349 #Brian Bán
+	father = 83349 #Brian Ban
 	1312.1.1 = {
 		birth = yes
 	}
@@ -10266,7 +10266,7 @@
 }
 
 83352 = {
-	name = "Domnall" #Domnall Bán
+	name = "Domnall" #Domnall Ban
 	dynasty = 695
 	martial = 4
 	diplomacy = 7
@@ -10274,7 +10274,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 900 #Brian Bóruma
+	father = 900 #Brian Boruma
 	mother = 166124 #Dub Chobhlaigh
 	1004.1.1 = {
 		birth = yes
@@ -10293,7 +10293,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83352 #Domnall Bán son of Brian Bóruma
+	father = 83352 #Domnall Ban son of Brian Boruma
 	1023.1.1 = {
 		birth = yes
 	}
@@ -10330,7 +10330,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 902 #Donnchad son Brian Bóruma
+	father = 902 #Donnchad son Brian Boruma
 	1027.1.1 = {
 		birth = yes
 	}
@@ -10349,7 +10349,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 902 #Donnchad son Brian Bóruma
+	father = 902 #Donnchad son Brian Boruma
 	1029.1.1 = {
 		birth = yes
 	}
@@ -10368,7 +10368,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 83355 #Murchad son of Donnchad son of Brian Bóruma
+	father = 83355 #Murchad son of Donnchad son of Brian Boruma
 	1048.1.1 = {
 		birth = yes
 	}
@@ -10378,7 +10378,7 @@
 }
 
 83358 = {
-	name = "Conchobar" #King of Tulach Óc
+	name = "Conchobar" #King of Tulach Oc
 	dynasty = 695
 	martial = 7
 	diplomacy = 5
@@ -10387,7 +10387,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 83356 #Lorcán son of Donnchad
+	father = 83356 #Lorcan son of Donnchad
 	1047.1.1 = {
 		birth = yes
 	}
@@ -10397,7 +10397,7 @@
 }
 
 83359 = {
-	name = "Cennétig" #King of Tulach Óc
+	name = "Cennétig" #King of Tulach Oc
 	dynasty = 695
 	martial = 7
 	diplomacy = 6
@@ -10406,7 +10406,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 83356 #Lorcán son of Donnchad
+	father = 83356 #Lorcan son of Donnchad
 	1049.1.1 = {
 		birth = yes
 	}
@@ -10460,7 +10460,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 83334 #Tadg Gláe
+	father = 83334 #Tadg Glae
 	1126.1.1 = {
 		birth = yes
 	}
@@ -10787,7 +10787,7 @@
 }
 
 83396 = {
-	name = "Tadg" #Tadg Mór
+	name = "Tadg" #Tadg Mor
 	dynasty = 9216
 	martial = 5
 	diplomacy = 5
@@ -11173,7 +11173,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 83415 #Máel-Cothaid
+	father = 83415 #Mael-Cothaid
 	808.1.1 = {
 		birth = yes
 	}
@@ -11194,7 +11194,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 83417 #Mugrón mac Maíl Cothaid
+	father = 83417 #Mugron mac Mail Cothaid
 	847.1.1 = {
 		birth = yes
 	}
@@ -11330,7 +11330,7 @@
 }
 
 83426 = {
-	name = "Conn" #Conn Cétchathach
+	name = "Conn" #Conn Cetchathach
 	dynasty = 9217
 	martial = 7
 	diplomacy = 7
@@ -11348,7 +11348,7 @@
 }
 
 83427 = {
-	name = "Art" #Art Óenfher
+	name = "Art" #Art Oenfher
 	dynasty = 9217
 	martial = 7
 	diplomacy = 9
@@ -11420,7 +11420,7 @@
 }
 
 83431 = {
-	name = "Muiredach" #Muiredach Tírech
+	name = "Muiredach" #Muiredach Tirech
 	dynasty = 9217
 	martial = 7
 	diplomacy = 7
@@ -11438,7 +11438,7 @@
 }
 
 83432 = {
-	name = "Eochaid" #Eochaid Mugmedón
+	name = "Eochaid" #Eochaid Mugmedon
 	dynasty = 9217
 	martial = 7
 	diplomacy = 7
@@ -11464,7 +11464,7 @@
 	stewardship = 11
 	religion = pagan
 	culture = irish
-	father = 83432 #Eochaid Mugmedón
+	father = 83432 #Eochaid Mugmedon
 	390.1.1 = {
 		birth = yes
 	}
@@ -11482,7 +11482,7 @@
 	stewardship = 11
 	religion = pagan
 	culture = irish
-	father = 83432 #Eochaid Mugmedón
+	father = 83432 #Eochaid Mugmedon
 	392.1.1 = {
 		birth = yes
 	}
@@ -11500,7 +11500,7 @@
 	stewardship = 11
 	religion = catholic
 	culture = irish
-	father = 83432 #Eochaid Mugmedón
+	father = 83432 #Eochaid Mugmedon
 	394.1.1 = {
 		birth = yes
 	}
@@ -11518,7 +11518,7 @@
 	stewardship = 11
 	religion = pagan
 	culture = irish
-	father = 83433 #Brión mac Echdach
+	father = 83433 #Brion mac Echdach
 	430.1.1 = {
 		birth = yes
 	}
@@ -11528,7 +11528,7 @@
 }
 
 83437 = {
-	name = "Eógan" #Eógan Srem
+	name = "Eógan" #Eogan Srem
 	dynasty = 9217
 	martial = 7
 	diplomacy = 7
@@ -11536,7 +11536,7 @@
 	stewardship = 11
 	religion = catholic
 	culture = irish
-	father = 83436 #Dauí Tenga Uma
+	father = 83436 #Daui Tenga Uma
 	470.1.1 = {
 		birth = yes
 	}
@@ -11554,12 +11554,12 @@
 	stewardship = 11
 	religion = catholic
 	culture = irish
-	father = 83437 #Eógan Srem
+	father = 83437 #Eogan Srem
 	499.1.1 = {
 		birth = yes
 	}
 	520.1.1 = {
-		dynasty = 9218 #Ua Briúin Bréifne
+		dynasty = 9218 #Ua Briuin Breifne
 	}
 	544.7.1 = {
 		death = yes
@@ -11567,7 +11567,7 @@
 }
 
 83439 = {
-	name = "Muiredach" #Muiredach Mál
+	name = "Muiredach" #Muiredach Mal
 	dynasty = 9217
 	martial = 7
 	diplomacy = 7
@@ -11575,12 +11575,12 @@
 	stewardship = 11
 	religion = catholic
 	culture = irish
-	father = 83437 #Eógan Srem
+	father = 83437 #Eogan Srem
 	502.1.1 = {
 		birth = yes
 	}
 	520.1.1 = {
-		dynasty = 9216 #Ua Briúin Aí
+		dynasty = 9216 #Ua Briuin Ai
 	}
 	549.7.1 = {
 		death = yes
@@ -11596,7 +11596,7 @@
 	stewardship = 8
 	religion = catholic
 	culture = irish
-	father = 83439 #Muiredach Dál
+	father = 83439 #Muiredach Dal
 	521.1.1 = {
 		birth = yes
 	}
@@ -11650,7 +11650,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83436 #Dauí Tenga Uma
+	father = 83436 #Daui Tenga Uma
 	472.1.1 = {
 		birth = yes
 	}
@@ -11673,7 +11673,7 @@
 		birth = yes
 	}
 	520.1.1 = {
-		dynasty = 9219 #Ua Briúin Seóla
+		dynasty = 9219 #Ua Briuin Seola
 	}
 	574.7.1 = {
 		death = yes
@@ -11888,7 +11888,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = skilled_tactician
-	father = 911 #Ruaidrí na Saide Buide
+	father = 911 #Ruaidri na Saide Buide
 	1061.1.1 = {
 		birth = yes
 	}
@@ -11907,7 +11907,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = skilled_tactician
-	father = 911 #Ruaidrí na Saide Buide
+	father = 911 #Ruaidri na Saide Buide
 	1063.1.1 = {
 		birth = yes
 	}
@@ -11917,7 +11917,7 @@
 }
 
 83459 = {
-	name = "Conchobar" #Conchobar mac Ruaidrí king of Meath
+	name = "Conchobar" #Conchobar mac Ruaidri king of Meath
 	dynasty = 201
 	martial = 6
 	diplomacy = 6
@@ -11925,7 +11925,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 214520 #Toirrdelbach mac Ruaidrí
+	father = 214520 #Toirrdelbach mac Ruaidri
 	1110.1.1 = {
 		birth = yes
 	}
@@ -11935,7 +11935,7 @@
 }
 
 83460 = {
-	name = "Domnall" #Domnall Mór
+	name = "Domnall" #Domnall Mor
 	dynasty = 201
 	martial = 6
 	diplomacy = 5
@@ -11943,7 +11943,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 214520 #Toirrdelbach mac Ruaidrí
+	father = 214520 #Toirrdelbach mac Ruaidri
 	1126.1.1 = {
 		birth = yes
 	}
@@ -11961,7 +11961,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 214520 #Toirrdelbach mac Ruaidrí
+	father = 214520 #Toirrdelbach mac Ruaidri
 	1128.1.1 = {
 		birth = yes
 	}
@@ -11979,7 +11979,7 @@
 	stewardship = 8
 	religion = catholic
 	culture = irish
-	father = 214520 #Toirrdelbach mac Ruaidrí
+	father = 214520 #Toirrdelbach mac Ruaidri
 	add_trait = skilled_tactician
 	1143.1.1 = {
 		birth = yes
@@ -11998,7 +11998,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 214520 #Toirrdelbach mac Ruaidrí
+	father = 214520 #Toirrdelbach mac Ruaidri
 	1145.1.1 = {
 		birth = yes
 	}
@@ -12016,7 +12016,7 @@
 	stewardship = 4
 	religion = catholic
 	culture = irish
-	father = 214520 #Toirrdelbach mac Ruaidrí
+	father = 214520 #Toirrdelbach mac Ruaidri
 	1147.1.1 = {
 		birth = yes
 	}
@@ -12034,7 +12034,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 214520 #Toirrdelbach mac Ruaidrí
+	father = 214520 #Toirrdelbach mac Ruaidri
 	1149.1.1 = {
 		birth = yes
 	}
@@ -12044,7 +12044,7 @@
 }
 
 83466 = {
-	name = "Máel-Íosa" #Máel-Íosa co-arb of Roscommon
+	name = "Máel-Íosa" #Mael-Iosa co-arb of Roscommon
 	dynasty = 201
 	martial = 4
 	diplomacy = 7
@@ -12054,7 +12054,7 @@
 	culture = irish
 	add_trait = charitable
 	add_trait = dutiful_cleric
-	father = 214520 #Toirrdelbach mac Ruaidrí
+	father = 214520 #Toirrdelbach mac Ruaidri
 	1151.1.1 = {
 		birth = yes
 	}
@@ -12110,7 +12110,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 214501 #Toirrdelbach mac Ruaidrí
+	father = 214501 #Toirrdelbach mac Ruaidri
 	1201.1.1 = {
 		birth = yes
 	}
@@ -12128,7 +12128,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 214501 #Toirrdelbach mac Ruaidrí
+	father = 214501 #Toirrdelbach mac Ruaidri
 	1203.1.1 = {
 		birth = yes
 	}
@@ -12451,7 +12451,7 @@
 }
 
 83488 = {
-	name = "Cathal" #Cathal Óg
+	name = "Cathal" #Cathal Og
 	dynasty = 9220
 	martial = 5
 	diplomacy = 5
@@ -12515,7 +12515,7 @@
 	culture = irish
 	add_trait = charitable
 	add_trait = dutiful_cleric
-	father = 83466 #Máel-Íosa co-arb of Roscommon
+	father = 83466 #Mael-Iosa co-arb of Roscommon
 	1191.1.1 = {
 		birth = yes
 	}
@@ -12671,7 +12671,7 @@
 }
 
 83500 = {
-	name = "Áed" #Áed Bréifnech king of Connaught
+	name = "Áed" #Áed Breifnech king of Connaught
 	dynasty = 201
 	martial = 5
 	diplomacy = 5
@@ -12689,7 +12689,7 @@
 }
 
 83501 = {
-	name = "Ruaidrí" #Ruaidrí king of Connaught
+	name = "Ruaidrí" #Ruaidri king of Connaught
 	dynasty = 201
 	martial = 5
 	diplomacy = 5
@@ -12715,7 +12715,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83500 #Áed Bréifnech king of Connaught
+	father = 83500 #Áed Breifnech king of Connaught
 	1282.1.1 = {
 		birth = yes
 	}
@@ -12733,7 +12733,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83500 #Áed Bréifnech king of Connaught
+	father = 83500 #Áed Breifnech king of Connaught
 	1285.1.1 = {
 		birth = yes
 	}
@@ -12782,7 +12782,7 @@
 }
 
 83506 = {
-	name = "Tadg" #Tadg Dall mac Áeda
+	name = "Tadg" #Tadg Dall mac Aeda
 	dynasty = 201
 	martial = 5
 	diplomacy = 5
@@ -12839,7 +12839,7 @@
 }
 
 83509 = {
-	name = "Toirrdelbach" #Toirrdelbach mac Áeda Ua Conchobair king of Connaught
+	name = "Toirrdelbach" #Toirrdelbach mac Aeda Ua Conchobair king of Connaught
 	dynasty = 201
 	martial = 5
 	diplomacy = 5
@@ -12885,7 +12885,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83509 #Toirrdelbach mac Áeda Ua Conchobair king of Connaught
+	father = 83509 #Toirrdelbach mac Aeda Ua Conchobair king of Connaught
 	add_trait = greedy
 	add_trait = skilled_tactician
 	1253.1.1 = {
@@ -12923,7 +12923,7 @@
 	stewardship = 8
 	religion = catholic
 	culture = irish
-	father = 83508 #Ruaidrí mac Áeda Ua Conchobair
+	father = 83508 #Ruaidri mac Aeda Ua Conchobair
 	add_trait = lisp
 	1238.1.1 = {
 		birth = yes
@@ -12942,7 +12942,7 @@
 	stewardship = 8
 	religion = catholic
 	culture = irish
-	father = 83513 #Eógan mac Ruaidrí Ua Conchobair
+	father = 83513 #Eogan mac Ruaidri Ua Conchobair
 	1255.1.1 = {
 		birth = yes
 	}
@@ -12952,7 +12952,7 @@
 }
 
 83515 = {
-	name = "Áed" #Áed mac Eógain king of Connaught
+	name = "Áed" #Áed mac Eogain king of Connaught
 	dynasty = 201
 	martial = 5
 	diplomacy = 6
@@ -12960,7 +12960,7 @@
 	stewardship = 8
 	religion = catholic
 	culture = irish
-	father = 83513 #Eógan mac Ruaidrí Ua Conchobair
+	father = 83513 #Eogan mac Ruaidri Ua Conchobair
 	1257.1.1 = {
 		birth = yes
 	}
@@ -12970,7 +12970,7 @@
 }
 
 83516 = {
-	name = "Ruaidrí" #Ruaidrí na Fed
+	name = "Ruaidrí" #Ruaidri na Fed
 	dynasty = 201
 	martial = 7
 	diplomacy = 5
@@ -12978,7 +12978,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83514 #Donnchad mac Eógain
+	father = 83514 #Donnchad mac Eogain
 	1275.1.1 = {
 		birth = yes
 	}
@@ -12996,7 +12996,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83515 #Áed mac Eógain king of Connaught
+	father = 83515 #Áed mac Eogain king of Connaught
 	1277.1.1 = {
 		birth = yes
 	}
@@ -13017,7 +13017,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83515 #Áed mac Eógain king of Connaught
+	father = 83515 #Áed mac Eogain king of Connaught
 	1278.1.1 = {
 		birth = yes
 	}
@@ -13035,7 +13035,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83515 #Áed mac Eógain king of Connaught
+	father = 83515 #Áed mac Eogain king of Connaught
 	1279.1.1 = {
 		birth = yes
 	}
@@ -13110,7 +13110,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83438 #Fergus mac Eógain Sreim
+	father = 83438 #Fergus mac Eogain Sreim
 	521.1.1 = {
 		birth = yes
 	}
@@ -13128,7 +13128,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83523 #Fernae mac Eógain Sreim
+	father = 83523 #Fernae mac Eogain Sreim
 	555.1.1 = {
 		birth = yes
 	}
@@ -13164,7 +13164,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83525 #Scandlán mac Áeda
+	father = 83525 #Scandlan mac Aeda
 	607.1.1 = {
 		birth = yes
 	}
@@ -13182,7 +13182,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83526 #Crimthann mac Scandláin
+	father = 83526 #Crimthann mac Scandlain
 	628.1.1 = {
 		birth = yes
 	}
@@ -13200,7 +13200,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83527 #Báethine mac Crimthainn
+	father = 83527 #Baethine mac Crimthainn
 	647.1.1 = {
 		birth = yes
 	}
@@ -13218,7 +13218,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83527 #Báethine mac Crimthainn
+	father = 83527 #Baethine mac Crimthainn
 	649.1.1 = {
 		birth = yes
 	}
@@ -13236,7 +13236,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83529 #Dúnchad mac Baíthine
+	father = 83529 #Dunchad mac Baithine
 	688.1.1 = {
 		birth = yes
 	}
@@ -13254,7 +13254,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83530 #Dub-Dothra mac Dúnchada
+	father = 83530 #Dub-Dothra mac Dunchada
 	727.1.1 = {
 		birth = yes
 	}
@@ -13290,7 +13290,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83532 #Sellachán mac Cernaich
+	father = 83532 #Sellachan mac Cernaich
 	811.1.1 = {
 		birth = yes
 	}
@@ -13311,7 +13311,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83533 #Tigernán mac Sellacháin
+	father = 83533 #Tigernan mac Sellachain
 	842.1.1 = {
 		birth = yes
 	}
@@ -13329,7 +13329,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83534 #Ruarc mac Tigernáin
+	father = 83534 #Ruarc mac Tigernain
 	882.1.1 = {
 		birth = yes
 	}
@@ -13386,7 +13386,7 @@
 	stewardship = 4
 	religion = catholic
 	culture = irish
-	father = 214022 #Tigearnan Mór Ua Ruairc
+	father = 214022 #Tigearnan Mor Ua Ruairc
 	mother = 83159
 	1136.1.1 = {
 		birth = yes
@@ -13406,7 +13406,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = detached_priest
-	father = 214022 #Tigearnan Mór Ua Ruairc
+	father = 214022 #Tigearnan Mor Ua Ruairc
 	mother = 83159
 	1138.1.1 = {
 		birth = yes
@@ -13435,7 +13435,7 @@
 }
 
 83541 = {
-	name = "Sihtric" #Sihtric King of Bréifne
+	name = "Sihtric" #Sihtric King of Breifne
 	dynasty = 101675
 	martial = 4
 	diplomacy = 5
@@ -13497,7 +13497,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 83543 #Tigernán son of Domnall son of Cathal Liath
+	father = 83543 #Tigernan son of Domnall son of Cathal Liath
 	1215.1.1 = {
 		birth = yes
 	}
@@ -13515,7 +13515,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 83544 #Conchobar son of Tigernán Ua Ruairc
+	father = 83544 #Conchobar son of Tigernan Ua Ruairc
 	1234.1.1 = {
 		birth = yes
 	}
@@ -13533,7 +13533,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 83544 #Conchobar son of Tigernán Ua Ruairc
+	father = 83544 #Conchobar son of Tigernan Ua Ruairc
 	1236.1.1 = {
 		birth = yes
 	}
@@ -13551,7 +13551,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 83544 #Conchobar son of Tigernán Ua Ruairc
+	father = 83544 #Conchobar son of Tigernan Ua Ruairc
 	1238.1.1 = {
 		birth = yes
 	}
@@ -13569,7 +13569,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 1004 #Domnall mac Tigernáin
+	father = 1004 #Domnall mac Tigernain
 	1097.1.1 = {
 		birth = yes
 	}
@@ -13587,7 +13587,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 1004 #Domnall mac Tigernáin
+	father = 1004 #Domnall mac Tigernain
 	1099.1.1 = {
 		birth = yes
 	}
@@ -13605,7 +13605,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83549 #Gilla-Braite mac Domnaill maic Tigernáin
+	father = 83549 #Gilla-Braite mac Domnaill maic Tigernain
 	1117.1.1 = {
 		birth = yes
 	}
@@ -13641,7 +13641,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83551 #Donnchad son of Áed son of Gilla-Braite
+	father = 83551 #Donnchad son of Aed son of Gilla-Braite
 	1198.1.1 = {
 		birth = yes
 	}
@@ -13695,7 +13695,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83548 #Fergal son of Domnall son Tigernán
+	father = 83548 #Fergal son of Domnall son Tigernan
 	1140.1.1 = {
 		birth = yes
 	}
@@ -13713,7 +13713,7 @@
 	stewardship = 4
 	religion = catholic
 	culture = irish
-	father = 83548 #Fergal son of Domnall son Tigernán
+	father = 83548 #Fergal son of Domnall son Tigernan
 	1142.1.1 = {
 		birth = yes
 	}
@@ -13731,7 +13731,7 @@
 	stewardship = 4
 	religion = catholic
 	culture = irish
-	father = 83548 #Fergal son of Domnall son Tigernán
+	father = 83548 #Fergal son of Domnall son Tigernan
 	1144.1.1 = {
 		birth = yes
 	}
@@ -13749,7 +13749,7 @@
 	stewardship = 6
 	religion = catholic
 	culture = irish
-	father = 83548 #Fergal son of Domnall son Tigernán
+	father = 83548 #Fergal son of Domnall son Tigernan
 	1146.1.1 = {
 		birth = yes
 	}
@@ -13877,7 +13877,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83562 #Amlaíb mac Airt
+	father = 83562 #Amlaib mac Airt
 	1244.7.1 = {
 		birth = yes
 	}
@@ -13895,7 +13895,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83562 #Amlaíb mac Airt
+	father = 83562 #Amlaib mac Airt
 	1245.7.1 = {
 		birth = yes
 	}
@@ -13913,7 +13913,7 @@
 	stewardship = 4
 	religion = catholic
 	culture = irish
-	father = 83562 #Amlaíb mac Airt
+	father = 83562 #Amlaib mac Airt
 	1246.7.1 = {
 		birth = yes
 	}
@@ -13923,7 +13923,7 @@
 }
 
 83568 = {
-	name = "Domnall" #Domnall Óc
+	name = "Domnall" #Domnall Oc
 	dynasty = 101675
 	martial = 5
 	diplomacy = 5
@@ -13931,7 +13931,7 @@
 	stewardship = 5
 	religion = catholic
 	culture = irish
-	father = 83562 #Amlaíb mac Airt
+	father = 83562 #Amlaib mac Airt
 	1248.7.1 = {
 		birth = yes
 	}
@@ -13960,7 +13960,7 @@
 }
 
 83570 = {
-	name = "Áed" #Aodh or Áed Bán
+	name = "Áed" #Aodh or Aed Ban
 	dynasty = 101675
 	martial = 6
 	diplomacy = 5
@@ -13979,7 +13979,7 @@
 }
 
 83571 = {
-	name = "Tadg" #Tadg na gCáer
+	name = "Tadg" #Tadg na gCaer
 	dynasty = 101675
 	martial = 5
 	diplomacy = 5
@@ -14119,7 +14119,7 @@
 }
 
 165001 = {
-	name = "Eithne" #Eithne ingen Áed Findliath
+	name = "Eithne" #Eithne ingen Aed Findliath
 	female = yes
 	dynasty = 199
 	religion = catholic
@@ -14135,13 +14135,13 @@
 }
 
 165003 = {
-	name = "Lígach" #Lígach ingen Flann Sinna
+	name = "Lígach" #Ligach ingen Flann Sinna
 	female = yes
 	dynasty = 199
 	religion = catholic
 	culture = irish
 	father = 131502
-	mother = 165002 #Máel Muire ingen Cináeda mac Ailpín
+	mother = 165002 #Mael Muire ingen Cinaeda mac Ailpin
 	883.1.1 = {
 		birth = yes
 	}
@@ -14152,7 +14152,7 @@
 
 165004 = {
 	name = "Flannacán" #mac Conaing
-	# AKA: Flannacán, King of Brega
+	# AKA: Flannacan, King of Brega
 	dynasty = 199
 	martial = 5
 	diplomacy = 8
@@ -14167,7 +14167,7 @@
 		birth = yes
 	}
 	880.1.1 = {
-		add_spouse = 165001 #Eithne ingen Áed Findliath
+		add_spouse = 165001 #Eithne ingen Aed Findliath
 	}
 	896.1.1 = {
 		death = yes
@@ -14176,7 +14176,7 @@
 
 165005 = {
 	name = "Máel Finnia"
-	# AKA: Máel Finnia
+	# AKA: Mael Finnia
 	dynasty = 199
 	martial = 5
 	diplomacy = 8
@@ -14185,7 +14185,7 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 165004 #Flannacán mac Cellach
+	father = 165004 #Flannacan mac Cellach
 	877.1.1 = {
 		birth = yes
 	}
@@ -14196,7 +14196,7 @@
 
 165006 = {
 	name = "Máel Mithig"
-	# AKA: Máel Mithig
+	# AKA: Mael Mithig
 	dynasty = 199
 	martial = 5
 	diplomacy = 8
@@ -14205,13 +14205,13 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 165004 #Flannacán mac Cellach
-	mother = 165001 #Eithne ingen Áed Findliath
+	father = 165004 #Flannacan mac Cellach
+	mother = 165001 #Eithne ingen Aed Findliath
 	881.1.1 = {
 		birth = yes
 	}
 	900.1.1 = {
-		add_spouse = 165003 #Lígach ingen Flann Sinna
+		add_spouse = 165003 #Ligach ingen Flann Sinna
 	}
 	919.1.1 = {
 		death = yes
@@ -14229,8 +14229,8 @@
 	religion = catholic
 	culture = irish
 	add_trait = tough_soldier
-	father = 165006 #Máel Mithig mac Flannacán
-	mother = 165003 #Lígach ingen Flann Sinna
+	father = 165006 #Mael Mithig mac Flannacan
+	mother = 165003 #Ligach ingen Flann Sinna
 	901.1.2 = {
 		birth = yes
 	}
@@ -14303,7 +14303,7 @@
 	religion = catholic
 	culture = irish
 	father = 131502
-	mother = 165002 #Máel Muire ingen Cináeda mac Ailpín
+	mother = 165002 #Mael Muire ingen Cinaeda mac Ailpin
 	890.1.1 = {
 		birth = yes
 	}
@@ -14369,7 +14369,7 @@
 
 165014 = {
 	name = "Cináed"
-	# AKA: Cináed mac Conaing, King of Brega
+	# AKA: Cinaed mac Conaing, King of Brega
 	dynasty = 199
 	martial = 5
 	diplomacy = 7
@@ -14425,7 +14425,7 @@
 }
 
 165017 = {
-	name = "Domnall Dabaill" #Domnall Dabaill mac Áed Findliath
+	name = "Domnall Dabaill" #Domnall Dabaill mac Aed Findliath
 	dynasty = 199
 	martial = 5
 	diplomacy = 6
@@ -14434,7 +14434,7 @@
 	religion = catholic
 	culture = irish
 	father = 944
-	mother = 131507 #Lann ingen mac Dúnlainge
+	mother = 131507 #Lann ingen mac Dunlainge
 	864.1.1 = {
 		birth = yes
 	}
@@ -14444,7 +14444,7 @@
 }
 
 165018 = {
-	name = "Máel Dub" #Máel Dub mac Áed Findliath
+	name = "Máel Dub" #Mael Dub mac Aed Findliath
 	dynasty = 199
 	martial = 3
 	diplomacy = 7
@@ -14454,7 +14454,7 @@
 	culture = irish
 	add_trait = scholarly_theologian
 	father = 944
-	mother = 131507 #Lann ingen mac Dúnlainge
+	mother = 131507 #Lann ingen mac Dunlainge
 	866.1.1 = {
 		birth = yes
 	}
@@ -14464,7 +14464,7 @@
 }
 
 165019 = {
-	name = "Máel Dúin" #Máel Dúin mac Áed Findliath
+	name = "Máel Dúin" #Mael Duin mac Aed Findliath
 	dynasty = 199
 	martial = 4
 	diplomacy = 5
@@ -14569,7 +14569,7 @@
 }
 
 163114 = {
-	name = "Cathalán" #Cathalán mac Indrechtaig
+	name = "Cathalán" #Cathalan mac Indrechtaig
 	dynasty = 819
 	religion = catholic
 	culture = irish
@@ -14839,7 +14839,7 @@
 	770.1.1 = {
 		death = {
 			death_reason = death_battle
-			killer = 166018 #Dúngal mac Cellaig
+			killer = 166018 #Dungal mac Cellaig
 		}
 	}
 }
@@ -14856,7 +14856,7 @@
 	772.1.1 = {
 		death = {
 			death_reason = death_battle
-			killer = 166020 #Fáelán mac Forbasaig
+			killer = 166020 #Faelan mac Forbasaig
 		}
 	}
 }
@@ -14873,7 +14873,7 @@
 	772.1.1 = {
 		death = {
 			death_reason = death_battle
-			killer = 166020 #Fáelán mac Forbasaig
+			killer = 166020 #Faelan mac Forbasaig
 		}
 	}
 }
@@ -14890,7 +14890,7 @@
 	786.1.1 = {
 		death = {
 			death_reason = death_battle
-			killer = 166021 #Máel Dúin mac Cummascaig
+			killer = 166021 #Mael Duin mac Cummascaig
 		}
 	}
 }
@@ -14993,7 +14993,7 @@
 		birth = yes
 	}
 	867.1.1 = {
-		add_spouse = 131507 #Lann ingen mac Dúnlainge
+		add_spouse = 131507 #Lann ingen mac Dunlainge
 	}
 	895.1.1 = {
 		death = yes
@@ -15025,7 +15025,7 @@
 	culture = irish
 	add_trait = tough_soldier
 	father = 166027
-	mother = 131507 #Lann ingen mac Dúnlainge
+	mother = 131507 #Lann ingen mac Dunlainge
 	880.1.1 = {
 		birth = yes
 	}
@@ -15247,7 +15247,7 @@
 		birth = yes
 	}
 	920.1.1 = {
-		dynasty = 14112 #Ua Canannáin
+		dynasty = 14112 #Ua Canannain
 	}
 	929.1.1 = {
 		death = yes
@@ -15328,7 +15328,7 @@
 	dynasty = 9218
 	religion = catholic
 	culture = irish
-	father = 83533 #Tigernán mac Sellacháin
+	father = 83533 #Tigernan mac Sellachain
 	890.1.1 = {
 		birth = yes
 	}
@@ -15424,7 +15424,7 @@
 
 166066 = {
 	name = "Máel Ruanaid"
-	# AKA: Máel Ruanaid Mor
+	# AKA: Mael Ruanaid Mor
 	dynasty = 9216
 	martial = 7
 	diplomacy = 5
@@ -15927,7 +15927,7 @@
 		birth = yes
 	}
 	941.1.1 = {
-		death = yes # Executed for an affair with her stepson Óengus
+		death = yes # Executed for an affair with her stepson Oengus
 	}
 }
 
@@ -15968,7 +15968,7 @@
 
 166101 = {
 	name = "Máel Mórda"
-	# AKA: Máel Mórda mac Murchada, King of Leinster
+	# AKA: Mael Morda mac Murchada, King of Leinster
 	dynasty = 690
 	martial = 6
 	diplomacy = 4
@@ -16746,7 +16746,7 @@
 	name = "Sadb"
 	female = yes
 	dynasty = 9217
-	father = 83426 #Conn Cétchathach
+	father = 83426 #Conn Cetchathach
 	religion = pagan
 	culture = irish
 	179.1.1 = {
@@ -16852,7 +16852,7 @@
 		birth = yes
 	}
 	450.1.1 = {
-		dynasty = 9225 #Eóganacht-Chaisil
+		dynasty = 9225 #Eoganacht-Chaisil
 	}
 	492.1.1 = {
 		death = yes
@@ -16939,7 +16939,7 @@
 		birth = yes
 	}
 	545.1.1 = {
-		dynasty = 9226 #Eóganacht-Airthir Chliach
+		dynasty = 9226 #Eoganacht-Airthir Chliach
 	}
 	595.1.1 = {
 		death = yes
@@ -16956,7 +16956,7 @@
 		birth = yes
 	}
 	545.1.1 = {
-		dynasty = 9227 #Eóganacht-Glendamnach
+		dynasty = 9227 #Eoganacht-Glendamnach
 	}
 	562.1.1 = {
 		death = yes
@@ -16965,7 +16965,7 @@
 
 83617 = {
 	name = "Crimthann"
-	father = 83611 #Feidelmid mac Óengusa
+	father = 83611 #Feidelmid mac Oengusa
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17021,7 +17021,7 @@
 
 83621 = {
 	name = "Máenach"
-	father = 83619 #Fíngen mac Áeda Duib meic Chrimthainn
+	father = 83619 #Fingen mac Aeda Duib meic Chrimthainn
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17035,7 +17035,7 @@
 
 83622 = {
 	name = "Sechnussach"
-	father = 83619 #Fíngen mac Áeda Duib meic Chrimthainn
+	father = 83619 #Fingen mac Aeda Duib meic Chrimthainn
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17049,7 +17049,7 @@
 
 83623 = {
 	name = "Ailill"
-	father = 83621 #Máenach son of Fíngen
+	father = 83621 #Maenach son of Fingen
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17063,7 +17063,7 @@
 
 83624 = {
 	name = "Cormac"
-	father = 83623 #Ailill son of Máenach
+	father = 83623 #Ailill son of Maenach
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17077,7 +17077,7 @@
 
 83625 = {
 	name = "Fogartach"
-	father = 83620 #Faílbe Fland
+	father = 83620 #Failbe Fland
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17091,7 +17091,7 @@
 
 83626 = {
 	name = "Tnúthgal"
-	father = 83625 #Fogartach son of Faílbe Fland
+	father = 83625 #Fogartach son of Failbe Fland
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17105,7 +17105,7 @@
 
 83627 = {
 	name = "Crundmáel"
-	father = 83625 #Fogartach son of Faílbe Fland
+	father = 83625 #Fogartach son of Failbe Fland
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17119,7 +17119,7 @@
 
 83628 = {
 	name = "Colgú"
-	father = 83620 #Faílbe Fland
+	father = 83620 #Failbe Fland
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17133,7 +17133,7 @@
 
 83629 = {
 	name = "Rechtabra"
-	father = 83622 #Sechnussach son of Fíngen
+	father = 83622 #Sechnussach son of Fingen
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17147,7 +17147,7 @@
 
 83630 = {
 	name = "Colmán"
-	father = 83622 #Sechnussach son of Fíngen
+	father = 83622 #Sechnussach son of Fingen
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17161,7 +17161,7 @@
 
 83631 = {
 	name = "Dub-dá-Crích"
-	father = 83630 #Colmán son of Sechnussach
+	father = 83630 #Colman son of Sechnussach
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17175,7 +17175,7 @@
 
 83632 = {
 	name = "Crimthann"
-	father = 83631 #Dub-dá-Crích son of Colmán
+	father = 83631 #Dub-da-Crich son of Colman
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17189,7 +17189,7 @@
 
 83633 = {
 	name = "Feidlimid" #High-King of Ireland
-	father = 83632 #Crimthann son of Dub-dá-Crích
+	father = 83632 #Crimthann son of Dub-da-Crich
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17404,7 +17404,7 @@
 
 83648 = {
 	name = "Nad-Fraích"
-	father = 83628 #Colgú son of Faílbe Fland
+	father = 83628 #Colgu son of Failbe Fland
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17418,7 +17418,7 @@
 
 83649 = {
 	name = "Fáelgus"
-	father = 83648 #Nad-Fraích son of Colgú
+	father = 83648 #Nad-Fraich son of Colgu
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17432,7 +17432,7 @@
 
 83650 = {
 	name = "Snédgus"
-	father = 83648 #Nad-Fraích son of Colgú
+	father = 83648 #Nad-Fraich son of Colgu
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17558,7 +17558,7 @@
 
 83659 = {
 	name = "Dub-Lachtna"
-	father = 83658 #Máel-Gualae son of Donngal
+	father = 83658 #Mael-Gualae son of Donngal
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17572,7 +17572,7 @@
 
 83660 = {
 	name = "Fáelgus"
-	father = 83657 #Áilgenán son of Donngal
+	father = 83657 #Áilgenan son of Donngal
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17655,7 +17655,7 @@
 }
 
 83666 = {
-	name = "Cellachán" #AKA Cellachán Caisil
+	name = "Cellachán" #AKA Cellachan Caisil
 	father = 83665
 	dynasty = 9225
 	religion = catholic
@@ -17698,7 +17698,7 @@
 
 83669 = {
 	name = "Dub-dá-Bairenn"
-	father = 83654 #Crundmáel son of Donngal
+	father = 83654 #Crundmael son of Donngal
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17807,7 +17807,7 @@
 
 83676 = {
 	name = "Eochaid"
-	father = 83612 #Bressal son of Óengus mac Nad-Froich
+	father = 83612 #Bressal son of Oengus mac Nad-Froich
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -17947,7 +17947,7 @@
 
 83686 = {
 	name = "Conall"
-	father = 83650 #Snédgus son of Nad-Fraích son of Colgú
+	father = 83650 #Snedgus son of Nad-Fraich son of Colgu
 	dynasty = 9225
 	religion = catholic
 	culture = irish
@@ -18067,7 +18067,7 @@
 		birth = yes
 	}
 	460.1.1 = {
-		dynasty = 9228 #Eóganacht-Raithlind
+		dynasty = 9228 #Eoganacht-Raithlind
 	}
 	500.1.1 = {
 		death = yes
@@ -18331,7 +18331,7 @@
 
 83713 = {
 	name = "Áed Osraige"
-	father = 83696 #Lóegaire son of Crimthann son of Echu
+	father = 83696 #Loegaire son of Crimthann son of Echu
 	dynasty = 9228
 	religion = catholic
 	culture = irish
@@ -18345,7 +18345,7 @@
 
 83714 = {
 	name = "Cináed"
-	father = 83696 #Lóegaire son of Crimthann son of Echu
+	father = 83696 #Loegaire son of Crimthann son of Echu
 	dynasty = 9228
 	religion = catholic
 	culture = irish
@@ -18471,7 +18471,7 @@
 
 83724 = {
 	name = "Coirpre Riastrain"
-	father = 83713 #Áed Osraige son of Lóegaire
+	father = 83713 #Áed Osraige son of Loegaire
 	dynasty = 9228
 	religion = catholic
 	culture = irish
@@ -18647,7 +18647,7 @@
 		birth = yes
 	}
 	492.1.1 = {
-		dynasty = 9229 #Eóganacht-Áine
+		dynasty = 9229 #Eoganacht-Aine
 	}
 	551.1.1 = {
 		death = yes
@@ -18782,7 +18782,7 @@
 
 83747 = {
 	name = "Eterscél"
-	father = 83741 #Máel-Umai son og Cúán
+	father = 83741 #Mael-Umai son og Cuan
 	dynasty = 9229
 	religion = catholic
 	culture = irish
@@ -19045,7 +19045,7 @@
 
 83765 = {
 	name = "Coirpre Cromm"
-	father = 83616 #Crimthann son of Eógan son of Eochaid
+	father = 83616 #Crimthann son of Eogan son of Eochaid
 	dynasty = 9227
 	religion = catholic
 	culture = irish
@@ -19058,7 +19058,7 @@
 }
 
 83766 = {
-	name = "Áed" #AKA Áed Fland Cathrach
+	name = "Áed" #AKA Aed Fland Cathrach
 	father = 83765
 	dynasty = 9227
 	religion = catholic
@@ -19254,7 +19254,7 @@
 		birth = yes
 	}
 	460.1.1 = {
-		dynasty = 9230 #Eóganacht-Locha Léin
+		dynasty = 9230 #Eoganacht-Locha Lein
 	}
 	490.1.1 = {
 		death = yes
@@ -20918,7 +20918,7 @@
 
 184113 = {
 	name = "Cathal"
-	#mac Tigernán
+	#mac Tigernan
 	religion = catholic
 	culture = irish
 	1010.1.1 = {
@@ -21093,7 +21093,7 @@
 }
 
 160266 = {
-	name = "Tairdelbach" #mac Caidélene
+	name = "Tairdelbach" #mac Caidelene
 	dynasty = 100009
 	martial = 5
 	diplomacy = 5
@@ -21165,7 +21165,7 @@
 }
 
 160270 = {
-	name = "Eochu Ballderg" #mac Cáirthind
+	name = "Eochu Ballderg" #mac Cairthind
 	dynasty = 100009
 	martial = 5
 	diplomacy = 5
@@ -21201,7 +21201,7 @@
 }
 
 160272 = {
-	name = "Blat" #mac Tháil Cass
+	name = "Blat" #mac Thail Cass
 	dynasty = 100009
 	martial = 5
 	diplomacy = 5
@@ -21255,7 +21255,7 @@
 }
 
 160275 = {
-	name = "Luigdech Mind" # mac Óengusa Tírich
+	name = "Luigdech Mind" # mac Oengusa Tirich
 	dynasty = 100009
 	martial = 5
 	diplomacy = 5
@@ -21352,7 +21352,7 @@
 	stewardship = 11
 	religion = catholic
 	culture = irish
-	father = 83432 #Eochaid Mugmedón
+	father = 83432 #Eochaid Mugmedon
 	405.1.1 = {
 		birth = yes
 	}
@@ -21362,7 +21362,7 @@
 }
 
 83574 = {
-	name = "Fergus" #Mór
+	name = "Fergus" #Mor
 	dynasty = 9217
 	martial = 7
 	diplomacy = 7
@@ -21370,7 +21370,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83573 #Erc son of Eochaid Mugmedón
+	father = 83573 #Erc son of Eochaid Mugmedon
 	457.1.1 = {
 		birth = yes
 	}
@@ -21380,7 +21380,7 @@
 }
 
 83575 = {
-	name = "Domangart" #Réti
+	name = "Domangart" #Reti
 	dynasty = 9217
 	martial = 7
 	diplomacy = 7
@@ -21388,7 +21388,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83574 #Fergus Mór mac Eirc
+	father = 83574 #Fergus Mor mac Eirc
 	487.1.1 = {
 		birth = yes
 	}
@@ -21406,7 +21406,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83575 #Domangart Réti mac Fergusa Mór
+	father = 83575 #Domangart Reti mac Fergusa Mor
 	502.1.1 = {
 		birth = yes
 	}
@@ -21416,7 +21416,7 @@
 }
 
 83577 = {
-	name = "Áedán" #Áedán mac Gabráin
+	name = "Áedán" #Áedan mac Gabrain
 	dynasty = 9217
 	martial = 7
 	diplomacy = 7
@@ -21424,12 +21424,12 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83576 #Gabrán mac Domangairt
+	father = 83576 #Gabran mac Domangairt
 	550.1.1 = {
 		birth = yes
 	}
 	570.1.1 = {
-		dynasty = 9223 #Gabrán
+		dynasty = 9223 #Gabran
 	}
 	606.1.1 = {
 		death = yes
@@ -21445,7 +21445,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83577 #Áedán mac Gabráin
+	father = 83577 #Áedan mac Gabrain
 	572.1.1 = {
 		birth = yes
 	}
@@ -21571,7 +21571,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83573 #Erc son of Eochaid Mugmedón
+	father = 83573 #Erc son of Eochaid Mugmedon
 	450.1.1 = {
 		birth = yes
 	}
@@ -21592,7 +21592,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83575 #Domangart Réti mac Fergusa Mór
+	father = 83575 #Domangart Reti mac Fergusa Mor
 	507.1.1 = {
 		birth = yes
 	}
@@ -21666,7 +21666,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 83577 #Áedán mac Gabráin
+	father = 83577 #Áedan mac Gabrain
 	575.1.1 = {
 		birth = yes
 	}
@@ -21684,7 +21684,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 166473 #Conaing mac Áedán
+	father = 166473 #Conaing mac Aedan
 	607.1.1 = {
 		birth = yes
 	}
@@ -21918,7 +21918,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 166474 #Dúnchad mac Conaing
+	father = 166474 #Dunchad mac Conaing
 	627.1.1 = {
 		birth = yes
 	}
@@ -21936,7 +21936,7 @@
 	stewardship = 7
 	religion = catholic
 	culture = irish
-	father = 166473 #Conaing mac Áedán
+	father = 166473 #Conaing mac Aedan
 	612.1.1 = {
 		birth = yes
 	}
@@ -22036,7 +22036,7 @@
 }
 
 166494 = {
-	name = "Alpín" #Alpín I
+	name = "Alpín" #Alpin I
 	dynasty = 9223
 	martial = 5
 	diplomacy = 5
@@ -22415,7 +22415,7 @@
 }
 
 166621 = {
-	name = "Aulay" #Amlaíb mac Ilduilb
+	name = "Aulay" #Amlaib mac Ilduilb
 	dynasty = 688
 	martial = 6
 	diplomacy = 6
@@ -22910,7 +22910,7 @@
 }
 
 160200 = {
-	name = "Máel-Mocheirge" #Máel-Mocheirge mac Indrechtaig
+	name = "Máel-Mocheirge" #Mael-Mocheirge mac Indrechtaig
 	dynasty = 819
 	religion = catholic
 	culture = irish
@@ -23074,7 +23074,7 @@
 }
 
 160210 = {
-	name = "Fiachnae" #mac Ainbítha
+	name = "Fiachnae" #mac Ainbitha
 	dynasty = 819
 	martial = 6
 	diplomacy = 5
@@ -23092,7 +23092,7 @@
 }
 
 160211 = {
-	name = "Bécc" #mac Airemóin
+	name = "Bécc" #mac Airemoin
 	dynasty = 819
 	martial = 6
 	diplomacy = 5
@@ -23110,7 +23110,7 @@
 }
 
 160212 = {
-	name = "Muiredach" #mac Eochocáin
+	name = "Muiredach" #mac Eochocain
 	dynasty = 819
 	martial = 6
 	diplomacy = 5
@@ -23306,7 +23306,7 @@
 }
 
 160253 = {
-	name = "Congal" #mac Áedo Sláine
+	name = "Congal" #mac Aedo Slaine
 	dynasty = 199
 	martial = 6
 	diplomacy = 5
@@ -23503,7 +23503,7 @@
 	dynasty = 1040151
 	religion = catholic
 	culture = irish
-	# father = # Flannacán, son of Cellach??
+	# father = # Flannacan, son of Cellach??
 	885.1.1 = {
 		birth = yes
 	}
@@ -23513,7 +23513,7 @@
 }
 
 214921 = {
-	name = "Donnucán" # aka Donnacán
+	name = "Donnucán" # aka Donnacan
 	dynasty = 1040151
 	religion = catholic
 	culture = irish
@@ -24324,7 +24324,7 @@
 	}
 }
 
-#Úa Cathail sept of Locha Léin
+#Úa Cathail sept of Locha Lein
 252085 = {
 	name = "Cathail"
 	father = 252084
@@ -24381,7 +24381,7 @@
 	}
 }
 
-#Úa Flainn sept of Locha Léin
+#Úa Flainn sept of Locha Lein
 252089 = {
 	name = "Flann"
 	father = 252084

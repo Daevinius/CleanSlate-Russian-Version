@@ -4,7 +4,7 @@
 
 1066.1.1 = {
 	active = yes
-	holding_dynasty = 9520 # Stråben
+	holding_dynasty = 9520 # Straben
 	holder = 167361 # Knut Straben
 	liege = d_gotland
 }

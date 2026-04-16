@@ -1,4 +1,4 @@
-# 511 - Épeiros
+# 511 - Epeiros
 title = c_epeiros
 terrain = hills
 

@@ -1,4 +1,4 @@
-# 141 - Järnbäraland
+# 141 - Jarnbaraland
 title = c_jarnbaraland
 terrain = forest
 

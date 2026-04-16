@@ -1021,7 +1021,7 @@
 	religion = catholic
 	culture = frankish
 	father = 168161
-	mother = 91390 #Ermentrude, wife of Jérôme, bastard of Charles Martel
+	mother = 91390 #Ermentrude, wife of Jerome, bastard of Charles Martel
 	743.1.1 = {
 		birth = yes #unknown
 	}
@@ -1589,7 +1589,7 @@
 }
 
 91390 = {
-	name = "Ermentrude" #Ermentrude, wife of Jérôme, bastard of Charles Martel
+	name = "Ermentrude" #Ermentrude, wife of Jerome, bastard of Charles Martel
 	dynasty = 9300 #Riculfids
 	female = yes
 	religion = catholic
@@ -1601,13 +1601,13 @@
 }
 
 91391 = {
-	name = "Alpaïde" #unnamed daughter of Jérôme
+	name = "Alpaïde" #unnamed daughter of Jerome
 	female = yes
 	dynasty = 25065 #De Martel
 	religion = catholic
 	culture = frankish
-	father = 168161 #Jérôme, bastard of Charles Martel
-	mother = 91390 #Ermentrude, wife of Jérôme, bastard of Charles Martel
+	father = 168161 #Jerome, bastard of Charles Martel
+	mother = 91390 #Ermentrude, wife of Jerome, bastard of Charles Martel
 	744.1.1 = {
 		birth = yes #unknown
 	}
@@ -1680,7 +1680,7 @@
 	religion = catholic
 	culture = frankish
 	father = 91394 #Nithard, landowner in Saalgau
-	mother = 190440 #Richarde, daughter of Jérôme, bastard of Charles Martel
+	mother = 190440 #Richarde, daughter of Jerome, bastard of Charles Martel
 	add_trait = humble
 	760.9.1 = { # up from 745 because mother was too young
 		birth = yes #he lived and was born around in 750
@@ -2055,7 +2055,7 @@
 	790.1.1 = { death = yes } #after 26 May 771
 }
 
-91478 = { #set in Vendôme
+91478 = { #set in Vendome
 	name = "Berengar" #Berengar, count
 	dynasty = 9316
 	religion = catholic
@@ -2091,7 +2091,7 @@
 	780.1.1 = { death = yes } #after 11 Dec 770
 }
 
-91482 = { #set in Geneve and Neufchâtel
+91482 = { #set in Geneve and Neufchatel
 	name = "Frédéric" #FREDERIC, count of Transjuranie
 	dynasty = 9320
 	religion = catholic
@@ -2100,7 +2100,7 @@
 	770.1.1 = { death = yes } #after 753
 }
 
-91483 = { #set in Orléans
+91483 = { #set in Orleans
 	name = "Galimanus" #GALIMANUS, count
 	dynasty = 9321
 	religion = catholic
@@ -2193,7 +2193,7 @@
 	800.1.1 = { death = yes } #after 782
 }
 
-91493 = { #set in Châtillon
+91493 = { #set in Chatillon
 	name = "Warin" # WARIN
 	dynasty = 9331
 	religion = catholic
@@ -2265,7 +2265,7 @@
 	810.1.1 = { death = yes } #unknown
 }
 
-91500 = { #set in Charolais, Mâcon, Châlons
+91500 = { #set in Charolais, Macon, Chalons
 	name = "Welentus"
 	dynasty = 9333
 	religion = catholic
@@ -2394,7 +2394,7 @@
 }
 
 168161 = {
-	name = "Jérôme" #Jérôme or Hieronymus, bastard of Charles Martel
+	name = "Jérôme" #Jerome or Hieronymus, bastard of Charles Martel
 	dynasty = 25065 #De Martel
 	religion = catholic
 	culture = frankish

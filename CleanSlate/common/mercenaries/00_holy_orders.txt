@@ -146,7 +146,7 @@ huitzilopochtli_composition = {
 	archers = 1400
 }
 
-# Bön
+# Bon
 dralhas_children_composition = {
 	heavy_infantry = 4200
 	light_infantry = 1620

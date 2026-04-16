@@ -1,4 +1,4 @@
-# 142 - Värmland
+# 142 - Varmland
 title = c_varmland
 terrain = forest
 

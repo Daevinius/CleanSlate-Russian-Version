@@ -20627,7 +20627,7 @@
 }
 
 91143 = {
-	name = "Béatrice" #Béatrice de Montferrat
+	name = "Béatrice" #Beatrice de Montferrat
 	# AKA: Beatrice de Montferrat
 	female = yes
 	dynasty = 206
@@ -24223,7 +24223,7 @@
 	religion = catholic
 	culture = italian
 	father = 91351 # Obizzo Spinola
-	mother = 91352 # Béatrice, daughter of Margherita di Antiochia
+	mother = 91352 # Beatrice, daughter of Margherita di Antiochia
 	1280.1.1 = {
 		birth = yes
 	}
@@ -28331,7 +28331,7 @@
 	religion = catholic
 	culture = italian
 	father = 91351 # Obizzo Spinola
-	mother = 91352 # Béatrice, daughter of Margherita di Antiochia
+	mother = 91352 # Beatrice, daughter of Margherita di Antiochia
 	1245.1.1 = {
 		birth = yes # unknown
 	}
@@ -28408,7 +28408,7 @@
 }
 
 91358 = {
-	name = "Niccolò" # Niccolò Spinola
+	name = "Niccolò" # Niccolo Spinola
 	dynasty = 50 # Spinola
 	religion = catholic
 	culture = italian
@@ -28426,7 +28426,7 @@
 	dynasty = 50 # Spinola
 	religion = catholic
 	culture = italian
-	father = 91358 # Niccolò Spinola
+	father = 91358 # Niccolo Spinola
 	1210.1.1 = {
 		birth = yes
 	}
@@ -28457,7 +28457,7 @@
 	dynasty = 50 # Spinola
 	religion = catholic
 	culture = italian
-	father = 91358 # Niccolò Spinola
+	father = 91358 # Niccolo Spinola
 	1220.1.1 = {
 		birth = yes
 	}
@@ -28474,7 +28474,7 @@
 	dynasty = 50 # Spinola
 	religion = catholic
 	culture = italian
-	father = 91358 # Niccolò Spinola
+	father = 91358 # Niccolo Spinola
 	1230.1.1 = {
 		birth = yes
 	}
@@ -28685,7 +28685,7 @@
 }
 
 91376 = {
-	name = "Niccolò" # Niccolò
+	name = "Niccolò" # Niccolo
 	dynasty = 50 # Spinola
 	religion = catholic
 	culture = italian
@@ -28703,7 +28703,7 @@
 	dynasty = 50 # Spinola
 	religion = catholic
 	culture = italian
-	father = 91376 # Niccolò
+	father = 91376 # Niccolo
 	1267.1.1 = {
 		birth = yes
 	}
@@ -35979,7 +35979,7 @@
 }
 
 91383 = {
-	name = "Hardouin" # Hardouin d'Hiémois
+	name = "Hardouin" # Hardouin d'Hiemois
 	dynasty = 680
 	religion = catholic
 	culture = french
@@ -35996,7 +35996,7 @@
 	dynasty = 680
 	religion = catholic
 	culture = french
-	father = 91383 # Hardouin d'Hiémois
+	father = 91383 # Hardouin d'Hiemois
 	820.1.1 = {
 		birth = yes # unknown
 	}
@@ -36011,7 +36011,7 @@
 	dynasty = 680
 	religion = catholic
 	culture = french
-	father = 91383 # Hardouin d'Hiémois
+	father = 91383 # Hardouin d'Hiemois
 	826.1.1 = {
 		birth = yes # unknown
 	}
@@ -37210,7 +37210,7 @@
 		birth = yes # unknown
 	}
 	1240.1.1 = {
-		add_spouse = 91352 # Béatrice, daughter of Margherita di Antiochia
+		add_spouse = 91352 # Beatrice, daughter of Margherita di Antiochia
 	}
 	1300.1.1 = {
 		death = yes # after 1270

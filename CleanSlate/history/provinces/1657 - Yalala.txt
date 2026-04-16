@@ -1,4 +1,4 @@
-# 1657 - Yalála
+# 1657 - Yalala
 title = c_yalala
 terrain = mountain
 

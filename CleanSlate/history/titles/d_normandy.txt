@@ -7,7 +7,7 @@
 }
 
 927.1.1 = {
-	holder = 244 # Guillaume I Longue Épée
+	holder = 244 # Guillaume I Longue Epee
 }
 
 942.12.17 = {
@@ -27,7 +27,7 @@
 }
 
 1035.7.3 = {
-	holder = 140 # Guillaume II le Conquérant
+	holder = 140 # Guillaume II le Conquerant
 }
 
 1066.10.14 = {
@@ -44,20 +44,20 @@
 
 # House of Anjou
 1135.12.2 = {
-	holder = 205851 # Étienne de Blois
+	holder = 205851 # Etienne de Blois
 }
 
-# Plantagenêts
+# Plantagenets
 1144.1.1 = {
-	holder = 204506 # Geoffroy Plantagenêt
+	holder = 204506 # Geoffroy Plantagenet
 }
 
 1151.9.7 = {
-	holder = 204500 # Henri II Plantagenêt
+	holder = 204500 # Henri II Plantagenet
 }
 
 1189.7.6 = {
-	holder = 204510 # Richard I Cœur-de-Lion
+	holder = 204510 # Richard I Coeur-de-Lion
 }
 
 1199.4.6 = {

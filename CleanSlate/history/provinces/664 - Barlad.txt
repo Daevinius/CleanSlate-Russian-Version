@@ -1,4 +1,4 @@
-## 664 - Bârlad
+## 664 - Barlad
 title = c_barlad
 terrain = mountain
 

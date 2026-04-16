@@ -1,4 +1,4 @@
-# 786 - Läänemaa
+# 786 - Laanemaa
 title = c_laanemaa
 terrain = plains
 

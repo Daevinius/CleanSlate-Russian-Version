@@ -14,8 +14,6 @@ panda_group = {
 
 		color = { 1.0 0.3 0.0 }
 
-		# Þ 222 þ 254 Ð 208 ð 240 æ
-
 		male_names = {
 			Albert Ambrus Avi
 			Babu Bamboo Barrie Basil Benjamin Berry Bo

@@ -79,16 +79,16 @@
 }
 
 1076.6.4 = {
-	holder = 106050 # García Ordoñez de Aza
+	holder = 106050 # Garcia Ordonez de Aza
 	liege = k_castille
 }
 
 1108.5.30 = {
-	holder = 71364 # García Garcés de Aza
+	holder = 71364 # Garcia Garces de Aza
 }
 
 1160.12.16 = {
-	holder = 71994 # Pedro Jiménez de los Cameros
+	holder = 71994 # Pedro Jimenez de los Cameros
 }
 
 1163.1.1 = {
@@ -97,30 +97,30 @@
 }
 
 1179.4.15 = {
-	holder = 71987 # Diego Jiménez de los Cameros
+	holder = 71987 # Diego Jimenez de los Cameros
 	liege = k_castille
 }
 
 1184.10.9 = {
-	holder = 71989 # Rodrigo Díaz de los Cameros
+	holder = 71989 # Rodrigo Diaz de los Cameros
 }
 
 1221.1.8 = {
-	holder = 71990 # Jimeno Rodríguez de los Cameros
+	holder = 71990 # Jimeno Rodriguez de los Cameros
 }
 
 1277.1.1 = {
-	holder = 71976 # Juan Alfónsez de los Cameros
+	holder = 71976 # Juan Alfonsez de los Cameros
 }
 
 1312.3.7 = {
-	holder = 71977 # Juan Yáñez de los Cameros
+	holder = 71977 # Juan Yanez de los Cameros
 }
 
 1333.1.1 = {
-	holder = 71979 # Álvar Yáñez de los Cameros
+	holder = 71979 # Alvar Yanez de los Cameros
 }
 
 1336.1.1 = {
-	holder = 71982 # Alfonso Álvarez de los Cameros
+	holder = 71982 # Alfonso Alvarez de los Cameros
 }

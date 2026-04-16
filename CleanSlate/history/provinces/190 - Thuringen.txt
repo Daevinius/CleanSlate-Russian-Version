@@ -1,4 +1,4 @@
-# 190 - Thüringen
+# 190 - Thuringen
 title = c_thuringen
 terrain = plains
 

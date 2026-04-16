@@ -28,7 +28,7 @@ e_scandinavia = {
 
 		culture = danish
 
-		capital = 167 # Sjælland
+		capital = 167 # Sjaelland
 
 		norse_pagan_reformed = 350 # Crusade target weight
 		baltic_pagan_reformed = 50 # Crusade target weight
@@ -46,7 +46,7 @@ e_scandinavia = {
 			color = { 206 57 57 }
 			color2 = { 255 255 255 }
 
-			capital = 167 # Sjælland
+			capital = 167 # Sjaelland
 
 			allow = {
 				can_create_duchy = yes
@@ -134,7 +134,7 @@ e_scandinavia = {
 			color = { 210 2 2 }
 			color2 = { 255 255 255 }
 
-			capital = 165 # Skåne
+			capital = 165 # Skane
 
 			allow = {
 				can_create_duchy = yes
@@ -1076,7 +1076,7 @@ e_scandinavia = {
 			color = { 145 58 58 }
 			color2 = { 255 255 255 }
 
-			capital = 121 # Österbotten
+			capital = 121 # Osterbotten
 
 			allow = {
 				can_create_duchy = yes
@@ -1475,7 +1475,7 @@ e_scandinavia = {
 			color = { 45 85 245 }
 			color2 = { 255 255 255 }
 
-			capital = 109 # Jämtland
+			capital = 109 # Jamtland
 
 			allow = {
 				can_create_duchy = yes
@@ -2177,7 +2177,7 @@ e_scandinavia = {
 			color = { 231 64 32 }
 			color2 = { 255 255 255 }
 
-			capital = 120 # Västerbotten
+			capital = 120 # Vasterbotten
 
 			allow = {
 				can_create_duchy = yes
@@ -2265,7 +2265,7 @@ e_scandinavia = {
 			color = { 60 60 200 }
 			color2 = { 255 255 255 }
 
-			capital = 143 # Västmanland
+			capital = 143 # Vastmanland
 
 			allow = {
 				can_create_duchy = yes
@@ -2385,7 +2385,7 @@ e_scandinavia = {
 			color = { 50 50 160 }
 			color2 = { 255 255 255 }
 
-			capital = 140 # Hälsingland
+			capital = 140 # Halsingland
 
 			allow = {
 				can_create_duchy = yes
@@ -2562,7 +2562,7 @@ e_scandinavia = {
 			color = { 60 40 255 }
 			color2 = { 255 255 255 }
 
-			capital = 150 # Möre
+			capital = 150 # More
 
 			allow = {
 				can_create_duchy = yes
@@ -2665,7 +2665,7 @@ e_scandinavia = {
 			color = { 30 70 225 }
 			color2 = { 255 255 255 }
 
-			capital = 162 # Värend
+			capital = 162 # Varend
 
 			allow = {
 				can_create_duchy = yes
@@ -2865,7 +2865,7 @@ e_scandinavia = {
 			color = { 46 30 205 }
 			color2 = { 255 255 255 }
 
-			capital = 159 # Västergötland
+			capital = 159 # Vastergotland
 
 			allow = {
 				can_create_duchy = yes

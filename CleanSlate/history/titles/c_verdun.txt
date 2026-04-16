@@ -81,7 +81,7 @@
 }
 
 1120.1.1 = {
-	holder = 161965 # Henri de Grandpré
+	holder = 161965 # Henri de Grandpre
 }
 
 1124.1.1 = {
@@ -89,7 +89,7 @@
 }
 
 1134.1.1 = {
-	holder = 161912 # Albéron de Chiny
+	holder = 161912 # Alberon de Chiny
 }
 
 1156.1.1 = {
@@ -117,7 +117,7 @@
 }
 
 1208.7.25 = {
-	holder = 161931 # Robert de Grandpré
+	holder = 161931 # Robert de Grandpre
 }
 
 1216.8.25 = {
@@ -129,7 +129,7 @@
 }
 
 1245.4.1 = {
-	holder = 161985 # Guy de Traînel
+	holder = 161985 # Guy de Trainel
 }
 
 1245.12.1 = {
@@ -141,11 +141,11 @@
 }
 
 1252.8.10 = {
-	holder = 71825 # Jacques Pantaléon
+	holder = 71825 # Jacques Pantaleon
 }
 
 1255.1.1 = {
-	holder = 161945 # Robert de Médidan
+	holder = 161945 # Robert de Medidan
 }
 
 1271.9.7 = {
@@ -153,7 +153,7 @@
 }
 
 1275.1.1 = {
-	holder = 161949 # Gérard de Grandson
+	holder = 161949 # Gerard de Grandson
 }
 
 1278.1.1 = {
@@ -169,7 +169,7 @@
 }
 
 1303.1.1 = {
-	holder = 161953 # Thomas de Blâmont
+	holder = 161953 # Thomas de Blamont
 }
 
 1305.1.1 = {

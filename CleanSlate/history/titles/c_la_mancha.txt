@@ -153,42 +153,42 @@
 }
 
 1220.1.1 = {
-	holder = 73157 # Gonzalo Yáñez
+	holder = 73157 # Gonzalo Yanez
 	liege = d_knights_calatrava
 }
 
 1238.1.1 = {
-	holder = 73158 # Martín Ruíz
+	holder = 73158 # Martin Ruiz
 }
 
 1240.1.1 = {
-	holder = 73159 # Gómez Manrique
+	holder = 73159 # Gomez Manrique
 }
 
 1243.1.1 = {
-	holder = 73160 # Fernando Ordóñez
+	holder = 73160 # Fernando Ordonez
 }
 
 1254.1.1 = {
-	holder = 73161 # Pedro Yáñez
+	holder = 73161 # Pedro Yanez
 }
 
 1267.1.1 = {
-	holder = 72690 # Juan González de Aza
+	holder = 72690 # Juan Gonzalez de Aza
 }
 
 1285.1.1 = {
-	holder = 73085 # Rodrigo Ponce de León
+	holder = 73085 # Rodrigo Ponce de Leon
 }
 
 1295.1.1 = {
-	holder = 73162 # Diego López de Santsoles
+	holder = 73162 # Diego Lopez de Santsoles
 }
 
 1296.1.1 = {
-	holder = 73163 # García López de Padilla
+	holder = 73163 # Garcia Lopez de Padilla
 }
 
 1322.1.1 = {
-	holder = 457015 # Juan Núñez de Prado
+	holder = 457015 # Juan Nunez de Prado
 }

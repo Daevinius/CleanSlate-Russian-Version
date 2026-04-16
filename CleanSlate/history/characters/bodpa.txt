@@ -2708,7 +2708,7 @@
 # Songtsen Gampo's Ministers
 247082 = {
 	name = "Sambhota Drithorek Anu"
-	dynasty = 105813 #Thönmi
+	dynasty = 105813 #Thonmi
 	religion = bon_pagan
 	culture = bodpa
 	625.1.1 = {
@@ -3124,7 +3124,7 @@
 247109 = {
 	name = "Amala"
 	female = yes
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -3189,7 +3189,7 @@
 247117 = {
 	name = "Phoyongsa"
 	female = yes
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	father = 247213
@@ -3485,7 +3485,7 @@
 	}
 }
 
-# Era of Fragmentation - Descendants of Ödsrung
+# Era of Fragmentation - Descendants of Odsrung
 247133 = {
 	name = "Pelkhortsen"
 	dynasty = 105800 #Purgyal
@@ -4459,7 +4459,7 @@
 	}
 }
 
-# Era of Fragmentation - Descendants of Yumtän
+# Era of Fragmentation - Descendants of Yumtan
 247196 = {
 	name = "Palkhorre"
 	dynasty = 105800 #Purgyal
@@ -4707,7 +4707,7 @@
 	740.1.1 = {
 		religion = buddhist
 		add_trait = vajrayana_buddhist
-		dynasty = 105802 #Khön
+		dynasty = 105802 #Khon
 	}
 	750.1.1 = {
 		death = yes
@@ -4716,7 +4716,7 @@
 
 247213 = {
 	name = "Jekundag"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4731,7 +4731,7 @@
 
 247214 = {
 	name = "Lu'i Wangpo Srungwa"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4746,7 +4746,7 @@
 
 247215 = {
 	name = "Dorje Rinchen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4761,7 +4761,7 @@
 
 247216 = {
 	name = "Sherab Yontan"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4776,7 +4776,7 @@
 
 247217 = {
 	name = "Yontan Jungne"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4791,7 +4791,7 @@
 
 247218 = {
 	name = "Tsugtor Sherab"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4806,7 +4806,7 @@
 
 247219 = {
 	name = "Gekyab"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4821,7 +4821,7 @@
 
 247220 = {
 	name = "Getong"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4836,7 +4836,7 @@
 
 247221 = {
 	name = "Balpo"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4851,7 +4851,7 @@
 
 247222 = {
 	name = "Shakya Lodro"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4866,7 +4866,7 @@
 
 247223 = {
 	name = "Konchog Gyalpo" # Became a monk/founder of Sakya Trizin
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -4889,7 +4889,7 @@
 	name = "Sherab Tsultrim"
 	dna = hvlrphnybna
 	properties = cj0ick000000000000
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	add_trait = vajrayana_buddhist
 	culture = bodpa
@@ -4912,7 +4912,7 @@
 247225 = {
 	name = "Palmo"
 	female = yes
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -4948,7 +4948,7 @@
 
 247227 = {
 	name = "Sachen Kunga Nyingpo"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -4989,7 +4989,7 @@
 
 247229 = {
 	name = "Sonam Tsemo"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5006,7 +5006,7 @@
 
 247230 = {
 	name = "Dragpa Gyaltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5038,7 +5038,7 @@
 
 247232 = {
 	name = "Palchen Opoche"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5058,7 +5058,7 @@
 
 247233 = {
 	name = "Sakya Pandita"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5089,7 +5089,7 @@
 
 247235 = {
 	name = "Sönam Gyeltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5108,7 +5108,7 @@
 
 247236 = {
 	name = "Drogön Chögyal Phagpa"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5124,7 +5124,7 @@
 
 247237 = {
 	name = "Rinchen Gyaltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5140,7 +5140,7 @@
 
 247238 = {
 	name = "Chakna Dorje"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5159,7 +5159,7 @@
 
 247240 = {
 	name = "Dharmapala Rakshita"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5277,10 +5277,10 @@
 	}
 }
 
-#Khön family restored
+#Khon family restored
 247248 = {
 	name = "Zangpo Pal"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5305,7 +5305,7 @@
 
 247249 = {
 	name = "Yeshe Jungne"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5354,7 +5354,7 @@
 
 247252 = {
 	name = "Kunga Lotro Gyaltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5385,7 +5385,7 @@
 
 247254 = {
 	name = "Kunga Lekpa Jungne Gyaltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5402,7 +5402,7 @@
 
 247255 = {
 	name = "Sonam Lotro Gyaltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5417,7 +5417,7 @@
 
 247256 = {
 	name = "Drakpa Gyaltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5432,7 +5432,7 @@
 
 247257 = {
 	name = "Kunga Gyaltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5449,7 +5449,7 @@
 
 247258 = {
 	name = "Khatsun Namkha Lekpa Gyaltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5466,7 +5466,7 @@
 
 247259 = {
 	name = "Jamyang Donyo Gyaltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5498,7 +5498,7 @@
 
 247261 = {
 	name = "Nyima Dewai Lotro"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5519,7 +5519,7 @@
 
 247262 = {
 	name = "Lotro Gyaltsen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist
@@ -5534,7 +5534,7 @@
 
 247263 = {
 	name = "Tawen Kunga Rinchen"
-	dynasty = 105802 #Khön
+	dynasty = 105802 #Khon
 	religion = buddhist
 	culture = bodpa
 	add_trait = vajrayana_buddhist

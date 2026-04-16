@@ -14,8 +14,6 @@ bear_group = {
 
 		color = { 0.1 0.1 0.3 }
 
-		# Þ 222 þ 254 Ð 208 ð 240 æ
-
 		male_names = {
 			Asabjörn
 			Baloo Bamse Barnie Bearclaw Bearnabus Bearnard Bernard Bjarne Björn Björne Bjørn Blizzard Bobo Boo-Boo Börje

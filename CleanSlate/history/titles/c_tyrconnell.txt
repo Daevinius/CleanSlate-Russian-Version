@@ -7,11 +7,11 @@
 }
 
 860.1.1 = {
-	holder = 83016 # Máel-Doraid
+	holder = 83016 # Mael-Doraid
 }
 
 880.1.1 = {
-	holder = 83017 # Máel Bressail mac Mail Doraid
+	holder = 83017 # Mael Bressail mac Mail Doraid
 }
 
 896.7.1 = {
@@ -19,7 +19,7 @@
 }
 
 919.9.14 = {
-	holder = 131512 # Muirchertach of the Leather Cloaks son of Niall Glúndub
+	holder = 131512 # Muirchertach of the Leather Cloaks son of Niall Glundub
 }
 
 939.1.1 = {
@@ -31,7 +31,7 @@
 }
 
 957.7.1 = {
-	holder = 83019 # Áengus ua Mail Doraid
+	holder = 83019 # Aengus ua Mail Doraid
 }
 
 960.7.1 = {
@@ -47,11 +47,11 @@
 }
 
 977.7.1 = {
-	holder = 83020 # Tigernán ua Mail Doraid
+	holder = 83020 # Tigernan ua Mail Doraid
 }
 
 978.7.1 = {
-	holder = 83021 # Áed ua Mail Doraid
+	holder = 83021 # Aed ua Mail Doraid
 }
 
 989.7.1 = {
@@ -59,7 +59,7 @@
 }
 
 1000.7.1 = {
-	holder = 83023 # Máel Ruanaid ua Mail Doraid
+	holder = 83023 # Mael Ruanaid ua Mail Doraid
 }
 
 1027.1.1 = {
@@ -131,7 +131,7 @@
 }
 
 1196.7.1 = {
-	holder = 83055 # Éicnechán Ua Domnaill reign backdated 5 years
+	holder = 83055 # Eicnechan Ua Domnaill reign backdated 5 years
 }
 
 1207.7.1 = {
@@ -139,7 +139,7 @@
 }
 
 1241.9.1 = {
-	holder = 83057 # Máel Sechlainn Ua Domnaill
+	holder = 83057 # Mael Sechlainn Ua Domnaill
 }
 
 1247.7.1 = {
@@ -155,7 +155,7 @@
 }
 
 1281.7.1 = {
-	holder = 83061 # Áed ua Domnaill
+	holder = 83061 # Aed ua Domnaill
 }
 
 1290.7.1 = {
@@ -163,7 +163,7 @@
 }
 
 1292.7.1 = {
-	holder = 83061 # Áed ua Domnaill again
+	holder = 83061 # Aed ua Domnaill again
 }
 
 1333.7.1 = {
@@ -175,11 +175,11 @@
 }
 
 1343.7.1 = {
-	holder = 83069 # Áengus ua Domnaill
+	holder = 83069 # Aengus ua Domnaill
 }
 
 1352.7.1 = {
-	holder = 83070 # Seaán ua Domnaill ignoring 3 year break for Cathal Og O'Connor
+	holder = 83070 # Seaan ua Domnaill ignoring 3 year break for Cathal Og O'Connor
 }
 
 1380.7.1 = {

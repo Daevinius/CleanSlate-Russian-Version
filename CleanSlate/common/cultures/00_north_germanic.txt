@@ -26,8 +26,6 @@ north_germanic = {
 		graphical_cultures = { norsegfx } # norsegfx
 		color = { 0.3 0.55 0.8 }
 
-		# Þ 222 þ 254 Ð 208 ð 240 æ
-
 		male_names = {
 			Åke Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund Arnbjörn Arngrimr Arni_Arne Arnfast Asbjörn_Asbjörn
 			Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil_Berthold Birger Björn_Beorn Bo Borkvard Botulfr_Botulf Bragi_Brage Buðli

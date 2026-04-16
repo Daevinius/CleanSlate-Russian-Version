@@ -20,25 +20,25 @@
 }
 
 812.1.1 = {
-	holder = 73868 # Mauregato Hermenegíldez de Cantabria
+	holder = 73868 # Mauregato Hermenegildez de Cantabria
 }
 
 860.1.1 = {
-	holder = 73763 # Rodrigo Ramírez de Castilla
+	holder = 73763 # Rodrigo Ramirez de Castilla
 	liege = d_castilla
 }
 
 873.10.3 = {
-	holder = 73765 # Diego Rodríguez Porcelos
+	holder = 73765 # Diego Rodriguez Porcelos
 }
 
 885.1.31 = {
-	holder = 73769 # Gonzalo Fernández de Lara
+	holder = 73769 # Gonzalo Fernandez de Lara
 	liege = k_leon
 }
 
 912.1.1 = {
-	holder = 200071 # Gonzalo Téllez
+	holder = 200071 # Gonzalo Tellez
 }
 
 915.1.1 = {
@@ -46,15 +46,15 @@
 }
 
 922.1.1 = {
-	holder = 200069 # Nuño Fernández de Lara
+	holder = 200069 # Nuno Fernandez de Lara
 }
 
 927.1.1 = {
-	holder = 200070 # Gutierre Núñez de Lara
+	holder = 200070 # Gutierre Nunez de Lara
 }
 
 930.1.1 = {
-	holder = 107680 # Fernán González de Lara
+	holder = 107680 # Fernan Gonzalez de Lara
 }
 
 931.1.1 = {
@@ -62,23 +62,23 @@
 }
 
 944.1.1 = {
-	holder = 72550 # Ansur Fernández Ansúrez
+	holder = 72550 # Ansur Fernandez Ansurez
 }
 
 945.1.1 = {
-	holder = 107680 # Fernán González de Lara
+	holder = 107680 # Fernan Gonzalez de Lara
 }
 
 970.6.1 = {
-	holder = 107670 # García Fernández de Lara
+	holder = 107670 # Garcia Fernandez de Lara
 }
 
 995.1.1 = {
-	holder = 107660 # Sancho García de Lara
+	holder = 107660 # Sancho Garcia de Lara
 }
 
 1017.2.5 = {
-	holder = 70286 # García Sánchez de Lara
+	holder = 70286 # Garcia Sanchez de Lara
 }
 
 1029.5.13 = {
@@ -98,41 +98,41 @@
 }
 
 1073.1.1 = {
-	holder = 107570 # Gonzalo Núñez de Lara
+	holder = 107570 # Gonzalo Nunez de Lara
 }
 
 1105.12.12 = {
-	holder = 207539 # Pedro González de Lara
+	holder = 207539 # Pedro Gonzalez de Lara
 }
 
 1130.10.16 = {
-	holder = 207545 # Nuño Pérez de Lara
+	holder = 207545 # Nuno Perez de Lara
 }
 
 1177.6.1 = {
-	holder = 207548 # Fernando Núñez de Lara
+	holder = 207548 # Fernando Nunez de Lara
 }
 
 1217.1.1 = {
-	holder = 72516 # Fernando Fernández de Lara
+	holder = 72516 # Fernando Fernandez de Lara
 }
 
 1230.1.1 = {
-	holder = 72517 # Álvar Fernández de Lara
+	holder = 72517 # Alvar Fernandez de Lara
 }
 
 1240.7.24 = {
-	holder = 72541 # Nuño González de Lara
+	holder = 72541 # Nuno Gonzalez de Lara
 }
 
 1275.5.1 = {
-	holder = 72544 # Juan Núñez de Lara I
+	holder = 72544 # Juan Nunez de Lara I
 }
 
 1294.4.1 = {
-	holder = 72546 # Juan Núñez de Lara II
+	holder = 72546 # Juan Nunez de Lara II
 }
 
 1315.9.16 = {
-	holder = 457680 # Juana Núñez de Lara
+	holder = 457680 # Juana Nunez de Lara
 }

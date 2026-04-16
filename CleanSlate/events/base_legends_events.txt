@@ -6,7 +6,7 @@
 #
 #########################################
 #
-# Written by Sara Wendel-Örtqvist
+# Written by Sara Wendel-Ortqvist
 
 ### Robin Hood ###
 narrative_event = {

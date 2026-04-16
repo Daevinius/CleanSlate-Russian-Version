@@ -20,16 +20,16 @@
 }
 
 855.1.1 = {
-	holder = 70017 # Ordoño I de Cantabria
+	holder = 70017 # Ordono I de Cantabria
 	liege = k_asturias
 }
 
 866.5.27 = {
-	holder = 73750 # Fruela Ordóñez de Cantabria
+	holder = 73750 # Fruela Ordonez de Cantabria
 }
 
 870.1.1 = {
-	holder = 73751 # Nuño Ordóñez de Cantabria
+	holder = 73751 # Nuno Ordonez de Cantabria
 }
 
 900.1.1 = {
@@ -41,7 +41,7 @@
 }
 
 916.1.1 = {
-	holder = 70021 # Ordoño II de León
+	holder = 70021 # Ordono II de Leon
 }
 
 924.1.1 = {
@@ -49,47 +49,47 @@
 }
 
 925.7.1 = {
-	holder = 70023 # Alfonso IV de León
+	holder = 70023 # Alfonso IV de Leon
 }
 
 931.6.1 = {
-	holder = 70024 # Ramiro II de León
+	holder = 70024 # Ramiro II de Leon
 }
 
 951.1.5 = {
-	holder = 108600 # Ordoño III de León
+	holder = 108600 # Ordono III de Leon
 }
 
 956.11.13 = {
-	holder = 70026 # Sancho I de León
+	holder = 70026 # Sancho I de Leon
 }
 
 958.1.1 = {
-	holder = 70029 # Ordoño IV de León
+	holder = 70029 # Ordono IV de Leon
 }
 
 960.1.1 = {
-	holder = 70026 # Sancho I de León
+	holder = 70026 # Sancho I de Leon
 }
 
 966.1.1 = {
-	holder = 108610 # Ramiro III de León
+	holder = 108610 # Ramiro III de Leon
 }
 
 984.1.1 = {
-	holder = 108590 # Bermudo II de León
+	holder = 108590 # Bermudo II de Leon
 }
 
 989.1.1 = {
-	holder = 108590 # Bermudo II de León
+	holder = 108590 # Bermudo II de Leon
 }
 
 999.9.1 = {
-	holder = 108570 # Alfonso V de León
+	holder = 108570 # Alfonso V de Leon
 }
 
 1028.8.7 = {
-	holder = 70075 # Bermudo III de León
+	holder = 70075 # Bermudo III de Leon
 }
 
 1037.9.4 = {
@@ -97,7 +97,7 @@
 }
 
 1065.12.27 = {
-	holder = 108501 # Urraca Fernández Jimena
+	holder = 108501 # Urraca Fernandez Jimena
 }
 
 1103.11.13 = {
@@ -105,7 +105,7 @@
 }
 
 1109.6.30 = {
-	holder = 207660 # Urraca Alfónsez Jimena
+	holder = 207660 # Urraca Alfonsez Jimena
 }
 
 # Bishops of Zamora
@@ -119,7 +119,7 @@
 }
 
 1174.1.1 = {
-	holder = 72951 # Guillén
+	holder = 72951 # Guillen
 }
 
 1180.1.1 = {
@@ -127,7 +127,7 @@
 }
 
 1200.1.1 = {
-	holder = 72952 # Martín Rodríguez
+	holder = 72952 # Martin Rodriguez
 }
 
 1238.1.1 = {
@@ -135,7 +135,7 @@
 }
 
 1254.1.1 = {
-	holder = 72954 # Suero Pérez de Velasco
+	holder = 72954 # Suero Perez de Velasco
 }
 
 1286.1.1 = {
@@ -147,7 +147,7 @@
 }
 
 1303.1.1 = {
-	holder = 72957 # Gonzalo Rodríguez Osorio
+	holder = 72957 # Gonzalo Rodriguez Osorio
 }
 
 1310.1.1 = {

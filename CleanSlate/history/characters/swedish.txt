@@ -41,7 +41,7 @@
 		birth = yes
 	}
 	1045.1.1 = {
-		add_spouse = 100514 # Maria af Munsö
+		add_spouse = 100514 # Maria af Munso
 	}
 	1066.1.1 = {
 		add_trait = pneumonic
@@ -114,7 +114,7 @@
 }
 
 100526 = {
-	name = "Håkan" # "Röde" (Possibly the same person as "Blot-Sven")
+	name = "Håkan" # "Rode" (Possibly the same person as "Blot-Sven")
 	# AKA: Haakon
 	dynasty = 498 # Speculation
 	martial = 6
@@ -510,7 +510,7 @@
 }
 
 100552 = {
-	name = "Ragnvald" # "Knaphövde"
+	name = "Ragnvald" # "Knaphovde"
 	# AKA: Ragnvald 'Knaphovde'
 	dynasty = 498
 	martial = 3
@@ -1145,7 +1145,7 @@
 
 20020 = {
 	name = "Toke"
-	dynasty = 827 # Värending
+	dynasty = 827 # Varending
 	religion = norse_pagan
 	culture = swedish
 	1030.1.1 = {
@@ -1171,7 +1171,7 @@
 		birth = yes
 	}
 	1145.1.1 = {
-		add_spouse = 200491 # Kristina Björnsdotter
+		add_spouse = 200491 # Kristina Bjornsdotter
 	}
 	1150.1.1 = {
 		add_trait = crusader
@@ -1260,7 +1260,7 @@
 		birth = yes
 	}
 	1205.1.11 = {
-		death = yes #Battle of Älgarås
+		death = yes #Battle of Algaras
 	}
 }
 
@@ -1282,7 +1282,7 @@
 		birth = yes
 	}
 	1205.1.11 = {
-		death = yes #Battle of Älgarås
+		death = yes #Battle of Algaras
 	}
 }
 
@@ -1303,7 +1303,7 @@
 		birth = yes
 	}
 	1205.1.11 = {
-		death = yes #Battle of Älgarås
+		death = yes #Battle of Algaras
 	}
 }
 
@@ -1377,7 +1377,7 @@
 }
 
 200507 = {
-	name = "Erik" # 'den Läspe och Halte'
+	name = "Erik" # 'den Laspe och Halte'
 	dynasty = 381
 	martial = 5
 	diplomacy = 7
@@ -1823,7 +1823,7 @@
 }
 
 200540 = {
-	name = "Magnus" # 'Minnesköld'
+	name = "Magnus" # 'Minneskold'
 	dynasty = 155
 	martial = 5
 	diplomacy = 5
@@ -1852,7 +1852,7 @@
 }
 
 200541 = {
-	name = "Karl" # 'Döve' - Jarl of Sweden
+	name = "Karl" # 'Dove' - Jarl of Sweden
 	dynasty = 155
 	martial = 5
 	diplomacy = 5
@@ -2006,7 +2006,7 @@
 		add_spouse = 200605 #Benedicta Ebbesdotter
 	}
 	1200.1.1 = {
-		add_spouse = 200528 #Ingegärd Birgersdotter
+		add_spouse = 200528 #Ingegard Birgersdotter
 	}
 	1208.1.31 = {
 		death = yes
@@ -2090,7 +2090,7 @@
 	add_trait = chaste
 	add_trait = thrifty_clerk
 	father = 200604 # Sverker den Yngre
-	mother = 200528 # Ingegärd Birgersdotter
+	mother = 200528 # Ingegard Birgersdotter
 	1201.1.1 = {
 		birth = yes
 	}
@@ -2222,7 +2222,7 @@
 }
 
 450501 = {
-	name = "Erik" # Duke of Södermanland
+	name = "Erik" # Duke of Sodermanland
 	# AKA: Erik Magnusson
 	dynasty = 155
 	martial = 7
@@ -2251,7 +2251,7 @@
 }
 
 450502 = {
-	name = "Magnus" # 'Ladulås'
+	name = "Magnus" # 'Ladulas'
 	# AKA: Magnus Birgersson
 	dynasty = 155
 	martial = 7
@@ -2447,7 +2447,7 @@
 	add_trait = patient
 	add_trait = brave
 	add_trait = grey_eminence
-	father = 200540 # Magnus Minnisköld
+	father = 200540 # Magnus Minniskold
 	mother = 200607 # Ingrid Ylva
 	1205.1.1 = {
 		birth = yes
@@ -2490,7 +2490,7 @@
 }
 
 450512 = {
-	name = "Bengt" # Magnusson, Bishop of Linköping 1220 to 1236
+	name = "Bengt" # Magnusson, Bishop of Linkoping 1220 to 1236
 	# AKA: Bengt Magnusson
 	dynasty = 155
 	martial = 5
@@ -2504,7 +2504,7 @@
 	add_trait = patient
 	add_trait = brave
 	add_trait = scholarly_theologian
-	father = 200540 # Magnus Minnisköld
+	father = 200540 # Magnus Minniskold
 	mother = 200607 # Ingrid Ylva
 	1198.1.1 = {
 		birth = yes
@@ -2536,7 +2536,7 @@
 }
 
 450514 = {
-	name = "Bengt" # Lagman in Östergötland, riksråd
+	name = "Bengt" # Lagman in Ostergotland, riksrad
 	# AKA: Bengt Magnusson
 	dynasty = 155
 	martial = 5
@@ -2742,7 +2742,7 @@
 	add_trait = chaste
 	add_trait = wroth
 	add_trait = dutiful_cleric
-	father = 450502 # Magnus Ladulås
+	father = 450502 # Magnus Ladulas
 	mother = 450503
 	1284.6.6 = {
 		birth = yes
@@ -6007,7 +6007,7 @@
 	}
 }
 
-# Stråben
+# Straben
 167361 = {
 	name = "Knut"
 	#placeholder
@@ -6446,13 +6446,13 @@
 }
 
 170000 = {
-	name = "Karl" #Bishop of Linköping
+	name = "Karl" #Bishop of Linkoping
 	dynasty = 155
 	religion = catholic
 	culture = swedish
 	add_trait = brave
 	add_trait = scholarly_theologian
-	father = 200540 # Magnus Minnisköld
+	father = 200540 # Magnus Minniskold
 	mother = 200607 # Ingrid Ylva
 	1196.1.1 = {
 		birth = yes
@@ -7314,7 +7314,7 @@
 
 194247 = {
 	name = "Johan"
-	dynasty = 100297 # Lilliehöök
+	dynasty = 100297 # Lilliehook
 	religion = catholic
 	culture = swedish
 	1150.1.1 = {
@@ -7327,7 +7327,7 @@
 
 194248 = {
 	name = "Måns"
-	dynasty = 100297 # Lilliehöök
+	dynasty = 100297 # Lilliehook
 	religion = catholic
 	culture = swedish
 	father = 194247
@@ -7341,7 +7341,7 @@
 
 194249 = {
 	name = "Karl"
-	dynasty = 100297 # Lilliehöök
+	dynasty = 100297 # Lilliehook
 	religion = catholic
 	culture = swedish
 	father = 194248
@@ -7355,7 +7355,7 @@
 
 194250 = {
 	name = "Johan"
-	dynasty = 100297 # Lilliehöök
+	dynasty = 100297 # Lilliehook
 	religion = catholic
 	culture = swedish
 	father = 194249
@@ -7369,7 +7369,7 @@
 
 194251 = {
 	name = "Ebba"
-	dynasty = 100297 # Lilliehöök
+	dynasty = 100297 # Lilliehook
 	religion = catholic
 	culture = swedish
 	female = yes
@@ -7384,7 +7384,7 @@
 
 194252 = {
 	name = "Anna"
-	dynasty = 100297 # Lilliehöök
+	dynasty = 100297 # Lilliehook
 	religion = catholic
 	culture = swedish
 	female = yes

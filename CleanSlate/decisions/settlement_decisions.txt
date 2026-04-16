@@ -1321,7 +1321,7 @@ settlement_decisions = {
 				if = {
 					limit = {
 						FROM = {
-							dynasty = 708 # Ýrpád
+							dynasty = 708 # Arpad
 							has_landed_title = k_hungary
 						}
 					}
@@ -1486,7 +1486,7 @@ settlement_decisions = {
 				FROM = {
 					trigger_if = {
 						limit = {
-							NOT = { dynasty = 708 } # Ýrpád
+							NOT = { dynasty = 708 } # Arpad
 						}
 
 						num_of_subrealm_castles >= 10
@@ -1518,7 +1518,7 @@ settlement_decisions = {
 
 			mult_modifier = {
 				factor = 100
-				FROM = { dynasty = 708 } # Ýrpád
+				FROM = { dynasty = 708 } # Arpad
 			}
 		}
 	}

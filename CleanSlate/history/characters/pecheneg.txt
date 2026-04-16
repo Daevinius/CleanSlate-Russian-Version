@@ -649,7 +649,7 @@
 
 180234 = {
 	name = "Sevindik" # fictional
-	# wife of Bayça Havuksingila
+	# wife of Bayca Havuksingila
 	female = yes
 	dynasty = 1042051
 	religion = tengri_pagan
@@ -1184,7 +1184,7 @@
 
 256056 = { #fictional, pecheneg in 769
 	name = "Korkutan"
-	dynasty = 1061036 #Uraçic
+	dynasty = 1061036 #Uracic
 	religion = tengri_pagan
 	culture = pecheneg
 	736.1.1 = {

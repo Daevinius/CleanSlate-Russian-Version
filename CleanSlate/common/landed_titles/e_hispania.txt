@@ -795,7 +795,7 @@ e_hispania = {
 			color = { 253 158 51 }
 			color2 = { 255 255 255 }
 
-			capital = 382 # León
+			capital = 382 # Leon
 
 			allow = {
 				can_create_duchy = yes
@@ -1078,7 +1078,7 @@ e_hispania = {
 			color = { 182 98 5 }
 			color2 = { 255 255 255 }
 
-			capital = 396 # Mértola
+			capital = 396 # Mertola
 
 			allow = {
 				can_create_duchy = yes
@@ -1175,7 +1175,7 @@ e_hispania = {
 
 		dignity = 1 # One more county than de jure
 
-		capital = 382 # León
+		capital = 382 # Leon
 
 		culture = castilian
 
@@ -1307,7 +1307,7 @@ e_hispania = {
 	k_galicia = {
 		color = { 255 224 94 }
 
-		capital = 386 # Coruña
+		capital = 386 # Coruna
 
 		culture = portuguese
 

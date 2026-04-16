@@ -1,4 +1,4 @@
-# 91 - Norðurland
+# 91 - Nordurland
 title = c_nordurland
 terrain = arctic
 

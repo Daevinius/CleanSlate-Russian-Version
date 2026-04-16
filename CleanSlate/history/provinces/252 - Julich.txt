@@ -1,4 +1,4 @@
-# 252 - Jülich
+# 252 - Julich
 title = c_julich
 terrain = hills
 

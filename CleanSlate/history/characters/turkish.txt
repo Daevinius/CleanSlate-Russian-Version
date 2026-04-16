@@ -9822,7 +9822,7 @@
 
 217150 = {
 	name = "Aepak" # fictional
-	dynasty = 1051105 # Sarigül
+	dynasty = 1051105 # Sarigul
 	religion = tengri_pagan
 	culture = turkish
 	823.8.9 = {
@@ -9851,7 +9851,7 @@
 
 217152 = {
 	name = "Tugor" # fictional
-	dynasty = 1051105 # Sarigül
+	dynasty = 1051105 # Sarigul
 	religion = tengri_pagan
 	culture = turkish
 	father = 217150
@@ -9866,7 +9866,7 @@
 
 217153 = {
 	name = "Sati" # fictional
-	dynasty = 1051105 # Sarigül
+	dynasty = 1051105 # Sarigul
 	religion = tengri_pagan
 	culture = turkish
 	father = 217150

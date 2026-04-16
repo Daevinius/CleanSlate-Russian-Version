@@ -1,4 +1,4 @@
-# 120 - Västerbotten
+# 120 - Vasterbotten
 title = c_vasterbotten
 terrain = forest
 

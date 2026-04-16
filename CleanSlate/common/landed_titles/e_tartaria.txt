@@ -1062,7 +1062,7 @@ e_tartaria = {
 		d_otuken = {
 			color = { 110 150 220 }
 
-			capital = 1005 # Ötüken
+			capital = 1005 # Otuken
 
 			allow = {
 				can_create_duchy = yes

@@ -1,4 +1,4 @@
-# 396 - Mértola
+# 396 - Mertola
 title = c_mertola
 terrain = plains
 

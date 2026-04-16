@@ -3348,7 +3348,7 @@ character_event = {
 
 #######################################
 # WAR FOCUS PULSE EVENTS
-# by Henrik Fåhraeus
+# by Henrik Fahraeus
 #######################################
 
 # Martial Education improved

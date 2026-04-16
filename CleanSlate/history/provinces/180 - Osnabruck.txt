@@ -1,4 +1,4 @@
-# 180 - Osnabrück
+# 180 - Osnabruck
 title = c_osnabruck
 terrain = plains
 

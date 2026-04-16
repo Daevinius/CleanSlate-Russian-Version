@@ -138,7 +138,7 @@
 }
 
 1265.1.1 = {
-	holder = 457621 # Manuel Fernández de Castilla
+	holder = 457621 # Manuel Fernandez de Castilla
 	liege = k_castille
 }
 

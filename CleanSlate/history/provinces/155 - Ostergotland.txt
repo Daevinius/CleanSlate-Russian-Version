@@ -1,4 +1,4 @@
-# 155 - Östergötland
+# 155 - Ostergotland
 title = c_ostergotland
 terrain = forest
 

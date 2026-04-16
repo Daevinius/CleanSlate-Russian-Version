@@ -1,4 +1,4 @@
-# 107 - Østerdalen
+# 107 - Osterdalen
 title = c_osterdalen
 terrain = mountain
 

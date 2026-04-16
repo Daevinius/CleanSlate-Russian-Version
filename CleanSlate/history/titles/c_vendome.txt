@@ -84,21 +84,21 @@
 # House of Montoire
 
 1217.1.1 = {
-	holder = 205976 # Jean IV de Vendôme
+	holder = 205976 # Jean IV de Vendome
 }
 
 1230.1.1 = {
-	holder = 91322 # Pierre de Vendôme
+	holder = 91322 # Pierre de Vendome
 }
 
 1249.1.1 = {
-	holder = 91323 # Bouchard V de Vendôme
+	holder = 91323 # Bouchard V de Vendome
 }
 
 1271.1.1 = {
-	holder = 455009 # Jean V de Vendôme
+	holder = 455009 # Jean V de Vendome
 }
 
 1315.1.1 = {
-	holder = 455006 # Bouchard VI de Vendôme
+	holder = 455006 # Bouchard VI de Vendome
 }

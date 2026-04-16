@@ -203,7 +203,7 @@ b_caetani = {
 	religion = catholic
 }
 
-# LÜBECK:
+# LUBECK:
 
 b_bardewik = {
 	culture = german

@@ -3171,7 +3171,7 @@
 	}
 }
 
-273021 = { #fantasy father of Slavibor ze Pšova
+273021 = { #fantasy father of Slavibor ze Psova
 	name = "Veliš"
 	dynasty = 250
 	religion = slavic_pagan
@@ -3185,7 +3185,7 @@
 	}
 }
 
-273022 = { #fantasy rulers of Pšov
+273022 = { #fantasy rulers of Psov
 	name = "Slavibor"
 	dynasty = 250
 	religion = slavic_pagan
@@ -3199,7 +3199,7 @@
 	}
 }
 
-273023 = { #fantasy rulers of Pšov
+273023 = { #fantasy rulers of Psov
 	name = "Nemoj"
 	dynasty = 250
 	religion = slavic_pagan
@@ -3239,7 +3239,7 @@
 	}
 }
 
-#Vršovci
+#Vrsovci
 273025 = { #fictional forefather of the dynasty
 	name = "Vrša" #fictional
 	dynasty = 10107
@@ -3320,7 +3320,7 @@
 }
 
 273030 = {
-	name = "Bozej" #in 1014 the leader of Vršovci - at that date a possible Vršovic grandson of Boleslav III was still too young.
+	name = "Bozej" #in 1014 the leader of Vrsovci - at that date a possible Vrsovic grandson of Boleslav III was still too young.
 	dynasty = 10107
 	religion = catholic
 	culture = bohemian
@@ -3334,7 +3334,7 @@
 }
 
 273031 = {
-	name = "Kochan" #murderer of Jaromír Premyslid
+	name = "Kochan" #murderer of Jaromir Premyslid
 	dynasty = 10107
 	religion = catholic
 	culture = bohemian
@@ -3349,7 +3349,7 @@
 }
 
 273032 = {
-	name = "Czaslav" #fictional link between the first Vršovci and those massacred in 1108
+	name = "Czaslav" #fictional link between the first Vrsovci and those massacred in 1108
 	dynasty = 10107
 	religion = catholic
 	culture = bohemian
@@ -3363,7 +3363,7 @@
 }
 
 273033 = {
-	name = "Nemoj" #in 1107 gave large territories to Vyšehrad kapitula
+	name = "Nemoj" #in 1107 gave large territories to Vysehrad kapitula
 	dynasty = 10107
 	religion = catholic
 	culture = bohemian
@@ -3517,7 +3517,7 @@
 }
 
 273044 = {
-	name = "Jan" #son of Czesta (Èesta), the only one from Bohemian, who survived the massacre of 1108
+	name = "Jan" #son of Czesta (Eesta), the only one from Bohemian, who survived the massacre of 1108
 	dynasty = 10107
 	religion = catholic
 	culture = bohemian
@@ -3530,7 +3530,7 @@
 	}
 }
 
-#Moravian branch of Vršovci
+#Moravian branch of Vrsovci
 273045 = {
 	name = "Hruta" #castellan of Bitov
 	dynasty = 10107
@@ -3632,7 +3632,7 @@
 
 #273052 already given to Castohnev z Loun
 
-#Slavníkids
+#Slavnikids
 273053 = {
 	name = "Spytimir"
 	dynasty = 9588

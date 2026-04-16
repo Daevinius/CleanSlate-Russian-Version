@@ -20,18 +20,18 @@
 }
 
 900.1.1 = {
-	holder = 214906 # Ímar ua Ímair
+	holder = 214906 # Imar ua Imair
 }
 
 # Irish control 902 to 917
 
 917.1.1 = {
-	holder = 5789 # Sihtric ua Ímair
+	holder = 5789 # Sihtric ua Imair
 	liege = 0
 }
 
 921.1.1 = {
-	holder = 214901 # Gofraid ua Ímair
+	holder = 214901 # Gofraid ua Imair
 }
 
 934.1.1 = {
@@ -40,7 +40,7 @@
 }
 
 941.1.1 = {
-	holder = 214903 # Blácaire mac Gofrith
+	holder = 214903 # Blacaire mac Gofrith
 }
 
 945.1.1 = {
@@ -48,7 +48,7 @@
 }
 
 947.1.1 = {
-	holder = 214903 # Blácaire mac Gofrith
+	holder = 214903 # Blacaire mac Gofrith
 }
 
 948.1.1 = {
@@ -60,7 +60,7 @@
 }
 
 980.1.1 = {
-	holder = 131521 # Glúniairn
+	holder = 131521 # Gluniairn
 	liege = 0
 }
 
@@ -97,7 +97,7 @@
 }
 
 1089.7.1 = {
-	holder = 923 # Énna son of Diarmait
+	holder = 923 # Enna son of Diarmait
 }
 
 1092.7.1 = {
@@ -109,7 +109,7 @@
 }
 
 1118.7.1 = {
-	holder = 83192 # Énna son of Donnchad
+	holder = 83192 # Enna son of Donnchad
 }
 
 1126.7.1 = {
@@ -125,7 +125,7 @@
 }
 
 1148.7.1 = {
-	holder = 83242 # Bróðir son of Thorkil
+	holder = 83242 # Brodir son of Thorkil
 }
 
 1160.7.1 = {

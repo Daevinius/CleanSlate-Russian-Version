@@ -1,5 +1,5 @@
 754.1.1 = {
-	holder = 70116 # Mauregato Alfónsez de Cantabria
+	holder = 70116 # Mauregato Alfonsez de Cantabria
 	liege = k_asturias
 }
 
@@ -16,19 +16,19 @@
 }
 
 850.2.1 = {
-	holder = 70017 # Ordoño I de Cantabria
+	holder = 70017 # Ordono I de Cantabria
 }
 
 853.1.1 = {
-	holder = 73755 # Gatón Ramírez
+	holder = 73755 # Gaton Ramirez
 }
 
 878.6.6 = {
-	holder = 73757 # Bermudo Gatónez
+	holder = 73757 # Bermudo Gatonez
 }
 
 900.1.1 = {
-	holder = 73758 # Savarico Gatónez
+	holder = 73758 # Savarico Gatonez
 	liege = d_leon
 }
 
@@ -37,7 +37,7 @@
 }
 
 922.1.1 = {
-	holder = 70021 # Ordoño II de León
+	holder = 70021 # Ordono II de Leon
 }
 
 924.1.1 = {
@@ -45,91 +45,91 @@
 }
 
 925.7.1 = {
-	holder = 70023 # Alfonso IV de León
+	holder = 70023 # Alfonso IV de Leon
 }
 
 931.6.1 = {
-	holder = 70024 # Ramiro II de León
+	holder = 70024 # Ramiro II de Leon
 }
 
 936.1.1 = {
-	holder = 70029 # Ordoño IV de León
+	holder = 70029 # Ordono IV de Leon
 }
 
 951.1.5 = {
-	holder = 108600 # Ordoño III de León
+	holder = 108600 # Ordono III de Leon
 }
 
 956.11.13 = {
-	holder = 70026 # Sancho I de León
+	holder = 70026 # Sancho I de Leon
 }
 
 958.1.1 = {
-	holder = 70029 # Ordoño IV de León
+	holder = 70029 # Ordono IV de Leon
 }
 
 960.1.1 = {
-	holder = 70026 # Sancho I de León
+	holder = 70026 # Sancho I de Leon
 }
 
 966.1.1 = {
-	holder = 108610 # Ramiro III de León
+	holder = 108610 # Ramiro III de Leon
 }
 
 984.1.1 = {
-	holder = 108590 # Bermudo II de León
+	holder = 108590 # Bermudo II de Leon
 }
 
 999.9.1 = {
-	holder = 70031 # Ordoño Bermúdez de León
+	holder = 70031 # Ordono Bermudez de Leon
 }
 
 1042.9.18 = {
-	holder = 70032 # Sancho Ordoñez de León
+	holder = 70032 # Sancho Ordonez de Leon
 }
 
 1082.1.1 = {
-	holder = 70034 # Oveco Sánchez de León
+	holder = 70034 # Oveco Sanchez de Leon
 }
 
 1109.1.1 = {
-	holder = 71321 # Sancho Ovéquiz de León
+	holder = 71321 # Sancho Ovequiz de Leon
 }
 
 1113.1.1 = {
-	holder = 71329 # Álvaro, Señor de Santibáñez
+	holder = 71329 # Alvaro, Senor de Santibanez
 }
 
 1129.1.1 = {
-	holder = 71330 # Bermudo Álvarez
+	holder = 71330 # Bermudo Alvarez
 }
 
 1156.1.1 = {
-	holder = 72398 # Fernando Gutiérrez de Castro
+	holder = 72398 # Fernando Gutierrez de Castro
 }
 
 1195.4.9 = {
-	holder = 72401 # Pedro Fernández de Castro
+	holder = 72401 # Pedro Fernandez de Castro
 }
 
 1200.1.1 = {
-	holder = 72986 # Gonzalo Rodríguez de Girón I
+	holder = 72986 # Gonzalo Rodriguez de Giron I
 }
 
 1234.1.1 = {
-	holder = 73001 # Rodrigo González de Girón I
+	holder = 73001 # Rodrigo Gonzalez de Giron I
 }
 
 1256.2.1 = {
-	holder = 73020 # Gonzalo Rodríguez de Girón II
+	holder = 73020 # Gonzalo Rodriguez de Giron II
 }
 
 1280.1.1 = {
-	holder = 73024 # Rodrigo González de Girón II
+	holder = 73024 # Rodrigo Gonzalez de Giron II
 }
 
 1288.1.1 = {
-	holder = 457561 # Juan Alfónsez de Borgoña
+	holder = 457561 # Juan Alfonsez de Borgona
 }
 
 1310.1.1 = {
@@ -137,5 +137,5 @@
 }
 
 1316.8.1 = {
-	holder = 457590 # Fernando Alfónsez de Valencia
+	holder = 457590 # Fernando Alfonsez de Valencia
 }

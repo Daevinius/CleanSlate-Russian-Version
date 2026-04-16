@@ -1,4 +1,4 @@
-# 146 - Södermanland
+# 146 - Sodermanland
 title = c_sodermanland
 terrain = farmlands
 

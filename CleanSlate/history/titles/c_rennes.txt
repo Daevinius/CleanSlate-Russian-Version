@@ -44,7 +44,7 @@
 }
 
 992.6.27 = {
-	holder = 342 # Geoffroy I Béranger
+	holder = 342 # Geoffroy I Beranger
 }
 
 1008.11.20 = {
@@ -57,7 +57,7 @@
 
 # House of Cornouaille
 1066.12.11 = {
-	holder = 178 # Hoël II
+	holder = 178 # Hoel II
 }
 
 1084.04.13 = {
@@ -72,7 +72,7 @@
 	holder = 205825 # Berthe
 }
 
-# House of Penthièvre
+# House of Penthievre
 1156.1.1 = {
 	holder = 205741 # Conan IV le Petit
 }
@@ -81,7 +81,7 @@
 	holder = 205740 # Constance
 }
 
-# Plantagenêt dynasty
+# Plantagenet dynasty
 1194.1.1 = {
 	holder = 204505 # Arthur I
 }

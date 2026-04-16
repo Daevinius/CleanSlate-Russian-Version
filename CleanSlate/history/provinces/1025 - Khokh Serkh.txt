@@ -1,4 +1,4 @@
-# 1025 - Khökh Serkh
+# 1025 - Khokh Serkh
 title = c_khokh_serkh
 terrain = mountain
 

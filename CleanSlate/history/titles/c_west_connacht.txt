@@ -3,7 +3,7 @@
 }
 
 649.7.1 = {
-	holder = 83447 # Cenn-Fáelad Ua Briúin Sola
+	holder = 83447 # Cenn-Faelad Ua Briuin Sola
 }
 
 682.7.1 = {
@@ -31,7 +31,7 @@
 }
 
 735.7.1 = {
-	holder = 83421 # Áed Balb mac Indrechtaig
+	holder = 83421 # Aed Balb mac Indrechtaig
 }
 
 742.7.1 = {
@@ -43,7 +43,7 @@
 }
 
 768.7.1 = {
-	holder = 83403 # Flaithrí mac Domnaill
+	holder = 83403 # Flaithri mac Domnaill
 	liege = d_connacht
 }
 
@@ -60,7 +60,7 @@
 }
 
 786.7.1 = {
-	holder = 83413 # Cináed m ac Artgail
+	holder = 83413 # Cinaed m ac Artgail
 }
 
 792.7.1 = {
@@ -72,7 +72,7 @@
 }
 
 815.7.1 = {
-	holder = 83415 # Máel-Cothaid mac Fagartaig
+	holder = 83415 # Mael-Cothaid mac Fagartaig
 }
 
 823.7.1 = {
@@ -84,7 +84,7 @@
 }
 
 839.7.1 = {
-	holder = 83416 # Murchad mac Áeda
+	holder = 83416 # Murchad mac Aeda
 }
 
 840.7.1 = {
@@ -92,19 +92,19 @@
 }
 
 843.7.1 = {
-	holder = 83394 # Fínsnechta mac Tommaltaigh
+	holder = 83394 # Finsnechta mac Tommaltaigh
 }
 
 848.7.1 = {
-	holder = 83417 # Mugrón mac Maíl COthaid
+	holder = 83417 # Mugron mac Mail COthaid
 }
 
 872.7.1 = {
-	holder = 83382 # Conchobar mac Taidg Móir
+	holder = 83382 # Conchobar mac Taidg Moir
 }
 
 882.7.1 = {
-	holder = 83384 # Áed mac Connchobair
+	holder = 83384 # Aed mac Connchobair
 }
 
 888.7.1 = {
@@ -141,15 +141,15 @@
 }
 
 1030.7.1 = {
-	holder = 910 # Áed in Gai Bernaig
+	holder = 910 # Aed in Gai Bernaig
 }
 
 1067.7.1 = {
-	holder = 911 # Ruaidrí na Saide Buide
+	holder = 911 # Ruaidri na Saide Buide
 }
 
 1092.7.1 = {
-	holder = 83457 # Tadg mac Ruaidrí
+	holder = 83457 # Tadg mac Ruaidri
 }
 
 1097.7.1 = {
@@ -157,19 +157,19 @@
 }
 
 1098.7.1 = {
-	holder = 83458 # Domnall mac Ruaidrí
+	holder = 83458 # Domnall mac Ruaidri
 }
 
 1106.7.1 = {
-	holder = 214520 # Toirrdelbach mac Ruaidrí
+	holder = 214520 # Toirrdelbach mac Ruaidri
 }
 
 1156.5.20 = {
-	holder = 214510 # Ruaidrí mac Toirrdelbaig
+	holder = 214510 # Ruaidri mac Toirrdelbaig
 }
 
 1183.7.1 = {
-	holder = 214500 # Conchobar Máenmaige mac Ruaidrí
+	holder = 214500 # Conchobar Maenmaige mac Ruaidri
 }
 
 1189.7.1 = {
@@ -181,19 +181,19 @@
 }
 
 1224.7.1 = {
-	holder = 83467 # Áed mac Cathail
+	holder = 83467 # Aed mac Cathail
 }
 
 1225.3.1 = {
-	holder = 214501 # Toirrdelbach mac Ruaidrí
+	holder = 214501 # Toirrdelbach mac Ruaidri
 }
 
 1225.9.1 = {
-	holder = 83467 # Áed mac Cathail
+	holder = 83467 # Aed mac Cathail
 }
 
 1228.7.1 = {
-	holder = 214501 # Toirrdelbach mac Ruaidrí
+	holder = 214501 # Toirrdelbach mac Ruaidri
 }
 
 1230.7.1 = {
@@ -201,7 +201,7 @@
 }
 
 1231.7.1 = {
-	holder = 214502 # Áed mac Ruaidrí
+	holder = 214502 # Aed mac Ruaidri
 }
 
 1233.7.1 = {
@@ -217,7 +217,7 @@
 }
 
 1249.7.1 = {
-	holder = 83509 # Toirrdelbach mac Áeda
+	holder = 83509 # Toirrdelbach mac Aeda
 }
 
 1250.7.1 = {
@@ -225,15 +225,15 @@
 }
 
 1265.7.1 = {
-	holder = 83504 # Áed son of Fedlimid
+	holder = 83504 # Aed son of Fedlimid
 }
 
 1274.1.1 = {
-	holder = 83512 # Áed mac Cathail
+	holder = 83512 # Aed mac Cathail
 }
 
 1274.5.1 = {
-	holder = 83513 # Eógan mac Ruaidrí
+	holder = 83513 # Eogan mac Ruaidri
 }
 
 1274.11.1 = {
@@ -241,7 +241,7 @@
 }
 
 1278.7.1 = {
-	holder = 83505 # Áed Muimnech son of Fedlimid
+	holder = 83505 # Aed Muimnech son of Fedlimid
 }
 
 1280.7.1 = {
@@ -253,31 +253,31 @@
 }
 
 1293.7.1 = {
-	holder = 83515 # Áed mac Eógain
+	holder = 83515 # Aed mac Eogain
 }
 
 1309.7.1 = {
-	holder = 83500 # Áed Bréifnech mac Cathail
+	holder = 83500 # Aed Breifnech mac Cathail
 }
 
 1310.7.1 = {
-	holder = 83517 # Fedlimid mac Áeda
+	holder = 83517 # Fedlimid mac Aeda
 }
 
 1315.7.1 = {
-	holder = 83501 # Ruaidrí mac Cathail Ruaid
+	holder = 83501 # Ruaidri mac Cathail Ruaid
 }
 
 1316.2.23 = {
-	holder = 83517 # Fedlimid mac Áeda
+	holder = 83517 # Fedlimid mac Aeda
 }
 
 1316.9.10 = {
-	holder = 83516 # Ruaidrí na Fed
+	holder = 83516 # Ruaidri na Fed
 }
 
 1317.7.1 = {
-	holder = 83519 # Toirrdelbach mac Áeda
+	holder = 83519 # Toirrdelbach mac Aeda
 }
 
 1318.7.1 = {
@@ -285,13 +285,13 @@
 }
 
 1324.7.1 = {
-	holder = 83519 # Toirrdelbach mac Áeda
+	holder = 83519 # Toirrdelbach mac Aeda
 }
 
 1342.7.1 = {
-	holder = 83502 # Áed son of Áed Bréifnech
+	holder = 83502 # Aed son of Aed Breifnech
 }
 
 1343.7.1 = {
-	holder = 83519 # Toirrdelbach mac Áeda
+	holder = 83519 # Toirrdelbach mac Aeda
 }

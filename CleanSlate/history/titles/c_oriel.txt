@@ -1,5 +1,5 @@
 696.1.1 = {
-	holder = 7271 # Fergal son of Máel Duin
+	holder = 7271 # Fergal son of Mael Duin
 }
 
 722.12.11 = {
@@ -24,7 +24,7 @@
 }
 
 961.1.1 = {
-	holder = 214921 # Donnacán
+	holder = 214921 # Donnacan
 }
 
 970.1.1 = {
@@ -45,7 +45,7 @@
 }
 
 1101.1.1 = {
-	holder = 214927 # Gilla-Críst
+	holder = 214927 # Gilla-Crist
 }
 
 1127.1.1 = {

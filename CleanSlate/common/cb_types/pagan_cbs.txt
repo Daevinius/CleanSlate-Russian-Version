@@ -1181,8 +1181,8 @@ tribal_invasion = {
 			if = {
 				limit = {
 					OR = {
-						character = c_159136 # Árpád
-						character = c_159137 # Álmos
+						character = c_159136 # Arpad
+						character = c_159137 # Almos
 					}
 
 					has_dlc = "Holy Fury"

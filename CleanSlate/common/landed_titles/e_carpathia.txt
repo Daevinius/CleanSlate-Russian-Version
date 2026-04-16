@@ -431,7 +431,7 @@ e_carpathia = {
 
 		culture = vlach
 
-		capital = 665 # Târgoviste
+		capital = 665 # Targoviste
 
 		allow = {
 			can_create_kingdom = yes
@@ -629,7 +629,7 @@ e_carpathia = {
 			color = { 238 192 69 }
 			color2 = { 255 255 255 }
 
-			capital = 665 # Târgoviste
+			capital = 665 # Targoviste
 
 			allow = {
 				can_create_duchy = yes

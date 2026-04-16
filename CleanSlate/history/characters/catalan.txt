@@ -1179,7 +1179,7 @@
 }
 
 210501 = {
-	name = "Pere" #AKA: Pere 'el Catòlic'
+	name = "Pere" #AKA: Pere 'el Catolic'
 	dynasty = 100204
 	religion = catholic
 	culture = catalan
@@ -2094,7 +2094,7 @@
 
 460500 = {
 	name = "Pere"
-	#AKA: Pere 'el Ceremoniós'
+	#AKA: Pere 'el Ceremonios'
 	dynasty = 100204
 	martial = 7
 	diplomacy = 7
@@ -2745,7 +2745,7 @@
 }
 
 460604 = {
-	name = "Sanç" #AKA: Sanç 'el Pacífic'
+	name = "Sanç" #AKA: Sanc 'el Pacific'
 	dynasty = 100204
 	father = 460602
 	mother = 138155

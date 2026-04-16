@@ -47,15 +47,15 @@
 }
 
 797.2.6 = {
-	holder = 7276 # Máel Ruanaid son of Donnachad Ua Neill
+	holder = 7276 # Mael Ruanaid son of Donnachad Ua Neill
 }
 
 843.1.1 = {
-	holder = 131501 # Máel Sechnaill son of Máel Ruanaid Ua Neill
+	holder = 131501 # Mael Sechnaill son of Mael Ruanaid Ua Neill
 }
 
 862.11.22 = {
-	holder = 131502 # Flann Sinna son of Máel Sechnaill Ua Neill
+	holder = 131502 # Flann Sinna son of Mael Sechnaill Ua Neill
 	liege = d_meath
 }
 
@@ -88,23 +88,23 @@
 }
 
 952.1.1 = {
-	holder = 83135 # Muirchertach son of Máel Ruanaid
+	holder = 83135 # Muirchertach son of Mael Ruanaid
 }
 
 960.7.1 = {
-	holder = 83135 # Muirchertach son of Máel Ruanaid
+	holder = 83135 # Muirchertach son of Mael Ruanaid
 }
 
 976.7.1 = {
-	holder = 131505 # Máel Sechnaill Mór son of Domnall Donn Ua Neill
+	holder = 131505 # Mael Sechnaill Mor son of Domnall Donn Ua Neill
 }
 
 1022.9.2 = {
-	holder = 83128 # Máel-Sechnaill Got
+	holder = 83128 # Mael-Sechnaill Got
 }
 
 1025.7.1 = {
-	holder = 83136 # Róen son of Muirchertach
+	holder = 83136 # Roen son of Muirchertach
 }
 
 1027.7.1 = {
@@ -120,7 +120,7 @@
 }
 
 1076.7.1 = {
-	holder = 6119 # Máel Sechlainn Bán son of Conchobar
+	holder = 6119 # Mael Sechlainn Ban son of Conchobar
 }
 
 1087.7.1 = {
@@ -128,7 +128,7 @@
 }
 
 1094.1.1 = {
-	holder = 83142 # Conchobar son of Máel Sechlainn Bán
+	holder = 83142 # Conchobar son of Mael Sechlainn Ban
 }
 
 1100.1.1 = {
@@ -136,7 +136,7 @@
 }
 
 1105.1.1 = {
-	holder = 83142 # Conchobar son of Máel Sechlainn Bán
+	holder = 83142 # Conchobar son of Mael Sechlainn Ban
 }
 
 1105.7.1 = {
@@ -152,7 +152,7 @@
 }
 
 1115.2.2 = {
-	holder = 83149 # Máel-Sechlainn son of Domnall
+	holder = 83149 # Mael-Sechlainn son of Domnall
 }
 
 1115.7.1 = {
@@ -180,7 +180,7 @@
 }
 
 1153.7.1 = {
-	holder = 7191 # Máel-Sechlainn son of Murchad
+	holder = 7191 # Mael-Sechlainn son of Murchad
 }
 
 1155.7.1 = {
@@ -208,11 +208,11 @@
 }
 
 1169.7.1 = {
-	holder = 83153 # Domnall Bregach son of Máel-Sechlainn
+	holder = 83153 # Domnall Bregach son of Mael-Sechlainn
 }
 
 1173.7.1 = {
-	holder = 83154 # Art son of Máel-Sechlainn
+	holder = 83154 # Art son of Mael-Sechlainn
 }
 
 1185.1.1 = {

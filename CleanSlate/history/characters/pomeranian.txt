@@ -590,7 +590,7 @@
 	1147.1.1 = {
 		birth = yes
 	}
-	#Danes conquer and convert Rügen
+	#Danes conquer and convert Rugen
 	1168.1.1 = {
 		religion = catholic
 	}
@@ -747,7 +747,7 @@
 	1148.1.1 = {
 		birth = yes
 	}
-	#Danes conquer and convert Rügen
+	#Danes conquer and convert Rugen
 	1168.1.1 = {
 		religion = catholic
 	}
@@ -765,7 +765,7 @@
 	1149.1.1 = {
 		birth = yes
 	}
-	#Danes conquer and convert Rügen
+	#Danes conquer and convert Rugen
 	1168.1.1 = {
 		religion = catholic
 	}
@@ -1945,7 +1945,7 @@
 }
 
 471650 = {
-	name = "Wratislaw" #Duke of Pomerania, count of Rügen, Rostock
+	name = "Wratislaw" #Duke of Pomerania, count of Rugen, Rostock
 	# AKA: Warcislaw
 	dynasty = 177
 	martial = 8
@@ -2445,7 +2445,7 @@
 	}
 }
 
-#Rügen
+#Rugen
 184003 = {
 	name = "Drvovid"
 	dynasty = 1042802

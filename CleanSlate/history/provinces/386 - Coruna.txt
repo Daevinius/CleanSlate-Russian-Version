@@ -1,4 +1,4 @@
-# 386 - Coruña
+# 386 - Coruna
 title = c_coruna
 terrain = hills
 

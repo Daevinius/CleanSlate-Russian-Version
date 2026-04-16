@@ -1,4 +1,4 @@
-# 1650 - Tébessa
+# 1650 - Tebessa
 title = c_tebessa
 terrain = mountain
 

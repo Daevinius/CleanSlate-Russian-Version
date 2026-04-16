@@ -1,4 +1,4 @@
-# 88 - Færeyar
+# 88 - Faereyar
 title = c_faereyar
 terrain = mountain
 

@@ -1,4 +1,4 @@
-# 200 - Nürnberg
+# 200 - Nurnberg
 title = c_nurnberg
 terrain = plains
 

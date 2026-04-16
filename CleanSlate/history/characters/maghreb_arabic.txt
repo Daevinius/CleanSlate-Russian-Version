@@ -8977,7 +8977,7 @@
 
 #rulers of Fezzan
 248788 = {
-	name = "Abdallah" #ibn Hiyân, historical ruler of Zawila d.762
+	name = "Abdallah" #ibn Hiyan, historical ruler of Zawila d.762
 	dynasty = 1059964
 	religion = ibadi
 	culture = berber
@@ -8990,7 +8990,7 @@
 }
 
 248789 = {
-	name = "Hiyan" #ibn AbdAlâh
+	name = "Hiyan" #ibn AbdAlah
 	dynasty = 1059964
 	religion = ibadi
 	culture = berber
@@ -9003,7 +9003,7 @@
 	}
 }
 
-#Banú Khattâb in Fezzan
+#Banu Khattab in Fezzan
 248790 = {
 	name = "al-Khattab" #semi-historical
 	dynasty = 1059963
@@ -9018,7 +9018,7 @@
 }
 
 248791 = {
-	name = "Abdallah ibn al-Khattab al-Hawwari" #historical founder of the Banu Khattâb tribe/dynasty lived in 918
+	name = "Abdallah ibn al-Khattab al-Hawwari" #historical founder of the Banu Khattab tribe/dynasty lived in 918
 	dynasty = 1059963
 	religion = ibadi
 	culture = berber
@@ -9032,7 +9032,7 @@
 }
 
 248792 = {
-	name = "Abdallah" #fictional son of historical founder of the Banu Khattâb tribe/dynasty
+	name = "Abdallah" #fictional son of historical founder of the Banu Khattab tribe/dynasty
 	dynasty = 1059963
 	religion = ibadi
 	culture = berber
@@ -9605,7 +9605,7 @@
 
 # historical Lamtuna kings
 273070 = {
-	name = "Tîlutân" #ibn Tîklân
+	name = "Tîlutân" #ibn Tiklan
 	dynasty = 1069080 #Lamtuna
 	religion = sunni
 	culture = soninke
@@ -9622,7 +9622,7 @@
 }
 
 273071 = {
-	name = "Bâtin" #brother of Itlutân
+	name = "Bâtin" #brother of Itlutan
 	dynasty = 1069080 #Lamtuna
 	religion = sunni
 	culture = berber #tagelmust
@@ -9636,7 +9636,7 @@
 }
 
 273072 = {
-	name = "al-Athîr" #ibn Bâtin
+	name = "al-Athîr" #ibn Batin
 	dynasty = 1069080 #Lamtuna
 	religion = sunni
 	culture = berber #tagelmust
@@ -9650,7 +9650,7 @@
 }
 
 273073 = {
-	name = "Tamîm" #ibn al-Athîr
+	name = "Tamîm" #ibn al-Athir
 	dynasty = 1069080 #Lamtuna
 	religion = sunni
 	culture = berber #tagelmust
@@ -9678,7 +9678,7 @@
 }
 
 273075 = {
-	name = "Wanshîk" #ibn Bizâr
+	name = "Wanshîk" #ibn Bizar
 	dynasty = 1069084 #Ghusti
 	religion = sunni
 	culture = berber #tagelmust
@@ -9692,7 +9692,7 @@
 }
 
 273076 = {
-	name = "Tinazwa" #ibn Wanshîk #AKA Tîn Yarutân ibn Wisnâ ibn Nazâr
+	name = "Tinazwa" #ibn Wanshik #AKA Tin Yarutan ibn Wisna ibn Nazar
 	dynasty = 1069084 #Ghusti
 	religion = sunni
 	culture = berber #tagelmust
@@ -10072,7 +10072,7 @@
 273101 = {
 	#placeholder
 	name = "Watt'as"
-	dynasty = 1069084 #Guddála
+	dynasty = 1069084 #Guddala
 	religion = sunni
 	culture = berber #tagelmust
 	848.1.1 = {
@@ -10105,7 +10105,7 @@
 273103 = {
 	#placeholder
 	name = "Tamim"
-	dynasty = 1069084 #Guddála
+	dynasty = 1069084 #Guddala
 	religion = sunni
 	culture = berber #tagelmust
 	father = 273101
@@ -10120,7 +10120,7 @@
 273104 = {
 	#placeholder
 	name = "Watt'as"
-	dynasty = 1069084 #Guddála
+	dynasty = 1069084 #Guddala
 	religion = sunni
 	culture = berber #tagelmust
 	father = 273103
@@ -10135,7 +10135,7 @@
 273105 = {
 	#placeholder
 	name = "Tamim"
-	dynasty = 1069084 #Guddála
+	dynasty = 1069084 #Guddala
 	religion = sunni
 	culture = berber #tagelmust
 	father = 273104
@@ -10399,7 +10399,7 @@
 }
 
 273123 = {
-	name = "Addu" #fictional son of Tamîm ibn al-Athîr
+	name = "Addu" #fictional son of Tamim ibn al-Athir
 	dynasty = 1069080 #Lamtuna
 	religion = sunni
 	culture = berber #tagelmust
@@ -10428,7 +10428,7 @@
 
 #Mazata chieftans
 273125 = {
-	name = "Abd-al-A'lâ" #Abu_l-Khattáb ibn al-Samh al Ma'afiri
+	name = "Abd-al-A'lâ" #Abu_l-Khattab ibn al-Samh al Ma'afiri
 	dynasty = 1069090
 	religion = ibadi
 	culture = berber #zanata
@@ -10470,7 +10470,7 @@
 
 273128 = {
 	name = "Dunas" #ibn al-Khayr al-Mazati 1100-1145 Mazati chieftan under Banu Khazrun
-	dynasty = 1069091 #al-Mazâtî
+	dynasty = 1069091 #al-Mazati
 	religion = ibadi
 	culture = berber #zanata
 	father = 273129
@@ -10484,7 +10484,7 @@
 
 273129 = {
 	name = "al-Khayr"
-	dynasty = 1069091 #al-Mazâtî
+	dynasty = 1069091 #al-Mazati
 	religion = ibadi
 	culture = berber #zanata
 	father = 273130
@@ -10498,7 +10498,7 @@
 
 273130 = {
 	name = "Arjân" #fictional
-	dynasty = 1069091 #al-Mazâtî
+	dynasty = 1069091 #al-Mazati
 	religion = ibadi
 	culture = berber #zanata
 	father = 273131
@@ -10512,7 +10512,7 @@
 
 273131 = {
 	name = "al-Samh" #fictional
-	dynasty = 1069091 #al-Mazâtî
+	dynasty = 1069091 #al-Mazati
 	religion = ibadi
 	culture = berber #zanata
 	father = 273132
@@ -10526,7 +10526,7 @@
 
 273132 = {
 	name = "al-Khayr" #fictional
-	dynasty = 1069091 #al-Mazâtî
+	dynasty = 1069091 #al-Mazati
 	religion = ibadi
 	culture = berber #zanata
 	father = 273133
@@ -10540,7 +10540,7 @@
 
 273133 = {
 	name = "Dunas" #fictional
-	dynasty = 1069091 #al-Mazâtî
+	dynasty = 1069091 #al-Mazati
 	religion = ibadi
 	culture = berber #zanata
 	father = 273134
@@ -10554,7 +10554,7 @@
 
 273134 = {
 	name = "Arjân" #fictional
-	dynasty = 1069091 #al-Mazâtî
+	dynasty = 1069091 #al-Mazati
 	religion = ibadi
 	culture = berber #zanata
 	father = 273135
@@ -10568,7 +10568,7 @@
 
 273135 = {
 	name = "al-Khayr" #fictional
-	dynasty = 1069091 #al-Mazâtî
+	dynasty = 1069091 #al-Mazati
 	religion = ibadi
 	culture = berber #zanata
 	847.1.1 = {
@@ -10579,7 +10579,7 @@
 	}
 }
 
-#Hawwára in Tripolitania
+#Hawwara in Tripolitania
 273136 = {
 	name = "AbdAllâh" #placeholder
 	dynasty = 1069092

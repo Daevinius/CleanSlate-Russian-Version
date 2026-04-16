@@ -148,32 +148,32 @@
 }
 
 1178.1.1 = {
-	holder = 72882 # Gómez González de Traba
+	holder = 72882 # Gomez Gonzalez de Traba
 	liege = k_castille
 }
 
 1209.5.5 = {
-	holder = 72888 # Gonzalo Gómez de Traba
+	holder = 72888 # Gonzalo Gomez de Traba
 }
 
 1233.5.16 = {
-	holder = 72889 # Rodrigo Gómez de Traba
+	holder = 72889 # Rodrigo Gomez de Traba
 }
 
 1247.4.19 = {
-	holder = 72503 # Pedro González de Lara
+	holder = 72503 # Pedro Gonzalez de Lara
 }
 
 1260.1.1 = {
-	holder = 72504 # Gómez González de Lara
+	holder = 72504 # Gomez Gonzalez de Lara
 }
 
 1268.1.1 = {
-	holder = 72507 # Rodrigo Gómez de Lara
+	holder = 72507 # Rodrigo Gomez de Lara
 }
 
 1293.1.1 = {
-	holder = 72486 # García Manrique de Lara
+	holder = 72486 # Garcia Manrique de Lara
 }
 
 1302.1.1 = {
@@ -181,5 +181,5 @@
 }
 
 1323.1.1 = {
-	holder = 72490 # García Manrique de Lara
+	holder = 72490 # Garcia Manrique de Lara
 }

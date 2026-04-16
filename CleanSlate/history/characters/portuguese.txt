@@ -374,7 +374,7 @@
 	1151.1.1 = {
 		birth = yes
 	}
-	#Ferdinand II de Léon (1165.1.1)
+	#Ferdinand II de Leon (1165.1.1)
 	1188.10.16 = {
 		death = yes
 	}
@@ -417,7 +417,7 @@
 }
 
 209504 = {
-	name = "Teresa" #Thérèse de Portugal
+	name = "Teresa" #Therese de Portugal
 	female = yes
 	dynasty = 741 #de Bourgogne
 	religion = catholic
@@ -434,7 +434,7 @@
 }
 
 209505 = {
-	name = "Sancha" #abbot of Lorvão
+	name = "Sancha" #abbot of Lorvao
 	female = yes
 	dynasty = 741 #de Bourgogne
 	religion = catholic
@@ -528,7 +528,7 @@
 209531 = {
 	name = "Fruilhe" #Fruilhe Nunes
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	add_trait = bastard
@@ -764,7 +764,7 @@
 }
 
 459514 = {
-	name = "João" #João Afonso de Albuquerque
+	name = "João" #Joao Afonso de Albuquerque
 	dynasty = 767 #de Albuquerque
 	religion = catholic
 	culture = portuguese
@@ -1083,7 +1083,7 @@
 }
 
 459551 = {
-	name = "Inês" #Inês Lourenço de Valadares
+	name = "Inês" #Ines Lourenco de Valadares
 	female = yes
 	dynasty = 1020115 #de Valadares
 	religion = catholic
@@ -1117,7 +1117,7 @@
 }
 
 459553 = {
-	name = "Aldonça" #Aldonça Anes de Briteiros
+	name = "Aldonça" #Aldonca Anes de Briteiros
 	female = yes
 	dynasty = 773 #de Briteiros
 	religion = catholic
@@ -1410,7 +1410,7 @@
 	religion = catholic
 	culture = portuguese
 	father = 6531 #Henri de Bourgogne
-	mother = 207661 #Térèse de Léon
+	mother = 207661 #Terese de Leon
 	1099.1.1 = {
 		birth = yes
 	}
@@ -1425,7 +1425,7 @@
 	religion = catholic
 	culture = portuguese
 	father = 6531 #Henri de Bourgogne
-	mother = 207661 #Térèse de Léon
+	mother = 207661 #Terese de Leon
 	1106.1.1 = {
 		birth = yes
 	}
@@ -1441,7 +1441,7 @@
 	religion = catholic
 	culture = portuguese
 	father = 6531 #Henri de Bourgogne
-	mother = 207661 #Térèse de Léon
+	mother = 207661 #Terese de Leon
 	1100.1.1 = {
 		birth = yes
 	}
@@ -1458,12 +1458,12 @@
 	religion = catholic
 	culture = portuguese
 	father = 6531 #Henri de Bourgogne
-	mother = 207661 #Térèse de Léon
+	mother = 207661 #Terese de Leon
 	1101.1.1 = {
 		birth = yes
 	}
 	#Sancho Nunes de Barbosa
-	#Fernão Mendes de Bragança
+	#Fernao Mendes de Braganca
 	1163.1.1 = {
 		death = yes
 	}
@@ -1476,7 +1476,7 @@
 	religion = catholic
 	culture = portuguese
 	father = 6531 #Henri de Bourgogne
-	mother = 207661 #Térèse de Léon
+	mother = 207661 #Terese de Leon
 	1102.1.1 = {
 		birth = yes
 	}
@@ -1599,7 +1599,7 @@
 }
 
 91102 = {
-	name = "Berengária" #Berénguère de Portugal
+	name = "Berengária" #Berenguere de Portugal
 	female = yes
 	dynasty = 741 #de Bourgogne
 	religion = catholic
@@ -1701,7 +1701,7 @@
 }
 
 91108 = {
-	name = "Constança" #Constança Sanches
+	name = "Constança" #Constanca Sanches
 	female = yes
 	dynasty = 741 #de Bourgogne
 	religion = catholic
@@ -1745,7 +1745,7 @@
 	1201.1.1 = {
 		birth = yes
 	}
-	#Lourenço Soares de Ribadouro
+	#Lourenco Soares de Ribadouro
 	1255.1.1 = {
 		death = yes
 	}
@@ -1817,8 +1817,8 @@
 }
 
 209540 = {
-	name = "Nuno" #Nuno Pires de Bragança
-	dynasty = 272 #de Bragança
+	name = "Nuno" #Nuno Pires de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142012
@@ -1908,8 +1908,8 @@
 }
 
 142021 = {
-	name = "Fernão" #Fernão Mendes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Fernão" #Fernao Mendes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142141
@@ -1957,7 +1957,7 @@
 	1120.1.1 = {
 		birth = yes
 	}
-	#Gonçalo Mendes de Sousa
+	#Goncalo Mendes de Sousa
 	1150.1.1 = {
 		death = yes
 	}
@@ -1974,7 +1974,7 @@
 	1130.1.1 = {
 		birth = yes
 	}
-	#Pedro Fernandes de Bragança
+	#Pedro Fernandes de Braganca
 	1175.1.1 = {
 		death = yes
 	}
@@ -2017,7 +2017,7 @@
 }
 
 142009 = {
-	name = "Gonçalo" #Gonçalo Mendes de Sousa
+	name = "Gonçalo" #Goncalo Mendes de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -2038,8 +2038,8 @@
 }
 
 142012 = {
-	name = "Pedro" #Pedro Fernandes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Pedro" #Pedro Fernandes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142021
@@ -2202,7 +2202,7 @@
 
 142013 = {
 	name = "Garcia" #Garcia Pires
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142012
@@ -2219,8 +2219,8 @@
 }
 
 142014 = {
-	name = "Fernão" #Fernão Pires
-	dynasty = 272 #de Bragança
+	name = "Fernão" #Fernao Pires
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142012
@@ -2238,7 +2238,7 @@
 
 142015 = {
 	name = "Vasco" #Vasco Pires
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142012
@@ -2257,7 +2257,7 @@
 142017 = {
 	name = "Sancha" #Sancha Pires
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142012
@@ -2273,7 +2273,7 @@
 142018 = {
 	name = "Teresa" #Teresa Pires
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142012
@@ -2429,7 +2429,7 @@
 }
 
 142138 = {
-	name = "João" #João Martins de Cabreira Salsa
+	name = "João" #Joao Martins de Cabreira Salsa
 	dynasty = 1020112 #de Vasconcelos
 	religion = catholic
 	culture = portuguese
@@ -2459,7 +2459,7 @@
 }
 
 142028 = {
-	name = "Fernão" #Fernão Peres Pelegrin
+	name = "Fernão" #Fernao Peres Pelegrin
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
 	culture = portuguese
@@ -2545,9 +2545,9 @@
 }
 
 142029 = {
-	name = "Urraca" #Urraca Vasques de Bragança
+	name = "Urraca" #Urraca Vasques de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142015
@@ -2555,16 +2555,16 @@
 	1191.1.1 = {
 		birth = yes
 	}
-	#Fernão Peres Pelegrin
+	#Fernao Peres Pelegrin
 	1220.1.1 = {
 		death = yes
 	}
 }
 
 142030 = {
-	name = "Urraca" #Urraca Nunes de Bragança
+	name = "Urraca" #Urraca Nunes de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 209540
@@ -2572,7 +2572,7 @@
 	1190.1.1 = {
 		birth = yes
 	}
-	#Fernão Peres Pelegrin
+	#Fernao Peres Pelegrin
 	1240.1.1 = {
 		death = yes
 	}
@@ -2596,7 +2596,7 @@
 }
 
 142136 = {
-	name = "João" #João Peres de Vasconcelos
+	name = "João" #Joao Peres de Vasconcelos
 	dynasty = 1020112 #de Vasconcelos
 	religion = catholic
 	culture = portuguese
@@ -2656,7 +2656,7 @@
 	1220.1.1 = {
 		birth = yes
 	}
-	#João Garcia de Sousa
+	#Joao Garcia de Sousa
 	1270.1.1 = {
 		death = yes
 	}
@@ -2719,8 +2719,8 @@
 	1210.1.1 = {
 		birth = yes
 	}
-	#João Martins de Riba Vizela
-	#Fernão Garcia de Sousa
+	#Joao Martins de Riba Vizela
+	#Fernao Garcia de Sousa
 	1270.1.1 = {
 		death = yes
 	}
@@ -2748,7 +2748,7 @@
 }
 
 142000 = {
-	name = "Lourenço" #Lourenço Soares de Ribadouro
+	name = "Lourenço" #Lourenco Soares de Ribadouro
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
 	culture = portuguese
@@ -2766,7 +2766,7 @@
 }
 
 142043 = {
-	name = "João" #João Afonso Teles de Meneses
+	name = "João" #Joao Afonso Teles de Meneses
 	dynasty = 400 #de Menezes
 	religion = catholic
 	culture = portuguese
@@ -2836,7 +2836,7 @@
 }
 
 142001 = {
-	name = "Egas" #Egas Lourenço
+	name = "Egas" #Egas Lourenco
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
 	culture = portuguese
@@ -2871,15 +2871,15 @@
 }
 
 142002 = {
-	name = "Mafalda" #Mafalda Jordão
+	name = "Mafalda" #Mafalda Jordao
 	female = yes
-	#dynasty = #Jordão
+	#dynasty = #Jordao
 	religion = catholic
 	culture = portuguese
 	1220.1.1 = {
 		birth = yes
 	}
-	#Egas Lourenço
+	#Egas Lourenco
 	1270.1.1 = {
 		death = yes
 	}
@@ -2904,7 +2904,7 @@
 }
 
 142045 = {
-	name = "Gonçalo" #Gonçalo Anes Raposo
+	name = "Gonçalo" #Goncalo Anes Raposo
 	dynasty = 400 #de Menezes
 	religion = catholic
 	culture = portuguese
@@ -2954,7 +2954,7 @@
 }
 
 142048 = {
-	name = "Martim" #Martim Afonso Tição
+	name = "Martim" #Martim Afonso Ticao
 	dynasty = 400 #de Menezes
 	religion = catholic
 	culture = portuguese
@@ -3016,7 +3016,7 @@
 }
 
 142055 = {
-	name = "João" #João Afonso
+	name = "João" #Joao Afonso
 	dynasty = 741 #de Bourgogne
 	religion = catholic
 	culture = portuguese
@@ -3183,8 +3183,8 @@
 	1250.1.1 = {
 		birth = yes
 	}
-	#Estevão Anes de Sousa
-	#Gonçalo Garcia de Sousa
+	#Estevao Anes de Sousa
+	#Goncalo Garcia de Sousa
 	1291.1.1 = {
 		death = yes
 	}
@@ -3294,14 +3294,14 @@
 		birth = yes
 	}
 	#Pedro Anes Gago de Riba Vizela
-	#João Mendes de Briteiros
+	#Joao Mendes de Briteiros
 	1290.1.1 = {
 		death = yes
 	}
 }
 
 142061 = {
-	name = "Estevão" #Estevão Anes de Sousa
+	name = "Estevão" #Estevao Anes de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -3319,7 +3319,7 @@
 }
 
 142062 = {
-	name = "Gonçalo" #Gonçalo Garcia de Sousa
+	name = "Gonçalo" #Goncalo Garcia de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -3355,7 +3355,7 @@
 }
 
 142087 = {
-	name = "João" #João Mendes de Briteiros
+	name = "João" #Joao Mendes de Briteiros
 	dynasty = 773 #de Briteiros
 	religion = catholic
 	culture = portuguese
@@ -3389,7 +3389,7 @@
 }
 
 142081 = {
-	name = "Constança" #Constança Afonso Chichorro
+	name = "Constança" #Constanca Afonso Chichorro
 	female = yes
 	dynasty = 1020117 #de Sousa Chichorro
 	religion = catholic
@@ -3452,7 +3452,7 @@
 }
 
 142088 = {
-	name = "Fernão" #Fernão Anes de Briteiros
+	name = "Fernão" #Fernao Anes de Briteiros
 	dynasty = 773 #de Briteiros
 	religion = catholic
 	culture = portuguese
@@ -3467,7 +3467,7 @@
 }
 
 142089 = {
-	name = "Gonçalo" #Gonçalo Anes de Briteiros
+	name = "Gonçalo" #Goncalo Anes de Briteiros
 	dynasty = 773 #de Briteiros
 	religion = catholic
 	culture = portuguese
@@ -3566,7 +3566,7 @@
 }
 
 142108 = {
-	name = "Gonçalo" #Gonçalo Mendes de Sousa
+	name = "Gonçalo" #Goncalo Mendes de Sousa
 	dynasty = 1020118 #de Sousa Arronches
 	religion = catholic
 	culture = portuguese
@@ -3629,7 +3629,7 @@
 }
 
 142076 = {
-	name = "Gonçalo" #Gonçalo Anes de Briteiros
+	name = "Gonçalo" #Goncalo Anes de Briteiros
 	dynasty = 773 #de Briteiros
 	religion = catholic
 	culture = portuguese
@@ -3647,7 +3647,7 @@
 }
 
 142154 = {
-	name = "João" #João Pires de Sousa
+	name = "João" #Joao Pires de Sousa
 	dynasty = 1020114 #de Portel
 	religion = catholic
 	culture = portuguese
@@ -3668,7 +3668,7 @@
 }
 
 142090 = {
-	name = "Sancha" #Sancha Peres de Gusmão
+	name = "Sancha" #Sancha Peres de Gusmao
 	female = yes
 	#dynasty = #de Guzman line not included
 	religion = catholic
@@ -3676,7 +3676,7 @@
 	1290.1.1 = {
 		birth = yes
 	}
-	#Gonçalo Anes de Briteiros
+	#Goncalo Anes de Briteiros
 	1340.1.1 = {
 		death = yes
 	}
@@ -3701,7 +3701,7 @@
 }
 
 142101 = {
-	name = "Violante" #Violante Ponço Briteiros
+	name = "Violante" #Violante Ponco Briteiros
 	female = yes
 	dynasty = 773 #de Briteiros
 	religion = catholic
@@ -3750,7 +3750,7 @@
 }
 
 142077 = {
-	name = "Álvaro" #Álvaro Gonçalves de Briteiros
+	name = "Álvaro" #Álvaro Goncalves de Briteiros
 	dynasty = 773 #de Briteiros
 	religion = catholic
 	culture = portuguese
@@ -3766,7 +3766,7 @@
 }
 
 142078 = {
-	name = "Diogo" #Diogo Gonçalves de Briteiros
+	name = "Diogo" #Diogo Goncalves de Briteiros
 	dynasty = 773 #de Briteiros
 	religion = catholic
 	culture = portuguese
@@ -3782,7 +3782,7 @@
 }
 
 142079 = {
-	name = "Margarida" #Margarida Gonçalves de Sousa
+	name = "Margarida" #Margarida Goncalves de Sousa
 	female = yes
 	dynasty = 773 #de Briteiros
 	religion = catholic
@@ -3799,7 +3799,7 @@
 }
 
 142080 = {
-	name = "Maria" #Maria Gonçalves de Sousa
+	name = "Maria" #Maria Goncalves de Sousa
 	female = yes
 	dynasty = 773 #de Briteiros
 	religion = catholic
@@ -3816,7 +3816,7 @@
 }
 
 142091 = {
-	name = "Maria" #Maria Gonçalves de Berredo
+	name = "Maria" #Maria Goncalves de Berredo
 	female = yes
 	dynasty = 773 #de Briteiros
 	religion = catholic
@@ -3910,7 +3910,7 @@
 }
 
 142118 = {
-	name = "Fernão" #Fernão Sanches
+	name = "Fernão" #Fernao Sanches
 	dynasty = 741 #de Bourgogne
 	religion = catholic
 	culture = portuguese
@@ -3943,7 +3943,7 @@
 }
 
 142120 = {
-	name = "João" #João Afonso
+	name = "João" #Joao Afonso
 	dynasty = 741 #de Bourgogne
 	religion = catholic
 	culture = portuguese
@@ -4150,7 +4150,7 @@
 }
 
 142150 = {
-	name = "Teresa" #Teresa Álvares de Soverosa
+	name = "Teresa" #Teresa Alvares de Soverosa
 	female = yes
 	#dynasty = #de Soverosa
 	religion = catholic
@@ -4217,7 +4217,7 @@
 }
 
 142428 = {
-	name = "Inês" #Inês Afonso Pimentel
+	name = "Inês" #Ines Afonso Pimentel
 	female = yes
 	#dynasty = #Pimentel
 	religion = catholic
@@ -4231,7 +4231,7 @@
 }
 
 142420 = {
-	name = "Fernão" #Fernão Pires de Barbosa
+	name = "Fernão" #Fernao Pires de Barbosa
 	dynasty = 1020110 #de Barbosa
 	religion = catholic
 	culture = portuguese
@@ -4252,7 +4252,7 @@
 }
 
 142429 = {
-	name = "Estefânia" #Estefânia Gomes Barreto
+	name = "Estefânia" #Estefania Gomes Barreto
 	female = yes
 	#dynasty = #Barreto
 	religion = catholic
@@ -4361,7 +4361,7 @@
 }
 
 142425 = {
-	name = "João" #João Pires de Barbosa
+	name = "João" #Joao Pires de Barbosa
 	dynasty = 1020110 #de Barbosa
 	religion = catholic
 	culture = portuguese
@@ -4410,7 +4410,7 @@
 }
 
 142432 = {
-	name = "Alda" #Alda Lourenço de Berredo
+	name = "Alda" #Alda Lourenco de Berredo
 	female = yes
 	#dynasty = #de Berredo
 	religion = catholic
@@ -4457,8 +4457,8 @@
 }
 
 142140 = {
-	name = "Fernão" #Fernão Mendes de Antas
-	dynasty = 272 #de Bragança
+	name = "Fernão" #Fernao Mendes de Antas
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142587
@@ -4476,7 +4476,7 @@
 
 142141 = {
 	name = "Mem" #Mem Fernandes Antas
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142140
@@ -4493,9 +4493,9 @@
 }
 
 142142 = {
-	name = "Sancha" #Sancha Viegas de Baião
+	name = "Sancha" #Sancha Viegas de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143036
@@ -4509,8 +4509,8 @@
 }
 
 142143 = {
-	name = "Afonso" #Afonso Fernandes Alão
-	dynasty = 272 #de Bragança
+	name = "Afonso" #Afonso Fernandes Alao
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142140
@@ -4525,7 +4525,7 @@
 
 142144 = {
 	name = "Rui" #Rui Mendes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142141
@@ -4541,7 +4541,7 @@
 142145 = {
 	name = "Urraca" #Urraca Mendes
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142141
@@ -4556,7 +4556,7 @@
 
 142146 = {
 	name = "Nuno" #Nuno Mendes de Caria
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142141
@@ -4587,8 +4587,8 @@
 }
 
 142148 = {
-	name = "Fernão" #Fernão Fernandes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Fernão" #Fernao Fernandes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142021
@@ -4602,9 +4602,9 @@
 }
 
 142158 = {
-	name = "Sancha" #Sancha Pires de Baião
+	name = "Sancha" #Sancha Pires de Baiao
 	female = yes
-	#dynasty = #de Baião
+	#dynasty = #de Baiao
 	religion = catholic
 	culture = portuguese
 	1160.1.1 = {
@@ -4616,8 +4616,8 @@
 }
 
 142159 = {
-	name = "Nuno" #Nuno Vasques de Bragança
-	dynasty = 272 #de Bragança
+	name = "Nuno" #Nuno Vasques de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142015
@@ -4634,9 +4634,9 @@
 }
 
 142160 = {
-	name = "Sancha" #Sancha Vasques de Bragança
+	name = "Sancha" #Sancha Vasques de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142015
@@ -4650,9 +4650,9 @@
 }
 
 142161 = {
-	name = "Elvira" #Elvira Vasques de Bragança
+	name = "Elvira" #Elvira Vasques de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142015
@@ -4666,9 +4666,9 @@
 }
 
 142162 = {
-	name = "Maria" #Maria Vasques de Bragança
+	name = "Maria" #Maria Vasques de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142015
@@ -4682,9 +4682,9 @@
 }
 
 142163 = {
-	name = "Rui" #Rui Nunes de Bragança
+	name = "Rui" #Rui Nunes de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	add_trait = bastard
@@ -4765,7 +4765,7 @@
 }
 
 142227 = {
-	name = "João" #João Rodrigues de Briteiros
+	name = "João" #Joao Rodrigues de Briteiros
 	dynasty = 773 #de Briteiros
 	religion = catholic
 	culture = portuguese
@@ -4814,7 +4814,7 @@
 }
 
 142230 = {
-	name = "Lúcia" #Lúcia de Briteiros
+	name = "Lúcia" #Lucia de Briteiros
 	female = yes
 	dynasty = 773 #de Briteiros
 	religion = catholic
@@ -4896,7 +4896,7 @@
 }
 
 142237 = {
-	name = "Branca" #Branca Lourenço de Valadares
+	name = "Branca" #Branca Lourenco de Valadares
 	female = yes
 	dynasty = 1020115 #de Valadares
 	religion = catholic
@@ -4912,7 +4912,7 @@
 }
 
 142234 = {
-	name = "Lourenço" #Lourenço Anes de Briteiros
+	name = "Lourenço" #Lourenco Anes de Briteiros
 	dynasty = 773 #de Briteiros
 	religion = catholic
 	culture = portuguese
@@ -4987,7 +4987,7 @@
 }
 
 142242 = {
-	name = "Mécia" #Mécia de Briteiros
+	name = "Mécia" #Mecia de Briteiros
 	female = yes
 	dynasty = 773 #de Briteiros
 	religion = catholic
@@ -5035,7 +5035,7 @@
 }
 
 142245 = {
-	name = "Lourenço" #Lourenço de Briteiros
+	name = "Lourenço" #Lourenco de Briteiros
 	dynasty = 773 #de Briteiros
 	religion = catholic
 	culture = portuguese
@@ -5330,7 +5330,7 @@
 }
 
 142374 = {
-	name = "Berengária" #Berengária Nunes de Chacim
+	name = "Berengária" #Berengaria Nunes de Chacim
 	female = yes
 	dynasty = 101714 #de Chacim
 	religion = catholic
@@ -5411,9 +5411,9 @@
 }
 
 142382 = {
-	name = "Aldonça" #Aldonça Martins Tavaia
+	name = "Aldonça" #Aldonca Martins Tavaia
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142444
@@ -5442,7 +5442,7 @@
 }
 
 142384 = {
-	name = "Sancha" #Sancha Gil de Bragança
+	name = "Sancha" #Sancha Gil de Braganca
 	female = yes
 	dynasty = 101714 #de Chacim
 	religion = catholic
@@ -5508,7 +5508,7 @@
 }
 
 142388 = {
-	name = "João" #João Rodrigues de Chacim
+	name = "João" #Joao Rodrigues de Chacim
 	dynasty = 101714 #de Chacim
 	religion = catholic
 	culture = portuguese
@@ -5586,7 +5586,7 @@
 }
 
 142217 = {
-	name = "João" #João Pires de Aboim
+	name = "João" #Joao Pires de Aboim
 	dynasty = 1020114 #de Aboim
 	religion = catholic
 	culture = portuguese
@@ -5651,7 +5651,7 @@
 }
 
 142221 = {
-	name = "João" #João Pires de Portel
+	name = "João" #Joao Pires de Portel
 	dynasty = 1020114 #de Portel
 	religion = catholic
 	culture = portuguese
@@ -5680,7 +5680,7 @@
 }
 
 142247 = {
-	name = "Pero" #Pero Fromarigues de Guimarães
+	name = "Pero" #Pero Fromarigues de Guimaraes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -5710,7 +5710,7 @@
 }
 
 142249 = {
-	name = "Fernão" #Fernão Peres de Guimarães
+	name = "Fernão" #Fernao Peres de Guimaraes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -5774,7 +5774,7 @@
 }
 
 142253 = {
-	name = "Paio" #Paio Pires de Guimarães
+	name = "Paio" #Paio Pires de Guimaraes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -5806,7 +5806,7 @@
 }
 
 142255 = {
-	name = "Raimundo" #Raimundo Pais de Guimarães
+	name = "Raimundo" #Raimundo Pais de Guimaraes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -5824,7 +5824,7 @@
 }
 
 142256 = {
-	name = "Dórdia" #Dórdia Afonso de Ribadouro
+	name = "Dórdia" #Dordia Afonso de Ribadouro
 	female = yes
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
@@ -5840,7 +5840,7 @@
 }
 
 142257 = {
-	name = "Soeiro" #Soeiro Raimundes de Guimarães
+	name = "Soeiro" #Soeiro Raimundes de Guimaraes
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -5920,7 +5920,7 @@
 }
 
 142262 = {
-	name = "João" #João Fernandes de Riba Vizela
+	name = "João" #Joao Fernandes de Riba Vizela
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -5955,7 +5955,7 @@
 }
 
 142264 = {
-	name = "Fernão" #Fernão Anes Cheira
+	name = "Fernão" #Fernao Anes Cheira
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -6151,7 +6151,7 @@
 }
 
 142274 = {
-	name = "João" #João Martins de Riba Vizela
+	name = "João" #Joao Martins de Riba Vizela
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -6185,7 +6185,7 @@
 }
 
 142277 = {
-	name = "Constança" #Constança de Riba Vizela
+	name = "Constança" #Constanca de Riba Vizela
 	female = yes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
@@ -6301,7 +6301,7 @@
 }
 
 142284 = {
-	name = "Dórdia" #Dórdia Pais de Azevedo
+	name = "Dórdia" #Dordia Pais de Azevedo
 	female = yes
 	dynasty = 1020128 #de Azevedo
 	religion = catholic
@@ -6352,7 +6352,7 @@
 }
 
 142286 = {
-	name = "Cristina" #Cristina Gonçalves das Astúrias
+	name = "Cristina" #Cristina Goncalves das Asturias
 	female = yes
 	#dynasty = #de Asturias
 	religion = catholic
@@ -6430,7 +6430,7 @@
 }
 
 142290 = {
-	name = "Hermígio" #Hermígio Mendes de Ribadouro
+	name = "Hermígio" #Hermigio Mendes de Ribadouro
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
 	culture = portuguese
@@ -6466,9 +6466,9 @@
 }
 
 142292 = {
-	name = "Elvira" #Elvira Dias de Urrô
+	name = "Elvira" #Elvira Dias de Urro
 	female = yes
-	#dynasty = #de Urrô
+	#dynasty = #de Urro
 	religion = catholic
 	culture = portuguese
 	1131.1.1 = {
@@ -6480,7 +6480,7 @@
 }
 
 142293 = {
-	name = "Lourenço" #Lourenço Viegas
+	name = "Lourenço" #Lourenco Viegas
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
 	culture = portuguese
@@ -6579,9 +6579,9 @@
 }
 
 142417 = {
-	name = "Sancha" #Sancha Pais de Toroño
+	name = "Sancha" #Sancha Pais de Torono
 	female = yes
-	#dynasty = #de Toroño
+	#dynasty = #de Torono
 	religion = catholic
 	culture = portuguese
 	1140.1.1 = {
@@ -6639,7 +6639,7 @@
 }
 
 142300 = {
-	name = "Hermígio" #Hermígio Viegas
+	name = "Hermígio" #Hermigio Viegas
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
 	culture = portuguese
@@ -6654,7 +6654,7 @@
 }
 
 142169 = {
-	name = "Dórdia" #Dórdia Viegas
+	name = "Dórdia" #Dordia Viegas
 	female = yes
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
@@ -6714,7 +6714,7 @@
 	1170.1.1 = {
 		birth = yes
 	}
-	#João Fernandes de Lima
+	#Joao Fernandes de Lima
 	1258.1.1 = {
 		death = yes
 	}
@@ -6772,7 +6772,7 @@
 }
 
 142166 = {
-	name = "Gontinha" #Gontinha Gonçalves da Maia
+	name = "Gontinha" #Gontinha Goncalves da Maia
 	female = yes
 	#dynasty = #da Maia
 	religion = catholic
@@ -6899,7 +6899,7 @@
 }
 
 142170 = {
-	name = "Fernando" #Fernando Gonçalves de Sousa
+	name = "Fernando" #Fernando Goncalves de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -6914,7 +6914,7 @@
 }
 
 142176 = {
-	name = "Teresa" #Teresa Gonçalves de Sousa
+	name = "Teresa" #Teresa Goncalves de Sousa
 	female = yes
 	dynasty = 770 #de Sousa
 	religion = catholic
@@ -6930,7 +6930,7 @@
 }
 
 142177 = {
-	name = "Elvira" #Elvira Gonçalves de Sousa
+	name = "Elvira" #Elvira Goncalves de Sousa
 	female = yes
 	dynasty = 770 #de Sousa
 	religion = catholic
@@ -6960,7 +6960,7 @@
 }
 
 142180 = {
-	name = "Elvira" #Elvira Gonçalves
+	name = "Elvira" #Elvira Goncalves
 	female = yes
 	#dynasty = #de Soverosa
 	religion = catholic
@@ -6989,7 +6989,7 @@
 }
 
 142182 = {
-	name = "Gonçalo" #Gonçalo Mendes de Sousa
+	name = "Gonçalo" #Goncalo Mendes de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -7007,7 +7007,7 @@
 }
 
 142319 = {
-	name = "Mem" #Mem Gonçalves de Sousa
+	name = "Mem" #Mem Goncalves de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -7041,7 +7041,7 @@
 }
 
 142320 = {
-	name = "Maria" #Maria Gonçalves de Sousa
+	name = "Maria" #Maria Goncalves de Sousa
 	female = yes
 	dynasty = 770 #de Sousa
 	religion = catholic
@@ -7057,7 +7057,7 @@
 }
 
 142321 = {
-	name = "Sancha" #Sancha Gonçalves de Sousa
+	name = "Sancha" #Sancha Goncalves de Sousa
 	female = yes
 	dynasty = 770 #de Sousa
 	religion = catholic
@@ -7073,7 +7073,7 @@
 }
 
 142322 = {
-	name = "Mor" #Mor Gonçalves de Sousa
+	name = "Mor" #Mor Goncalves de Sousa
 	female = yes
 	dynasty = 770 #de Sousa
 	religion = catholic
@@ -7200,7 +7200,7 @@
 }
 
 142190 = {
-	name = "Fernão" #Fernão Garcia de Sousa
+	name = "Fernão" #Fernao Garcia de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -7230,7 +7230,7 @@
 }
 
 142192 = {
-	name = "Fernão" #Fernão Lopes de Sousa
+	name = "Fernão" #Fernao Lopes de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -7245,9 +7245,9 @@
 }
 
 142193 = {
-	name = "Elvira" #Elvira Gonçalves de Toroño
+	name = "Elvira" #Elvira Goncalves de Torono
 	female = yes
-	#dynasty = #de Toroño
+	#dynasty = #de Torono
 	religion = catholic
 	culture = castilian
 	1180.1.1 = {
@@ -7260,7 +7260,7 @@
 }
 
 142195 = {
-	name = "João" #João Garcia de Sousa
+	name = "João" #Joao Garcia de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -7278,7 +7278,7 @@
 }
 
 142196 = {
-	name = "Fernão" #Fernão Garcia de Sousa
+	name = "Fernão" #Fernao Garcia de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -7422,7 +7422,7 @@
 }
 
 142208 = {
-	name = "Constança" #Constança Mendes de Sousa
+	name = "Constança" #Constanca Mendes de Sousa
 	female = yes
 	dynasty = 770 #de Sousa
 	religion = catholic
@@ -7511,7 +7511,7 @@
 }
 
 142394 = {
-	name = "Sancha" #Sancha Gonçalves de Orvaneja
+	name = "Sancha" #Sancha Goncalves de Orvaneja
 	female = yes
 	#dynasty = #de Orvaneja
 	religion = catholic
@@ -7559,7 +7559,7 @@
 }
 
 142398 = {
-	name = "Fernão" #Fernão Gil de Soverosa
+	name = "Fernão" #Fernao Gil de Soverosa
 	dynasty = 1020120 #de Soverosa
 	religion = catholic
 	culture = portuguese
@@ -7641,7 +7641,7 @@
 }
 
 142399 = {
-	name = "Aldonça" #Aldonça Anes da Maia
+	name = "Aldonça" #Aldonca Anes da Maia
 	female = yes
 	#dynasty = #da Maia
 	religion = catholic
@@ -7702,7 +7702,7 @@
 }
 
 142407 = {
-	name = "Aldonça" #Aldonça Vasques de Soverosa
+	name = "Aldonça" #Aldonca Vasques de Soverosa
 	female = yes
 	dynasty = 1020120 #de Soverosa
 	religion = catholic
@@ -7733,7 +7733,7 @@
 }
 
 142409 = {
-	name = "João" #João Gil de Soverosa
+	name = "João" #Joao Gil de Soverosa
 	dynasty = 1020120 #de Soverosa
 	religion = catholic
 	culture = portuguese
@@ -7751,7 +7751,7 @@
 }
 
 142410 = {
-	name = "Gonçalo" #Gonçalo Gil de Soverosa
+	name = "Gonçalo" #Goncalo Gil de Soverosa
 	dynasty = 1020120 #de Soverosa
 	religion = catholic
 	culture = portuguese
@@ -7782,7 +7782,7 @@
 }
 
 142412 = {
-	name = "Dórdia" #Dórdia Gil de Soverosa
+	name = "Dórdia" #Dordia Gil de Soverosa
 	female = yes
 	dynasty = 1020120 #de Soverosa
 	religion = catholic
@@ -7877,7 +7877,7 @@
 }
 
 142331 = {
-	name = "João" #João Aires de Valadares
+	name = "João" #Joao Aires de Valadares
 	dynasty = 1020115 #de Valadares
 	religion = catholic
 	culture = portuguese
@@ -7941,9 +7941,9 @@
 }
 
 142335 = {
-	name = "Mor" #Mor Pais de Bravães
+	name = "Mor" #Mor Pais de Bravaes
 	female = yes
-	#dynasty = #de Bravães
+	#dynasty = #de Bravaes
 	religion = catholic
 	culture = portuguese
 	1151.1.1 = {
@@ -7989,7 +7989,7 @@
 }
 
 142338 = {
-	name = "Lourenço" #Lourenço Soares de Valadares
+	name = "Lourenço" #Lourenco Soares de Valadares
 	dynasty = 1020115 #de Valadares
 	religion = catholic
 	culture = portuguese
@@ -8019,7 +8019,7 @@
 }
 
 142340 = {
-	name = "Lourenço" #Lourenço Pais de Valadares
+	name = "Lourenço" #Lourenco Pais de Valadares
 	dynasty = 1020115 #de Valadares
 	religion = catholic
 	culture = portuguese
@@ -8105,9 +8105,9 @@
 }
 
 142345 = {
-	name = "Estevainha" #Estevainha Ponces de Baião
+	name = "Estevainha" #Estevainha Ponces de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142559
@@ -8135,9 +8135,9 @@
 }
 
 142347 = {
-	name = "Maria" #Maria Gil Feijó
+	name = "Maria" #Maria Gil Feijo
 	female = yes
-	#dynasty = #Feijó
+	#dynasty = #Feijo
 	religion = catholic
 	culture = portuguese
 	1210.1.1 = {
@@ -8212,7 +8212,7 @@
 }
 
 142350 = {
-	name = "Fruilhe" #Fruilhe Lourenço de Valadares
+	name = "Fruilhe" #Fruilhe Lourenco de Valadares
 	female = yes
 	dynasty = 1020115 #de Valadares
 	religion = catholic
@@ -8228,7 +8228,7 @@
 }
 
 142354 = {
-	name = "Berengária" #Berengária Lourenço de Valadares
+	name = "Berengária" #Berengaria Lourenco de Valadares
 	female = yes
 	dynasty = 1020115 #de Valadares
 	religion = catholic
@@ -8244,7 +8244,7 @@
 }
 
 142355 = {
-	name = "Aldonça" #Aldonça Lourenço de Valadares
+	name = "Aldonça" #Aldonca Lourenco de Valadares
 	female = yes
 	dynasty = 1020115 #de Valadares
 	religion = catholic
@@ -8260,7 +8260,7 @@
 }
 
 142356 = {
-	name = "Joana" #Joana Lourenço de Valadares
+	name = "Joana" #Joana Lourenco de Valadares
 	female = yes
 	dynasty = 1020115 #de Valadares
 	religion = catholic
@@ -8276,7 +8276,7 @@
 }
 
 142357 = {
-	name = "Constança" #Constança Lourenço de Valadares
+	name = "Constança" #Constanca Lourenco de Valadares
 	female = yes
 	dynasty = 1020115 #de Valadares
 	religion = catholic
@@ -8292,7 +8292,7 @@
 }
 
 142358 = {
-	name = "Beatriz" #Beatriz Lourenço de Valadares
+	name = "Beatriz" #Beatriz Lourenco de Valadares
 	female = yes
 	dynasty = 1020115 #de Valadares
 	religion = catholic
@@ -8308,7 +8308,7 @@
 }
 
 142359 = {
-	name = "Guiomar" #Guiomar Lourenço de Valadares
+	name = "Guiomar" #Guiomar Lourenco de Valadares
 	female = yes
 	dynasty = 1020115 #de Valadares
 	religion = catholic
@@ -8324,9 +8324,9 @@
 }
 
 209541 = {
-	name = "Maria" #Maria Fogaça
+	name = "Maria" #Maria Fogaca
 	female = yes
-	#dynasty = 270 #Fogaça
+	#dynasty = 270 #Fogaca
 	religion = catholic
 	culture = portuguese
 	1160.1.1 = {
@@ -8372,7 +8372,7 @@
 }
 
 142310 = {
-	name = "João" #João Afonso de Menezes
+	name = "João" #Joao Afonso de Menezes
 	dynasty = 400 #de Menezes
 	religion = catholic
 	culture = portuguese
@@ -8408,7 +8408,7 @@
 }
 
 142205 = {
-	name = "Gonçalo" #Gonçalo Mendes de Sousa
+	name = "Gonçalo" #Goncalo Mendes de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -8423,7 +8423,7 @@
 }
 
 142206 = {
-	name = "João" #João Mendes de Sousa
+	name = "João" #Joao Mendes de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -8454,7 +8454,7 @@
 }
 
 142348 = {
-	name = "Lourenço" #Lourenço Soares de Valadares
+	name = "Lourenço" #Lourenco Soares de Valadares
 	dynasty = 1020115 #de Valadares
 	religion = catholic
 	culture = portuguese
@@ -8617,7 +8617,7 @@
 }
 
 142097 = {
-	name = "Fernão" #Fernão Sanches
+	name = "Fernão" #Fernao Sanches
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -8632,7 +8632,7 @@
 }
 
 142102 = {
-	name = "João" #João Gonçalves de Sousa
+	name = "João" #Joao Goncalves de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -8647,7 +8647,7 @@
 }
 
 142103 = {
-	name = "Gonçalo" #Gonçalo Garcia de Sousa
+	name = "Gonçalo" #Goncalo Garcia de Sousa
 	dynasty = 770 #de Sousa
 	religion = catholic
 	culture = portuguese
@@ -8677,7 +8677,7 @@
 }
 
 142105 = {
-	name = "Constança" #Constança Anes de Sousa
+	name = "Constança" #Constanca Anes de Sousa
 	female = yes
 	dynasty = 770 #de Sousa
 	religion = catholic
@@ -8693,7 +8693,7 @@
 }
 
 142124 = {
-	name = "Guiomar" #Guiomar Gonçalves de Sousa
+	name = "Guiomar" #Guiomar Goncalves de Sousa
 	female = yes
 	dynasty = 770 #de Sousa
 	religion = catholic
@@ -8849,8 +8849,8 @@
 }
 
 142441 = {
-	name = "Pero" #Pero Garcia de Bragança
-	dynasty = 272 #de Bragança
+	name = "Pero" #Pero Garcia de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142013
@@ -8867,9 +8867,9 @@
 }
 
 142442 = {
-	name = "Mor" #Mor Garcia de Bragança
+	name = "Mor" #Mor Garcia de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142013
@@ -8898,7 +8898,7 @@
 
 142444 = {
 	name = "Martim" #Martim Pires Tavaia
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	add_trait = bastard
@@ -8916,7 +8916,7 @@
 }
 
 142445 = {
-	name = "Aldonça" #Aldonça Pais Marinho
+	name = "Aldonça" #Aldonca Pais Marinho
 	female = yes
 	#dynasty = #Marinho
 	religion = catholic
@@ -8930,9 +8930,9 @@
 }
 
 142447 = {
-	name = "Teresa" #Teresa Pires de Bragança
+	name = "Teresa" #Teresa Pires de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142441
@@ -8940,15 +8940,15 @@
 	1195.1.1 = {
 		birth = yes
 	}
-	#João Martins da Maia
+	#Joao Martins da Maia
 	1270.1.1 = {
 		death = yes
 	}
 }
 
 142448 = {
-	name = "Garcia" #Garcia Pires de Bragança
-	dynasty = 272 #de Bragança
+	name = "Garcia" #Garcia Pires de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142441
@@ -8962,8 +8962,8 @@
 }
 
 142446 = {
-	name = "Fernão" #Fernão Garcia de Bragança
-	dynasty = 272 #de Bragança
+	name = "Fernão" #Fernao Garcia de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142013
@@ -8977,8 +8977,8 @@
 }
 
 142449 = {
-	name = "Pero" #Pero Fernandes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Pero" #Pero Fernandes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	add_trait = bastard
@@ -8992,9 +8992,9 @@
 }
 
 142450 = {
-	name = "Teresa" #Teresa Garcia de Bragança
+	name = "Teresa" #Teresa Garcia de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142013
@@ -9008,9 +9008,9 @@
 }
 
 142451 = {
-	name = "Elvira" #Elvira Garcia de Bragança
+	name = "Elvira" #Elvira Garcia de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142013
@@ -9038,8 +9038,8 @@
 }
 
 142453 = {
-	name = "Fernão" #Fernão Fernandes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Fernão" #Fernao Fernandes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142014
@@ -9070,7 +9070,7 @@
 }
 
 142455 = {
-	name = "Urraca" #Urraca Pires de Nóvoa
+	name = "Urraca" #Urraca Pires de Novoa
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -9084,9 +9084,9 @@
 }
 
 142456 = {
-	name = "Urraca" #Urraca Nunes de Bragança
+	name = "Urraca" #Urraca Nunes de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142159
@@ -9100,8 +9100,8 @@
 }
 
 142457 = {
-	name = "Gonçalo" #Gonçalo Nunes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Gonçalo" #Goncalo Nunes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142159
@@ -9115,9 +9115,9 @@
 }
 
 142458 = {
-	name = "Urraca" #Urraca Nunes de Bragança
+	name = "Urraca" #Urraca Nunes de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142146
@@ -9146,7 +9146,7 @@
 }
 
 142460 = {
-	name = "Gonçalo" #Gonçalo Trastamires da Maia
+	name = "Gonçalo" #Goncalo Trastamires da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9178,7 +9178,7 @@
 }
 
 142462 = {
-	name = "Mendo" #Mendo Gonçalves da Maia
+	name = "Mendo" #Mendo Goncalves da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9196,7 +9196,7 @@
 }
 
 142463 = {
-	name = "Ermesinda" #Ermesinda Gonçalves da Maia
+	name = "Ermesinda" #Ermesinda Goncalves da Maia
 	female = yes
 	dynasty = 1020121 #da Maia
 	religion = catholic
@@ -9212,7 +9212,7 @@
 }
 
 142464 = {
-	name = "Ledegúndia" #Ledegúndia Soares Tainha
+	name = "Ledegúndia" #Ledegundia Soares Tainha
 	female = yes
 	#dynasty = #Tainha
 	religion = catholic
@@ -9258,7 +9258,7 @@
 }
 
 142466 = {
-	name = "Gonçalo" #Gonçalo Mendes da Maia
+	name = "Gonçalo" #Goncalo Mendes da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9305,7 +9305,7 @@
 }
 
 142470 = {
-	name = "Moninha" #Moninha Gonçalves da Maia
+	name = "Moninha" #Moninha Goncalves da Maia
 	female = yes
 	dynasty = 1020121 #da Maia
 	religion = catholic
@@ -9436,7 +9436,7 @@
 }
 
 142478 = {
-	name = "João" #João Pires da Maia
+	name = "João" #Joao Pires da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9602,7 +9602,7 @@
 }
 
 142488 = {
-	name = "João" #João Soares de Gaia
+	name = "João" #Joao Soares de Gaia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9620,7 +9620,7 @@
 }
 
 142489 = {
-	name = "Fernão" #Fernão Soares da Maia
+	name = "Fernão" #Fernao Soares da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9682,7 +9682,7 @@
 }
 
 142493 = {
-	name = "João" #João Martins da Maia
+	name = "João" #Joao Martins da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9715,7 +9715,7 @@
 }
 
 143070 = {
-	name = "Aldonça" #Aldonça Anes da Maia
+	name = "Aldonça" #Aldonca Anes da Maia
 	female = yes
 	dynasty = 1020121 #da Maia
 	religion = catholic
@@ -9731,7 +9731,7 @@
 }
 
 142494 = {
-	name = "Estêvão" #Estêvão Martins da Maia
+	name = "Estêvão" #Estevao Martins da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9762,7 +9762,7 @@
 }
 
 142495 = {
-	name = "Fernão" #Fernão Martins da Maia
+	name = "Fernão" #Fernao Martins da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9856,7 +9856,7 @@
 }
 
 142502 = {
-	name = "Estêvão" #Estêvão Moniz da Maia
+	name = "Estêvão" #Estevao Moniz da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9888,7 +9888,7 @@
 }
 
 142503 = {
-	name = "Gonçalo" #Gonçalo Moniz da Maia
+	name = "Gonçalo" #Goncalo Moniz da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9955,7 +9955,7 @@
 }
 
 142508 = {
-	name = "Estêvão" #Estêvão Rodrigues da Maia
+	name = "Estêvão" #Estevao Rodrigues da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -9974,7 +9974,7 @@
 }
 
 142509 = {
-	name = "Gonçalo" #Gonçalo Rodrigues da Maia
+	name = "Gonçalo" #Goncalo Rodrigues da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -10007,7 +10007,7 @@
 }
 
 142511 = {
-	name = "Maria" #Maria Lourenço
+	name = "Maria" #Maria Lourenco
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -10021,7 +10021,7 @@
 }
 
 142512 = {
-	name = "Estêvão" #Estêvão Rodrigues da Maia
+	name = "Estêvão" #Estevao Rodrigues da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -10082,7 +10082,7 @@
 }
 
 142516 = {
-	name = "Durão" #Durão Martins de Canelas
+	name = "Durão" #Durao Martins de Canelas
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -10194,7 +10194,7 @@
 }
 
 142523 = {
-	name = "Inês" #Inês Martins de Canelas
+	name = "Inês" #Ines Martins de Canelas
 	female = yes
 	dynasty = 1020121 #da Maia
 	religion = catholic
@@ -10332,7 +10332,7 @@
 }
 
 142532 = {
-	name = "João" #João Anes de Gaia
+	name = "João" #Joao Anes de Gaia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -10379,7 +10379,7 @@
 }
 
 142535 = {
-	name = "Estêvão" #Estêvão Anes de Gaia
+	name = "Estêvão" #Estevao Anes de Gaia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -10412,7 +10412,7 @@
 }
 
 142537 = {
-	name = "João" #João Esteves de Gaia
+	name = "João" #Joao Esteves de Gaia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -10441,7 +10441,7 @@
 }
 
 142539 = {
-	name = "Estêvão" #Estêvão Martins de Gaia
+	name = "Estêvão" #Estevao Martins de Gaia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -10488,7 +10488,7 @@
 }
 
 142541 = {
-	name = "João" #João Martins de Gaia
+	name = "João" #Joao Martins de Gaia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -10533,7 +10533,7 @@
 }
 
 142545 = {
-	name = "João" #João Esteves de Gaia
+	name = "João" #Joao Esteves de Gaia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -10551,9 +10551,9 @@
 }
 
 142546 = {
-	name = "Sancha" #Sancha Martins Alão
+	name = "Sancha" #Sancha Martins Alao
 	female = yes
-	#dynasty = #Alão
+	#dynasty = #Alao
 	religion = catholic
 	culture = portuguese
 	1314.1.1 = {
@@ -10565,8 +10565,8 @@
 }
 
 142547 = {
-	name = "Afonso" #Afonso Hermiges de Baião
-	dynasty = 1020122 #de Baião
+	name = "Afonso" #Afonso Hermiges de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143031
@@ -10586,8 +10586,8 @@
 }
 
 142548 = {
-	name = "Lopo" #Lopo Afonso de Baião
-	dynasty = 1020122 #de Baião
+	name = "Lopo" #Lopo Afonso de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142547
@@ -10620,8 +10620,8 @@
 }
 
 142550 = {
-	name = "Afonso" #Afonso Lopes de Baião
-	dynasty = 1020122 #de Baião
+	name = "Afonso" #Afonso Lopes de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142548
@@ -10638,8 +10638,8 @@
 }
 
 142551 = {
-	name = "Fernão" #Fernão Lopes de Baião
-	dynasty = 1020122 #de Baião
+	name = "Fernão" #Fernao Lopes de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142548
@@ -10653,8 +10653,8 @@
 }
 
 142552 = {
-	name = "Diogo" #Diogo Lopes de Baião
-	dynasty = 1020122 #de Baião
+	name = "Diogo" #Diogo Lopes de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142548
@@ -10685,8 +10685,8 @@
 }
 
 142554 = {
-	name = "Afonso" #Afonso Dias de Baião
-	dynasty = 1020122 #de Baião
+	name = "Afonso" #Afonso Dias de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	add_trait = bastard
@@ -10703,7 +10703,7 @@
 }
 
 142555 = {
-	name = "Maria" #Maria de Santarém
+	name = "Maria" #Maria de Santarem
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -10717,9 +10717,9 @@
 }
 
 142556 = {
-	name = "Beatriz" #Beatriz Afonso de Baião
+	name = "Beatriz" #Beatriz Afonso de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142554
@@ -10733,9 +10733,9 @@
 }
 
 142557 = {
-	name = "Guiomar" #Guiomar Dias de Baião
+	name = "Guiomar" #Guiomar Dias de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	add_trait = bastard
@@ -10749,9 +10749,9 @@
 }
 
 142558 = {
-	name = "Sancha" #Sancha Lopes de Baião
+	name = "Sancha" #Sancha Lopes de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142548
@@ -10765,8 +10765,8 @@
 }
 
 142559 = {
-	name = "Ponço" #Ponço Afonso de Baião
-	dynasty = 1020122 #de Baião
+	name = "Ponço" #Ponco Afonso de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142547
@@ -10799,8 +10799,8 @@
 }
 
 142561 = {
-	name = "Pero" #Pero Ponces de Baião
-	dynasty = 1020122 #de Baião
+	name = "Pero" #Pero Ponces de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142559
@@ -10817,9 +10817,9 @@
 }
 
 142562 = {
-	name = "Maria" #Maria Ponces de Baião
+	name = "Maria" #Maria Ponces de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142559
@@ -10833,9 +10833,9 @@
 }
 
 142563 = {
-	name = "Sancha" #Sancha Ponces de Baião
+	name = "Sancha" #Sancha Ponces de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142559
@@ -10849,9 +10849,9 @@
 }
 
 142564 = {
-	name = "Berengária" #Berengária Afonso de Baião
+	name = "Berengária" #Berengaria Afonso de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142547
@@ -10865,9 +10865,9 @@
 }
 
 142565 = {
-	name = "Sancha" #Sancha Afonso de Baião
+	name = "Sancha" #Sancha Afonso de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142547
@@ -10881,8 +10881,8 @@
 }
 
 142566 = {
-	name = "Pero" #Pero Afonso de Baião
-	dynasty = 1020122 #de Baião
+	name = "Pero" #Pero Afonso de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142547
@@ -10913,9 +10913,9 @@
 }
 
 142568 = {
-	name = "Teresa" #Teresa Pires de Baião
+	name = "Teresa" #Teresa Pires de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142566
@@ -10929,8 +10929,8 @@
 }
 
 142569 = {
-	name = "Rodrigo" #Rodrigo Afonso de Baião
-	dynasty = 1020122 #de Baião
+	name = "Rodrigo" #Rodrigo Afonso de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142547
@@ -10961,9 +10961,9 @@
 }
 
 142571 = {
-	name = "Maria" #Maria Rodrigues de Baião
+	name = "Maria" #Maria Rodrigues de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142569
@@ -10977,8 +10977,8 @@
 }
 
 142572 = {
-	name = "Afonso" #Afonso Rodrigues de Baião
-	dynasty = 1020122 #de Baião
+	name = "Afonso" #Afonso Rodrigues de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142569
@@ -11010,7 +11010,7 @@
 
 142574 = {
 	name = "Martim" #Martim Afonso de Resende
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142572
@@ -11034,7 +11034,7 @@
 
 142575 = {
 	name = "Rodrigo" #Rodrigo Afonso de Resende
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142572
@@ -11049,7 +11049,7 @@
 
 142576 = {
 	name = "Geraldo" #Geraldo Afonso de Resende
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142572
@@ -11084,7 +11084,7 @@
 142579 = {
 	name = "Guiomar" #Guiomar Afonso de Resende
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142575
@@ -11099,7 +11099,7 @@
 
 142577 = {
 	name = "Álvaro" #Álvaro Afonso de Resende
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142572
@@ -11113,7 +11113,7 @@
 }
 
 142580 = {
-	name = "Constança" #Constança Rodrigues de Meira
+	name = "Constança" #Constanca Rodrigues de Meira
 	female = yes
 	#dynasty = #de Meira
 	religion = catholic
@@ -11143,9 +11143,9 @@
 }
 
 142582 = {
-	name = "Maria" #Maria Rodrigues de Nomães
+	name = "Maria" #Maria Rodrigues de Nomaes
 	female = yes
-	#dynasty = #de Nomães
+	#dynasty = #de Nomaes
 	religion = catholic
 	culture = portuguese
 	1256.1.1 = {
@@ -11157,9 +11157,9 @@
 }
 
 142583 = {
-	name = "Constança" #Constança Martins de Resende
+	name = "Constança" #Constanca Martins de Resende
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142574
@@ -11175,7 +11175,7 @@
 142584 = {
 	name = "Guiomar" #Guiomar Martins de Resende
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142574
@@ -11189,9 +11189,9 @@
 }
 
 142585 = {
-	name = "Aldonça" #Aldonça Martins de Resende
+	name = "Aldonça" #Aldonca Martins de Resende
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142574
@@ -11207,7 +11207,7 @@
 142586 = {
 	name = "Mor" #Mor Martins de Resende
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 142574
@@ -11235,8 +11235,8 @@
 }
 
 142587 = {
-	name = "Mendo" #Mendo Alão de Bragança
-	dynasty = 272 #de Bragança
+	name = "Mendo" #Mendo Alao de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	1000.1.1 = {
@@ -11251,9 +11251,9 @@
 }
 
 142590 = {
-	name = "Ouroana" #Ouroana de Bragança
+	name = "Ouroana" #Ouroana de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142587
@@ -11267,7 +11267,7 @@
 }
 
 142591 = {
-	name = "Dórdia" #Dórdia Mendes de Ribadouro
+	name = "Dórdia" #Dordia Mendes de Ribadouro
 	female = yes
 	#dynasty = 1020111 #de Ribadouro
 	religion = catholic
@@ -11281,8 +11281,8 @@
 }
 
 142592 = {
-	name = "Mendo" #Mendo Nunes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Mendo" #Mendo Nunes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142146
@@ -11296,8 +11296,8 @@
 }
 
 142593 = {
-	name = "Sancho" #Sancho Nunes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Sancho" #Sancho Nunes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142146
@@ -11311,9 +11311,9 @@
 }
 
 142594 = {
-	name = "Teresa" #Teresa Nunes de Bragança
+	name = "Teresa" #Teresa Nunes de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142146
@@ -11327,8 +11327,8 @@
 }
 
 142595 = {
-	name = "Mendo" #Mendo Mendes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Mendo" #Mendo Mendes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142141
@@ -11345,8 +11345,8 @@
 }
 
 142596 = {
-	name = "Pôncio" #Pôncio Mendes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Pôncio" #Poncio Mendes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142595
@@ -11363,7 +11363,7 @@
 }
 
 142597 = {
-	name = "Maria" #Maria de Bragança
+	name = "Maria" #Maria de Braganca
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -11377,8 +11377,8 @@
 }
 
 142598 = {
-	name = "Pôncio" #Pôncio Ponces de Bragança
-	dynasty = 272 #de Bragança
+	name = "Pôncio" #Poncio Ponces de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142596
@@ -11392,9 +11392,9 @@
 }
 
 142599 = {
-	name = "Gontroda" #Gontrode Mendes de Bragança
+	name = "Gontroda" #Gontrode Mendes de Braganca
 	female = yes
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142595
@@ -11408,8 +11408,8 @@
 }
 
 142600 = {
-	name = "João" #João Vasques de Bragança
-	dynasty = 272 #de Bragança
+	name = "João" #Joao Vasques de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	add_trait = bastard
@@ -11426,7 +11426,7 @@
 }
 
 142603 = {
-	name = "Maria" #Maria de Bragança
+	name = "Maria" #Maria de Braganca
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -11440,8 +11440,8 @@
 }
 
 142601 = {
-	name = "Estêvão" #Estêvão Vasques de Bragança
-	dynasty = 272 #de Bragança
+	name = "Estêvão" #Estevao Vasques de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	add_trait = bastard
@@ -11456,7 +11456,7 @@
 
 142602 = {
 	name = "Rui" #Rui de Antas
-	dynasty = 272 #de Bragança
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	add_trait = bastard
@@ -11473,8 +11473,8 @@
 }
 
 142606 = {
-	name = "Estêvão" #Estêvão Anes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Estêvão" #Estevao Anes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142600
@@ -11491,7 +11491,7 @@
 }
 
 142604 = {
-	name = "Maria" #Maria de Bragança
+	name = "Maria" #Maria de Braganca
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -11519,8 +11519,8 @@
 }
 
 142613 = {
-	name = "Estêvão" #Estêvão Rodrigues de Antas
-	dynasty = 272 #de Bragança
+	name = "Estêvão" #Estevao Rodrigues de Antas
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142602
@@ -11534,8 +11534,8 @@
 }
 
 142614 = {
-	name = "Fernão" #Fernão Rodrigues de Antas
-	dynasty = 272 #de Bragança
+	name = "Fernão" #Fernao Rodrigues de Antas
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142602
@@ -11549,8 +11549,8 @@
 }
 
 142607 = {
-	name = "Mendo" #Mendo Esteves de Bragança
-	dynasty = 272 #de Bragança
+	name = "Mendo" #Mendo Esteves de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142606
@@ -11567,8 +11567,8 @@
 }
 
 142608 = {
-	name = "Gonçalo" #Gonçalo Esteves de Bragança
-	dynasty = 272 #de Bragança
+	name = "Gonçalo" #Goncalo Esteves de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142606
@@ -11585,7 +11585,7 @@
 }
 
 142610 = {
-	name = "Inês" #Inês Rodrigues de Moraes
+	name = "Inês" #Ines Rodrigues de Moraes
 	female = yes
 	#dynasty = #de Moraes
 	religion = catholic
@@ -11613,8 +11613,8 @@
 }
 
 142611 = {
-	name = "João" #João Mendes de Bragança
-	dynasty = 272 #de Bragança
+	name = "João" #Joao Mendes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142607
@@ -11628,8 +11628,8 @@
 }
 
 142612 = {
-	name = "Álvaro" #Álvaro Mendes de Bragança
-	dynasty = 272 #de Bragança
+	name = "Álvaro" #Álvaro Mendes de Braganca
+	dynasty = 272 #de Braganca
 	religion = catholic
 	culture = portuguese
 	father = 142607
@@ -11657,7 +11657,7 @@
 }
 
 142616 = {
-	name = "Lourenço" #Lourenço Viegas de Alvarenga
+	name = "Lourenço" #Lourenco Viegas de Alvarenga
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
 	culture = portuguese
@@ -11689,7 +11689,7 @@
 }
 
 142618 = {
-	name = "Gomes" #Gomes Lourenço de Alvarenga
+	name = "Gomes" #Gomes Lourenco de Alvarenga
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
 	culture = portuguese
@@ -11704,7 +11704,7 @@
 }
 
 142619 = {
-	name = "Sancha" #Sancha Lourenço de Alvarenga
+	name = "Sancha" #Sancha Lourenco de Alvarenga
 	female = yes
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
@@ -11720,7 +11720,7 @@
 }
 
 142620 = {
-	name = "Fernão" #Fernão Lourenço de Alvarenga
+	name = "Fernão" #Fernao Lourenco de Alvarenga
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
 	culture = portuguese
@@ -11801,7 +11801,7 @@
 }
 
 142625 = {
-	name = "Sancha" #Sancha Gonçalves Correia
+	name = "Sancha" #Sancha Goncalves Correia
 	female = yes
 	#dynasty = #Correia
 	religion = catholic
@@ -11815,7 +11815,7 @@
 }
 
 142626 = {
-	name = "Fernão" #Fernão Gomes de Alvarenga
+	name = "Fernão" #Fernao Gomes de Alvarenga
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
 	culture = portuguese
@@ -11846,7 +11846,7 @@
 }
 
 142628 = {
-	name = "Fernão" #Fernão Pires de Alvarenga
+	name = "Fernão" #Fernao Pires de Alvarenga
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
 	culture = portuguese
@@ -11876,7 +11876,7 @@
 }
 
 142630 = {
-	name = "Estêvão" #Estêvão Pires de Alvarenga
+	name = "Estêvão" #Estevao Pires de Alvarenga
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
 	culture = portuguese
@@ -11939,7 +11939,7 @@
 }
 
 142634 = {
-	name = "Lourenço" #Lourenço Pais de Alvarenga
+	name = "Lourenço" #Lourenco Pais de Alvarenga
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
 	culture = portuguese
@@ -11971,7 +11971,7 @@
 }
 
 142636 = {
-	name = "Fruilhe" #Fruilhe Lourenço de Alvarenga
+	name = "Fruilhe" #Fruilhe Lourenco de Alvarenga
 	female = yes
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
@@ -12021,7 +12021,7 @@
 }
 
 142638 = {
-	name = "Inês" #Inês Pais de Valadares
+	name = "Inês" #Ines Pais de Valadares
 	female = yes
 	#dynasty = 1020115 #de Valadares
 	religion = catholic
@@ -12053,9 +12053,9 @@
 }
 
 142645 = {
-	name = "Joana" #Joana Rodrigues de Nomães
+	name = "Joana" #Joana Rodrigues de Nomaes
 	female = yes
-	#dynasty = #de Nomães
+	#dynasty = #de Nomaes
 	religion = catholic
 	culture = portuguese
 	1280.1.1 = {
@@ -12097,7 +12097,7 @@
 }
 
 142643 = {
-	name = "Inês" #Inês Martins de Alvarenga
+	name = "Inês" #Ines Martins de Alvarenga
 	female = yes
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
@@ -12113,7 +12113,7 @@
 }
 
 142644 = {
-	name = "Aldonça" #Aldonça Martins de Alvarenga
+	name = "Aldonça" #Aldonca Martins de Alvarenga
 	female = yes
 	dynasty = 1020123 #de Alvarenga
 	religion = catholic
@@ -12129,7 +12129,7 @@
 }
 
 142646 = {
-	name = "Egas" #Egas Lourenço Coelho
+	name = "Egas" #Egas Lourenco Coelho
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12211,7 +12211,7 @@
 }
 
 142651 = {
-	name = "Teresa" #Teresa Gonçalves de Mós
+	name = "Teresa" #Teresa Goncalves de Mos
 	female = yes
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
@@ -12243,7 +12243,7 @@
 }
 
 142653 = {
-	name = "Gonçalo" #Gonçalo Viegas Magro
+	name = "Gonçalo" #Goncalo Viegas Magro
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12258,7 +12258,7 @@
 }
 
 142654 = {
-	name = "Lourenço" #Lourenço Gonçalves Magro
+	name = "Lourenço" #Lourenco Goncalves Magro
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12290,7 +12290,7 @@
 }
 
 142656 = {
-	name = "Egas" #Egas Lourenço Magro
+	name = "Egas" #Egas Lourenco Magro
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12305,7 +12305,7 @@
 }
 
 142657 = {
-	name = "Vasco" #Vasco Lourenço Magro
+	name = "Vasco" #Vasco Lourenco Magro
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12320,7 +12320,7 @@
 }
 
 142658 = {
-	name = "Beatriz" #Beatriz Lourenço Magro
+	name = "Beatriz" #Beatriz Lourenco Magro
 	female = yes
 	dynasty = 1020124 #Coelho
 	religion = catholic
@@ -12336,7 +12336,7 @@
 }
 
 142659 = {
-	name = "Martim" #Martim Gonçalves Magro
+	name = "Martim" #Martim Goncalves Magro
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12351,7 +12351,7 @@
 }
 
 142660 = {
-	name = "Henrique" #Henrique Gonçalves Magro
+	name = "Henrique" #Henrique Goncalves Magro
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12398,7 +12398,7 @@
 }
 
 142663 = {
-	name = "Gonçalo" #Gonçalo Pires Magro
+	name = "Gonçalo" #Goncalo Pires Magro
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12493,7 +12493,7 @@
 }
 
 142669 = {
-	name = "João" #João Soares Coelho
+	name = "João" #Joao Soares Coelho
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12541,7 +12541,7 @@
 }
 
 142672 = {
-	name = "Inês" #Inês Soares Coelho
+	name = "Inês" #Ines Soares Coelho
 	female = yes
 	dynasty = 1020124 #Coelho
 	religion = catholic
@@ -12589,7 +12589,7 @@
 }
 
 142675 = {
-	name = "Fernão" #Fernão Anes Coelho
+	name = "Fernão" #Fernao Anes Coelho
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12652,7 +12652,7 @@
 }
 
 142679 = {
-	name = "Estêvão" #Estêvão Pires Coelho
+	name = "Estêvão" #Estevao Pires Coelho
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12699,7 +12699,7 @@
 }
 
 142682 = {
-	name = "João" #João Esteves Coelho
+	name = "João" #Joao Esteves Coelho
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12733,7 +12733,7 @@
 }
 
 142684 = {
-	name = "Estêvão" #Estêvão Esteves Coelho
+	name = "Estêvão" #Estevao Esteves Coelho
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12782,7 +12782,7 @@
 }
 
 142687 = {
-	name = "João" #João Esteves Coelho
+	name = "João" #Joao Esteves Coelho
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12813,7 +12813,7 @@
 }
 
 142689 = {
-	name = "Fernão" #Fernão Esteves Coelho
+	name = "Fernão" #Fernao Esteves Coelho
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12843,7 +12843,7 @@
 }
 
 142691 = {
-	name = "João" #João Afonso Coelho
+	name = "João" #Joao Afonso Coelho
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -12894,7 +12894,7 @@
 }
 
 142694 = {
-	name = "Aldonça" #Aldonça Vasques Pereira
+	name = "Aldonça" #Aldonca Vasques Pereira
 	female = yes
 	#dynasty = #Pereira
 	religion = catholic
@@ -12940,7 +12940,7 @@
 }
 
 142697 = {
-	name = "João" #João Anes Coelho
+	name = "João" #Joao Anes Coelho
 	dynasty = 1020124 #Coelho
 	religion = catholic
 	culture = portuguese
@@ -13003,7 +13003,7 @@
 }
 
 142700 = {
-	name = "Aldonça" #Aldonça Anes Coelho
+	name = "Aldonça" #Aldonca Anes Coelho
 	female = yes
 	dynasty = 1020124 #Coelho
 	religion = catholic
@@ -13081,7 +13081,7 @@
 }
 
 142704 = {
-	name = "Gonçalo" #Gonçalo Mendes de Ribadouro
+	name = "Gonçalo" #Goncalo Mendes de Ribadouro
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
 	culture = portuguese
@@ -13113,7 +13113,7 @@
 }
 
 142708 = {
-	name = "Gonçalo" #Gonçalo Gonçalves de Mós
+	name = "Gonçalo" #Goncalo Goncalves de Mos
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
 	culture = portuguese
@@ -13145,7 +13145,7 @@
 }
 
 142710 = {
-	name = "Gonçalo" #Gonçalo Viegas de Ribadouro
+	name = "Gonçalo" #Goncalo Viegas de Ribadouro
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13273,7 +13273,7 @@
 }
 
 142718 = {
-	name = "Mem" #Mem Gonçalves da Fonseca
+	name = "Mem" #Mem Goncalves da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13324,7 +13324,7 @@
 }
 
 142721 = {
-	name = "Egas" #Egas Gonçalves da Fonseca
+	name = "Egas" #Egas Goncalves da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13342,7 +13342,7 @@
 }
 
 142722 = {
-	name = "Teresa" #Teresa Miguéis
+	name = "Teresa" #Teresa Migueis
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -13356,7 +13356,7 @@
 }
 
 142723 = {
-	name = "Gonçalo" #Gonçalo Viegas de Ferreirim
+	name = "Gonçalo" #Goncalo Viegas de Ferreirim
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13371,7 +13371,7 @@
 }
 
 142724 = {
-	name = "Sancha" #Sancha Gonçalves da Fonseca
+	name = "Sancha" #Sancha Goncalves da Fonseca
 	female = yes
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
@@ -13387,7 +13387,7 @@
 }
 
 142725 = {
-	name = "Gonçalo" #Gonçalo Gonçalves Bezerra
+	name = "Gonçalo" #Goncalo Goncalves Bezerra
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13419,7 +13419,7 @@
 }
 
 142727 = {
-	name = "Teresa" #Teresa Gonçalves Bezerra
+	name = "Teresa" #Teresa Goncalves Bezerra
 	female = yes
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
@@ -13435,7 +13435,7 @@
 }
 
 142728 = {
-	name = "Gonçalo" #Gonçalo Gonçalves Bezerra
+	name = "Gonçalo" #Goncalo Goncalves Bezerra
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13450,7 +13450,7 @@
 }
 
 142729 = {
-	name = "Soeiro" #Soeiro Gonçalves Bezerra
+	name = "Soeiro" #Soeiro Goncalves Bezerra
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13581,9 +13581,9 @@
 }
 
 142737 = {
-	name = "Teresa" #Teresa Martins de Medãs
+	name = "Teresa" #Teresa Martins de Medas
 	female = yes
-	#dynasty = #de Medãs
+	#dynasty = #de Medas
 	religion = catholic
 	culture = portuguese
 	1200.1.1 = {
@@ -13641,7 +13641,7 @@
 }
 
 142741 = {
-	name = "João" #João Afonso Michoim
+	name = "João" #Joao Afonso Michoim
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13703,7 +13703,7 @@
 }
 
 142745 = {
-	name = "Aldonça" #Aldonça Rodrigues Michoim
+	name = "Aldonça" #Aldonca Rodrigues Michoim
 	female = yes
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
@@ -13719,7 +13719,7 @@
 }
 
 142746 = {
-	name = "Estêvão" #Estêvão Rodrigues da Fonseca
+	name = "Estêvão" #Estevao Rodrigues da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13802,9 +13802,9 @@
 }
 
 142751 = {
-	name = "Maria" #Maria Martins das Medãs
+	name = "Maria" #Maria Martins das Medas
 	female = yes
-	#dynasty = #das Medãs
+	#dynasty = #das Medas
 	religion = catholic
 	culture = portuguese
 	1181.1.1 = {
@@ -13816,7 +13816,7 @@
 }
 
 142752 = {
-	name = "Fernão" #Fernão Mendes da Fonseca
+	name = "Fernão" #Fernao Mendes da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13834,9 +13834,9 @@
 }
 
 142753 = {
-	name = "Estevainha" #Estevainha Gil Babilão
+	name = "Estevainha" #Estevainha Gil Babilao
 	female = yes
-	#dynasty = #Babilão
+	#dynasty = #Babilao
 	religion = catholic
 	culture = portuguese
 	1182.1.1 = {
@@ -13848,7 +13848,7 @@
 }
 
 142754 = {
-	name = "Inês" #Inês Fernandes da Fonseca
+	name = "Inês" #Ines Fernandes da Fonseca
 	female = yes
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
@@ -13912,7 +13912,7 @@
 }
 
 142758 = {
-	name = "Gonçalo" #Gonçalo Pires da Fonseca
+	name = "Gonçalo" #Goncalo Pires da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13927,7 +13927,7 @@
 }
 
 142759 = {
-	name = "Estêvão" #Estêvão Pires da Fonseca
+	name = "Estêvão" #Estevao Pires da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -13975,7 +13975,7 @@
 }
 
 142762 = {
-	name = "Constança" #Constança Esteves
+	name = "Constança" #Constanca Esteves
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -13989,7 +13989,7 @@
 }
 
 142763 = {
-	name = "Lourenço" #Lourenço Mendes da Fonseca
+	name = "Lourenço" #Lourenco Mendes da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -14055,7 +14055,7 @@
 }
 
 142767 = {
-	name = "Constança" #Constança Fernandes de Cambar
+	name = "Constança" #Constanca Fernandes de Cambar
 	female = yes
 	#dynasty = #de Cambar
 	religion = catholic
@@ -14069,7 +14069,7 @@
 }
 
 142768 = {
-	name = "Lourenço" #Lourenço Martins da Fonseca
+	name = "Lourenço" #Lourenco Martins da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -14101,7 +14101,7 @@
 }
 
 142770 = {
-	name = "Martim" #Martim Lourenço da Fonseca
+	name = "Martim" #Martim Lourenco da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -14119,7 +14119,7 @@
 }
 
 142771 = {
-	name = "Berengária" #Berengária Pires de Tavares
+	name = "Berengária" #Berengaria Pires de Tavares
 	female = yes
 	#dynasty = #de Tavares
 	religion = catholic
@@ -14167,7 +14167,7 @@
 }
 
 142774 = {
-	name = "Maria" #Maria Gonçalves Moreira
+	name = "Maria" #Maria Goncalves Moreira
 	female = yes
 	#dynasty = #Moreira
 	religion = catholic
@@ -14181,7 +14181,7 @@
 }
 
 142775 = {
-	name = "Lourenço" #Lourenço Vasques da Fonseca
+	name = "Lourenço" #Lourenco Vasques da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -14213,7 +14213,7 @@
 }
 
 142777 = {
-	name = "Vasco" #Vasco Lourenço da Fonseca
+	name = "Vasco" #Vasco Lourenco da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -14237,7 +14237,7 @@
 }
 
 142778 = {
-	name = "Inês" #Inês Gonçalves Moreira
+	name = "Inês" #Ines Goncalves Moreira
 	female = yes
 	#dynasty = #Moreira
 	religion = catholic
@@ -14251,7 +14251,7 @@
 }
 
 142779 = {
-	name = "Joana" #Joana Gonçalves de Veiro
+	name = "Joana" #Joana Goncalves de Veiro
 	female = yes
 	#dynasty = #de Veiro
 	religion = catholic
@@ -14265,7 +14265,7 @@
 }
 
 142780 = {
-	name = "Margarida" #Margarida Anes de Carapeços
+	name = "Margarida" #Margarida Anes de Carapecos
 	female = yes
 	#dynasty = #de Veiro
 	religion = catholic
@@ -14293,7 +14293,7 @@
 }
 
 142782 = {
-	name = "Gonçalo" #Gonçalo Rodrigues Moreira
+	name = "Gonçalo" #Goncalo Rodrigues Moreira
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -14324,7 +14324,7 @@
 }
 
 142784 = {
-	name = "Inês" #Inês Vasques da Fonseca
+	name = "Inês" #Ines Vasques da Fonseca
 	female = yes
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
@@ -14356,7 +14356,7 @@
 }
 
 142786 = {
-	name = "Gonçalo" #Gonçalo Vasques da Fonseca
+	name = "Gonçalo" #Goncalo Vasques da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -14387,7 +14387,7 @@
 }
 
 142788 = {
-	name = "Lourenço" #Lourenço Rodrigues da Fonseca
+	name = "Lourenço" #Lourenco Rodrigues da Fonseca
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
 	culture = portuguese
@@ -14405,7 +14405,7 @@
 }
 
 142789 = {
-	name = "Aldonça" #Aldonça Anes Botelho
+	name = "Aldonça" #Aldonca Anes Botelho
 	female = yes
 	#dynasty = #Botelho
 	religion = catholic
@@ -14469,7 +14469,7 @@
 }
 
 142793 = {
-	name = "Constança" #Constança Gil Peixoto
+	name = "Constança" #Constanca Gil Peixoto
 	female = yes
 	#dynasty = #Peixoto
 	religion = catholic
@@ -14499,7 +14499,7 @@
 }
 
 142795 = {
-	name = "Dórdia" #Dórdia Rodrigues de Carvalho
+	name = "Dórdia" #Dordia Rodrigues de Carvalho
 	female = yes
 	dynasty = 1020125 #da Fonseca
 	religion = catholic
@@ -14548,9 +14548,9 @@
 }
 
 142798 = {
-	name = "Leonor" #Leonor Rodrigues de Nomães
+	name = "Leonor" #Leonor Rodrigues de Nomaes
 	female = yes
-	#dynasty = #de Nomães
+	#dynasty = #de Nomaes
 	religion = catholic
 	culture = portuguese
 	1292.1.1 = {
@@ -14673,7 +14673,7 @@
 }
 
 142806 = {
-	name = "João" #João Fernandes de Barbosa
+	name = "João" #Joao Fernandes de Barbosa
 	dynasty = 1020110 #de Barbosa
 	religion = catholic
 	culture = portuguese
@@ -14734,7 +14734,7 @@
 }
 
 142810 = {
-	name = "Fernão" #Fernão Martins de Barbosa
+	name = "Fernão" #Fernao Martins de Barbosa
 	dynasty = 1020110 #de Barbosa
 	religion = catholic
 	culture = portuguese
@@ -14799,9 +14799,9 @@
 }
 
 142814 = {
-	name = "Margarida" #Margarida Anes de Urrô
+	name = "Margarida" #Margarida Anes de Urro
 	female = yes
-	#dynasty = #de Urrô
+	#dynasty = #de Urro
 	religion = catholic
 	culture = portuguese
 	1302.1.1 = {
@@ -14847,7 +14847,7 @@
 }
 
 142817 = {
-	name = "Inês" #Inês Afonso Pimentel
+	name = "Inês" #Ines Afonso Pimentel
 	female = yes
 	#dynasty = #Pimentel
 	religion = catholic
@@ -14941,7 +14941,7 @@
 }
 
 142823 = {
-	name = "Fernão" #Fernão Pires de Sande
+	name = "Fernão" #Fernao Pires de Sande
 	dynasty = 1020126 #de Sande
 	religion = catholic
 	culture = portuguese
@@ -14974,7 +14974,7 @@
 }
 
 142825 = {
-	name = "Dórdia" #Dórdia Raimundes de Riba Vizela
+	name = "Dórdia" #Dordia Raimundes de Riba Vizela
 	female = yes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
@@ -15038,7 +15038,7 @@
 }
 
 142829 = {
-	name = "Durão" #Durão Martins de Riba Vizela
+	name = "Durão" #Durao Martins de Riba Vizela
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -15070,7 +15070,7 @@
 }
 
 142831 = {
-	name = "João" #João Durães de Riba Vizela
+	name = "João" #Joao Duraes de Riba Vizela
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -15085,7 +15085,7 @@
 }
 
 142832 = {
-	name = "Maria" #Maria Durães de Riba Vizela
+	name = "Maria" #Maria Duraes de Riba Vizela
 	female = yes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
@@ -15101,7 +15101,7 @@
 }
 
 142833 = {
-	name = "Aldonça" #Aldonça Durães de Riba Vizela
+	name = "Aldonça" #Aldonca Duraes de Riba Vizela
 	female = yes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
@@ -15211,7 +15211,7 @@
 }
 
 142840 = {
-	name = "João" #João Fernandes de Sande
+	name = "João" #Joao Fernandes de Sande
 	dynasty = 1020126 #de Sande
 	religion = catholic
 	culture = portuguese
@@ -15231,7 +15231,7 @@
 142842 = {
 	name = "Urraca" #Urraca Esteves Malhoo
 	female = yes
-	#dynasty = #Malhão
+	#dynasty = #Malhao
 	religion = catholic
 	culture = portuguese
 	1160.1.1 = {
@@ -15258,7 +15258,7 @@
 }
 
 142843 = {
-	name = "Fernão" #Fernão Anes de Sande
+	name = "Fernão" #Fernao Anes de Sande
 	dynasty = 1020126 #de Sande
 	religion = catholic
 	culture = portuguese
@@ -15276,9 +15276,9 @@
 }
 
 142845 = {
-	name = "Maria" #Maria Anes de Guimarães
+	name = "Maria" #Maria Anes de Guimaraes
 	female = yes
-	#dynasty = #de Guimarães
+	#dynasty = #de Guimaraes
 	religion = catholic
 	culture = portuguese
 	1200.1.1 = {
@@ -15306,7 +15306,7 @@
 }
 
 142846 = {
-	name = "João" #João Fernandes de Sande
+	name = "João" #Joao Fernandes de Sande
 	dynasty = 1020126 #de Sande
 	religion = catholic
 	culture = portuguese
@@ -15338,7 +15338,7 @@
 }
 
 142848 = {
-	name = "João" #João Anes de Sande
+	name = "João" #Joao Anes de Sande
 	dynasty = 1020126 #de Sande
 	religion = catholic
 	culture = portuguese
@@ -15385,7 +15385,7 @@
 }
 
 142851 = {
-	name = "Gonçalo" #Gonçalo Anes de Sande
+	name = "Gonçalo" #Goncalo Anes de Sande
 	dynasty = 1020126 #de Sande
 	religion = catholic
 	culture = portuguese
@@ -15512,7 +15512,7 @@
 }
 
 142858 = {
-	name = "Lourenço" #Lourenço Soares Freire
+	name = "Lourenço" #Lourenco Soares Freire
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -15544,7 +15544,7 @@
 }
 
 142860 = {
-	name = "Rui" #Rui Lourenço Freire
+	name = "Rui" #Rui Lourenco Freire
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -15559,7 +15559,7 @@
 }
 
 142861 = {
-	name = "Pero" #Pero Lourenço Freire
+	name = "Pero" #Pero Lourenco Freire
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -15574,7 +15574,7 @@
 }
 
 142862 = {
-	name = "Guiomar" #Guiomar Lourenço Freire
+	name = "Guiomar" #Guiomar Lourenco Freire
 	female = yes
 	dynasty = 1020127 #de Melo
 	religion = catholic
@@ -15590,7 +15590,7 @@
 }
 
 142863 = {
-	name = "Constança" #Constança Lourenço Freire
+	name = "Constança" #Constanca Lourenco Freire
 	female = yes
 	dynasty = 1020127 #de Melo
 	religion = catholic
@@ -15606,7 +15606,7 @@
 }
 
 142864 = {
-	name = "Teresa" #Teresa Lourenço Freire
+	name = "Teresa" #Teresa Lourenco Freire
 	female = yes
 	dynasty = 1020127 #de Melo
 	religion = catholic
@@ -15685,7 +15685,7 @@
 }
 
 142870 = {
-	name = "Lourenço" #Lourenço Soares de Melo
+	name = "Lourenço" #Lourenco Soares de Melo
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -15718,7 +15718,7 @@
 }
 
 142872 = {
-	name = "Inês" #Inês Vasques da Cunha
+	name = "Inês" #Ines Vasques da Cunha
 	female = yes
 	#dynasty = #da Cunha
 	religion = catholic
@@ -15865,7 +15865,7 @@
 }
 
 142881 = {
-	name = "Inês" #Inês Pires de Arganil
+	name = "Inês" #Ines Pires de Arganil
 	female = yes
 	#dynasty = #de Arganil
 	religion = catholic
@@ -15963,7 +15963,7 @@
 }
 
 142887 = {
-	name = "Mécia" #Mécia Vasques de Resende
+	name = "Mécia" #Mecia Vasques de Resende
 	female = yes
 	#dynasty = #de Resende
 	religion = catholic
@@ -15977,7 +15977,7 @@
 }
 
 142888 = {
-	name = "Inês" #Inês Rodrigues de Brito
+	name = "Inês" #Ines Rodrigues de Brito
 	female = yes
 	#dynasty = #de Brito
 	religion = catholic
@@ -15991,7 +15991,7 @@
 }
 
 142889 = {
-	name = "Estêvão" #Estêvão Soares de Melo
+	name = "Estêvão" #Estevao Soares de Melo
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -16037,7 +16037,7 @@
 }
 
 142892 = {
-	name = "Fernão" #Fernão Afonso de Melo
+	name = "Fernão" #Fernao Afonso de Melo
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -16069,7 +16069,7 @@
 }
 
 142894 = {
-	name = "João" #João Pires de Lobeira
+	name = "João" #Joao Pires de Lobeira
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -16101,7 +16101,7 @@
 }
 
 142896 = {
-	name = "Estêvão" #Estêvão Anes de Lobeira
+	name = "Estêvão" #Estevao Anes de Lobeira
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -16163,7 +16163,7 @@
 }
 
 142900 = {
-	name = "João" #João Anes de Lobeira
+	name = "João" #Joao Anes de Lobeira
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -16178,7 +16178,7 @@
 }
 
 142901 = {
-	name = "Fernão" #Fernão Anes de Lobeira
+	name = "Fernão" #Fernao Anes de Lobeira
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -16289,7 +16289,7 @@
 }
 
 142908 = {
-	name = "João" #João Pires de Alvim
+	name = "João" #Joao Pires de Alvim
 	dynasty = 1020127 #de Melo
 	religion = catholic
 	culture = portuguese
@@ -16337,7 +16337,7 @@
 }
 
 142911 = {
-	name = "Estêvão" #Estêvão Pires de Cambra
+	name = "Estêvão" #Estevao Pires de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -16355,7 +16355,7 @@
 }
 
 142912 = {
-	name = "Estêvão" #Estêvão Pires de Lambaz
+	name = "Estêvão" #Estevao Pires de Lambaz
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -16562,7 +16562,7 @@
 }
 
 142925 = {
-	name = "Gonçalo" #Gonçalo Nunes de Cambra
+	name = "Gonçalo" #Goncalo Nunes de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -16595,7 +16595,7 @@
 }
 
 142927 = {
-	name = "Elvira" #Elvira Gonçalves
+	name = "Elvira" #Elvira Goncalves
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -16624,7 +16624,7 @@
 }
 
 142929 = {
-	name = "João" #João Soares de Cambra
+	name = "João" #Joao Soares de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -16656,7 +16656,7 @@
 }
 
 142931 = {
-	name = "Estêvão" #Estêvão Anes de Cambra
+	name = "Estêvão" #Estevao Anes de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -16671,7 +16671,7 @@
 }
 
 142932 = {
-	name = "Fernão" #Fernão Soares de Cambra
+	name = "Fernão" #Fernao Soares de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -16703,7 +16703,7 @@
 }
 
 142934 = {
-	name = "João" #João Fernandes de Cambra
+	name = "João" #Joao Fernandes de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -16752,7 +16752,7 @@
 }
 
 142937 = {
-	name = "Constança" #Constança Fernandes de Cambra
+	name = "Constança" #Constanca Fernandes de Cambra
 	female = yes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
@@ -16815,7 +16815,7 @@
 }
 
 142941 = {
-	name = "Fernão" #Fernão Afonso de Cambra
+	name = "Fernão" #Fernao Afonso de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -16893,7 +16893,7 @@
 }
 
 142946 = {
-	name = "João" #João Martins de Cambra
+	name = "João" #Joao Martins de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -16925,7 +16925,7 @@
 }
 
 142948 = {
-	name = "Estêvão" #Estêvão Anes de Cambra
+	name = "Estêvão" #Estevao Anes de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -17020,7 +17020,7 @@
 }
 
 142954 = {
-	name = "Constança" #Constança Esteves de Cambra
+	name = "Constança" #Constanca Esteves de Cambra
 	female = yes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
@@ -17068,7 +17068,7 @@
 }
 
 142957 = {
-	name = "João" #João Martins de Cambra
+	name = "João" #Joao Martins de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -17181,7 +17181,7 @@
 }
 
 142964 = {
-	name = "Constança" #Constança Afonso de Cambra
+	name = "Constança" #Constanca Afonso de Cambra
 	female = yes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
@@ -17310,7 +17310,7 @@
 }
 
 142973 = {
-	name = "Mília" #Mília Fernandes de Cambra
+	name = "Mília" #Milia Fernandes de Cambra
 	female = yes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
@@ -17342,7 +17342,7 @@
 }
 
 142975 = {
-	name = "Berengária" #Berengária Fernandes de Cambra
+	name = "Berengária" #Berengaria Fernandes de Cambra
 	female = yes
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
@@ -17374,7 +17374,7 @@
 }
 
 142977 = {
-	name = "Fernão" #Fernão Afonso de Cambra
+	name = "Fernão" #Fernao Afonso de Cambra
 	dynasty = 1020116 #de Riba Vizela
 	religion = catholic
 	culture = portuguese
@@ -17469,7 +17469,7 @@
 }
 
 142983 = {
-	name = "Hermígio" #Hermígio Viegas
+	name = "Hermígio" #Hermigio Viegas
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
 	culture = portuguese
@@ -17642,7 +17642,7 @@
 }
 
 142994 = {
-	name = "Hermígio" #Hermígio Viegas
+	name = "Hermígio" #Hermigio Viegas
 	dynasty = 1020111 #de Ribadouro
 	religion = catholic
 	culture = portuguese
@@ -17675,7 +17675,7 @@
 }
 
 143000 = {
-	name = "Dórdia" #Dórdia Soares
+	name = "Dórdia" #Dordia Soares
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -17704,7 +17704,7 @@
 }
 
 142998 = {
-	name = "Hermígio" #Hermígio Aboazar da Maia
+	name = "Hermígio" #Hermigio Aboazar da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -17877,7 +17877,7 @@
 }
 
 143009 = {
-	name = "Gontinha" #Gontinha Gonçalves da Maia
+	name = "Gontinha" #Gontinha Goncalves da Maia
 	female = yes
 	dynasty = 1020121 #da Maia
 	religion = catholic
@@ -17893,7 +17893,7 @@
 }
 
 143010 = {
-	name = "Toda" #Toda Gonçalves da Maia
+	name = "Toda" #Toda Goncalves da Maia
 	female = yes
 	dynasty = 1020121 #da Maia
 	religion = catholic
@@ -17909,7 +17909,7 @@
 }
 
 143011 = {
-	name = "Gontroda" #Gontrode Gonçalves da Maia
+	name = "Gontroda" #Gontrode Goncalves da Maia
 	female = yes
 	dynasty = 1020121 #da Maia
 	religion = catholic
@@ -17925,7 +17925,7 @@
 }
 
 143012 = {
-	name = "Aragunta" #Arragunte Gonçalves da Maia
+	name = "Aragunta" #Arragunte Goncalves da Maia
 	female = yes
 	dynasty = 1020121 #da Maia
 	religion = catholic
@@ -17957,7 +17957,7 @@
 }
 
 143014 = {
-	name = "Dórdia" #Dórdia Mendes da Maia
+	name = "Dórdia" #Dordia Mendes da Maia
 	female = yes
 	dynasty = 1020121 #da Maia
 	religion = catholic
@@ -17988,7 +17988,7 @@
 }
 
 143016 = {
-	name = "Gonçalo" #Gonçalo Soares Mouro
+	name = "Gonçalo" #Goncalo Soares Mouro
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -18006,9 +18006,9 @@
 }
 
 143017 = {
-	name = "Ouroana" #Ouroana Soares de Grijó
+	name = "Ouroana" #Ouroana Soares de Grijo
 	female = yes
-	#dynasty = #de Grijó
+	#dynasty = #de Grijo
 	religion = catholic
 	culture = portuguese
 	1103.1.1 = {
@@ -18066,7 +18066,7 @@
 }
 
 143021 = {
-	name = "Gonçalo" #Gonçalo Mendes da Maia
+	name = "Gonçalo" #Goncalo Mendes da Maia
 	dynasty = 1020121 #da Maia
 	religion = catholic
 	culture = portuguese
@@ -18193,9 +18193,9 @@
 }
 
 143029 = {
-	name = "Fruilhe" #Fruilhe Hermiges de Baião
+	name = "Fruilhe" #Fruilhe Hermiges de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143031
@@ -18209,9 +18209,9 @@
 }
 
 143030 = {
-	name = "Constança" #Constança Hermiges de Baião
+	name = "Constança" #Constanca Hermiges de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143031
@@ -18225,8 +18225,8 @@
 }
 
 143031 = {
-	name = "Hermígio" #Hermígio Viegas de Baião
-	dynasty = 1020122 #de Baião
+	name = "Hermígio" #Hermigio Viegas de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143033
@@ -18257,8 +18257,8 @@
 }
 
 143033 = {
-	name = "Egas" #Egas Gondesendes de Baião
-	dynasty = 1020122 #de Baião
+	name = "Egas" #Egas Gondesendes de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143034
@@ -18275,8 +18275,8 @@
 }
 
 143034 = {
-	name = "Gondesendo" #Gondesendo Viegas de Baião
-	dynasty = 1020122 #de Baião
+	name = "Gondesendo" #Gondesendo Viegas de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143036
@@ -18293,7 +18293,7 @@
 }
 
 143035 = {
-	name = "Maria" #Maria de Baião
+	name = "Maria" #Maria de Baiao
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -18307,8 +18307,8 @@
 }
 
 143036 = {
-	name = "Egas" #Egas Gondesendes de Baião
-	dynasty = 1020122 #de Baião
+	name = "Egas" #Egas Gondesendes de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143038
@@ -18325,7 +18325,7 @@
 }
 
 143037 = {
-	name = "Maria" #Maria de Baião
+	name = "Maria" #Maria de Baiao
 	female = yes
 	#dynasty =
 	religion = catholic
@@ -18339,8 +18339,8 @@
 }
 
 143038 = {
-	name = "Gondesendo" #Gondesendo Arualdes de Baião
-	dynasty = 1020122 #de Baião
+	name = "Gondesendo" #Gondesendo Arualdes de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143040
@@ -18357,7 +18357,7 @@
 }
 
 143039 = {
-	name = "Maria" #Maria de Baião
+	name = "Maria" #Maria de Baiao
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -18371,8 +18371,8 @@
 }
 
 143040 = {
-	name = "Arualdo" #Arualdo Gondesendes de Baião
-	dynasty = 1020122 #de Baião
+	name = "Arualdo" #Arualdo Gondesendes de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	950.1.1 = {
@@ -18401,8 +18401,8 @@
 }
 
 143042 = {
-	name = "Galindo" #Galindo Arualdes de Baião
-	dynasty = 1020122 #de Baião
+	name = "Galindo" #Galindo Arualdes de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143040
@@ -18419,7 +18419,7 @@
 }
 
 143043 = {
-	name = "Maria" #Maria de Baião
+	name = "Maria" #Maria de Baiao
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -18451,7 +18451,7 @@
 }
 
 143045 = {
-	name = "Maria" #Maria Soares da Várzea
+	name = "Maria" #Maria Soares da Varzea
 	female = yes
 	#dynasty = #Velho
 	religion = catholic
@@ -18465,8 +18465,8 @@
 }
 
 143046 = {
-	name = "Mourão" #Mourão Godesendes de Baião
-	dynasty = 1020122 #de Baião
+	name = "Mourão" #Mourao Godesendes de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143034
@@ -18481,7 +18481,7 @@
 
 143047 = {
 	name = "Pero" #Pero Viegas Pai
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143033
@@ -18512,9 +18512,9 @@
 }
 
 143049 = {
-	name = "Teresa" #Teresa Pires de Baião
+	name = "Teresa" #Teresa Pires de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143047
@@ -18528,8 +18528,8 @@
 }
 
 143050 = {
-	name = "Nuno" #Nuno Viegas de Baião
-	dynasty = 1020122 #de Baião
+	name = "Nuno" #Nuno Viegas de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143033
@@ -18546,7 +18546,7 @@
 }
 
 143051 = {
-	name = "Maria" #Maria de Baião
+	name = "Maria" #Maria de Baiao
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -18560,8 +18560,8 @@
 }
 
 143052 = {
-	name = "Mem" #Mem Nunes de Baião
-	dynasty = 1020122 #de Baião
+	name = "Mem" #Mem Nunes de Baiao
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143050
@@ -18578,9 +18578,9 @@
 }
 
 143053 = {
-	name = "Urraca" #Urraca Rodrigues de Nomães
+	name = "Urraca" #Urraca Rodrigues de Nomaes
 	female = yes
-	#dynasty = #de Nomães
+	#dynasty = #de Nomaes
 	religion = catholic
 	culture = portuguese
 	1172.1.1 = {
@@ -18592,8 +18592,8 @@
 }
 
 143054 = {
-	name = "João" #João Viegas Ranha
-	dynasty = 1020122 #de Baião
+	name = "João" #Joao Viegas Ranha
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143033
@@ -18610,7 +18610,7 @@
 }
 
 143055 = {
-	name = "Maria" #Maria de Baião
+	name = "Maria" #Maria de Baiao
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -18624,9 +18624,9 @@
 }
 
 143056 = {
-	name = "Maria" #Maria Anes de Baião
+	name = "Maria" #Maria Anes de Baiao
 	female = yes
-	dynasty = 1020122 #de Baião
+	dynasty = 1020122 #de Baiao
 	religion = catholic
 	culture = portuguese
 	father = 143054
@@ -18690,9 +18690,9 @@
 }
 
 143060 = {
-	name = "Sancha" #Sancha Pais de Toroño
+	name = "Sancha" #Sancha Pais de Torono
 	female = yes
-	#dynasty = #de Toroño
+	#dynasty = #de Torono
 	religion = catholic
 	culture = portuguese
 	1083.1.1 = {
@@ -18832,7 +18832,7 @@
 }
 
 143071 = {
-	name = "Pero" #Pero Ourigues da Nóbrega
+	name = "Pero" #Pero Ourigues da Nobrega
 	dynasty = 1020114 #de Aboim
 	religion = catholic
 	culture = portuguese
@@ -18868,7 +18868,7 @@
 }
 
 143073 = {
-	name = "Constança" #Constança Afonso Gato
+	name = "Constança" #Constanca Afonso Gato
 	female = yes
 	#dynasty = #Gato
 	religion = catholic
@@ -18914,7 +18914,7 @@
 }
 
 143076 = {
-	name = "Estêvão" #Estêvão Pais de Azevedo
+	name = "Estêvão" #Estevao Pais de Azevedo
 	dynasty = 1020128 #de Azevedo
 	religion = catholic
 	culture = portuguese
@@ -18996,9 +18996,9 @@
 }
 
 143081 = {
-	name = "Marinha" #Marinha Gomes Guedeão
+	name = "Marinha" #Marinha Gomes Guedeao
 	female = yes
-	#dynasty = #Guedeão
+	#dynasty = #Guedeao
 	religion = catholic
 	culture = portuguese
 	1120.1.1 = {
@@ -19040,7 +19040,7 @@
 }
 
 143084 = {
-	name = "Fernão" #Fernão Pires Cativo
+	name = "Fernão" #Fernao Pires Cativo
 	dynasty = 1020120 #de Soverosa
 	religion = catholic
 	culture = portuguese
@@ -19086,9 +19086,9 @@
 }
 
 143087 = {
-	name = "Maria" #Maria Nunes de Grijó
+	name = "Maria" #Maria Nunes de Grijo
 	female = yes
-	#dynasty = #de Grijó
+	#dynasty = #de Grijo
 	religion = catholic
 	culture = portuguese
 	1110.1.1 = {
@@ -19100,7 +19100,7 @@
 }
 
 143088 = {
-	name = "Lourenço" #Lourenço Martins de Berredo
+	name = "Lourenço" #Lourenco Martins de Berredo
 	dynasty = 769 #de Ribeira
 	religion = catholic
 	culture = portuguese
@@ -19150,7 +19150,7 @@
 }
 
 143091 = {
-	name = "João" #João Pires de Vasconcelos
+	name = "João" #Joao Pires de Vasconcelos
 	dynasty = 1020112 #de Vasconcelos
 	religion = catholic
 	culture = portuguese
@@ -19165,8 +19165,8 @@
 }
 
 143096 = {
-	name = "Ourigo" #Ourigo Ourigues da Nóbrega
-	dynasty = 1020129 #da Nóbrega
+	name = "Ourigo" #Ourigo Ourigues da Nobrega
+	dynasty = 1020129 #da Nobrega
 	religion = catholic
 	culture = portuguese
 	father = 143094
@@ -19183,7 +19183,7 @@
 }
 
 143097 = {
-	name = "Maria" #Maria Lourenço da Cunha
+	name = "Maria" #Maria Lourenco da Cunha
 	female = yes
 	#dynasty = #da Cunha
 	religion = catholic
@@ -19197,8 +19197,8 @@
 }
 
 143094 = {
-	name = "Ourigo" #Ourigo Pais da Nóbrega
-	dynasty = 1020129 #da Nóbrega
+	name = "Ourigo" #Ourigo Pais da Nobrega
+	dynasty = 1020129 #da Nobrega
 	religion = catholic
 	culture = portuguese
 	father = 143092
@@ -19215,7 +19215,7 @@
 }
 
 143095 = {
-	name = "Maria" #Maria da Nóbrega
+	name = "Maria" #Maria da Nobrega
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -19229,8 +19229,8 @@
 }
 
 143092 = {
-	name = "Paio" #Paio Ourigues da Nóbrega
-	dynasty = 1020129 #da Nóbrega
+	name = "Paio" #Paio Ourigues da Nobrega
+	dynasty = 1020129 #da Nobrega
 	religion = catholic
 	culture = portuguese
 	1090.1.1 = {
@@ -19259,8 +19259,8 @@
 }
 
 143098 = {
-	name = "Garcia" #Garcia Ourigues da Nóbrega
-	dynasty = 1020129 #da Nóbrega
+	name = "Garcia" #Garcia Ourigues da Nobrega
+	dynasty = 1020129 #da Nobrega
 	religion = catholic
 	culture = portuguese
 	father = 143096
@@ -19277,7 +19277,7 @@
 }
 
 143099 = {
-	name = "Maria" #Maria da Nóbrega
+	name = "Maria" #Maria da Nobrega
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -19291,8 +19291,8 @@
 }
 
 143100 = {
-	name = "Pero" #Pero Garcia da Nóbrega
-	dynasty = 1020129 #da Nóbrega
+	name = "Pero" #Pero Garcia da Nobrega
+	dynasty = 1020129 #da Nobrega
 	religion = catholic
 	culture = portuguese
 	father = 143098
@@ -19309,7 +19309,7 @@
 }
 
 143101 = {
-	name = "Maria" #Maria da Nóbrega
+	name = "Maria" #Maria da Nobrega
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -19323,8 +19323,8 @@
 }
 
 143102 = {
-	name = "Garcia" #Garcia Pires da Nóbrega
-	dynasty = 1020129 #da Nóbrega
+	name = "Garcia" #Garcia Pires da Nobrega
+	dynasty = 1020129 #da Nobrega
 	religion = catholic
 	culture = portuguese
 	father = 143100
@@ -19341,7 +19341,7 @@
 }
 
 143103 = {
-	name = "Maria" #Maria da Nóbrega
+	name = "Maria" #Maria da Nobrega
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -19355,8 +19355,8 @@
 }
 
 143104 = {
-	name = "Pedro" #Pedro Garcia da Nóbrega
-	dynasty = 1020129 #da Nóbrega
+	name = "Pedro" #Pedro Garcia da Nobrega
+	dynasty = 1020129 #da Nobrega
 	religion = catholic
 	culture = portuguese
 	father = 143102
@@ -19387,7 +19387,7 @@
 }
 
 143106 = {
-	name = "Soeiro" #Soeiro Galindes da Várzea
+	name = "Soeiro" #Soeiro Galindes da Varzea
 	dynasty = 1020130 #Velho
 	religion = catholic
 	culture = portuguese
@@ -19469,7 +19469,7 @@
 }
 
 143111 = {
-	name = "Aldonça" #Aldonça Nunes de Armentares
+	name = "Aldonça" #Aldonca Nunes de Armentares
 	female = yes
 	#dynasty = #
 	religion = catholic
@@ -19579,7 +19579,7 @@
 }
 
 143118 = {
-	name = "João" #João Pires Redondo
+	name = "João" #Joao Pires Redondo
 	dynasty = 1020130 #Velho
 	religion = catholic
 	culture = portuguese
@@ -19614,7 +19614,7 @@
 }
 
 143120 = {
-	name = "Gonçalo" #Gonçalo Anes Redondo
+	name = "Gonçalo" #Goncalo Anes Redondo
 	dynasty = 1020130 #Velho
 	religion = catholic
 	culture = portuguese
@@ -19646,7 +19646,7 @@
 }
 
 143122 = {
-	name = "Martim" #Martim Gonçalves Redondo
+	name = "Martim" #Martim Goncalves Redondo
 	dynasty = 1020130 #Velho
 	religion = catholic
 	culture = portuguese
@@ -19664,7 +19664,7 @@
 }
 
 143123 = {
-	name = "Martim" #Martim Gonçalves Redondo
+	name = "Martim" #Martim Goncalves Redondo
 	dynasty = 1020130 #Velho
 	religion = catholic
 	culture = portuguese
@@ -19679,7 +19679,7 @@
 }
 
 143124 = {
-	name = "Álvaro" #Álvaro Gonçalves Redondo
+	name = "Álvaro" #Alvaro Goncalves Redondo
 	dynasty = 1020130 #Velho
 	religion = catholic
 	culture = portuguese
@@ -19697,7 +19697,7 @@
 }
 
 143125 = {
-	name = "João" #João Álvares Redondo
+	name = "João" #Joao Alvares Redondo
 	dynasty = 1020130 #Velho
 	religion = catholic
 	culture = portuguese

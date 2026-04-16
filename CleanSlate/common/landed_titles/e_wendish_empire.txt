@@ -1950,7 +1950,7 @@ e_wendish_empire = {
 			color = { 100 120 82 }
 			color2 = { 255 255 255 }
 
-			capital = 731 # Rügen
+			capital = 731 # Rugen
 
 			allow = {
 				can_create_duchy = yes

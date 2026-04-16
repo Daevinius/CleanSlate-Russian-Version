@@ -1,4 +1,4 @@
-# 102 - Sunnmøre
+# 102 - Sunnmore
 title = c_sunnmore
 terrain = mountain
 

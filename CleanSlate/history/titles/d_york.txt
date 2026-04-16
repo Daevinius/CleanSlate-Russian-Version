@@ -73,7 +73,7 @@
 }
 
 651.1.1 = {
-	holder = 252174 # Å’thelwald
+	holder = 252174 # Oethelwald
 }
 
 655.1.1 = {

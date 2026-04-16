@@ -27,7 +27,7 @@
 }
 
 900.1.1 = {
-	holder = 70020 # García I de Cantabria
+	holder = 70020 # Garcia I de Cantabria
 	liege = d_leon
 }
 
@@ -36,7 +36,7 @@
 }
 
 914.1.19 = {
-	holder = 70021 # Ordoño II de León
+	holder = 70021 # Ordono II de Leon
 }
 
 924.1.1 = {
@@ -44,36 +44,36 @@
 }
 
 925.7.1 = {
-	holder = 70023 # Alfonso IV de León
+	holder = 70023 # Alfonso IV de Leon
 }
 
 931.1.1 = {
-	holder = 107680 # Fernán González de Lara
+	holder = 107680 # Fernan Gonzalez de Lara
 	liege = d_castilla
 }
 
 944.1.1 = {
-	holder = 72550 # Ansur Fernández Ansúrez
+	holder = 72550 # Ansur Fernandez Ansurez
 }
 
 945.1.1 = {
-	holder = 107680 # Fernán González de Lara
+	holder = 107680 # Fernan Gonzalez de Lara
 }
 
 970.6.1 = {
-	holder = 107670 # García Fernández de Lara
+	holder = 107670 # Garcia Fernandez de Lara
 }
 
 995.1.1 = {
-	holder = 107660 # Sancho García de Lara
+	holder = 107660 # Sancho Garcia de Lara
 }
 
 1017.2.5 = {
-	holder = 70286 # García Sánchez de Lara
+	holder = 70286 # Garcia Sanchez de Lara
 }
 
 1029.5.13 = {
-	holder = 107510 # Fernando Sánchez Jimena
+	holder = 107510 # Fernando Sanchez Jimena
 }
 
 1037.9.4 = {
@@ -81,7 +81,7 @@
 }
 
 1065.12.27 = {
-	holder = 107640 # Pedro Ansúrez
+	holder = 107640 # Pedro Ansurez
 	liege = k_leon
 	law = true_cognatic_succession
 }
@@ -91,54 +91,54 @@
 }
 
 1093.12.8 = {
-	holder = 107644 # Mayor Pérez
+	holder = 107644 # Mayor Perez
 }
 
 1148.4.23 = {
-	holder = 71390 # Eylo Álvarez
+	holder = 71390 # Eylo Alvarez
 }
 
 1153.7.23 = {
-	holder = 71397 # Fernando Rodríguez de Castro I
+	holder = 71397 # Fernando Rodriguez de Castro I
 	law = cognatic_succession
 }
 
 1185.8.16 = {
-	holder = 71399 # Pedro Fernández de Castro I
+	holder = 71399 # Pedro Fernandez de Castro I
 }
 
 1214.8.18 = {
-	holder = 72389 # Álvar Pérez de Castro
+	holder = 72389 # Alvar Perez de Castro
 }
 
 1240.3.1 = {
-	holder = 72390 # Eylo Pérez de Castro
+	holder = 72390 # Eylo Perez de Castro
 }
 
 1243.2.10 = {
-	holder = 72211 # Rodrigo Giráldez de Castro
+	holder = 72211 # Rodrigo Giraldez de Castro
 }
 
 1259.1.1 = {
-	holder = 72214 # Fernando Rodríguez de Castro II
+	holder = 72214 # Fernando Rodriguez de Castro II
 }
 
 1280.1.1 = {
-	holder = 72215 # Pedro Fernández de Castro II
+	holder = 72215 # Pedro Fernandez de Castro II
 }
 
 1287.1.1 = {
-	holder = 72333 # Giraldo Guillén
+	holder = 72333 # Giraldo Guillen
 }
 
 1296.1.1 = {
-	holder = 72449 # Sancho Pérez de Borgoña
+	holder = 72449 # Sancho Perez de Borgona
 }
 
 1312.1.1 = {
-	holder = 457531 # Pedro Sánchez de Borgoña
+	holder = 457531 # Pedro Sanchez de Borgona
 }
 
 1319.7.25 = {
-	holder = 457532 # Blanca Pérez de Borgoña
+	holder = 457532 # Blanca Perez de Borgona
 }

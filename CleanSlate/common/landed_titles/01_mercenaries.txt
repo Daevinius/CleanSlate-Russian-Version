@@ -1238,7 +1238,7 @@ d_hanseatic_navy = { # Now "Baltic Cogs"
 
 	short_name = yes
 
-	capital = 728 # Lübeck
+	capital = 728 # Lubeck
 
 	# Hire Trigger
 	allow = {

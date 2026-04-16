@@ -351,7 +351,7 @@
 
 6863 = {
 	name = "Ingjerðr"
-	dynasty = 502 # af Munsö
+	dynasty = 502 # af Munso
 	female = yes
 	religion = norse_pagan
 	culture = norse
@@ -395,7 +395,7 @@
 }
 
 6866 = {
-	name = "Eirikr" # Hårik II of Denmark
+	name = "Eirikr" # Harik II of Denmark
 	dynasty = 818 # Jute
 	religion = norse_pagan
 	culture = norse
@@ -610,7 +610,7 @@
 }
 
 40605 = {
-	name = "Rurik" # Rurik, legendary founder of Rus. Probably known as Hrörekr by his Norse contemporaries.
+	name = "Rurik" # Rurik, legendary founder of Rus. Probably known as Hrorekr by his Norse contemporaries.
 	dynasty = 705
 	dna = tczeyfghtom
 	properties = th0ebd000000
@@ -767,7 +767,7 @@
 
 41259 = {
 	name = "Þorfinn"
-	dynasty = 823 # Väse
+	dynasty = 823 # Vase
 	religion = norse_pagan
 	culture = norse
 	840.1.1 = {
@@ -865,7 +865,7 @@
 }
 
 100500 = {
-	name = "Eirikr" # According to most sources son of "Anund Uppsale", but we've cut both him and his father "Erik", son of Björn Ironside
+	name = "Eirikr" # According to most sources son of "Anund Uppsale", but we've cut both him and his father "Erik", son of Bjorn Ironside
 	dynasty = 502
 	martial = 4
 	diplomacy = 4
@@ -877,7 +877,7 @@
 	add_trait = humble
 	add_trait = cynical
 	add_trait = skilled_tactician
-	father = 163108 # Björn Ironside
+	father = 163108 # Bjorn Ironside
 	mother = 6839
 	840.1.1 = {
 		birth = yes
@@ -959,7 +959,7 @@
 }
 
 100504 = {
-	name = "Eirikr" # Segersäll
+	name = "Eirikr" # Segersall
 	dynasty = 502
 	martial = 8
 	diplomacy = 5
@@ -1004,7 +1004,7 @@
 }
 
 100506 = {
-	name = "Olafr" # "Skötkonung"
+	name = "Olafr" # "Skotkonung"
 	dynasty = 502
 	martial = 5
 	diplomacy = 5
@@ -1027,7 +1027,7 @@
 }
 
 100508 = {
-	name = "Anundr" # Anund Jakob "Kolbränna"
+	name = "Anundr" # Anund Jakob "Kolbranna"
 	# AKA: Anund Jakob
 	dynasty = 502
 	martial = 6
@@ -1455,7 +1455,7 @@
 }
 
 101502 = {
-	name = "Haraldr" # Blåtand
+	name = "Haraldr" # Blatand
 	dynasty = 490
 	martial = 5
 	diplomacy = 7
@@ -1485,7 +1485,7 @@
 }
 
 101505 = {
-	name = "Sveinn" # Tveskæg
+	name = "Sveinn" # Tveskaeg
 	dynasty = 490
 	martial = 6
 	diplomacy = 7
@@ -1495,7 +1495,7 @@
 	culture = norse
 	add_trait = ambitious
 	add_trait = skilled_tactician
-	father = 101502 # Harald Blåtand
+	father = 101502 # Harald Blatand
 	960.1.1 = {
 		birth = yes
 	}
@@ -1509,7 +1509,7 @@
 		remove_spouse = 755 #Swietoslawa Gunnhild
 	}
 	997.1.2 = {
-		add_spouse = 100519 #Sigrid Storråde
+		add_spouse = 100519 #Sigrid Storrade
 	}
 	1014.2.3 = {
 		death = yes
@@ -1529,7 +1529,7 @@
 	add_trait = greedy
 	add_trait = clubfooted
 	add_trait = flamboyant_schemer
-	father = 101502 #Harald Blåtand
+	father = 101502 #Harald Blatand
 	950.1.1 = {
 		birth = yes
 	}
@@ -1550,7 +1550,7 @@
 	add_trait = humble
 	add_trait = content
 	add_trait = thrifty_clerk
-	father = 101505 # Svend Tveskæg
+	father = 101505 # Svend Tveskaeg
 	mother = 755 # Swietoslawa Gunnhild
 	989.1.1 = {
 		birth = yes
@@ -1572,7 +1572,7 @@
 	culture = norse
 	add_trait = flamboyant_schemer
 	add_trait = legit_bastard
-	father = 101505 # Svend Tveskæg
+	father = 101505 # Svend Tveskaeg
 	978.1.1 = {
 		birth = yes
 	}
@@ -1592,8 +1592,8 @@
 	religion = catholic
 	culture = norse
 	add_trait = amateurish_plotter
-	father = 101505 #Svend Tveskæg
-	mother = 100519 # Sigrid Storråde
+	father = 101505 #Svend Tveskaeg
+	mother = 100519 # Sigrid Storrade
 	997.1.2 = {
 		birth = yes
 	}
@@ -1613,16 +1613,16 @@
 	culture = norse
 	add_trait = envious
 	add_trait = brilliant_strategist
-	father = 101505 # Svend Tveskæg
+	father = 101505 # Svend Tveskaeg
 	mother = 755 # Swietoslawa Gunnhild
 	995.1.1 = {
 		birth = yes
 	}
 	1013.12.24 = {
-		add_spouse = 135 #Ældgyth
+		add_spouse = 135 #Aeldgyth
 	}
 	1017.1.1 = {
-		remove_spouse = 135 #Ældgyth
+		remove_spouse = 135 #Aeldgyth
 	}
 	1017.1.2 = {
 		add_spouse = 259 # Emma of Normandy
@@ -1671,7 +1671,7 @@
 	add_trait = flamboyant_schemer
 	add_trait = hunter
 	father = 101510 #Knud The Great
-	mother = 135 #Ældgyth
+	mother = 135 #Aeldgyth
 	1015.1.1 = {
 		birth = yes
 	}
@@ -1691,7 +1691,7 @@
 	culture = norse
 	add_trait = amateurish_plotter
 	father = 101510 #Knud The Great
-	mother = 135 #Ældgyth
+	mother = 135 #Aeldgyth
 	1016.1.1 = {
 		birth = yes
 	}
@@ -3589,7 +3589,7 @@
 }
 
 163108 = {
-	name = "Björn" # Björn Ironside
+	name = "Björn" # Bjorn Ironside
 	dna = gdadbjynnbx
 	properties = gj0ead000000000000
 	dynasty = 502
@@ -4251,7 +4251,7 @@
 }
 
 166330 = {
-	name = "Björg" # Wife of Úlfr Högnason
+	name = "Björg" # Wife of Ulfr Hognason
 	female = yes
 	dynasty = 1040003
 	religion = catholic
@@ -4282,7 +4282,7 @@
 }
 
 166043 = {
-	name = "Þjodhildr" # Wife of Fródi Haraldsson, son of Harald Fairhair (144000)
+	name = "Þjodhildr" # Wife of Frodi Haraldsson, son of Harald Fairhair (144000)
 	dynasty = 1040003
 	religion = catholic
 	culture = norse
@@ -4325,7 +4325,7 @@
 }
 
 166045 = {
-	name = "Froði" #Fródi Haraldsson
+	name = "Froði" #Frodi Haraldsson
 	female = yes
 	dynasty = 499
 	religion = norse_pagan
@@ -4412,7 +4412,7 @@
 	add_trait = charismatic_negotiator
 	add_trait = wroth
 	add_trait = gregarious
-	father = 101502 #Harald Blåtand
+	father = 101502 #Harald Blatand
 	971.1.1 = {
 		birth = yes
 	}
@@ -4458,7 +4458,7 @@
 	culture = norse
 	add_trait = twin
 	add_trait = shy
-	father = 451001 #Röde Orm
+	father = 451001 #Rode Orm
 	mother = 451000 #Ylva
 	992.1.1 = {
 		birth = yes
@@ -4480,7 +4480,7 @@
 	add_trait = twin
 	add_trait = attractive
 	add_trait = deceitful
-	father = 451001 #Röde Orm
+	father = 451001 #Rode Orm
 	mother = 451000 #Ylva
 	992.1.1 = {
 		birth = yes
@@ -4499,7 +4499,7 @@
 	stewardship = 4
 	religion = catholic
 	culture = norse
-	father = 451001 #Röde Orm
+	father = 451001 #Rode Orm
 	mother = 451000 #Ylva
 	994.1.1 = {
 		birth = yes
@@ -4521,7 +4521,7 @@
 	add_trait = brave
 	add_trait = skilled_tactician
 	add_trait = inspiring_leader
-	father = 451001 #Röde Orm
+	father = 451001 #Rode Orm
 	mother = 451000 #Ylva
 	995.1.1 = {
 		birth = yes
@@ -4683,7 +4683,7 @@
 	}
 }
 
-#Trøndelag
+#Trondelag
 186004 = {
 	name = "Rögnvaldr"
 	dynasty = 1043303
@@ -4729,7 +4729,7 @@
 	}
 }
 
-#Hålogaland
+#Halogaland
 186002 = {
 	name = "Grjotgard"
 	dynasty = 1043302
@@ -6090,7 +6090,7 @@
 
 194003 = {
 	name = "Haraldr"
-	dynasty = 102013 # Skjöldung
+	dynasty = 102013 # Skjoldung
 	martial = 10
 	religion = norse_pagan
 	culture = norse
@@ -6619,7 +6619,7 @@
 
 180776 = {
 	name = "Helga"
-	# wife of Hjörleifr
+	# wife of Hjorleifr
 	female = yes
 	dynasty = 1043504
 	religion = norse_pagan
@@ -7144,7 +7144,7 @@
 }
 
 214901 = {
-	name = "Guðfrið" # Gofraid ua Ímair
+	name = "Guðfrið" # Gofraid ua Imair
 	dynasty = 20084
 	religion = norse_pagan
 	culture = norse
@@ -7172,7 +7172,7 @@
 }
 
 214903 = {
-	name = "Blákári" # Blácaire mac Gofraid
+	name = "Blákári" # Blacaire mac Gofraid
 	dynasty = 20084
 	religion = norse_pagan
 	culture = norse
@@ -7206,7 +7206,7 @@
 }
 
 214905 = {
-	name = "Cammán" # Cammán mac Amlaíb
+	name = "Cammán" # Camman mac Amlaib
 	dynasty = 20084
 	religion = norse_pagan
 	culture = norse
@@ -7221,7 +7221,7 @@
 }
 
 214906 = {
-	name = "Ivar" # Ímar ua Ímair
+	name = "Ivar" # Imar ua Imair
 	dynasty = 20084
 	religion = norse_pagan
 	culture = norse

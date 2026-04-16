@@ -12,7 +12,7 @@
 }
 
 783.1.1 = {
-	holder = 70116 # Mauregato Alfónsez de Cantabria
+	holder = 70116 # Mauregato Alfonsez de Cantabria
 }
 
 788.1.1 = {
@@ -29,7 +29,7 @@
 }
 
 850.2.1 = {
-	holder = 70017 # Ordoño I de Cantabria
+	holder = 70017 # Ordono I de Cantabria
 }
 
 866.5.27 = {
@@ -73,7 +73,7 @@
 }
 
 1065.12.27 = {
-	holder = 109500 # García I Jimena
+	holder = 109500 # Garcia I Jimena
 }
 
 1071.2.1 = {
@@ -90,7 +90,7 @@
 }
 
 1107.9.20 = {
-	holder = 207500 # Alfonso VII de Borgoña
+	holder = 207500 # Alfonso VII de Borgona
 }
 
 # Bishops of Santiago
@@ -105,7 +105,7 @@
 }
 
 1142.1.1 = {
-	holder = 210510 # Pedro Helías
+	holder = 210510 # Pedro Helias
 }
 
 1149.1.1 = {
@@ -117,19 +117,19 @@
 }
 
 1156.1.1 = {
-	holder = 72941 # Martín Martínez
+	holder = 72941 # Martin Martinez
 }
 
 1167.1.1 = {
-	holder = 72942 # Pedro Gundestéiz
+	holder = 72942 # Pedro Gundesteiz
 }
 
 1173.1.1 = {
-	holder = 208520 # Pedro Suárez de Deza
+	holder = 208520 # Pedro Suarez de Deza
 }
 
 1207.1.1 = {
-	holder = 72943 # Pedro Muñiz
+	holder = 72943 # Pedro Muniz
 }
 
 1224.1.1 = {
@@ -141,15 +141,15 @@
 }
 
 1266.1.1 = {
-	holder = 72945 # Gonzalo Gómez
+	holder = 72945 # Gonzalo Gomez
 }
 
 1283.1.1 = {
-	holder = 72946 # Rodrigo González
+	holder = 72946 # Rodrigo Gonzalez
 }
 
 1304.1.1 = {
-	holder = 72947 # Rodrigo de Padrón
+	holder = 72947 # Rodrigo de Padron
 }
 
 1316.1.1 = {
@@ -157,5 +157,5 @@
 }
 
 1331.1.1 = {
-	holder = 458003 # Juan Fernández de Limia
+	holder = 458003 # Juan Fernandez de Limia
 }

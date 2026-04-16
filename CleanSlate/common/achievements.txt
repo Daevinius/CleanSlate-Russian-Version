@@ -1018,7 +1018,7 @@ SAXONS_UNITE = {
 	}
 }
 
-# "The Frisian coast is long" - Be King of Frisia and hold the Atlantic coast from Léon to Jylland.
+# "The Frisian coast is long" - Be King of Frisia and hold the Atlantic coast from Leon to Jylland.
 FRISIAN_COAST = {
 	possible = {
 		is_ironman = yes
@@ -2144,7 +2144,7 @@ CHILD_OF_THE_DRAGON = {
 	}
 }
 
-# "Bön Appetit" - Eat a character of the Bön religion
+# "Bon Appetit" - Eat a character of the Bon religion
 BON_APPETIT = {
 	possible = {
 		is_ironman = yes

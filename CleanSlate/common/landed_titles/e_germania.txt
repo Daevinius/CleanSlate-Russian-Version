@@ -2,7 +2,7 @@ e_germania = {
 	color = { 190 200 190 }
 	color2 = { 220 220 20 }
 
-	capital = 198 # Würzburg
+	capital = 198 # Wurzburg
 
 	culture = german
 
@@ -137,7 +137,7 @@ e_germania = {
 			color = { 57 57 70 }
 			color2 = { 255 255 255 }
 
-			capital = 200 # Nürnberg
+			capital = 200 # Nurnberg
 
 			allow = {
 				can_create_duchy = yes
@@ -884,7 +884,7 @@ e_germania = {
 		color = { 105 135 105 }
 		color2 = { 255 255 255 }
 
-		capital = 198 # Würzburg
+		capital = 198 # Wurzburg
 
 		allow = {
 			can_create_kingdom = yes
@@ -906,7 +906,7 @@ e_germania = {
 
 		culture = german
 
-		capital = 198 # Würzburg
+		capital = 198 # Wurzburg
 
 		catholic = 5000 # Crusade target weight
 
@@ -1018,7 +1018,7 @@ e_germania = {
 			color = { 100 108 100 }
 			color2 = { 255 255 255 }
 
-			capital = 198 # Würzburg
+			capital = 198 # Wurzburg
 
 			allow = {
 				can_create_duchy = yes
@@ -1404,7 +1404,7 @@ e_germania = {
 			color = { 207 206 226 }
 			color2 = { 255 255 255 }
 
-			capital = 190 # Thüringen
+			capital = 190 # Thuringen
 
 			allow = {
 				can_create_duchy = yes
@@ -1444,7 +1444,7 @@ e_germania = {
 		color = { 210 210 210 }
 		color2 = { 255 255 255 }
 
-		capital = 728 # Lübeck
+		capital = 728 # Lubeck
 
 		dignity = 200 # Never want the Hanseatic League to change primary title
 
@@ -1545,7 +1545,7 @@ e_germania = {
 			color = { 105 105 148 }
 			color2 = { 255 255 255 }
 
-			capital = 253 # Köln
+			capital = 253 # Koln
 
 			norse = "Köln"
 			swedish = "Köln"
@@ -1976,7 +1976,7 @@ e_germania = {
 			color = { 213 216 212 }
 			color2 = { 255 255 255 }
 
-			capital = 182 # Münster
+			capital = 182 # Munster
 
 			saxon = "Westfalia"
 
@@ -2144,7 +2144,7 @@ e_germania = {
 		color = { 212 211 231 }
 		color2 = { 255 255 255 }
 
-		capital = 190 # Thüringen
+		capital = 190 # Thuringen
 
 		allow = {
 			can_create_kingdom = yes

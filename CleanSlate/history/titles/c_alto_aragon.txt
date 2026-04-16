@@ -17,7 +17,7 @@
 }
 
 810.1.1 = {
-	holder = 70300 # Aznar I de Aragón
+	holder = 70300 # Aznar I de Aragon
 	liege = d_aragon
 }
 
@@ -30,19 +30,19 @@
 }
 
 844.1.1 = {
-	holder = 70277 # Galindo II de Aragón
+	holder = 70277 # Galindo II de Aragon
 }
 
 867.1.1 = {
-	holder = 70276 # Aznar II de Aragón
+	holder = 70276 # Aznar II de Aragon
 }
 
 893.1.1 = {
-	holder = 70274 # Galindo III de Aragón
+	holder = 70274 # Galindo III de Aragon
 }
 
 923.1.1 = {
-	holder = 70275 # Andregoto Galíndez de Aragón
+	holder = 70275 # Andregoto Galindez de Aragon
 }
 
 940.1.1 = {
@@ -67,15 +67,15 @@
 }
 
 1063.5.8 = {
-	holder = 110500 # Sancho Ramírez Jimena
+	holder = 110500 # Sancho Ramirez Jimena
 }
 
 1094.6.4 = {
-	holder = 70231 # Pedro Sánchez Jimena
+	holder = 70231 # Pedro Sanchez Jimena
 }
 
 1104.9.27 = {
-	holder = 70232 # Alfonso Sánchez Jimena
+	holder = 70232 # Alfonso Sanchez Jimena
 }
 
 1134.9.27 = {
@@ -83,7 +83,7 @@
 }
 
 1157.8.16 = {
-	holder = 210507 # Petronila Ramírez Jimena
+	holder = 210507 # Petronila Ramirez Jimena
 }
 
 1174.10.16 = {

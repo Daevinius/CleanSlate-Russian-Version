@@ -136,14 +136,14 @@
 }
 
 1262.1.1 = {
-	holder = 73130 # Pedro Guillén de Guzmán
+	holder = 73130 # Pedro Guillen de Guzman
 	liege = k_castille
 }
 
 1296.1.1 = {
-	holder = 458007 # Alfonso Pérez de Guzmán
+	holder = 458007 # Alfonso Perez de Guzman
 }
 
 1309.9.9 = {
-	holder = 458011 # Juan Alfonso de Guzmán
+	holder = 458011 # Juan Alfonso de Guzman
 }

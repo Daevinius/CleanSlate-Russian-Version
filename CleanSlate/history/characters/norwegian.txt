@@ -155,7 +155,7 @@
 }
 
 102531 = {
-	name = "Harald" # 'Hårdråde'
+	name = "Harald" # 'Hardrade'
 	dynasty = 499
 	martial = 7
 	diplomacy = 7
@@ -1596,7 +1596,7 @@
 	culture = norwegian
 	add_trait = lustful
 	add_trait = charismatic_negotiator
-	father = 202030 # Bård Guttormsson
+	father = 202030 # Bard Guttormsson
 	mother = 202506
 	1189.1.1 = {
 		birth = yes
@@ -1618,7 +1618,7 @@
 	religion = catholic
 	culture = norwegian
 	add_trait = charismatic_negotiator
-	father = 202034 # Skule Bårdsson
+	father = 202034 # Skule Bardsson
 	1208.1.1 = {
 		birth = yes
 	}
@@ -3690,7 +3690,7 @@
 	culture = norwegian
 	add_trait = clubfooted
 	add_trait = dutiful_cleric
-	father = 6905 # Magnus Lagaböter
+	father = 6905 # Magnus Lagaboter
 	mother = 6904
 	1270.1.1 = {
 		birth = yes
@@ -4120,7 +4120,7 @@
 }
 
 6905 = {
-	name = "Magnus" # Lagaböter
+	name = "Magnus" # Lagaboter
 	dynasty = 499
 	martial = 4
 	diplomacy = 4
@@ -4130,7 +4130,7 @@
 	culture = norwegian
 	add_trait = clubfooted
 	add_trait = dutiful_cleric
-	father = 202509 # Håkon Håkonsson
+	father = 202509 # Hakon Hakonsson
 	mother = 202035 # Margareta Skulesdotter
 	1238.5.1 = {
 		birth = yes
@@ -4144,7 +4144,7 @@
 }
 
 6906 = {
-	name = "Erik" # Prästhatare
+	name = "Erik" # Prasthatare
 	dynasty = 499
 	martial = 6
 	diplomacy = 4
@@ -4154,7 +4154,7 @@
 	culture = norwegian
 	add_trait = brave
 	add_trait = tough_soldier
-	father = 6905 # Magnus Lagaböter
+	father = 6905 # Magnus Lagaboter
 	mother = 6904
 	1268.1.2 = {
 		birth = yes
@@ -4836,7 +4836,7 @@
 	dynasty = 499
 	religion = catholic
 	culture = norwegian
-	father = 202509 # Håkon Håkonsson
+	father = 202509 # Hakon Hakonsson
 	mother = 202035 # Margareta Skulesdotter
 	1234.1.1 = {
 		birth = yes
@@ -4847,11 +4847,11 @@
 }
 
 170007 = {
-	name = "Håkon" # Håkon the Young
+	name = "Håkon" # Hakon the Young
 	dynasty = 499
 	religion = catholic
 	culture = norwegian
-	father = 202509 # Håkon Håkonsson
+	father = 202509 # Hakon Hakonsson
 	mother = 202035 # Margareta Skulesdotter
 	1232.11.10 = {
 		birth = yes
@@ -4868,11 +4868,11 @@
 }
 
 170008 = {
-	name = "Sverre" # Son of Håkon the Young
+	name = "Sverre" # Son of Hakon the Young
 	dynasty = 499
 	religion = catholic
 	culture = norwegian
-	father = 170007 # Håkon the Young
+	father = 170007 # Hakon the Young
 	mother = 30605 # Rikissa Birgersdotter
 	1252.1.1 = {
 		birth = yes
@@ -4888,7 +4888,7 @@
 	dynasty = 499
 	religion = catholic
 	culture = norwegian
-	father = 6906 # Erik Prästhatare
+	father = 6906 # Erik Prasthatare
 	mother = 453061 # Isabel Bruce
 	1297.1.1 = {
 		birth = yes
@@ -5042,7 +5042,7 @@
 		birth = yes
 	}
 	1068.1.1 = {
-		add_spouse = 183905 #Ragna Hagalín
+		add_spouse = 183905 #Ragna Hagalin
 	}
 	1098.1.1 = {
 		death = yes
@@ -5152,7 +5152,7 @@
 
 194317 = {
 	name = "Ragnar"
-	dynasty = 1045072 # av Røst
+	dynasty = 1045072 # av Rost
 	religion = catholic
 	culture = norwegian
 	1196.1.1 = {

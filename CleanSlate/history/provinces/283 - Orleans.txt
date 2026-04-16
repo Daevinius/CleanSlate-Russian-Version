@@ -1,4 +1,4 @@
-# 283 - Orléans
+# 283 - Orleans
 title = c_orleans
 terrain = plains
 

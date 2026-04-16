@@ -988,7 +988,7 @@
 
 256058 = { #fictional, khazarian clan in 867
 	name = "Bulçan"
-	dynasty = 1061038 #Bulçir
+	dynasty = 1061038 #Bulcir
 	religion = jewish
 	culture = khazar
 	833.1.1 = {

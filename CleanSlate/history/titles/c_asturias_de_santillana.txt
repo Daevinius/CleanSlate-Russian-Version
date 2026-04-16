@@ -8,7 +8,7 @@
 }
 
 739.6.15 = {
-	holder = 70011 # Fruela Pérez de Cantabria
+	holder = 70011 # Fruela Perez de Cantabria
 }
 
 768.1.1 = {
@@ -20,29 +20,29 @@
 }
 
 850.2.1 = {
-	holder = 70017 # Ordoño I de Cantabria
+	holder = 70017 # Ordono I de Cantabria
 }
 
 860.1.1 = {
-	holder = 73763 # Rodrigo Ramírez de Castilla
+	holder = 73763 # Rodrigo Ramirez de Castilla
 	liege = d_castilla
 }
 
 873.10.3 = {
-	holder = 73765 # Diego Rodríguez Porcelos
+	holder = 73765 # Diego Rodriguez Porcelos
 }
 
 885.1.31 = {
-	holder = 200066 # Munio Nuñez de Lara
+	holder = 200066 # Munio Nunez de Lara
 	liege = k_asturias
 }
 
 901.1.1 = {
-	holder = 200071 # Gonzalo Téllez
+	holder = 200071 # Gonzalo Tellez
 }
 
 904.1.1 = {
-	holder = 200066 # Munio Nuñez de Lara
+	holder = 200066 # Munio Nunez de Lara
 }
 
 910.12.20 = {
@@ -50,23 +50,23 @@
 }
 
 912.1.1 = {
-	holder = 73769 # Gonzalo Fernández de Lara
+	holder = 73769 # Gonzalo Fernandez de Lara
 }
 
 916.1.1 = {
-	holder = 72549 # Fernando Ansúrez
+	holder = 72549 # Fernando Ansurez
 }
 
 920.1.1 = {
-	holder = 200069 # Nuño Fernández de Lara
+	holder = 200069 # Nuno Fernandez de Lara
 }
 
 927.1.1 = {
-	holder = 72549 # Fernando Ansúrez
+	holder = 72549 # Fernando Ansurez
 }
 
 930.1.1 = {
-	holder = 107680 # Fernán González de Lara
+	holder = 107680 # Fernan Gonzalez de Lara
 }
 
 931.1.1 = {
@@ -74,40 +74,40 @@
 }
 
 944.1.1 = {
-	holder = 72550 # Ansur Fernández Ansúrez
+	holder = 72550 # Ansur Fernandez Ansurez
 }
 
 945.1.1 = {
-	holder = 107680 # Fernán González de Lara
+	holder = 107680 # Fernan Gonzalez de Lara
 }
 
 970.6.1 = {
-	holder = 107670 # García Fernández de Lara
+	holder = 107670 # Garcia Fernandez de Lara
 }
 
 995.1.1 = {
-	holder = 107660 # Sancho García de Lara
+	holder = 107660 # Sancho Garcia de Lara
 }
 
 1017.2.5 = {
-	holder = 70286 # García Sánchez de Lara
+	holder = 70286 # Garcia Sanchez de Lara
 }
 
 1029.5.13 = {
-	holder = 107510 # Fernando Sánchez Jimena
+	holder = 107510 # Fernando Sanchez Jimena
 }
 
 1037.9.4 = {
-	holder = 70265 # Munio González de Lara
+	holder = 70265 # Munio Gonzalez de Lara
 	liege = k_castille
 }
 
 1082.1.1 = {
-	holder = 70268 # Jimena Muñoz de Lara
+	holder = 70268 # Jimena Munoz de Lara
 }
 
 1085.1.1 = {
-	holder = 72894 # Fruela Díaz
+	holder = 72894 # Fruela Diaz
 }
 
 1121.12.2 = {
@@ -119,15 +119,15 @@
 }
 
 1172.9.13 = {
-	holder = 72905 # Diego Ramírez I
+	holder = 72905 # Diego Ramirez I
 }
 
 1185.8.1 = {
-	holder = 72906 # Fruela Ramírez
+	holder = 72906 # Fruela Ramirez
 }
 
 1202.9.9 = {
-	holder = 72915 # Nuño Froilaz
+	holder = 72915 # Nuno Froilaz
 }
 
 1217.1.1 = {
@@ -135,7 +135,7 @@
 }
 
 1240.1.1 = {
-	holder = 72921 # Gonzalo Ramírez
+	holder = 72921 # Gonzalo Ramirez
 }
 
 1259.1.1 = {
@@ -143,9 +143,9 @@
 }
 
 1268.1.1 = {
-	holder = 72927 # Diego Ramírez II
+	holder = 72927 # Diego Ramirez II
 }
 
 1330.1.1 = {
-	holder = 72933 # Rodrigo Díaz
+	holder = 72933 # Rodrigo Diaz
 }

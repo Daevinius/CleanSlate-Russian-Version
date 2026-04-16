@@ -1,4 +1,4 @@
-# 159 - Västergötland
+# 159 - Vastergotland
 title = c_vastergotland
 terrain = plains
 

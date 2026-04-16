@@ -17,7 +17,7 @@
 }
 
 515.1.1 = {
-	holder = 252334 # MŽlar
+	holder = 252334 # Mzlar
 }
 
 530.1.1 = {
@@ -110,7 +110,7 @@
 }
 
 1058.1.1 = {
-	holder = 178 # Hoël II
+	holder = 178 # Hoel II
 }
 
 1084.04.13 = {
@@ -125,7 +125,7 @@
 	holder = 205825 # Berthe
 }
 
-# Rennian House of Penthièvre
+# Rennian House of Penthievre
 1156.1.1 = {
 	holder = 205741 # Conan IV le Petit
 }
@@ -134,7 +134,7 @@
 	holder = 205740 # Constance
 }
 
-# Plantagenêt dynasty
+# Plantagenet dynasty
 1194.1.1 = {
 	holder = 204505 # Arthur I
 }

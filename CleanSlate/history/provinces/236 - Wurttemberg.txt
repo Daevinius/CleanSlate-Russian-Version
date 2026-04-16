@@ -1,4 +1,4 @@
-# 236 - Württemberg
+# 236 - Wurttemberg
 title = c_wurttemberg
 terrain = hills
 

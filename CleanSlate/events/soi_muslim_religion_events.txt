@@ -6,7 +6,7 @@
 #
 ###################################
 
-# Readapted for Muslims by Sara Wendel-Örtqvist
+# Readapted for Muslims by Sara Wendel-Ortqvist
 
 # Voluntary charity (Sadaqah )
 character_event = {

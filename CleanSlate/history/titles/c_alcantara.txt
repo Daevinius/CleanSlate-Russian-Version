@@ -149,56 +149,56 @@
 }
 
 1221.1.1 = {
-	holder = 73164 # Diego García Sánchez
+	holder = 73164 # Diego Garcia Sanchez
 	liege = k_leon
 	law = succ_feudal_elective
 	law = agnatic_succession
 }
 
 1227.1.1 = {
-	holder = 73165 # Arias Pérez
+	holder = 73165 # Arias Perez
 }
 
 1234.1.1 = {
-	holder = 73161 # Pedro Yáñez
+	holder = 73161 # Pedro Yanez
 }
 
 1254.1.1 = {
-	holder = 73166 # García Fernández de Barrantes
+	holder = 73166 # Garcia Fernandez de Barrantes
 }
 
 1284.1.1 = {
-	holder = 73167 # Fernando Páez
+	holder = 73167 # Fernando Paez
 }
 
 1292.1.1 = {
-	holder = 73168 # Fernando Pérez Gallego
+	holder = 73168 # Fernando Perez Gallego
 }
 
 1296.1.1 = {
-	holder = 73169 # Gonzalo Pérez
+	holder = 73169 # Gonzalo Perez
 }
 
 1312.1.1 = {
-	holder = 73170 # Rodrigo Vázquez de Quiroga
+	holder = 73170 # Rodrigo Vazquez de Quiroga
 }
 
 1318.1.1 = {
-	holder = 73171 # Suero Pérez Maldonado
+	holder = 73171 # Suero Perez Maldonado
 }
 
 1334.1.1 = {
-	holder = 73172 # Rodrigo Pérez Maldonado
+	holder = 73172 # Rodrigo Perez Maldonado
 }
 
 1335.1.1 = {
-	holder = 73173 # Fernando López
+	holder = 73173 # Fernando Lopez
 }
 
 1335.7.1 = {
-	holder = 73174 # Suero López
+	holder = 73174 # Suero Lopez
 }
 
 1337.1.1 = {
-	holder = 458006 # Gonzalo Martínez de Oviedo
+	holder = 458006 # Gonzalo Martinez de Oviedo
 }

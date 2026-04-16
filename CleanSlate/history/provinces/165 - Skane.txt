@@ -1,4 +1,4 @@
-# 165 - Skåne
+# 165 - Skane
 title = c_skane
 terrain = farmlands
 

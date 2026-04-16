@@ -7200,7 +7200,7 @@
 }
 
 252058 = {
-	name = "Æthelwold" #Saint Æthelwold
+	name = "Æthelwold" #Saint Aethelwold
 	religion = catholic
 	culture = anglo_saxon
 	add_trait = chaste
@@ -7645,7 +7645,7 @@
 	religion = catholic
 	culture = anglo_saxon
 	father = 205213
-	#mother = #Fín granddaughter of Colmán Rímid
+	#mother = #Fin granddaughter of Colman Rimid
 	665.1.1 = {
 		birth = yes
 	}

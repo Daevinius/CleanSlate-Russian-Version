@@ -8,10 +8,10 @@ religion = west_african_pagan
 
 max_settlements = 1
 b_bir_um_grein = tribal
-# b_zouerat				# Zouérat
+# b_zouerat				# Zouerat
 # b_tazadit
 # b_rouessa
-# b_fderick				# Fdérick
+# b_fderick				# Fderick
 # b_krossa				# Fictional
 # b_mosa				# Fictional
 

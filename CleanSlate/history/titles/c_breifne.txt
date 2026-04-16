@@ -3,15 +3,15 @@
 }
 
 850.1.1 = {
-	holder = 83533 # Tigernán Ua Briúin
+	holder = 83533 # Tigernan Ua Briuin
 }
 
 892.7.1 = {
-	holder = 83534 # Ruarc mac Tigernáin Ua Briúin
+	holder = 83534 # Ruarc mac Tigernain Ua Briuin
 }
 
 898.7.1 = {
-	holder = 83535 # Art mac Ruairc Ua Briúin
+	holder = 83535 # Art mac Ruairc Ua Briuin
 	liege = d_connacht
 }
 
@@ -21,15 +21,15 @@
 }
 
 967.7.1 = {
-	holder = 83537 # Áed nac Fergaile
+	holder = 83537 # Aed nac Fergaile
 }
 
 1015.7.1 = {
-	holder = 1001 # Art Uallach mac Áeda
+	holder = 1001 # Art Uallach mac Aeda
 }
 
 1046.7.1 = {
-	holder = 1000 # Áed mac Airt
+	holder = 1000 # Aed mac Airt
 }
 
 1067.7.1 = {
@@ -37,11 +37,11 @@
 }
 
 1087.7.1 = {
-	holder = 1003 # Tigernán mac Ualgairg
+	holder = 1003 # Tigernan mac Ualgairg
 }
 
 1091.7.1 = {
-	holder = 1004 # Domnall mac Tigernáin
+	holder = 1004 # Domnall mac Tigernain
 }
 
 1102.7.1 = {
@@ -49,23 +49,23 @@
 }
 
 1108.7.1 = {
-	holder = 214024 # Áed son of Domnall mac Ualgairg
+	holder = 214024 # Aed son of Domnall mac Ualgairg
 }
 
 1122.7.1 = {
-	holder = 83549 # Gilla-Braite son of Domnall mac Tigernáin
+	holder = 83549 # Gilla-Braite son of Domnall mac Tigernain
 }
 
 1125.7.1 = {
-	holder = 214022 # Tigernán Mór mac Áeda
+	holder = 214022 # Tigernan Mor mac Aeda
 }
 
 1152.3.1 = {
-	holder = 83550 # Áed son of Gilla-Braite
+	holder = 83550 # Aed son of Gilla-Braite
 }
 
 1152.9.1 = {
-	holder = 214022 # Tigernán Mór mac Áeda
+	holder = 214022 # Tigernan Mor mac Aeda
 }
 
 1172.1.1 = {
@@ -73,11 +73,11 @@
 }
 
 1172.7.1 = {
-	holder = 83550 # Áed son of Gilla-Braite
+	holder = 83550 # Aed son of Gilla-Braite
 }
 
 1176.7.1 = {
-	holder = 83555 # Amlaíb mac Fergaile
+	holder = 83555 # Amlaib mac Fergaile
 }
 
 1184.7.1 = {
@@ -101,7 +101,7 @@
 }
 
 1236.7.1 = {
-	holder = 83544 # Conchobar son of Tigernán
+	holder = 83544 # Conchobar son of Tigernan
 }
 
 1256.7.1 = {
@@ -109,11 +109,11 @@
 }
 
 1257.7.1 = {
-	holder = 83562 # Amlaíb son of Art son of Domnall
+	holder = 83562 # Amlaib son of Art son of Domnall
 }
 
 1258.7.1 = {
-	holder = 83545 # Domnall son of Conchobar son of Tigernán
+	holder = 83545 # Domnall son of Conchobar son of Tigernan
 }
 
 1258.11.1 = {
@@ -121,7 +121,7 @@
 }
 
 1259.7.1 = {
-	holder = 83545 # Domnall son of Conchobar son of Tigernán
+	holder = 83545 # Domnall son of Conchobar son of Tigernan
 }
 
 1260.7.1 = {
@@ -129,19 +129,19 @@
 }
 
 1266.7.1 = {
-	holder = 83566 # Conchobar Buide mac Amlaíb
+	holder = 83566 # Conchobar Buide mac Amlaib
 }
 
 1273.7.1 = {
-	holder = 83542 # Tigernán mac Áéda
+	holder = 83542 # Tigernan mac Aeda
 }
 
 1274.7.1 = {
-	holder = 83554 # Amlaíb mac Airt
+	holder = 83554 # Amlaib mac Airt
 }
 
 1307.7.1 = {
-	holder = 454161 # Domnall Carrach mac Amlaíb
+	holder = 454161 # Domnall Carrach mac Amlaib
 }
 
 1311.7.1 = {

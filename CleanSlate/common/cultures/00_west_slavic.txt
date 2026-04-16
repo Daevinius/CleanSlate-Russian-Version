@@ -208,7 +208,7 @@ west_slavic = {
 		from_dynasty_prefix = "of "
 
 		# male_patronym = "ský"
-		# female_patronym = "ská"
+		# female_patronym = "ska"
 		# prefix = no # The patronym is added as a suffix
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.

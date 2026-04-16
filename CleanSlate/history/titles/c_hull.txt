@@ -29,19 +29,19 @@
 }
 
 559.1.1 = {
-	holder = 205193 # Ælla
+	holder = 205193 # Aella
 	liege = 0
 }
 
 # Angle vassals of Ebrauc break away and form their own kingdom of Deira
 # Kingdom of Deira
 588.1.1 = {
-	holder = 205197 # Æthelric
+	holder = 205197 # Aethelric
 	liege = d_york
 }
 
 604.1.1 = {
-	holder = 205209 # Æthelfrith
+	holder = 205209 # Aethelfrith
 }
 
 616.1.1 = {
@@ -65,7 +65,7 @@
 }
 
 651.1.1 = {
-	holder = 252174 # Œthelwald
+	holder = 252174 # Oethelwald
 }
 
 655.1.1 = {
@@ -73,7 +73,7 @@
 }
 
 670.2.15 = {
-	holder = 252181 # Ælfwine
+	holder = 252181 # Aelfwine
 	liege = d_northumberland
 }
 

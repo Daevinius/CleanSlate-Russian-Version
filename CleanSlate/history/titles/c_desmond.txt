@@ -15,15 +15,15 @@
 }
 
 550.1.1 = {
-	holder = 83696 # Lóégaire son of Crimthann
+	holder = 83696 # Loegaire son of Crimthann
 }
 
 557.1.1 = {
-	holder = 83697 # Áed Ualgarb son of Crimthann
+	holder = 83697 # Aed Ualgarb son of Crimthann
 }
 
 560.1.1 = {
-	holder = 83698 # Tigernach son of Áed Ualgarb
+	holder = 83698 # Tigernach son of Aed Ualgarb
 }
 
 580.1.1 = {
@@ -31,31 +31,31 @@
 }
 
 593.1.1 = {
-	holder = 83713 # Áed Osraige son of Lóegaire
+	holder = 83713 # Aed Osraige son of Loegaire
 }
 
 597.1.1 = {
-	holder = 83700 # Cenn-Fáelad son of Feidlimid
+	holder = 83700 # Cenn-Faelad son of Feidlimid
 }
 
 624.1.1 = {
-	holder = 83701 # Fergus son of Cenn-Fáelad
+	holder = 83701 # Fergus son of Cenn-Faelad
 }
 
 654.1.1 = {
-	holder = 83702 # Bécc son of Fergus
+	holder = 83702 # Becc son of Fergus
 }
 
 661.1.1 = {
-	holder = 83717 # Dond Sláine Brecc son of Dúngal
+	holder = 83717 # Dond Slaine Brecc son of Dungal
 }
 
 676.1.1 = {
-	holder = 83718 # Éladach son of Dond Sláine
+	holder = 83718 # Eladach son of Dond Slaine
 }
 
 732.1.1 = {
-	holder = 83719 # Fergal son of Éladach
+	holder = 83719 # Fergal son of Eladach
 }
 
 779.1.1 = {
@@ -63,7 +63,7 @@
 }
 
 810.1.1 = {
-	holder = 83723 # Éladach son of Dúnlaing
+	holder = 83723 # Eladach son of Dunlaing
 }
 
 828.1.1 = {
@@ -71,15 +71,15 @@
 }
 
 849.1.1 = {
-	holder = 83729 # Ánilte son of Dúnlaing
+	holder = 83729 # Anilte son of Dunlaing
 }
 
 861.1.1 = {
-	holder = 83707 # Cú-Chongelt son of Ailill Broga
+	holder = 83707 # Cu-Chongelt son of Ailill Broga
 }
 
 870.1.1 = {
-	holder = 83732 # Óengus son of Flaithnia
+	holder = 83732 # Oengus son of Flaithnia
 }
 
 922.1.1 = {
@@ -87,15 +87,15 @@
 }
 
 944.1.1 = {
-	holder = 83733 # Dub-dá-Bairenn son of Óengus
+	holder = 83733 # Dub-da-Bairenn son of Oengus
 }
 
 959.1.1 = {
-	holder = 166120 # Máel-Muad mac Brain
+	holder = 166120 # Mael-Muad mac Brain
 }
 
 978.1.1 = {
-	holder = 166121 # Cían mac Máel-Muad
+	holder = 166121 # Cian mac Mael-Muad
 }
 
 1030.1.1 = {
@@ -131,11 +131,11 @@
 }
 
 1175.7.1 = {
-	holder = 83271 # Cormac Liathánach son of Diarmait
+	holder = 83271 # Cormac Liathanach son of Diarmait
 }
 
 1176.7.1 = {
-	holder = 214600 # Domnall Mór na Corra son of Diarmait
+	holder = 214600 # Domnall Mor na Corra son of Diarmait
 }
 
 1185.1.1 = {
@@ -147,19 +147,19 @@
 }
 
 1207.7.1 = {
-	holder = 214601 # Diarmait Dúna Droignéin son of Domnall Mór
+	holder = 214601 # Diarmait Duna Droignein son of Domnall Mor
 }
 
 1211.7.1 = {
-	holder = 83267 # Cormac Óc Liathánach son of Cormac Liathánach
+	holder = 83267 # Cormac Oc Liathanach son of Cormac Liathanach
 }
 
 1244.7.1 = {
-	holder = 214602 # Corman Finn son of Domnall Mór
+	holder = 214602 # Corman Finn son of Domnall Mor
 }
 
 1247.7.1 = {
-	holder = 83272 # Domnall Got Cairprech son of Domnall Mór
+	holder = 83272 # Domnall Got Cairprech son of Domnall Mor
 }
 
 1252.7.1 = {
@@ -175,7 +175,7 @@
 }
 
 1302.7.1 = {
-	holder = 83285 # Domnall Óc son of Domnall Ruad
+	holder = 83285 # Domnall Oc son of Domnall Ruad
 }
 
 1306.7.1 = {
@@ -183,14 +183,14 @@
 }
 
 1310.7.1 = {
-	holder = 83287 # Diarmait Óc of Tralee son of Domnall Óc
+	holder = 83287 # Diarmait Oc of Tralee son of Domnall Oc
 	liege = 0
 }
 
 1325.7.1 = {
-	holder = 83288 # Cormac son of  Domnall Óc
+	holder = 83288 # Cormac son of  Domnall Oc
 }
 
 1359.7.1 = {
-	holder = 83289 # Domnall Óc son of Cormac
+	holder = 83289 # Domnall Oc son of Cormac
 }

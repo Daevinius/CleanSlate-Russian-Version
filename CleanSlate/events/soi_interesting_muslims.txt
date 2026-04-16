@@ -7,7 +7,7 @@
 #
 ###################################
 #
-# Written by Sara Wendel-Örtqvist
+# Written by Sara Wendel-Ortqvist
 
 ### Al-Ghazali ###
 province_event = {
@@ -2937,7 +2937,7 @@ character_event = {
 	}
 }
 
-### Omar Khayyám ###
+### Omar Khayyam ###
 province_event = {
 	id = 106140
 	desc = EVTDESC106140
@@ -3006,7 +3006,7 @@ province_event = {
 	}
 }
 
-# Liege get new character: Omar Khayyám
+# Liege get new character: Omar Khayyam
 character_event = {
 	id = 106141
 	desc = EVTDESC106141

@@ -1,4 +1,4 @@
-# 315 - Périgord
+# 315 - Perigord
 title = c_perigord
 terrain = plains
 

@@ -12,7 +12,7 @@
 }
 
 850.2.1 = {
-	holder = 70017 # Ordoño I de Cantabria
+	holder = 70017 # Ordono I de Cantabria
 }
 
 866.5.27 = {
@@ -20,7 +20,7 @@
 }
 
 900.1.1 = {
-	holder = 70021 # Ordoño II de León
+	holder = 70021 # Ordono II de Leon
 	liege = d_galicia
 }
 
@@ -34,7 +34,7 @@
 }
 
 925.7.1 = {
-	holder = 70023 # Alfonso IV de León
+	holder = 70023 # Alfonso IV de Leon
 }
 
 929.6.10 = {
@@ -42,7 +42,7 @@
 }
 
 931.6.1 = {
-	holder = 70024 # Ramiro II de León
+	holder = 70024 # Ramiro II de Leon
 }
 
 936.1.1 = {
@@ -50,35 +50,35 @@
 }
 
 951.1.5 = {
-	holder = 108600 # Ordoño III de León
+	holder = 108600 # Ordono III de Leon
 }
 
 956.11.13 = {
-	holder = 70026 # Sancho I de León
+	holder = 70026 # Sancho I de Leon
 }
 
 958.1.1 = {
-	holder = 70029 # Ordoño IV de León
+	holder = 70029 # Ordono IV de Leon
 }
 
 960.1.1 = {
-	holder = 70026 # Sancho I de León
+	holder = 70026 # Sancho I de Leon
 }
 
 966.1.1 = {
-	holder = 108610 # Ramiro III de León
+	holder = 108610 # Ramiro III de Leon
 }
 
 984.1.1 = {
-	holder = 108590 # Bermudo II de León
+	holder = 108590 # Bermudo II de Leon
 }
 
 999.9.1 = {
-	holder = 108570 # Alfonso V de León
+	holder = 108570 # Alfonso V de Leon
 }
 
 1028.8.7 = {
-	holder = 70075 # Bermudo III de León
+	holder = 70075 # Bermudo III de Leon
 }
 
 1037.9.4 = {
@@ -86,7 +86,7 @@
 }
 
 1065.12.27 = {
-	holder = 109500 # García II Jimena
+	holder = 109500 # Garcia II Jimena
 }
 
 1072.2.13 = {
@@ -102,33 +102,33 @@
 }
 
 1143.1.1 = {
-	holder = 71370 # Gutierre Fernández de Castro
+	holder = 71370 # Gutierre Fernandez de Castro
 }
 
 1166.1.1 = {
-	holder = 71393 # Álvaro Rodríguez de Castro
+	holder = 71393 # Alvaro Rodriguez de Castro
 }
 
 1187.11.3 = {
-	holder = 71394 # Fernando Álvarez de Castro
+	holder = 71394 # Fernando Alvarez de Castro
 }
 
 1195.9.1 = {
-	holder = 71395 # Sancho Álvarez de Castro
+	holder = 71395 # Sancho Alvarez de Castro
 }
 
 1196.1.1 = {
-	holder = 72407 # Fernando Gutiérrez de Castro
+	holder = 72407 # Fernando Gutierrez de Castro
 }
 
 1240.1.1 = {
-	holder = 72408 # Esteban Fernández de Castro
+	holder = 72408 # Esteban Fernandez de Castro
 }
 
 1288.1.1 = {
-	holder = 457674 # Fernán Estévez de Castro
+	holder = 457674 # Fernan Estevez de Castro
 }
 
 1316.2.18 = {
-	holder = 457670 # Pedro Fernández de Castro
+	holder = 457670 # Pedro Fernandez de Castro
 }

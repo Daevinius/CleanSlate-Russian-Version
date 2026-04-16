@@ -27,7 +27,7 @@
 }
 
 590.1.1 = {
-	holder = 205031 # Ã†thelberht I
+	holder = 205031 # Aethelberht I
 }
 
 616.2.24 = {

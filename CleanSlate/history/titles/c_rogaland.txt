@@ -28,7 +28,7 @@
 }
 
 1093.1.1 = {
-	holder = 102577 # Håkon Magnuson
+	holder = 102577 # Hakon Magnuson
 }
 
 1094.6.6 = {
@@ -40,7 +40,7 @@
 }
 
 1115.12.22 = {
-	holder = 222597 # Øystein Magnusson
+	holder = 222597 # Oystein Magnusson
 }
 
 1123.8.29 = {
@@ -60,7 +60,7 @@
 }
 
 1155.6.10 = {
-	holder = 202514 # Øystein, son of Harald Gille
+	holder = 202514 # Oystein, son of Harald Gille
 }
 
 1157.8.21 = {
@@ -68,7 +68,7 @@
 }
 
 1161.1.5 = {
-	holder = 202507 # Håkon Herdebrei, son of Sigurd Munn
+	holder = 202507 # Hakon Herdebrei, son of Sigurd Munn
 }
 
 1162.7.7 = {
@@ -88,7 +88,7 @@
 }
 
 1202.3.9 = {
-	holder = 202502 # Håkon Sverreson
+	holder = 202502 # Hakon Sverreson
 }
 
 1204.1.1 = {
@@ -96,11 +96,11 @@
 }
 
 1204.8.11 = {
-	holder = 202032 # Inge Bårdsson
+	holder = 202032 # Inge Bardsson
 }
 
 1217.4.23 = {
-	holder = 202509 # Håkon Håkonsson
+	holder = 202509 # Hakon Hakonsson
 }
 
 1220.1.1 = {
@@ -108,19 +108,19 @@
 }
 
 1263.12.15 = {
-	holder = 6905 # Magnus Lagaböter
+	holder = 6905 # Magnus Lagaboter
 }
 
 1280.5.9 = {
-	holder = 6906 # Erik 'Prästhatare' Magnusson
+	holder = 6906 # Erik 'Prasthatare' Magnusson
 }
 
 1299.7.15 = {
-	holder = 452510 # Håkon Magnusson
+	holder = 452510 # Hakon Magnusson
 }
 
 1319.5.8 = {
-	holder = 450500 # Magnus Eriksson (Bjälbo)
+	holder = 450500 # Magnus Eriksson (Bjalbo)
 }
 
 1337.1.1 = {

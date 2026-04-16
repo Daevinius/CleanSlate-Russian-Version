@@ -274,7 +274,7 @@
 }
 
 70017 = {
-	name = "Ordonno" #AKA: Ordoño I
+	name = "Ordonno" #AKA: Ordono I
 	dynasty = 8601
 	father = 70015
 	mother = 70016
@@ -343,7 +343,7 @@
 }
 
 70020 = {
-	name = "Garçi" #AKA: García I
+	name = "Garçi" #AKA: Garcia I
 	dynasty = 8601
 	father = 70019
 	mother = 73772
@@ -368,7 +368,7 @@
 }
 
 70021 = {
-	name = "Ordonno" #AKA: Ordoño II
+	name = "Ordonno" #AKA: Ordono II
 	dynasty = 436
 	father = 70019
 	mother = 73772
@@ -552,7 +552,7 @@
 }
 
 70029 = {
-	name = "Ordonno" # AKA: Ordoño IV 'el Malo'
+	name = "Ordonno" # AKA: Ordono IV 'el Malo'
 	dynasty = 436
 	father = 70023
 	mother = 70126
@@ -736,7 +736,7 @@
 }
 
 70150 = {
-	name = "Wifredo" # AKA: Guifré I 'el Pilós'
+	name = "Wifredo" # AKA: Guifre I 'el Pilos'
 	dynasty = 100204
 	father = 73785
 	religion = catholic
@@ -776,7 +776,7 @@
 }
 
 70152 = {
-	name = "Wifredo" # Guifré II Borrell I
+	name = "Wifredo" # Guifre II Borrell I
 	dynasty = 100204
 	father = 70150
 	mother = 70151
@@ -3194,7 +3194,7 @@
 }
 
 107670 = {
-	name = "Garçi" # AKA: García I 'el de las Manos Blancas'
+	name = "Garçi" # AKA: Garcia I 'el de las Manos Blancas'
 	dynasty = 776
 	father = 107680
 	mother = 107681
@@ -3215,7 +3215,7 @@
 }
 
 107680 = {
-	name = "Fernán" #AKA: Fernán González
+	name = "Fernán" #AKA: Fernan Gonzalez
 	dynasty = 776
 	father = 73769
 	religion = catholic
@@ -3271,7 +3271,7 @@
 }
 
 108600 = {
-	name = "Ordonno" #AKA: Ordoño III
+	name = "Ordonno" #AKA: Ordono III
 	dynasty = 436
 	father = 70024
 	mother = 70025
@@ -3415,7 +3415,7 @@
 }
 
 142005 = {
-	name = "Lucidio" #Lucídio Vimaranes
+	name = "Lucidio" #Lucidio Vimaranes
 	dynasty = 8626
 	father = 142006
 	mother = 73879
@@ -3433,7 +3433,7 @@
 }
 
 142006 = {
-	name = "Wimarano" #Vímara Peres
+	name = "Wimarano" #Vimara Peres
 	dynasty = 8626
 	father = 73875
 	religion = catholic

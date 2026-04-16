@@ -124,18 +124,18 @@
 }
 
 1255.1.1 = {
-	holder = 73122 # Juan Pérez de Guzmán
+	holder = 73122 # Juan Perez de Guzman
 	liege = k_castille
 }
 
 1277.8.10 = {
-	holder = 73123 # Pedro Yáñez de Guzmán
+	holder = 73123 # Pedro Yanez de Guzman
 }
 
 1296.1.1 = {
-	holder = 73142 # Álvaro Pérez de Guzmán
+	holder = 73142 # Alvaro Perez de Guzman
 }
 
 1323.1.1 = {
-	holder = 73143 # Pedro Álvarez de Guzmán
+	holder = 73143 # Pedro Alvarez de Guzman
 }

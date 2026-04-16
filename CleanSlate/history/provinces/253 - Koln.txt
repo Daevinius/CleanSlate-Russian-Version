@@ -1,4 +1,4 @@
-# 253 - Köln
+# 253 - Koln
 title = c_koln
 terrain = plains
 
