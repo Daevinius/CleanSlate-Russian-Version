@@ -1,2 +1,2 @@
-# CleanSlate-Russian-Version
-Ресурс сообщества, чистая основа для создания модов для Crusader Kings 2
+# Локализация CleanSlate
+Этот репозиторий представляет из себя русскоязычную версию модификации [CleanSlate](https://github.com/ck2plus/CleanSlate) для Crusader Kings II
